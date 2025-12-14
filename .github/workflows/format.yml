@@ -33,7 +33,7 @@ jobs:
           fetch-depth: 0
 
       - name: Run formatter action
-        uses: windy-civi/toolkit/actions/format@main
+        uses: windy-civi/toolkit/actions/format@add-dcat-data-json-generation
         with:
           state: ${{ env.STATE_CODE }}
           scraper-repo: ${{ env.SCRAPER_REPO }}
