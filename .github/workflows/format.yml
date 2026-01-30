@@ -17,7 +17,7 @@ on:
 
 env:
   STATE_CODE: usa
-  SCRAPER_REPO: chn-openstates-scrapers/usa-legislation
+  SCRAPER_REPO: govbot-openstates-scrapers/usa-legislation
 
 jobs:
   format:
@@ -33,7 +33,7 @@ jobs:
           fetch-depth: 0
 
       - name: Run formatter action
-        uses: windy-civi/toolkit/actions/format@main
+        uses: chihacknight/govbot/actions/format@main
         with:
           state: ${{ env.STATE_CODE }}
           scraper-repo: ${{ env.SCRAPER_REPO }}
