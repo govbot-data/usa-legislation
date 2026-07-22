@@ -1,0 +1,144 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H5302330596D24BFA875C9BA0352662C9" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 HR 8822 IH: Federal Workers’ Compensation Integrity and Care Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2026-05-14</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">119th CONGRESS</congress><session display="yes">2d Session</session><legis-num display="yes">H. R. 8822</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20260514">May 14, 2026</action-date><action-desc><sponsor name-id="M001230">Mr. Mackenzie</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HED00">Committee on Education and Workforce</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To amend the Federal Employees’ Compensation Act to permit the Secretary of Labor to obtain certain information relating to earnings and employment.</official-title></form><legis-body id="HA2333E8EE5694AC38171153699886246" style="OLC">
+<section id="HE7344DDDE2284149AE3957AD712F05E6" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Federal Workers’ Compensation Integrity and Care Act</short-title></quote>.</text></section> <section commented="no" display-inline="no-display-inline" id="H6D126246CE684544BAF924EDAFB38B7A" section-type="subsequent-section"> <enum>2.</enum> <header display-inline="yes-display-inline">Data access</header> <subsection id="H727830ADC5724D099149B745671D73AD"> <enum>(a)</enum> <header>In general</header> <text>Subchapter I of <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/5/81">chapter 81</external-xref> of title 5, United States Code, is amended by adding at the end the following:</text>
+                <quoted-block style="USC" id="HAC501F31CF0F418BB3D03387CD8F31D8"
+                    display-inline="no-display-inline">
+                    <section commented="no" display-inline="no-display-inline"
+                        id="HF1A76891D779499489B21DDC7DC8175A" section-type="subsequent-section">
+                        <enum>8153.</enum>
+                        <header display-inline="yes-display-inline">Data access</header>
+                        <subsection commented="no" display-inline="no-display-inline"
+                            id="H19152A9B9DD84A61B9555104DED031EC">
+                            <enum>(a)</enum>
+                            <header display-inline="yes-display-inline">Definitions</header>
+ <text display-inline="yes-display-inline">In this section:</text> <paragraph commented="no" display-inline="no-display-inline" id="H5CBAC44A5D7A46E6963FFACF4C13975C"> <enum>(1)</enum> <header>FECA program</header> <text display-inline="yes-display-inline">The term <term>FECA program</term> means the program that administers the compensation, benefits, and services under this subchapter.</text>
+                            </paragraph>
+                            <paragraph commented="no" display-inline="no-display-inline"
+                                id="H52E3184507AF4CC98397FF0A3DE44488">
+                                <enum>(2)</enum>
+                                <header>Improper payment</header>
+ <text display-inline="yes-display-inline">The term <term>improper payment</term> has the meaning given that term in section 3351 of title 31, United States Code.</text>
+                            </paragraph>
+                            <paragraph commented="no" display-inline="no-display-inline"
+                                id="H29F32329213A4B54996E725510AC2CD1">
+                                <enum>(3)</enum>
+                                <header>Secretary</header>
+ <text display-inline="yes-display-inline">The term <term>Secretary</term> means the Secretary of Labor.</text>
+                            </paragraph>
+                        </subsection>
+                        <subsection commented="no" display-inline="no-display-inline"
+                            id="HE18F1F69D3FB47E09F71CE7BB361DB00">
+                            <enum>(b)</enum>
+                            <header display-inline="yes-display-inline">Improvements to access of
+                                Federal databases</header>
+                            <paragraph id="H70C8AACDCDFC48C2B4AA99953538A791">
+                                <enum>(1)</enum>
+                                <header>In general</header>
+ <text display-inline="yes-display-inline">To improve compliance with the requirements under, and the integrity of, the FECA program, and to detect and prevent improper payments under such program, upon receiving a written request from the Secretary of Labor with respect to one or more employees, and in accordance with paragraph (2)— </text>
+                                <subparagraph id="HEE905743ED3248378D6D4CA42C43919A" commented="no">
+                                    <enum>(A)</enum>
+ <text display-inline="yes-display-inline">the Commissioner of Social Security shall make available to the Secretary of Labor—</text>
+                                    <clause id="H16053ACA30AF4DB7B9462C4F7662D246" commented="no">
+                                        <enum>(i)</enum>
+ <text>earnings information of the employee or employees; and</text>
+                                    </clause>
+                                    <clause id="H86E121385825432BBBDD901E90E198F3" commented="no">
+                                        <enum>(ii)</enum>
+ <text>information on monthly benefit payments under title II of the Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/401">42 U.S.C. 401 et seq.</external-xref>) received by the employee or employees; and</text>
+                                    </clause>
+                                </subparagraph>
+                                <subparagraph id="HD8154F06D1BD416BBE1FE125823729EC">
+                                    <enum>(B)</enum>
+ <text display-inline="yes-display-inline">the Secretary of Health and Human Services shall make available to the Secretary of Labor the information in the National Directory of New Hires with respect to the employee or employees. </text>
+                                </subparagraph>
+                            </paragraph>
+                            <paragraph commented="no" display-inline="no-display-inline"
+                                id="H21362CA669344F51A390EDCD09ABD8D6">
+                                <enum>(2)</enum>
+                                <header display-inline="yes-display-inline">Provision of
+                                    information</header>
+                                <subparagraph id="HDFE9C2D96829445CADE382C41B7CCF27">
+                                    <enum>(A)</enum>
+                                    <header>In general</header>
+ <text>Information requested by the Secretary of Labor under this section—</text>
+                                    <clause id="HEB522F7FCAAD4289921304B508B48FDB">
+                                        <enum>(i)</enum>
+ <text display-inline="yes-display-inline">may be so requested without authorization from, or notice to, the employee with respect to whom such information pertains; and</text>
+                                    </clause>
+                                    <clause id="H22FDA6A9CAD24136AADF962B73E1CECA" commented="no">
+                                        <enum>(ii)</enum>
+ <text>shall be provided—</text> <subclause id="H6384611C5CC84C579803426F04A4607D" commented="no" display-inline="no-display-inline"> <enum>(I)</enum> <text display-inline="yes-display-inline">in a timely manner;</text>
+                                        </subclause>
+                                        <subclause id="H39BE4A83577B483CAFFA954F466C289B"
+                                            commented="no" display-inline="no-display-inline">
+                                            <enum>(II)</enum>
+ <text display-inline="yes-display-inline">at no cost to the Secretary; and</text>
+                                        </subclause>
+                                        <subclause id="H7EAFD80BD9D3434088A28651BD9F9CB0"
+                                            commented="no" display-inline="no-display-inline">
+                                            <enum>(III)</enum>
+ <text display-inline="yes-display-inline">in accordance with the manner, frequency, and form specified in the applicable memorandum of understanding entered into under subparagraph (B).</text>
+                                        </subclause>
+                                    </clause>
+                                </subparagraph>
+                                <subparagraph id="H3F57D1A7B3AA4C94A17B0F5E8FD6C479">
+                                    <enum>(B)</enum>
+                                    <header>Memorandum of understanding</header>
+ <text display-inline="yes-display-inline">Not later than 90 days after the date of enactment of the Federal Workers’ Compensation Integrity and Care Act, the Secretary shall enter into a memorandum of understanding—</text>
+                                    <clause id="H53370D5E6F4C4294BE39AC4580E234A3">
+                                        <enum>(i)</enum>
+ <text>with the Commissioner of Social Security that shall specify the manner, frequency, and form in which the information requested pursuant to paragraph (1)(A) shall be provided to the Secretary of Labor; and</text>
+                                    </clause>
+                                    <clause id="H16D441398E7A4E1288121D2A8D62398C">
+                                        <enum>(ii)</enum>
+ <text display-inline="yes-display-inline">with the Secretary of Health and Human Services that shall specify the manner, frequency, and form in which the information requested pursuant to paragraph (1)(B) shall be provided to the Secretary of Labor.</text>
+                                    </clause>
+                                </subparagraph>
+                            </paragraph>
+                            <paragraph commented="no" display-inline="no-display-inline"
+                                id="H1B83E0912ABF48E382F7B2FF5DDCBAB1">
+                                <enum>(3)</enum>
+                                <header display-inline="yes-display-inline">Procedures</header>
+ <text display-inline="yes-display-inline">Not later than 90 days after the date of enactment of the Federal Workers’ Compensation Integrity and Care Act, the Secretary shall establish procedures for correlating the identity and employment status of a recipient of compensation, benefits, or services under this subchapter with the information of such recipient obtained under this section.</text>
+                            </paragraph>
+                        </subsection>
+                    </section>
+                    <after-quoted-block>.</after-quoted-block>
+                </quoted-block>
+            </subsection>
+            <subsection commented="no" display-inline="no-display-inline"
+                id="H7F1157B6AFF44391AE90147446E5EFAD">
+                <enum>(b)</enum>
+                <header display-inline="yes-display-inline">Technical and conforming
+                    amendment</header>
+ <text display-inline="yes-display-inline">The table of sections for <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/5/81">chapter 81</external-xref> of title 5, United States Code, is amended by inserting after the item relating to <external-xref legal-doc="usc" parsable-cite="usc/5/8152">section 8152</external-xref> the following:</text>
+                <quoted-block style="USC" id="H6A70503FD0774C68A9439CAE19D835FC"
+                    display-inline="no-display-inline">
+                    <toc regeneration="no-regeneration">
+                        <toc-entry level="section">§ 8153. Data access.</toc-entry>
+                    </toc>
+                    <after-quoted-block>.</after-quoted-block>
+                </quoted-block>
+            </subsection>
+            <subsection commented="no" display-inline="no-display-inline"
+                id="H96CFCB0D8B164BFF9F86922C18C3E7F3">
+                <enum>(c)</enum>
+                <header display-inline="yes-display-inline">Application</header>
+ <text display-inline="yes-display-inline">The amendments made by this section shall apply with respect to payments made under subchapter I of <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/5/81">chapter 81</external-xref> of title 5, United States Code, on or after the date of enactment of this Act.</text>
+            </subsection>
+        </section> 
+</legis-body></bill>
+

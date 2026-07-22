@@ -1,0 +1,105 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H5665FB655A7746B8BC60396D20A18933" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 HR 9465 IH: Combat Pay Protection Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2026-06-25</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">119th CONGRESS</congress><session display="yes">2d Session</session><legis-num display="yes">H. R. 9465</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20260625">June 25, 2026</action-date><action-desc><sponsor name-id="H001098">Mr. Hamadeh of Arizona</sponsor> (for himself, <cosponsor name-id="V000138">Mr. Vindman</cosponsor>, <cosponsor name-id="M001216">Mr. Mills</cosponsor>, and <cosponsor name-id="D000230">Mr. Davis of North Carolina</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HAS00">Committee on Armed Services</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To amend <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/37/19">chapter 19</external-xref> of title 37, United States Code, to provide for a one-time corrective increase and annual adjustments of certain special and incentive pays for members of the Armed Forces, and for other purposes.</official-title></form><legis-body id="H8BE962063B3F4166B4F8FE87FE91DFC6" style="OLC"> 
+<section id="H1C66D317B4B048EBB915086EC4537CE4" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Combat Pay Protection Act</short-title></quote>.</text></section> <section id="H9D7AA65A3B8D42C19EC6CB0F87254E91"> <enum>2.</enum> <header>One-time corrective increase and annual adjustments for certain special and incentive pays for members of the Armed Forces; clarification of special and incentive pay authorities for members of reserve components</header> <subsection id="HC8AA6B7CB0144F8885B9303EC0336413"> <enum>(a)</enum> <header>Adjustments</header> <paragraph id="HB72C9D685B0B48159A41133F88820896"> <enum>(1)</enum> <header>In general</header> <text display-inline="yes-display-inline"><external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/37/19">Chapter 19</external-xref> of title 37, United States Code, is amended by adding at the end the following new section:</text>
+          <quoted-block style="USC" id="H123B8185753E412195EE6A8A64FC58E5"
+            display-inline="no-display-inline">
+            <section id="HBC49494E9BF34182AF76BE33C58C77DF">
+              <enum>1017.</enum>
+              <header>Adjustments to amounts of special and incentive pays</header>
+              <subsection id="H970FF8717A764C8398F22EDF88E15FB4">
+                <enum>(a)</enum>
+                <header>Initial increase</header>
+ <text display-inline="yes-display-inline">Effective on January 1 of the first year that begins after the date of the enactment of the Combat Pay Protection Act, the Secretary of Defense shall increase the amount of each covered special and incentive pay (rounded to the nearest dollar) for members of the Armed Forces by the greater of—</text>
+                <paragraph id="H2FFB682AD1E94A588FC949ACCED3D5E6">
+                  <enum>(1)</enum>
+ <text>the percentage by which the CPI for the base quarter of the preceding year exceeds the CPI for the base quarter preceding the last statutory or administrative increase date for such covered special and incentive pay; and</text>
+                </paragraph>
+                <paragraph id="HCD5C1BA270EC47418DE70C8E1EC649E7">
+                  <enum>(2)</enum>
+ <text>the percentage by which the average rate of basic pay for members of the Armed Forces under section 203(a) of this title in effect on such January 1 exceeds the average rate of basic pay for members of the Armed Forces under such section 203(a) that was in effect on the last statutory or administrative increase date for such covered special and incentive pay.</text>
+                </paragraph>
+              </subsection>
+              <subsection id="H696636AC53FC4E64B78E5061134CEB7C">
+                <enum>(b)</enum>
+                <header>Recurring increase</header>
+ <text display-inline="yes-display-inline">Effective on January 1 of the second year that begins after the date of the enactment of the Combat Pay Protection Act, and each January 1 thereafter, the Secretary of Defense shall increase the amount of each covered special and incentive pay (rounded to the nearest dollar) for members of the Armed Forces by the greater of—</text>
+                <paragraph id="H948A7B83D65041839CCD827BE3FD230D">
+                  <enum>(1)</enum>
+ <text display-inline="yes-display-inline">the percentage by which the CPI for the base quarter of the preceding year exceeds the CPI for the base quarter of the year before the preceding year; and</text>
+                </paragraph>
+                <paragraph id="HB36375AD1CE14522ACBA2C68D0961D5A">
+                  <enum>(2)</enum>
+ <text>the percentage by which the rate of basic pay for members of the Armed Forces under section 203(a) of this title is increased on such January 1 from the rate of basic pay for such members in effect the preceding year.</text>
+                </paragraph>
+              </subsection>
+              <subsection id="HE0DAA9B849D74903992CFC6F10DCB146">
+                <enum>(c)</enum>
+                <header>Relationship to limits of amounts in law</header>
+ <text>The Secretary shall increase the amount of each covered special and incentive pay in accordance with subsection (a) or (b) notwithstanding any limitation on the maximum amount of such pay specified in any other provision of law.</text>
+              </subsection>
+              <subsection id="H10559B144D444A84B8B479979CD61A70">
+                <enum>(d)</enum>
+                <header>Definitions</header>
+ <text>In this section:</text> <paragraph id="H4C5DE16FD2AA4B6EB04FCF81F4A671F5"> <enum>(1)</enum> <text display-inline="yes-display-inline">The term <quote>base quarter</quote> for any year is the three-month period ending on September 30 of such year.</text>
+                </paragraph>
+                <paragraph id="H36AB4B1BD3564E2D8581CC3C45B7DC35">
+                  <enum>(2)</enum>
+ <text display-inline="yes-display-inline">The term <quote>covered special and incentive pay</quote> means—</text>
+                  <subparagraph id="H21D7F8E5B37C4A25A12513FA8E891394">
+                    <enum>(A)</enum>
+ <text>a bonus, incentive, or special pay payable under chapter 5 of this title; and</text>
+                  </subparagraph>
+                  <subparagraph id="HFA4DA8C206514744BF9CEBD585838E7C">
+                    <enum>(B)</enum>
+ <text>the allowance payable under section 427 of this title.</text> </subparagraph> </paragraph> <paragraph id="H44DD7E00A6BE45BABE7D29003C356191"> <enum>(3)</enum> <text display-inline="yes-display-inline">The term <quote>CPI</quote> means the Consumer Price Index for All Urban Consumers published by the Bureau of Labor Statistics of the Department of Labor.</text>
+                </paragraph>
+                <paragraph id="H7D8C26BD13B14F4FA15C17DD413BD865">
+                  <enum>(4)</enum>
+ <text>The term <quote>last statutory or administrative increase date</quote> means the date of the most recent adjustment to an amount of pay that—</text>
+                  <subparagraph id="HE7021463F80E4A2FBB13CFBD3A6EAA5A">
+                    <enum>(A)</enum>
+ <text>reflects a revision based on objective economic indicators or an increase to basic pay for members of the Armed Forces; or</text>
+                  </subparagraph>
+                  <subparagraph id="H3B6E662796D041FA86214EC46263F2FB">
+                    <enum>(B)</enum>
+ <text>was made by Act of Congress.</text> </subparagraph> </paragraph> </subsection> </section> <after-quoted-block>.</after-quoted-block> </quoted-block> </paragraph> <paragraph id="HCA3E667AE9274E8A9581017D860B8671"> <enum>(2)</enum> <header>Publication of one-time adjustments</header> <text>Not later than December 31 of the year of the enactment of this Act, the Secretary of Defense shall publish in the Federal Register a table that identifies—</text>
+          <subparagraph id="H676F4718799040E283576F88ED8E30FE">
+            <enum>(A)</enum>
+ <text>each covered special and incentive pay (as defined in section 1017 of title 37, United States Code, as added by subsection (a) of this section);</text>
+          </subparagraph>
+          <subparagraph id="HDF74395CD02D484391DF788FC1BD7141">
+            <enum>(B)</enum>
+ <text>the last statutory or administration increase date (as defined in such section 1017) of each such pay;</text>
+          </subparagraph>
+          <subparagraph id="H6F1328E0ED614CD29123FE2017AB7F8F">
+            <enum>(C)</enum>
+ <text>the amount of increase of such pay after the application of subsection (a) of such section 1017; and</text>
+          </subparagraph>
+          <subparagraph id="H0132E1FBD13745D1A79F5EEC23D9E022">
+            <enum>(D)</enum>
+ <text>the total amount of such pay after the application of such subsection (a).</text> </subparagraph> </paragraph> </subsection> <subsection id="H60DBB2F696454976BF28D07682F5BCC2"> <enum>(b)</enum> <header>Clarification of special and incentive pay authorities for members of reserve components</header> <text>Section 357 of title 37, United States Code, is amended—</text>
+        <paragraph id="H5EDFCBD12FC840E394B1E1F9D2AD70EB">
+          <enum>(1)</enum>
+ <text>by striking <quote>special or incentive pay</quote> and inserting <quote>bonus, incentive, or special pay</quote>; and</text>
+        </paragraph>
+        <paragraph id="HD6DA61D123524662B55B380FAF487EE5">
+          <enum>(2)</enum>
+ <text display-inline="yes-display-inline">by striking <quote>if the Secretary concerned</quote> and all that follows and inserting a period.</text>
+        </paragraph>
+      </subsection>
+    </section> 
+</legis-body></bill>
+

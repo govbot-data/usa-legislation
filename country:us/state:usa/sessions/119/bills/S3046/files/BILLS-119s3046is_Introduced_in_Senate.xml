@@ -1,0 +1,162 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public" slc-id="S1-WAL25721-LX1-2F-NF7">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 S3046 IS: Gang Activity Reporting Act of 2025</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2025-10-23</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+        <distribution-code>II</distribution-code>
+        <congress>119th CONGRESS</congress>
+        <session>1st Session</session>
+        <legis-num>S. 3046</legis-num>
+        <current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+        <action>
+            <action-date date="20251023">October 23, 2025</action-date>
+            <action-desc><sponsor name-id="S153">Mr. Grassley</sponsor> (for himself and <cosponsor name-id="S402">Ms. Rosen</cosponsor>) introduced the following bill; which was
+                read twice and referred to the <committee-name committee-id="SSJU00">Committee on
+                    the Judiciary</committee-name></action-desc>
+        </action>
+        <legis-type>A BILL</legis-type>
+        <official-title>To amend title 28, United States Code, to require the Attorney General to
+            submit an annual report to Congress on gang activity, reporting, investigation, and
+            prosecution, and for other purposes.</official-title>
+    </form>
+    <legis-body display-enacting-clause="yes-display-enacting-clause">
+        <section section-type="section-one" id="S1">
+            <enum>1.</enum>
+            <header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Gang Activity Reporting Act of 2025</short-title></quote>.</text>
+        </section>
+        <section id="id5b1e151c34724089a48a2ef52573e8ed">
+            <enum>2.</enum>
+            <header>Findings</header>
+ <text display-inline="no-display-inline">Congress finds the following:</text> <paragraph id="id3d2b104f357c4177afc766c166d06217"> <enum>(1)</enum> <text>The United States is experiencing an unprecedented surge in violent crime, including an increase of more than 30 percent in the rate of murders since 2020.</text>
+            </paragraph>
+            <paragraph id="idd1172c9b93b5483eaa4cecb68988772a">
+                <enum>(2)</enum>
+ <text>The most recent Department of Justice data regarding gangs and criminal activity, published in the 2011 National Gang Threat Assessment, indicates gangs are responsible for an average of 48 percent of violent crime in the United States.</text>
+            </paragraph>
+            <paragraph id="id3eaefc2457574ed88a198bbeeb761a46">
+                <enum>(3)</enum>
+ <text>Up-to-date, accurate, and consistent reporting from the relevant Federal agencies relating to gang activity in the United States is a foundational element in enabling policymakers to enact effective, evidence-based policy that protects the people of the United States from gang activity.</text>
+            </paragraph>
+        </section>
+        <section id="id34d5e63614c549c5a1b7d8153b6d1f84">
+            <enum>3.</enum>
+            <header>Gang reporting requirement</header>
+            <subsection id="idEAFB18F3F0354B13AC2F677B1F6CB5DA">
+                <enum>(a)</enum>
+                <header>In general</header>
+ <text display-inline="yes-display-inline"><external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/28/31">Chapter 31</external-xref> of title 28, United States Code, is amended by adding at the end the following:</text>
+                <quoted-block style="USC" display-inline="no-display-inline" id="id23C72E1504184D3893E3E2515E8AE15C">
+                    <section id="id1376335203784E628D4ED328C43F9F36">
+                        <enum>530E.</enum>
+                        <header>Report on gang activity, reporting, investigation, and
+                            prosecution</header>
+                        <subsection id="id37F83F15AC3C44779D47EB20B138F65F">
+                            <enum>(a)</enum>
+                            <header>Report</header>
+                            <paragraph id="id0E8D388C82864FA4B961B6EFFA4187C7">
+                                <enum>(1)</enum>
+                                <header>In general</header>
+ <text display-inline="yes-display-inline">Not later than 150 days after the date of enactment of the <short-title>Gang Activity Reporting Act of 2025</short-title>, and not later than the last day of each fiscal year beginning after the date of enactment, the Attorney General shall, in conjunction with the Secretary of Homeland Security and the Director of the Federal Bureau of Investigation, submit to the <committee-name committee-id="SSJU00">Committee on the Judiciary of the Senate</committee-name> and the <committee-name committee-id="">Committee on the Judiciary of the House of Representatives</committee-name> a report on gang activity, reporting, investigation, and prosecution.</text>
+                            </paragraph>
+                            <paragraph id="idE8CF30208A1C4B49AA1DCDE3AFB13837">
+                                <enum>(2)</enum>
+                                <header>Contents</header>
+ <text display-inline="yes-display-inline">The report described in paragraph (1) shall include information relating to—</text>
+                                <subparagraph id="id2dc82df007ce4dbdab795054855bcb2a">
+                                    <enum>(A)</enum>
+ <text>the growth of local, national, and transnational gangs during the 10-fiscal-year period preceding the date on which the report is submitted (referred to in this section as the <quote>submission date</quote>)—</text>
+                                    <clause id="id186859DF02E94B76AC71E3CD91458728">
+                                        <enum>(i)</enum>
+ <text>with specific numerical data; and</text> </clause> <clause id="id96C6A934602A4A04964DA4A012BE64F7"> <enum>(ii)</enum> <text>including changes and trends in gang membership, location, and activities and enterprises;</text>
+                                    </clause>
+                                </subparagraph>
+                                <subparagraph id="idb80354e3ecb442ee9c8597b178671f84">
+                                    <enum>(B)</enum>
+ <text>the tools, methods, or networks gangs are using to commit certain crimes, including—</text>
+                                    <clause id="idA38DC77A94674E8CB03F47732434EA6A">
+                                        <enum>(i)</enum>
+ <text>the extent to which gangs cooperate; and</text> </clause> <clause id="idE4FB16C1BBD040EDB71B4C0992B9B6B7"> <enum>(ii)</enum> <text>an assessment of the kinds of crimes on which gangs cooperate;</text>
+                                    </clause>
+                                </subparagraph>
+                                <subparagraph id="ided10e147aad3465eb5f6591023559ef8">
+                                    <enum>(C)</enum>
+ <text>whether and to what extent State-based reporting issues affect Federal data collection and accuracy;</text>
+                                </subparagraph>
+                                <subparagraph id="id51535d571bd240d49e64641be2268b4f">
+                                    <enum>(D)</enum>
+ <text>the initiatives the Department of Justice, Department of Homeland Security, and Federal Bureau of Investigation undertook during the 5-fiscal-year period preceding the submission date to track gang growth and gang activity and to investigate and prosecute related unlawful activity, including—</text>
+                                    <clause id="id91004e5b4d9b4ab88abc53afb2e17288">
+                                        <enum>(i)</enum>
+ <text>the date on which each initiative was undertaken; and</text>
+                                    </clause>
+                                    <clause id="idcd860e8b8e844f848dd287fbdc855b0a">
+                                        <enum>(ii)</enum>
+ <text>if applicable, the date on which each initiative was ended, with a detailed explanation as to why the initiative was ended;</text>
+                                    </clause>
+                                </subparagraph>
+                                <subparagraph id="ida0122ab650704ae2bf21e9c0f1fd2683">
+                                    <enum>(E)</enum>
+ <text>the Federal resources allocated by each agency described in subparagraph (D) to investigating, prosecuting, and containing gangs as of the submission date;</text>
+                                </subparagraph>
+                                <subparagraph id="id8e442e911eab442bbf848aeca13f0a10">
+                                    <enum>(F)</enum>
+ <text>gang enforcement statistics from the last fiscal year ending before the submission date, including the quantity, changes, and trends in—</text>
+                                    <clause id="ida3dae6f70d294bdfb671da66541fb02e">
+                                        <enum>(i)</enum>
+ <text>gang-related arrests, including comparisons to gang-related arrests during the 5-fiscal-year period preceding the applicable fiscal year;</text>
+                                    </clause>
+                                    <clause id="idc71f3de4795f42f887316b89c1671b5b">
+                                        <enum>(ii)</enum>
+ <text>the number of juveniles arrested as a result of gang-related activity; and</text>
+                                    </clause>
+                                    <clause id="id7c79537b21cc43eda49d1e53447469a8">
+                                        <enum>(iii)</enum>
+ <text>the number of firearms seized by law enforcement agencies during gang enforcement operations, including the number of firearms seized from juveniles;</text>
+                                    </clause>
+                                </subparagraph>
+                                <subparagraph id="id7d8377326d0348ae84eae6c5a50d140e">
+                                    <enum>(G)</enum>
+ <text>the data collection procedures utilized by each agency described in subparagraph (D); and</text>
+                                </subparagraph>
+                                <subparagraph id="idbcbd82deec2d4f0e8e9dee15de7ea201">
+                                    <enum>(H)</enum>
+ <text>any changes to data collection procedures of an agency described in subparagraph (D) during the 18-month period preceding the submission date, including explanations as to why any procedures were changed.</text>
+                                </subparagraph>
+                            </paragraph>
+                        </subsection>
+                        <subsection id="id9db1d20728ac4687bd2b50a93df523b6">
+                            <enum>(b)</enum>
+                            <header>Classification</header>
+ <text>The report submitted under subsection (a), or a portion thereof, may be classified, as determined appropriate by the Attorney General, the Secretary of Homeland Security, and the Director of the Federal Bureau of Investigation.</text>
+                        </subsection>
+                    </section>
+                    <after-quoted-block>.</after-quoted-block>
+                </quoted-block>
+            </subsection>
+            <subsection id="idACC7A3A817D4430A9006F402DEC98874">
+                <enum>(b)</enum>
+                <header>Technical amendment</header>
+ <text display-inline="yes-display-inline">The table of sections for <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/28/31">chapter 31</external-xref> of title 28, United States Code, is amended by adding at the end the following:</text>
+                <quoted-block style="USC" display-inline="no-display-inline" id="idCBED218A563240E78560A704B2952E40">
+                    <toc>
+                        <toc-entry bold="off" level="section">530E. Report on gang activity,
+                            reporting, investigation, and prosecution.</toc-entry>
+                    </toc>
+                    <after-quoted-block>.</after-quoted-block>
+                </quoted-block>
+            </subsection>
+        </section>
+    </legis-body>
+</bill>
+

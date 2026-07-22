@@ -1,0 +1,100 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H740635BC24194800A9C78287A41E148F" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 HR 7509 IH: Deterring Adversarial Access to Americans’ Data Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2026-02-11</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">119th CONGRESS</congress><session display="yes">2d Session</session><legis-num display="yes">H. R. 7509</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20260211">February 11, 2026</action-date><action-desc><sponsor name-id="M001224">Mr. Moran</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HWM00">Committee on Ways and Means</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To amend the Internal Revenue Code of 1986 to deny certain tax credits and deductions to businesses that use foreign adversary-controlled technology, and for other purposes.</official-title></form><legis-body id="H9E4F6D3057054027B6D701CEC1F8B967" style="OLC"><section id="H0366BE12A8F941D085E40157FBCDCF78" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Deterring Adversarial Access to Americans’ Data Act</short-title></quote>.</text></section><section id="H1679DF11B64E4552AC213EA3ADC7692E"><enum>2.</enum><header>Tax treatment of entities using foreign adversary-controlled technology</header><subsection id="H08660030DC8E439DBDEA7A82DFA970E8"> <enum>(a)</enum> <header>Entities using foreign adversary-Controlled technology added to list of foreign-Influenced entities</header> <text display-inline="yes-display-inline"><external-xref legal-doc="usc" parsable-cite="usc/26/7701">Section 7701(a)(51)</external-xref> of the Internal Revenue Code of 1986 is amended—</text>
+        <paragraph id="H6570CE8C40434138A626C8AD67C39B2B">
+          <enum>(1)</enum>
+ <text display-inline="yes-display-inline">in subparagraph (D)(i), by striking <quote>or</quote> at the end of subclause (I), by striking the period at the end of subclause (II) and inserting <quote>, or</quote> and by adding at the end the following new subclause:</text>
+          <quoted-block style="OLC" id="H542371EE31C14230AF4A1D138088108C"
+            display-inline="no-display-inline">
+            <subclause id="HF6367F0A10004BD4B862CCD2A405443C">
+              <enum>(III)</enum>
+ <text display-inline="yes-display-inline">which uses foreign adversary-controlled technology during the taxable year.</text>
+            </subclause>
+            <after-quoted-block>, and</after-quoted-block>
+          </quoted-block>
+        </paragraph>
+        <paragraph id="HFB58132C671140B7896E8CD8E8A545FA">
+          <enum>(2)</enum>
+ <text>in subparagraph (I), by adding at the end the following new clause:</text> <quoted-block style="OLC" id="H157A9CC87AB745A2B514A9CF27100A8B" display-inline="no-display-inline"> <clause id="H5212B33C36CD425D949B4BC49982E657"> <enum>(vii)</enum> <header>Foreign adversary-controlled technology</header> <text display-inline="yes-display-inline">The term <quote>foreign adversary-controlled technology</quote> means any information and communications technology or service that is—</text>
+              <subclause id="H42034E0BE7314B2BA9D2C3D619AF215D">
+                <enum>(I)</enum>
+ <text display-inline="yes-display-inline">designed, developed, manufactured, or provided by a specified foreign entity or foreign-influenced entity described in subclause (I) or (II) of subparagraph (D), or</text>
+              </subclause>
+              <subclause id="HC80D3C4F94A5460199E65BE736FE6E24">
+                <enum>(II)</enum>
+ <text display-inline="yes-display-inline">dependent on, or interoperable with, any other hardware, firmware, operating system, middleware, driver, embedded software, cloud service, or network component described in subclause (I) for core functionality.</text>
+              </subclause>
+            </clause>
+            <clause id="HF35DA0E51836479F9C13F3BA4735713F">
+              <enum>(viii)</enum>
+              <header>Information and communications technology or service</header>
+ <text display-inline="yes-display-inline">The term <quote>information and communications technology or service</quote> means any hardware, software, or other product or service primarily intended to fulfill or enable the function of information or data processing, storage, retrieval, or communication by electronic means, including transmission, storage, and display.</text>
+            </clause>
+            <after-quoted-block>.</after-quoted-block>
+          </quoted-block>
+        </paragraph>
+      </subsection><subsection id="H22BB24D7570D4A358B677EE0E0B9FD2C">
+        <enum>(b)</enum>
+        <header>Bonus depreciation denied for foreign adversary-Controlled technology and property
+          owned by prohibited foreign entities</header>
+ <text>Section 168(k)(2) of such Code is amended—</text> <paragraph id="H6C21696E6A0A49DF8032966861AF5749"> <enum>(1)</enum> <text>in subparagraph (A)—</text>
+          <subparagraph id="HE72B6088323E454E9A453185CD953F8D">
+            <enum>(A)</enum>
+ <text>in clause (i)—</text> <clause id="HD9FDCF57EFB541AAA43D77ED2E7A89B3"> <enum>(i)</enum> <text>by striking <quote>or</quote> at the end of subclause (III),</text>
+            </clause>
+            <clause id="HAA053E2723A449D098B557FD9082A7CE">
+              <enum>(ii)</enum>
+ <text>by striking <quote>and or</quote> in subclause (V) and inserting <quote>or</quote>, and</text>
+            </clause>
+            <clause id="H1BAE6664893E45A7B3A56EE8F9AADD71">
+              <enum>(iii)</enum>
+ <text>by striking <quote>and</quote> at the end of subclause (VI),</text> </clause> </subparagraph> <subparagraph id="HA5A7DE09D5104C579B0B357C92ACD6E8"> <enum>(B)</enum> <text>in clause (ii), by striking the period at the end and inserting a comma, and</text>
+          </subparagraph>
+          <subparagraph id="H10C63590C0814961A7AD92AD3C594CAF">
+            <enum>(C)</enum>
+ <text>by adding at the end the following new clauses:</text> <quoted-block style="OLC" id="HF88EC2E0B69D4FD6A614C648A0E43185" display-inline="no-display-inline"> <clause id="HC5D206D642194C12940758B3B62AD900"> <enum>(iii)</enum> <text display-inline="yes-display-inline">which is not foreign adversary-controlled technology, and</text>
+              </clause>
+              <clause id="HCAB693FD2F124A7687F14D560E3B9DDB">
+                <enum>(iv)</enum>
+ <text>which is not property owned by a prohibited foreign entity. </text> </clause> <after-quoted-block>, and </after-quoted-block> </quoted-block> </subparagraph> </paragraph> <paragraph id="H242D3DEB2C07485D8922FE834CB833EA"> <enum>(2)</enum> <text>by adding at the end the following new subparagraph:</text>
+          <quoted-block style="OLC" id="HDF98FD54770B4983898E8376F85E781F"
+            display-inline="no-display-inline">
+            <subparagraph id="H7EB4CEE8BDB34421AB1523531A6A923C">
+              <enum>(I)</enum>
+              <header>Regulatory authority</header>
+ <text display-inline="yes-display-inline">The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of clauses (iii) and (iv) of subparagraph (A). </text>
+            </subparagraph>
+            <after-quoted-block>.</after-quoted-block>
+          </quoted-block>
+        </paragraph>
+      </subsection><subsection id="H4119FEF5A7694E3EBFEB722DFF8D8686">
+        <enum>(c)</enum>
+        <header>Denial of full expensing of domestic research and experimental expenditures for
+          foreign adversary-Controlled technology and prohibited foreign entities</header>
+ <text display-inline="yes-display-inline">Section 174A(d) of such Code is amended by adding at the end the following new paragraph:</text>
+        <quoted-block style="OLC" id="HDFAA0BC42CD04D4988AA6965F24B8E29"
+          display-inline="no-display-inline">
+          <paragraph id="H83AA733E9DC4452AA6BA352547E8B0B5">
+            <enum>(4)</enum>
+            <header>Foreign adversary-controlled technology; prohibited foreign entities</header>
+ <text display-inline="yes-display-inline">This section shall not apply to any amount paid or incurred—</text>
+            <subparagraph id="HCF72EF35C3AC4B55A055F9403A06F0A3">
+              <enum>(A)</enum>
+ <text display-inline="yes-display-inline">for the acquisition or development of foreign adversary-controlled technology, or</text>
+            </subparagraph>
+            <subparagraph id="HC7149707AB504B0E92EBC830330D02DE">
+              <enum>(B)</enum>
+ <text>by a prohibited foreign entity.</text> </subparagraph> </paragraph> <after-quoted-block>.</after-quoted-block> </quoted-block> </subsection><subsection id="HF64C0D7888B741C8A17D1C8A34279500"><enum>(d)</enum><header>Modified calculation of adjusted taxable income for purposes of business interest deduction</header><paragraph id="H639EEC09BD6C4F1C8954BA7550577530"><enum>(1)</enum><header>In general</header><text>Section 163(j)(8)(A) of such Code is amended by striking <quote>and</quote> at the end of clause (v) and by inserting after clause (vi) the following new clause:</text><quoted-block style="OLC" id="H3807F2ACD4774F40A9D2A4A3063F95FD" display-inline="no-display-inline"><clause id="HE4EB36825AFF42C587488C82DE8D5BF0"><enum>(vii)</enum><text display-inline="yes-display-inline">any item of income, gain, deduction, or loss which is attributable to—</text><subclause id="HF989B801AC9A4F17B47E26EC9C5177D8"><enum>(I)</enum><text>foreign adversary-controlled technology, or</text></subclause><subclause id="H41935A16C617460F885F14D3FB503CCA"><enum>(II)</enum><text>a trade or business owned by a prohibited foreign entity, and</text></subclause></clause><after-quoted-block>.</after-quoted-block></quoted-block></paragraph><paragraph id="H43B1D02D9CEF40E190209F57EB0522CC"><enum>(2)</enum><header>Regulatory authority</header><text>Section 163(j)(11) of such Code is amended by inserting <quote>and which items of income, gain, deduction, or loss are attributable to foreign adversary-controlled technology or a trade or business owned by a prohibited foreign entity under paragraph (8)(A)(vii)</quote> before the period at the end.</text></paragraph></subsection><subsection id="H1F819F6A07BC44B185478DA7AE19AD64"><enum>(e)</enum><header>Denial of credit for increasing research activities in the case of prohibited foreign entities</header><text>Section 41(d)(4) of such Code is amended by adding at the end the following new subparagraph:</text><quoted-block style="OLC" id="H9F51E4371FF744218F61DADDF8B73876" display-inline="no-display-inline"><subparagraph id="H71440BF00E0D48D4846EF91BA4484A8B"><enum>(D)</enum><header>Restrictions relating to prohibited foreign entities</header><text display-inline="yes-display-inline">No credit shall be allowed to a taxpayer under subsection (a) for any taxable year if the taxpayer is a specified foreign entity or a foreign-influenced entity.</text></subparagraph><after-quoted-block>.</after-quoted-block></quoted-block></subsection><subsection id="H568EE5BE7DCC4D1C8E021E8A499834BE"><enum>(f)</enum><header>Effective date</header><text>The amendments made by this section shall apply to taxable years beginning after the date which is one year after the date of the enactment of this Act.</text></subsection></section></legis-body></bill>
+
