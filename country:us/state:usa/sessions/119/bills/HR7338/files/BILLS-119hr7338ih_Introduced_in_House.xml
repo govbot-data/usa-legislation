@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="HDEBDE2378C2A4375956340FEC528E02F" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 HR 7338 IH: Railroad Safety and Accountability Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2026-02-03</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">119th CONGRESS</congress><session display="yes">2d Session</session><legis-num display="yes">H. R. 7338</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20260203">February 3, 2026</action-date><action-desc><sponsor name-id="S001223">Mrs. Sykes</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HPW00">Committee on Transportation and Infrastructure</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To amend title 49, United States Code, to codify the Railroad Safety Advisory Committee, and for other purposes.</official-title></form><legis-body id="H3D21D31E3AAF4BB6B7D8370E7B6CAF63" style="OLC"> 
+<section id="H5E5247AA5E63411A8609973B233012A3" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Railroad Safety and Accountability Act</short-title></quote>.</text></section> <section id="HF419BA3AEBFA49178303D0A984F14980"><enum>2.</enum><header>Codification of the Railroad Safety Advisory Committee</header> <subsection id="H05E7E668BDFC4957ABB96C45E15A2CE4"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">Subchapter I of <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/49/201">chapter 201</external-xref> of title 49, United States Code, is amended by adding at the end the following new section:</text> 
+<quoted-block style="USC" id="HA43E31C6460A45619EB5C4FC4927F9A0" display-inline="no-display-inline"> 
+<section id="HC7144B5EDE0747FE9C3E538A80794A31"><enum>20122.</enum><header>Railroad Safety Advisory Committee</header> 
+<subsection id="H50813A7D7F0740D4B1825647D3555AF1"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">The Administrator of the Federal Railroad Administration shall maintain an advisory committee, to be known as the <quote>Railroad Safety Advisory Committee</quote>, for the purpose of providing advice and recommendations to the Administrator regarding the development of railroad safety regulatory programs, including the issuance of new regulations, review and revision of existing regulations, and identification of non-regulatory alternatives for improving railroad safety.</text></subsection> <subsection id="HBCE161B62AB14952AF9FDFDCB69294C9"><enum>(b)</enum><header>Duties</header><text display-inline="yes-display-inline">The Railroad Safety Advisory Committee shall have the following responsibilities:</text> 
+<paragraph id="HA8703F49E83A45368F03C0B985BF0B37"><enum>(1)</enum><text display-inline="yes-display-inline">To provide a forum for collaborative rulemaking and regulatory program development with respect to railroad safety.</text></paragraph> <paragraph id="H0A8CEB1069B04C49809D7F4D84642EBF"><enum>(2)</enum><text>To develop, through collaborative processes involving all segments of the railroad community, regulatory standards and mutually satisfactory solutions on railroad safety regulatory issues for recommended adoption by the Administrator.</text></paragraph> 
+<paragraph id="HFC874BFE1F4B430E8242515156E7B83C"><enum>(3)</enum><text display-inline="yes-display-inline">To identify and assess the facts and data underlying any real or perceived railroad safety problems, identify cost-effective solutions to such problems based upon agree-upon facts, and identify, if applicable, regulatory changes necessary to guide and implement such solutions.</text></paragraph> <paragraph id="H68823545E0254F2AAFBC956C19F37486"><enum>(4)</enum><text>Any other responsibilities consistent with the purpose described in subsection (a), as determined by the Administrator.</text></paragraph></subsection> 
+<subsection id="H4864F5795761427397FAAA4162CD2E5D"><enum>(c)</enum><header>Members</header><text display-inline="yes-display-inline">The Railroad Safety Advisory Committee shall be comprised of not fewer than 1 representative from each major stakeholder group of the Federal Railroad Administration, including freight and passenger railroad carriers, Amtrak, organizations that represent local governments, rail passenger organizations, railroad labor organizations (including organizations representing each of operating crafts, maintenance of way employees, shop and mechanical crafts, clerks, and dispatching employees), safety-related railroad employees, and railroad suppliers and manufacturers.</text></subsection> <subsection id="H8FD2356A2FEC49FE9F33749E4226FAF7" commented="no"><enum>(d)</enum><header>Staff</header><text display-inline="yes-display-inline">The Railroad Safety Advisory Committee may employ such staff as the Railroad Safety Advisory Committee determines necessary to carry out the purpose described in subsection (a).</text></subsection> 
+<subsection id="H246AF0961EC247BB89C307B9B60D4E98">
+              <enum>(e)</enum>
+              <header>Task-Based working groups</header>
+              <paragraph id="H7D014C69B51D4D4785CD8D136524D1C5">
+                <enum>(1)</enum>
+                <header>Tasks</header>
+ <text display-inline="yes-display-inline">The Administrator may request the Railroad Safety Advisory Committee establish a working group for the purpose of providing specific advice and recommendations regarding a task with respect to which the Administrator is considering acting.</text>
+              </paragraph>
+              <paragraph id="HDABF915673364E05B80E6F69A8D4412B">
+                <enum>(2)</enum>
+                <header>Working groups</header>
+ <text display-inline="yes-display-inline">If the Railroad Safety Advisory Committee, based on consideration and consensus of its members, accepts a request under paragraph (1), the Railroad Safety Advisory Committee shall—</text>
+                <subparagraph id="HF55A308CD027497A8388DF09012B279E">
+                  <enum>(A)</enum>
+ <text display-inline="yes-display-inline">establish a working group to develop consensus recommendations for action the Administrator may take with respect to the task; and</text>
+                </subparagraph>
+                <subparagraph id="H4D17C37AC6C049A2BB922526830B09B4">
+                  <enum>(B)</enum>
+ <text>ensure the working group is comprised of individuals that—</text> <clause id="H4B27546D5D954C98929A3BCBC622BADE"> <enum>(i)</enum> <text>possess the appropriate expertise to assess and develop such recommendations; and</text>
+                  </clause>
+                  <clause id="H9CCDEABF32BF4922B8684414135125FB">
+                    <enum>(ii)</enum>
+ <text>are representative of the interests of stakeholders implicated by the task.</text>
+                  </clause>
+                </subparagraph>
+              </paragraph>
+            </subsection> 
+<subsection id="H3F412F1FF92C4646B6B33462D0F18A91"><enum>(f)</enum><header>Federal Railroad Administration required engagement</header><text>The Administrator shall meet quarterly with the Railroad Safety Advisory Committee to—</text> <paragraph id="H87E93C815D6F46F3967C4E34558CF32C"><enum>(1)</enum><text>consult with the Railroad Safety Advisory Committee regarding the development of railroad safety regulatory programs of the Federal Railroad Administration;</text></paragraph> 
+<paragraph id="H136995A95AF044E3A1B4B8D492FEE506"><enum>(2)</enum><text display-inline="yes-display-inline">advise the Railroad Safety Advisory Committee on emerging issues, statutory requirements, and other identified needs with respect to railroad safety; and</text></paragraph> <paragraph id="HC2894BD05E374E099AFC331E339693C0"><enum>(3)</enum><text display-inline="yes-display-inline">receive and discuss the views and recommendations of the Railroad Safety Advisory Committee in determining regulatory priorities of the Federal Railroad Administration.</text></paragraph></subsection> 
+<subsection id="H2D1BE1C5D26845F38A627727F12ADD58"><enum>(g)</enum><header>Annual report to Congress</header><text display-inline="yes-display-inline">Beginning in the first calendar year after the date of enactment of this section, the Railroad Safety Advisory Committee shall submit to Congress an annual report summarizing the activities of the Railroad Safety Advisory Committee for the period covered by the report.</text></subsection> <subsection id="H20AAEEB50D1F4C2297C34A77791D4151"><enum>(h)</enum><header>Federal Advisory Committee Act applicability</header> <paragraph id="H74BB30DA37984DBD8AC3D0C5E2E332FE"><enum>(1)</enum><header>In general</header><text display-inline="yes-display-inline">Except as provided in paragraph (2), <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/5/10">chapter 10</external-xref> of title 5, United States Code, shall apply to the Railroad Safety Advisory Committee.</text></paragraph> 
+<paragraph id="H57C9BB4126F44783A9BC9E98468A1382" commented="no"><enum>(2)</enum><header>Non-termination</header><text display-inline="yes-display-inline">Section 1013 of title 5, United States Code, shall not apply to the Railroad Safety Advisory Committee.</text></paragraph></subsection> <subsection id="H71ECA869B8AD416D82F435A44CD15E66"><enum>(i)</enum><header>Authorization of appropriations</header><text display-inline="yes-display-inline">There is authorized to be appropriated out of the Highway Trust Fund such funds as may be necessary to carry out this section.</text> </subsection> </section><after-quoted-block>.</after-quoted-block></quoted-block> </subsection> 
+<subsection id="H57DBC8A1A6A54144AC85EC535968DA42"><enum>(b)</enum><header>Clerical amendment</header><text display-inline="yes-display-inline">The analysis for subchapter I of <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/49/201">chapter 201</external-xref> of title 49, United States Code, by inserting after the item relating to section 20121 the following new item:</text> <quoted-block style="USC" id="H7ED8183CAD714EFBA353FA53B099BAD8" display-inline="no-display-inline"> <toc regeneration="no-regeneration"> <toc-entry level="section">20122. Railroad Safety Advisory Committee.</toc-entry></toc><after-quoted-block>.</after-quoted-block></quoted-block></subsection></section> </legis-body></bill>
+

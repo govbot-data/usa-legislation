@@ -1,0 +1,208 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-type="olc" bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public" slc-id="S1-ELT26011-L4W-RR-5FS"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 S3669 IS: Plant-Powered School Meals Pilot Act</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2026-01-15</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">II</distribution-code><congress>119th CONGRESS</congress><session>2d Session</session><legis-num>S. 3669</legis-num><current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber><action><action-date date="20260115">January 15, 2026</action-date><action-desc><sponsor name-id="S427">Mr. Schiff</sponsor> (for himself, <cosponsor name-id="S428">Ms. Alsobrooks</cosponsor>, <cosponsor name-id="S370">Mr. Booker</cosponsor>, and <cosponsor name-id="S413">Mr. Padilla</cosponsor>) introduced the following bill; which was read twice and referred to the <committee-name committee-id="SSAF00">Committee on Agriculture, Nutrition, and Forestry</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title>To amend the Richard B. Russell National School Lunch Act to establish a pilot program to award grants to school food authorities to provide 100 percent plant-based food and milk options, and for other purposes.</official-title></form><legis-body style="OLC" display-enacting-clause="yes-display-enacting-clause" id="HC978922762A14976818FD573E2FA03E6"><section section-type="section-one" id="H2A3B480C311E4C549C3DB0F86AFADF2C"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Plant-Powered School Meals Pilot Act</short-title></quote>.</text></section><section id="H349B418C061D4503A8633DF205D7200B"><enum>2.</enum><header>Plant-based foods in schools</header><text display-inline="no-display-inline">Section 18 of the Richard B. Russell National School Lunch Act (<external-xref legal-doc="usc" parsable-cite="usc/42/1769">42 U.S.C. 1769</external-xref>) is amended by inserting after subsection (c) the following:</text><quoted-block style="OLC" display-inline="no-display-inline" id="H351F5F7FDB904E7D99CA23E8CC60D299"><subsection id="HE439017E61F44540BF74BD79F0173F2E"> <enum>(d)</enum> <header>Pilot program for 100 percent plant-Based food options</header> <paragraph id="HDDB4D2E2D7DA475BB8949E28E9EA8B2E"> <enum>(1)</enum> <header>Definitions</header> <text>In this subsection:</text>
+            <subparagraph id="H866661B3A9284D8CBD776E39D756546F">
+              <enum>(A)</enum>
+              <header>100 percent plant-based food option</header>
+ <text>The term <term>100 percent plant-based food option</term> means a breakfast or lunch meal option or component that—</text>
+              <clause id="HA96FC3254BF1458BAADE097B0ACAA23B">
+                <enum>(i)</enum>
+ <text>includes a meat alternate as described in—</text> <subclause id="H9CFFD82713EF42C58450968FD3803B84"> <enum>(I)</enum> <text>section 210.10 of title 7, Code of Federal Regulations (or successor regulations); or</text>
+                </subclause>
+                <subclause id="HCEF170CE9A974ADFABC7FC36546A0ED3">
+                  <enum>(II)</enum>
+ <text>appendix A to part 210 of title 7, Code of Federal Regulations (or successor regulations); and</text>
+                </subclause>
+              </clause>
+              <clause id="HBF326611CEE143F4A28A364FD1D5D9B1">
+                <enum>(ii)</enum>
+ <text>does not contain any animal product or byproduct, such as meat, poultry, honey, fish, dairy, or eggs.</text>
+              </clause>
+            </subparagraph>
+            <subparagraph id="HAFC8E57CBEB04C6AB82B97A8E84B5B8D">
+              <enum>(B)</enum>
+              <header>Beginning farmer or rancher</header>
+ <text>The term <term>beginning farmer or rancher</term> has the meaning given the term in section 343(a) of the Consolidated Farm and Rural Development Act (<external-xref legal-doc="usc" parsable-cite="usc/7/1991">7 U.S.C. 1991(a)</external-xref>).</text>
+            </subparagraph>
+            <subparagraph commented="no" display-inline="no-display-inline"
+              id="id1e341b2f015c45f6ba2db15d1aa97315">
+              <enum>(C)</enum>
+              <header>Certified organic farm</header>
+ <text>The term <quote>certified organic farm</quote> has the meaning given the term in section 2103 of the Food, Agriculture, Conservation, and Trade Act of 1990 (<external-xref legal-doc="usc" parsable-cite="usc/7/6502">7 U.S.C. 6502</external-xref>).</text>
+            </subparagraph>
+            <subparagraph id="H4D400DF480B34E408BD700DDCA4D71EA">
+              <enum>(D)</enum>
+              <header>Eligible school food authority</header>
+ <text>The term <term>eligible school food authority</term> means a school food authority that serves students 50 percent or more of which are eligible for free or reduced price lunch under this Act or free or reduced price breakfast under section 4 of the Child Nutrition Act of 1966 (<external-xref legal-doc="usc" parsable-cite="usc/42/1773">42 U.S.C. 1773</external-xref>).</text>
+            </subparagraph>
+            <subparagraph id="H5B03F701FCBA4F5CA09F00F74FA66E6F">
+              <enum>(E)</enum>
+              <header>Organically produced</header>
+ <text display-inline="yes-display-inline">The term <term>organically produced</term> has the meaning given the term in section 2103 of the Food, Agriculture, Conservation, and Trade Act of 1990 (<external-xref legal-doc="usc" parsable-cite="usc/7/6502">7 U.S.C. 6502</external-xref>).</text>
+            </subparagraph>
+            <subparagraph commented="no" display-inline="no-display-inline"
+              id="id6a908612aa2042bb9df1c214b50e125e">
+              <enum>(F)</enum>
+              <header>Producer</header>
+ <text>The term <quote>producer</quote> has the meaning given the term in section 2103 of the Food, Agriculture, Conservation, and Trade Act of 1990 (<external-xref legal-doc="usc" parsable-cite="usc/7/6502">7 U.S.C. 6502</external-xref>).</text>
+            </subparagraph>
+            <subparagraph commented="no" display-inline="no-display-inline"
+              id="id31ecb84b5267439db9928d70eac2e543">
+              <enum>(G)</enum>
+              <header>Program</header>
+ <text>The term <quote>program</quote> means the pilot program established under paragraph (2).</text>
+            </subparagraph>
+            <subparagraph id="H1F6D8BBBEBE54D8FB6AA92BC9CF513D0">
+              <enum>(H)</enum>
+              <header>Underserved producer</header>
+ <text>The term <term>underserved producer</term> means an individual (including a member of an Indian Tribe) that is—</text>
+              <clause id="HF69AC4FB268E4AA98B3F76DF1A47F186">
+                <enum>(i)</enum>
+ <text>a beginning farmer or rancher;</text> </clause> <clause id="H9792C11948474361BC2ECFD328061078"> <enum>(ii)</enum> <text>a veteran farmer or rancher (as defined in section 2501(a) of the Food, Agriculture, Conservation, and Trade Act of 1990 (<external-xref legal-doc="usc" parsable-cite="usc/7/2279">7 U.S.C. 2279(a)</external-xref>)); or</text>
+              </clause>
+              <clause id="H683150BB4C2440109C907EBABC43D897">
+                <enum>(iii)</enum>
+ <text>a socially disadvantaged farmer or rancher (as defined in that section).</text>
+              </clause>
+            </subparagraph>
+          </paragraph>
+          <paragraph id="H0856881D56984B1DA58041769F6D88BB">
+            <enum>(2)</enum>
+            <header>Establishment</header>
+ <text>Not later than 90 days after the date of enactment of the <short-title>Plant-Powered School Meals Pilot Act</short-title>, the Secretary shall establish a pilot program to award grants to eligible school food authorities to carry out the activities described in paragraph (5).</text>
+          </paragraph>
+          <paragraph commented="no" display-inline="no-display-inline"
+            id="idadcc8fda31134317b3981291a39ce782">
+            <enum>(3)</enum>
+            <header>Grants</header>
+            <subparagraph id="HFB9E5D3E1C854042AA03808A3226FAA3">
+              <enum>(A)</enum>
+              <header>Term</header>
+ <text>The term of a grant awarded under the program shall be 3 years.</text> </subparagraph> <subparagraph id="HA25E644ED0EC4267B059860311E473C6"> <enum>(B)</enum> <header>Amount</header> <text>The Secretary shall award grants under the program in diverse amounts to the extent practicable.</text>
+            </subparagraph>
+          </paragraph>
+          <paragraph id="H9E7F10C879954AB8B218667580F51D5B">
+            <enum>(4)</enum>
+            <header>Application</header>
+            <subparagraph id="H68BF19026F1143A08219C52AFBA86995">
+              <enum>(A)</enum>
+              <header>In general</header>
+ <text>To be eligible to receive a grant under the program, an eligible school food authority shall submit to the Secretary an application at such time, in such manner, and containing such information as the Secretary may require, including—</text>
+              <clause id="H5182D6EFCC4A4640A081C2A0AE557D7B">
+                <enum>(i)</enum>
+ <text>a participatory evaluation plan; and</text> </clause> <clause id="H8276F318BA044F09B124A0C00D986C44"> <enum>(ii)</enum> <text>a plan for providing culturally appropriate meals.</text>
+              </clause>
+            </subparagraph>
+            <subparagraph id="HD8D2C7DD97AE44259D98D3E865489FF4">
+              <enum>(B)</enum>
+              <header>Priority</header>
+ <text display-inline="yes-display-inline">To the maximum extent practicable, in awarding grants under the program, the Secretary shall give priority to an eligible school food authority that will use the grant funds—</text>
+              <clause id="H39CC6316CC1747A7A575B348FF57A99D">
+                <enum>(i)</enum>
+ <text>to serve a high proportion of children who are eligible for free or reduced price meals;</text>
+              </clause>
+              <clause id="H187B0D4613E84FB288F04A2289A9A51A">
+                <enum>(ii)</enum>
+ <text>to collaborate with nongovernmental and community-based organizations, agricultural producers, and other community partners with respect to the activities described in paragraph (5);</text>
+              </clause>
+              <clause id="H4B382A892AC94E109191DFD257F8BFF1">
+                <enum>(iii)</enum>
+ <text>to incorporate experiential and culturally appropriate plant-based food, nutrition, or agricultural education activities related to 100 percent plant-based food options in the classroom;</text>
+              </clause>
+              <clause id="H98B7C22944E943F19ECF776FAB4FA81E">
+                <enum>(iv)</enum>
+ <text>to incorporate organically produced 100 percent plant-based food options; and</text>
+              </clause>
+              <clause id="HD2A92AD28B14404FA7D53273C0BEBA67">
+                <enum>(v)</enum>
+ <text>to meet any other criteria that the Secretary determines appropriate.</text> </clause> </subparagraph> </paragraph> <paragraph id="HC2AF75C4853441D79E23843E0A557C56"> <enum>(5)</enum> <header>Use of funds</header> <text>A grant awarded under the program may be used for any of the following activities:</text>
+            <subparagraph id="HB9AD2E3BD4FC4DF1BBC869465C0C03DF">
+              <enum>(A)</enum>
+ <text>To contract with qualified third parties for professional development training for food service personnel relating to serving (including preparing, procuring, marketing, and creating menus) 100 percent plant-based food options.</text>
+            </subparagraph>
+            <subparagraph id="H19B0902D4E294BA99AC751BC2B4BEC5C">
+              <enum>(B)</enum>
+ <text>To provide compensation to each employee who participates in the professional development training described in subparagraph (A) at the regular rate of pay of such employee.</text>
+            </subparagraph>
+            <subparagraph id="HFA1829C2289746B38946D3ABC18B8726">
+              <enum>(C)</enum>
+ <text>To provide technical assistance and student engagement and education on 100 percent plant-based food options, including providing taste tests, recipe development, and culinary education.</text>
+            </subparagraph>
+            <subparagraph id="HD48F9C018EF1485A903B36498D7D65B8">
+              <enum>(D)</enum>
+ <text>To provide compensation for additional work relating to serving meals that include a 100 percent plant-based food option.</text>
+            </subparagraph>
+            <subparagraph id="H0F41C19DC0A246E9A6C280E9A0271C21">
+              <enum>(E)</enum>
+ <text>To conduct outreach to, and cover costs of procurement of foods from, agricultural producers of 100 percent plant-based food options, including—</text>
+              <clause id="H44F6F89123B4483FBC1E292E82896981">
+                <enum>(i)</enum>
+ <text>underserved producers;</text> </clause> <clause commented="no" id="HAAA613D4BC284A059BDE7D2F20C9CC78"> <enum>(ii)</enum> <text>limited resource farmers or ranchers (as defined by the Secretary);</text>
+              </clause>
+              <clause commented="no" id="H1F19A4BF5C65417DA33A839FD8C85E34">
+                <enum>(iii)</enum>
+ <text>producers on a certified organic farm; and</text> </clause> <clause id="H57D2D4CB681F4DF0BDBDC7C888240043"> <enum>(iv)</enum> <text>local farmers.</text>
+              </clause>
+            </subparagraph>
+          </paragraph>
+          <paragraph id="H4D50DA3839914EEE88D8182CB4C6DE6B">
+            <enum>(6)</enum>
+            <header>Recordkeeping required</header>
+ <text>Each eligible school food authority awarded a grant under the program shall keep records of the 100 percent plant-based food options served, as the Secretary determines appropriate.</text>
+          </paragraph>
+          <paragraph id="H79B75EB72D4D4932BD98FF1C09FFE028">
+            <enum>(7)</enum>
+            <header>Reports</header>
+            <subparagraph id="HA2D53F386A324220ADDE016D1353D734">
+              <enum>(A)</enum>
+              <header>School food authorities</header>
+ <text>Not later than 1 year after receiving a grant under the program, and annually for the duration of the grant term, an eligible school food authority shall submit to the Secretary a report on the activities carried out using the grant, including information on—</text>
+              <clause id="HBF6941BB02584E9EA96BDB185A6E3878">
+                <enum>(i)</enum>
+ <text>the number of 100 percent plant-based food options that the eligible school food authority served during the grant period compared with the preceding school year;</text>
+              </clause>
+              <clause id="H6D17E3CCFCE84DFA9842988AF37DDC43">
+                <enum>(ii)</enum>
+ <text>the number of schools served by the eligible school food authority pursuant to the grant; and</text>
+              </clause>
+              <clause id="H3A66713516CF42399110B821B5F054E1">
+                <enum>(iii)</enum>
+ <text>the number of students served by the eligible school food authority pursuant to the grant.</text>
+              </clause>
+            </subparagraph>
+            <subparagraph id="H1AE72BC09C6146FE8B73F89A546B7A2D">
+              <enum>(B)</enum>
+              <header>Report by Secretary</header>
+ <text>With respect to each school year during which the Secretary receives a report under subparagraph (A), the Secretary shall, not later than 1 year after the date that is the last day of that school year, submit to Congress a report that includes—</text>
+              <clause id="HB8847265359E45F493D8B19BDC48D6D7">
+                <enum>(i)</enum>
+ <text>a summary of the reports received during that school year; and</text> </clause> <clause id="H50BC274F5C10471CBC3AD805FC3FB260"> <enum>(ii)</enum> <text>such information with respect to the program as the Secretary determines to be relevant.</text>
+              </clause>
+            </subparagraph>
+          </paragraph>
+          <paragraph id="H1FB166D6D4C444248060C7F1E257D52B">
+            <enum>(8)</enum>
+            <header>Technical assistance</header>
+ <text>The Secretary shall provide technical assistance and information to assist eligible school food authorities receiving grants under the program—</text>
+            <subparagraph id="H8A2149B89E7D46DE9E0F802B6C3D8EEF">
+              <enum>(A)</enum>
+ <text>to facilitate the coordination and sharing of information and resources that may be applicable to the activities described in paragraph (5); and</text>
+            </subparagraph>
+            <subparagraph id="H50A69371C9DB4D628FD1ADF85680C2E6">
+              <enum>(B)</enum>
+ <text>to collect and share information on best practices.</text> </subparagraph> </paragraph> <paragraph id="HFCEB89BA8B854B0F91CE8DD9A311A17E"> <enum>(9)</enum> <header>Authorization of appropriations</header> <text>There is authorized to be appropriated to carry out this subsection $10,000,000 for fiscal year 2026, to remain available through fiscal year 2030.</text>
+          </paragraph>
+ </subsection><after-quoted-block>.</after-quoted-block></quoted-block></section><section id="HB21328DC13DD45449E311B66D8E5D92B"><enum>3.</enum><header>Accommodating dietary requirements</header><text display-inline="no-display-inline">Section 9(a)(2) of the Richard B. Russell National School Lunch Act (<external-xref legal-doc="usc" parsable-cite="usc/42/1758">42 U.S.C. 1758(a)(2)</external-xref>) is amended—</text><paragraph id="HEC232FB22B8D4F21B59AC368CC3F957A"><enum>(1)</enum><text>in subparagraph (A)(iii)—</text><subparagraph commented="no" display-inline="no-display-inline" id="idad16492f70334b548e7f0e6cfca1a192"><enum>(A)</enum><text display-inline="yes-display-inline">by inserting <quote>or other medical or special dietary need</quote> after <quote>disability</quote> each place it appears; and</text></subparagraph><subparagraph commented="no" display-inline="no-display-inline" id="id851547a09bb94249a7ecc12d6c67a83b"><enum>(B)</enum><text>by striking <quote>or legal guardian</quote> and inserting <quote>legal guardian, or student</quote>;</text></subparagraph></paragraph><paragraph id="HE7F5591EB8BB47E7B99F6D00AE18F5BA"><enum>(2)</enum><text>by striking subparagraphs (B) and (E);</text></paragraph><paragraph commented="no" display-inline="no-display-inline" id="idc59d584b915c4c5280c951a521e71d72"><enum>(3)</enum><text>by redesignating subparagraphs (C) and (D) as subparagraphs (B) and (C), respectively; and</text></paragraph><paragraph commented="no" display-inline="no-display-inline" id="iddbcab8fe820e45e78ba7ac0908912e1f"><enum>(4)</enum><text display-inline="yes-display-inline">by adding at the end the following:</text><quoted-block style="OLC" id="H2A3F5AFA3D8F474094832462D4A59740"><subparagraph id="H9E08DD1CB7614E03993D1BBC19A82EB2"><enum>(D)</enum><header>Pilot program</header><clause id="HEC146A7EC13640888121FF23E1081B16"><enum>(i)</enum><header>Definition of eligible school food authority</header><text>In this subparagraph, the term <term>eligible school food authority</term> has the meaning given the term in section 18(d)(1).</text></clause><clause id="HCED08DA5DDDD41AEB465211A02F27885"><enum>(ii)</enum><header>Establishment</header><text>Not later than 90 days after the date of enactment of the <short-title>Plant-Powered School Meals Pilot Act</short-title>, the Secretary shall establish a pilot program to award grants to eligible school food authorities to reimburse the full cost incurred by the eligible school food authority of providing nondairy beverages as substitutes for fluid milk under subparagraph (A)(ii). </text></clause><clause id="H2D6C53A8F5B54EAF8C944523C639E720"><enum>(iii)</enum><header>Priority</header><text>In awarding grants under this subparagraph, the Secretary may give priority to—</text><subclause id="H6CF2235F33C843F8B16D00506159EB86"><enum>(I)</enum><text>an eligible school food authority that serves high proportions of students with lactose intolerance; and</text></subclause><subclause id="H6AF6374C777F461CA127BD6BB7483932"><enum>(II)</enum><text>an eligible school food authority that demonstrates, as part of the application for a grant under this subparagraph, a need for nondairy beverages for students served by the eligible school food authority due to dietary reasons.</text></subclause></clause><clause id="H5D38325AA7224B3AAA928A7D1D0D8979"><enum>(iv)</enum><header>Reports</header><subclause id="H7AACB8724FF442EB90EE3639A76D5BB5"><enum>(I)</enum><header>Annual report by school food authority</header><text>Not later than 1 year after receiving a grant under this subparagraph, and on an annual basis for the duration of the grant, an eligible school food authority shall submit to the Secretary a report on the pilot grant program, including information on—</text><item commented="no" display-inline="no-display-inline" id="id57e49c02609a49fb9fcedb8b96b86970"><enum>(aa)</enum><text display-inline="yes-display-inline">the number of schools and students that were provided nondairy beverages as substitutes for fluid milk under subparagraph (A)(ii) by the eligible school food authority; and</text></item><item commented="no" display-inline="no-display-inline" id="idd37b03338c3d4b909756c63375f4472e"><enum>(bb)</enum><text>in the case of the final report submitted under this subclause, the number of such beverages that the eligible school food authority served during the grant period compared with the number of such beverages that the eligible school food authority served during the school year immediately preceding the start of the grant period.</text></item></subclause><subclause id="HEAC84267CF634F56B0B7685CB6C115C2"><enum>(II)</enum><header>Report by the Secretary</header><text>Not later than 180 days after the date described in clause (v), the Secretary shall submit to Congress a report on the pilot program carried out under this subparagraph, including a summary of the information included in the reports received under this clause from eligible school food authorities.</text></subclause></clause><clause id="HB91D1CCFD00B4917A304BC7421B08B46"><enum>(v)</enum><header>Sunset</header><text>The authority to carry out this subparagraph shall terminate on the date that is 3 years after the date of enactment of the <short-title>Plant-Powered School Meals Pilot Act</short-title>.</text></clause><clause id="H7DB422D3A5634947AE8BA7CD7EC8FFDE"><enum>(vi)</enum><header>Authorization of appropriations</header><text>There is authorized to be appropriated to carry out this subparagraph $2,000,000 for fiscal year 2026, to remain available until the date described in clause (v).</text></clause></subparagraph><subparagraph commented="no" display-inline="no-display-inline" id="id5aaf0aa463bb4c819fc2ce37014fc8f2"><enum>(E)</enum><header>Definition of special dietary need</header><text display-inline="yes-display-inline">In this paragraph, the term <term>special dietary need</term> means a dietary need that does not constitute a disability, including a dietary need relating to religious or moral conviction.</text></subparagraph><after-quoted-block>.</after-quoted-block></quoted-block></paragraph></section></legis-body></bill>
+

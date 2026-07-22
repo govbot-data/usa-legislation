@@ -1,0 +1,163 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H1D55C52BE441465090CD2F1A626ACB09" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 HR 6936 IH: ___ Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2026-01-02</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">119th CONGRESS</congress>
+        <session display="yes">1st Session</session><legis-num display="yes">H. R. 6936</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20260102">January 2, 2026</action-date><action-desc><sponsor name-id="G000596">Ms. Greene of Georgia</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HHA00">Committee on House Administration</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To require that individuals provide government photo identification and proof of United States citizenship to vote in Federal elections, and for other purposes.</official-title></form><legis-body id="H8ECAF4C00A0147F69A23EC51590B8A64" style="OLC"><section id="HB96A0AAB4F63408D8D0DBD801AAD8A75" section-type="section-one" commented="yes"><enum>1.</enum><header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>___ Act</short-title></quote>.</text><legis-comment display="yes">Do you want to include a short title?</legis-comment></section><section id="H0186E478200741B99AF9205B79FDDBAC" display-inline="no-display-inline" section-type="subsequent-section"><enum>2.</enum><header>Requirement to provide government photo identification and proof of United States citizenship to vote in Federal elections</header><subsection id="H897A5AE998394D25B499E1BE36F357C3">
+        <enum>(a)</enum>
+        <header>Requirement To provide government photo identification and proof of United States
+          citizenship as condition of casting ballot</header>
+ <text>Title III of the Help America Vote Act of 2002 (<external-xref legal-doc="usc" parsable-cite="usc/52/21081">52 U.S.C. 21081 et seq.</external-xref>) is amended by inserting after section 303 the following new section:</text>
+        <quoted-block style="OLC" id="H793762D7E6B647768AADD036CC147D34"
+          display-inline="no-display-inline">
+          <section id="H12DC013F7E07442B8BA7963C96222AA1">
+            <enum>303A.</enum>
+            <header>Government photo identification and proof of United States citizenship required
+              to vote in Federal elections</header>
+            <subsection id="HDBD642643590483384AA6A96D41F8AB7">
+              <enum>(a)</enum>
+              <header>Provision of government photo identification and proof of United States
+                citizenship required as condition of casting ballot</header>
+              <paragraph id="H28227935A2884CFE9F28B3910533FCE7">
+                <enum>(1)</enum>
+                <header>Individuals voting in person</header>
+                <subparagraph id="H010FD6E0C87744E185225FC125F158A0">
+                  <enum>(A)</enum>
+                  <header>In general</header>
+ <text>Notwithstanding any other provision of law, the appropriate State or local election official may not provide a ballot for an election for Federal office to an individual who desires to vote in person unless the individual presents to the official—</text>
+                  <clause id="H2C882A7FB0A74D8E95BDD6683B84C034">
+                    <enum>(i)</enum>
+ <text display-inline="yes-display-inline">a document that is both proof of United States citizenship and government photo identification; or</text>
+                  </clause>
+                  <clause id="H76CECAF4356B48DFA9E8D2C84994E8B8" commented="no">
+                    <enum>(ii)</enum>
+ <text>a document that is proof of United States citizenship, together with a document that is government photo identification, if—</text>
+                    <subclause id="H52C5935EE5F1487593626E81D823B0CF" commented="no">
+                      <enum>(I)</enum>
+ <text>the name of the applicant is identical on both such documents; or</text> </subclause> <subclause id="HD0D5ADA42C2A4D9B829D70C9F6032FB5" commented="no"> <enum>(II)</enum> <text>in the case that the name of the applicant is not identical on both such documents, the applicant provides evidence sufficient to demonstrate that the name of such applicant has changed, such as a court order, marriage certificate, divorce decree, or other vital document record.</text>
+                    </subclause>
+                  </clause>
+                </subparagraph>
+                <subparagraph id="H5962B5D7715648ED8D3F03A9BAB7258F" commented="no">
+                  <enum>(B)</enum>
+                  <header>Availability of provisional ballot</header>
+ <text display-inline="yes-display-inline">If an individual does not present the identification required under subparagraph (A), the individual shall be permitted to cast a provisional ballot with respect to the election under section 302(a) but such provisional ballot may only be counted as a vote in that election in accordance with State law if the individual is verified as a citizen of the United States by the appropriate State or local election official under section 302(a)(4).</text>
+                </subparagraph>
+              </paragraph>
+              <paragraph id="H8F315E2031774939829832F73C48874C">
+                <enum>(2)</enum>
+                <header>Individuals voting other than in person</header>
+                <subparagraph id="HE051E3EFBBFE4BD984E28513F6A02B0D">
+                  <enum>(A)</enum>
+                  <header>In general</header>
+ <text>Notwithstanding any other provision of law, the appropriate State or local election official may not accept any ballot for an election for Federal office provided by an individual who votes other than in person unless the individual submits with the ballot—</text>
+                  <clause id="HCFB617AD01624889A299C003620EB047">
+                    <enum>(i)</enum>
+ <text display-inline="yes-display-inline">a copy of a document that is both proof of United States citizenship and government photo identification; or</text>
+                  </clause>
+                  <clause id="HA2F1F6F621534FE19DC3EA58447EBE26">
+                    <enum>(ii)</enum>
+ <text>a copy of a document that is proof of United States citizenship, together with a copy of a document that is government photo identification, if—</text>
+                    <subclause id="H55E9A3FC5B5441989DDF73602406923C">
+                      <enum>(I)</enum>
+ <text>the name of the applicant is identical on both such documents; or</text> </subclause> <subclause id="H5FD1BE1479DC457091C72FCBB8324331" commented="no"> <enum>(II)</enum> <text>in the case that the name of the applicant is not identical on both such documents, the applicant provides evidence sufficient to demonstrate that the name of such applicant has changed, such as a court order, marriage certificate, divorce decree, or other vital document record.</text>
+                    </subclause>
+                  </clause>
+                </subparagraph>
+                <subparagraph id="H404751EAD935482F84DF51523CE200A8">
+                  <enum>(B)</enum>
+                  <header>Availability of provisional ballot</header>
+ <text display-inline="yes-display-inline">An individual who desires to vote by mail but who does not meet the requirements of subparagraph (A) may cast such a ballot by mail and the ballot shall be counted as a provisional ballot in accordance with section 302(a) but such provisional ballot may only be counted as a vote in that election in accordance with State law if the individual is verified as a citizen of the United States by the appropriate State or local election official under section 302(a)(4).</text>
+                </subparagraph>
+              </paragraph>
+            </subsection>
+            <subsection id="HF89A6CC33E1546659BF5A7AB818D5DED">
+              <enum>(b)</enum>
+              <header>Definitions</header>
+ <text display-inline="yes-display-inline">In this section:</text> <paragraph id="HB1891DC9B5A74ADF803169E231DCB853"> <enum>(1)</enum> <header>Government photo identification</header> <text>The term <term>government photo identification</term> means, with respect to an applicant for voter registration, a valid identification card issued by a Federal, State, or Tribal government that includes—</text>
+                <subparagraph id="HDB2D31FD592742B68C60D9974C9B1177">
+                  <enum>(A)</enum>
+ <text display-inline="yes-display-inline">a photograph of the applicant;</text> </subparagraph> <subparagraph id="HBF4140DEC0414B41BC9612E5CC278C49"> <enum>(B)</enum> <text>the full name of the applicant; and</text>
+                </subparagraph>
+                <subparagraph id="HFBACF8DB3E07425B9A455EAA576F8FFA">
+                  <enum>(C)</enum>
+ <text>the date of birth of the applicant.</text> </subparagraph> </paragraph> <paragraph id="H7D58D748D9864F2DB3FB5EB9A88E354C"> <enum>(2)</enum> <header>Proof of United States citizenship</header> <text>The term <term>proof of United States citizenship</term> means, with respect to an applicant for voter registration, any of the following:</text>
+                <subparagraph id="HBC5677AFC1C0486BAA40E2D713F6BAE5">
+                  <enum>(A)</enum>
+ <text>A valid United States passport.</text> </subparagraph> <subparagraph id="H7C9614F4DFD44D369A007AAE98DDDE9D"> <enum>(B)</enum> <text display-inline="yes-display-inline">A United States military record of service showing that the place of birth of the applicant was in the United States.</text>
+                </subparagraph>
+                <subparagraph id="H01193549BFE94911A643F1BFC3054726">
+                  <enum>(C)</enum>
+ <text>A valid photo identification card issued by a Federal, State, or Tribal government showing that the place of birth of the applicant was in the United States.</text>
+                </subparagraph>
+                <subparagraph id="HCBCE57C8CD7647BFA0EA03405BE35A5F">
+                  <enum>(D)</enum>
+ <text>A certified birth certificate issued by a State, a unit of local government in a State, or a Tribal government which—</text>
+                  <clause id="H5FD12C5DF0A442A1933D5867FEA2AE8F">
+                    <enum>(i)</enum>
+ <text display-inline="yes-display-inline">was issued by the State, unit of local government, or Tribal government in which the applicant was born;</text>
+                  </clause>
+                  <clause id="HA9EBD0C190B9410796C1C61E8A1B6DE3">
+                    <enum>(ii)</enum>
+ <text display-inline="yes-display-inline">was filed with the office responsible for keeping vital records in the State;</text>
+                  </clause>
+                  <clause id="H0710BA24A2D944EA9D740D48236BF4CE">
+                    <enum>(iii)</enum>
+ <text>includes the full name, date of birth, and place of birth of the applicant;</text>
+                  </clause>
+                  <clause id="HD93514DB07AE4E3E803A97A23DC9212D">
+                    <enum>(iv)</enum>
+ <text>lists the full names of one or both of the parents of the applicant;</text>
+                  </clause>
+                  <clause id="HEC452513E42D4F7F85ABDE64E764FD29">
+                    <enum>(v)</enum>
+ <text>has the signature of an individual who is authorized to sign birth certificates on behalf of the State, unit of local government, or Tribal government in which the applicant was born;</text>
+                  </clause>
+                  <clause id="HD1A049E930804823AAA9786FD6F60547">
+                    <enum>(vi)</enum>
+ <text display-inline="yes-display-inline">includes the date that the certificate was filed with the office responsible for keeping vital records in the State; and</text>
+                  </clause>
+                  <clause id="H36610D0A02B34D6794021B6F297A329B">
+                    <enum>(vii)</enum>
+ <text display-inline="yes-display-inline">has the seal of the State, unit of local government, or Tribal government that issued the birth certificate.</text>
+                  </clause>
+                </subparagraph>
+                <subparagraph id="HF7EED0B4DD96417BAB545D2186D753B3"
+                  display-inline="no-display-inline">
+                  <enum>(E)</enum>
+ <text display-inline="yes-display-inline">An extract from a United States hospital Record of Birth created at the time of the birth of the applicant that indicates that the applicant’s place of birth was in the United States.</text>
+                </subparagraph>
+                <subparagraph id="H3C2B2F22396C49EFB04C808A86AD72B3">
+                  <enum>(F)</enum>
+ <text>A final adoption decree showing the name of the applicant and that the applicant’s place of birth was in the United States.</text>
+                </subparagraph>
+                <subparagraph id="HD0EC857561114BBD93F8BC74AD7DA7B9">
+                  <enum>(G)</enum>
+ <text display-inline="yes-display-inline">A Consular Report of Birth Abroad of a citizen of the United States or a certification of the applicant’s Report of Birth of a United States citizen issued by the Secretary of State.</text>
+                </subparagraph>
+                <subparagraph id="H029907166298439D997B7843BB8AA30E">
+                  <enum>(H)</enum>
+ <text display-inline="yes-display-inline">A Naturalization Certificate or Certificate of Citizenship issued by the Secretary of Homeland Security or any other document or method of proof of United States citizenship issued by the Federal Government pursuant to title III of the Immigration and Nationality Act (<external-xref legal-doc="usc" parsable-cite="usc/8/1401">8 U.S.C. 1401 et seq.</external-xref>).</text>
+                </subparagraph>
+                <subparagraph id="H7A2712EF4EDD4E9699198233B0344D31">
+                  <enum>(I)</enum>
+ <text display-inline="yes-display-inline">An American Indian Card issued by the Department of Homeland Security with the classification <quote>KIC</quote>.</text>
+                </subparagraph>
+              </paragraph>
+            </subsection>
+          </section>
+          <after-quoted-block>.</after-quoted-block>
+        </quoted-block>
+ </subsection><subsection id="H2F72B3E4CBD8418897790E30FB839DB6"><enum>(b)</enum><header>Criminal penalties</header><text display-inline="yes-display-inline">Section 12(2) of the National Voter Registration Act of 1993 (<external-xref legal-doc="usc" parsable-cite="usc/52/20511">52 U.S.C. 20511(2)</external-xref>) is amended—</text><paragraph id="HDBA3426775CA4C95BB63F54E4FEF3A9F"><enum>(1)</enum><text>by striking <quote>or</quote> at the end of subparagraph (A);</text></paragraph><paragraph id="HD434EBEB802D4BA9894223614776B8E9"><enum>(2)</enum><text>by redesignating subparagraph (B) as subparagraph (D); and</text></paragraph><paragraph id="H452836AE26A245F5A3E0B2E0413FA6B8"><enum>(3)</enum><text>by inserting after subparagraph (A) the following new subparagraphs:</text><quoted-block style="OLC" id="H901E983C4DDC4C86A99B777AC0EFEA17" display-inline="no-display-inline"><subparagraph id="HA003FEF3F6CA457884E5324E066A15A7"><enum>(B)</enum><text display-inline="yes-display-inline">providing material assistance to a noncitizen in attempting to vote in an election for Federal office;</text></subparagraph><subparagraph id="H845E616960B541CAB4B7E0938636DD84"><enum>(C)</enum><text display-inline="yes-display-inline">providing a ballot for an election for Federal office to an individual who fails to present government photo identification and proof of United States citizenship; or</text></subparagraph><after-quoted-block>.</after-quoted-block></quoted-block></paragraph></subsection><subsection id="HAD04B7342F6746B18216B2FA16DE533D"><enum>(c)</enum><header>Conforming and clerical amendments</header><paragraph id="H61872425D06242A2AE00638411EC33AE"><enum>(1)</enum><header>Conforming amendments relating to repeal of existing photo identification requirements for certain voters</header><text display-inline="yes-display-inline">Section 303 of the Help America Vote Act of 2002 (<external-xref legal-doc="usc" parsable-cite="usc/52/21083">52 U.S.C. 21083</external-xref>) is amended—</text><subparagraph id="H6998DDD1756D49D5A75D1A035D3EAC02" display-inline="no-display-inline"><enum>(A)</enum><text>in the heading, by striking <quote><header-in-text level="section" style="OLC">and requirements for voters who register by mail</header-in-text></quote>;</text></subparagraph><subparagraph id="HD3A7D0CC8E1F453B915F79932781BAE4"><enum>(B)</enum><text>in subsection (b)—</text><clause id="H6A5255ACBE8C4BFCAC077675FE8F6C99"><enum>(i)</enum><text display-inline="yes-display-inline">in the heading, by striking <quote><header-in-text level="subsection" style="OLC">for Voters Who Register by Mail</header-in-text></quote> and inserting <quote><header-in-text level="subsection" style="OLC">for Mail-In Registration Forms</header-in-text></quote>; and</text></clause><clause id="H2CE3C3EA353342F1AD655AA503B4F7D3"><enum>(ii)</enum><text>by striking paragraphs (1), (2), and (3) and redesignating paragraphs (4) and (5) as paragraphs (1) and (2), respectively; and</text></clause></subparagraph><subparagraph id="H67782EACF327496B856230AE06FF3DEE"><enum>(C)</enum><text>in subsection (c), by striking <quote>subsections (a)(5)(A)(i)(II) and (b)(3)(B)(i)(II)</quote> and inserting <quote>subsection (a)(5)(A)(i)(II)</quote>.</text></subparagraph></paragraph><paragraph id="H4753A46D42924562A4B7DCCAFC3CADC5"><enum>(2)</enum><header>Conforming amendment related to enforcement</header><text display-inline="yes-display-inline">Section 401 of such Act (<external-xref legal-doc="usc" parsable-cite="usc/52/21111">52 U.S.C. 21111</external-xref>) is amended by striking <quote>sections 301, 302, 303, and 304</quote> and inserting <quote>subtitle A of title III</quote>.</text></paragraph><paragraph id="HE85B2B45E4BF4F4BACD90825430FD67B" commented="no"><enum>(3)</enum><header>Clerical amendment</header><text>The table of contents of such Act is amended—</text><subparagraph id="H03B8871D1E8B4E7EAEC57815A1B69F26" commented="no"><enum>(A)</enum><text>by amending the item relating to section 303 to read as follows:</text><quoted-block style="OLC" id="HE3D490A866E6486684EF72A672E3215D" display-inline="no-display-inline"><toc regeneration="no-regeneration"><toc-entry level="section">Sec. 303. Computerized statewide voter registration list requirements.</toc-entry></toc><after-quoted-block>; and</after-quoted-block></quoted-block></subparagraph><subparagraph id="H3472EC8A17CB48669508CCA681983BA1" commented="no"><enum>(B)</enum><text display-inline="yes-display-inline">by inserting after the item relating to section 303 the following:</text><quoted-block style="OLC" id="H4DB0A0E6238742C1916BBA0A1BB04A15" display-inline="no-display-inline"><toc regeneration="no-regeneration"><toc-entry level="section">Sec. 303A. Proof of United States citizenship to vote in Federal elections.</toc-entry></toc><after-quoted-block>.</after-quoted-block></quoted-block></subparagraph></paragraph></subsection><subsection id="H97075A75FACF416CA1082F7AC2F740C2"><enum>(d)</enum><header>Effective date</header><text display-inline="yes-display-inline">This section and the amendments made by this section shall apply with respect to any regularly scheduled general election for Federal office occurring in November 2026 and any Federal election thereafter.</text></subsection></section></legis-body></bill>
+

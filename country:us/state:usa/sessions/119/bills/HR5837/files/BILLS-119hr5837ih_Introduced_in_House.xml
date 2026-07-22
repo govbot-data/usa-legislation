@@ -1,0 +1,90 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="HE4810CB669594C8E8DC2DCC1258958C5"
+  public-private="public" key="H" bill-type="olc">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 HR 5837 IH: Restoring Electoral Stability to Enhance Trust (RESET) Act of 2025</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2025-10-28</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+    <distribution-code>I</distribution-code>
+    <congress display="yes">119th CONGRESS</congress>
+    <session display="yes">1st Session</session>
+    <legis-num display="yes">H. R. 5837</legis-num>
+    <current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+    <action display="yes">
+      <action-date date="20251028">October 28, 2025</action-date>
+      <action-desc><sponsor name-id="D000230">Mr. Davis of North Carolina</sponsor> introduced the
+        following bill; which was referred to the <committee-name committee-id="HJU00">Committee on
+          the Judiciary</committee-name></action-desc>
+    </action>
+    <legis-type>A BILL</legis-type>
+    <official-title display="yes">To prohibit States from carrying out Congressional redistricting
+      after a decennial census and apportionment.</official-title>
+  </form>
+  <legis-body id="H73CEFAD7A6D04303BAE1CDE897530ACE" style="OLC">
+    <section id="H6D8238070492412384AC8244CBEB0C8F" section-type="section-one">
+      <enum>1.</enum>
+      <header>Short title: finding of constitutional authority</header>
+      <subsection id="HEAD55A78DF6B40AFB86E738AE3D37311">
+        <enum>(a)</enum>
+        <header>Short title</header>
+ <text>This Act may be cited as the <quote><short-title>Restoring Electoral Stability to Enhance Trust (RESET) Act of 2025</short-title></quote>.</text>
+      </subsection>
+      <subsection id="H3E23846915434A20A98F12C9DEAAE02C">
+        <enum>(b)</enum>
+        <header>Finding</header>
+ <text>Congress finds that it has the authority to establish the terms and conditions States must follow in carrying out Congressional redistricting after an apportionment of Members of the House of Representatives because—</text>
+        <paragraph id="H78FB694311B54C6EA11F038A1218E84E">
+          <enum>(1)</enum>
+ <text>the authority granted to Congress under Article I, Section 4 of the Constitution of the United States gives Congress the power to enact laws governing the time, place, and manner of elections for Members of the House of Representatives; and</text>
+        </paragraph>
+        <paragraph id="HD4E92C2962A74DC3B9CBC84B928A073C">
+          <enum>(2)</enum>
+ <text>the authority granted to Congress under section 5 of the Fourteenth Amendment to the Constitution gives Congress the power to enact laws to enforce section 2 of such amendment, which requires Representatives to be apportioned among the several States according to their number.</text>
+        </paragraph>
+      </subsection>
+    </section>
+    <section id="HC5F327C8145E4ED7B1F40E7D501DC673">
+      <enum>2.</enum>
+      <header>Limit on congressional redistricting after an apportionment</header>
+ <text display-inline="no-display-inline">2 U.S.C. 2c is amended by adding at the end the following:</text>
+      <quoted-block style="OLC" id="HEA0C3A43FF364A2B8AB3A3FA00489FE6"
+        display-inline="yes-display-inline">
+ <text display-inline="yes-display-inline">A State which has been redistricted in the manner provided by law after an apportionment under section 22(a) of the Act entitled ‘An Act to provide for the fifteenth and subsequent decennial censuses and to provide for an apportionment of Representatives in Congress’, approved June 18, 1929 (<external-xref legal-doc="usc" parsable-cite="usc/2/2a">2 U.S.C. 2a</external-xref>), may not be redistricted again until after the next apportionment of Representatives under such section, unless:</text>
+        <subsection id="H486ACE8BE6AD4AC5BFB30C175B3D095D">
+          <enum>(a)</enum>
+ <text>a court requires the State to conduct such subsequent redistricting to comply with the Constitution or to enforce the Voting Rights Act of 1965 (42 U.S.C. 5 1973 et seq.).</text>
+        </subsection>
+        <subsection id="HA224DEDDC17B4A6D93334818358289F9">
+          <enum>(b)</enum>
+ <text>a court conducts such subsequent redistricting to comply with the Constitution or to enforce the Voting Rights Act of 1965 (42 U.S.C. 5 1973 et seq.), in which case a State, through its legislature or a state-mandated redistricting commission approved through a State constitution, shall have an opportunity following a court-constructed apportionment to conduct alternate subsequent redistricting to comply with the Constitution or to enforce the Voting Rights Act of 1965 (42 U.S.C. 5 1973 et seq.).</text>
+        </subsection>
+        <subsection id="HD3D7728165114A2FAD4552E2837AB127">
+          <enum>(c)</enum>
+ <text>a State orders a statewide referendum to conduct such subsequent redistricting to comply with the Constitution or to enforce the Voting Rights Act of 1965 (42 U.S.C. 5 1973 et seq.).</text>
+        </subsection>
+        <after-quoted-block>.</after-quoted-block>
+      </quoted-block>
+    </section>
+    <section id="HC28D1211A9C14BB5B34427E3D48C9598">
+      <enum>3.</enum>
+      <header>No effect on elections for state and local office</header>
+ <text display-inline="no-display-inline">Nothing in this Act or in any amendment made by this Act may be construed to affect the manner in which a State carries out elections for State or local office, including the process by which a State establishes the districts used in such elections.</text>
+    </section>
+    <section id="HB5D38D20638E4701B330D998372AA55B">
+      <enum>4.</enum>
+      <header>Effective date</header>
+ <text display-inline="no-display-inline">Sections 2(a) and 2(b) and the amendment made by this Act shall apply with respect to any Congressional redistricting which occurs after the regular decennial census conducted during 2020. Section 2(c) shall apply only with respect to statewide referenda ordered after November 3, 2026.</text>
+    </section>
+  </legis-body>
+</bill>
+
+

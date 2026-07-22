@@ -1,0 +1,87 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="HE632C0D028C846528795ECC8F2B7037C" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 HR 8966 IH: Subpoena Abuse Prevention Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2026-05-21</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">119th CONGRESS</congress><session display="yes">2d Session</session><legis-num display="yes">H. R. 8966</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20260521">May 21, 2026</action-date><action-desc><sponsor name-id="E000297">Mr. Espaillat</sponsor> (for himself, <cosponsor name-id="M001184">Mr. Massie</cosponsor>, <cosponsor name-id="K000385">Ms. Kelly of Illinois</cosponsor>, and <cosponsor name-id="B001316">Mr. Burlison</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HJU00">Committee on the Judiciary</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To amend section 2703 of title 18, United States Code, to prohibit certain use of administrative subpoenas with respect to customer communications and records, and for other purposes.</official-title></form><legis-body id="H8E29AA7790134F5691F8A71A77A130E9" style="OLC"> 
+<section id="H530CDB195886433DB2C9784C47568A69" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Subpoena Abuse Prevention Act</short-title></quote>.</text></section> <section id="H87FC79F2B8BB42538E96F6BC4CFC78BF"><enum>2.</enum><header>Reforming subpoenas</header> <subsection commented="no" display-inline="no-display-inline" id="H41E067BC8B2840D285BD311FC8D01EA5"> <enum>(a)</enum> <header display-inline="yes-display-inline">Consistent protections for phone and app-Based call and texting records</header> <text display-inline="yes-display-inline">Section 2703(c)(2) of title 18, United States Code, is amended—</text>
+        <paragraph commented="no" display-inline="no-display-inline"
+          id="H5C8210E6E1D443AB8EE453EEB5975C10">
+          <enum>(1)</enum>
+ <text display-inline="yes-display-inline">by striking subparagraph (C); and</text> </paragraph> <paragraph commented="no" display-inline="no-display-inline" id="H9D8877C99F2F4E4E99945D88E7A38739"> <enum>(2)</enum> <text>by redesignating subparagraphs (D), (E), and (F) as subparagraphs (C), (D), and (E), respectively.</text>
+        </paragraph>
+      </subsection> 
+<subsection id="H6620383A2652454E96B6944E2E692B6A"><enum>(b)</enum><header>Prohibiting the use of subpoenas for bulk collection of certain subscriber information</header><text display-inline="yes-display-inline">Section 2703(c)(2) of title 18, United States Code, as amended by subsection (a), is further amended in the matter following subparagraph (E), as so redesignated, by inserting <quote>provided that for any administrative, grand jury, or trial subpoena, the governmental entity identifies the subscriber or customer by name, address, temporarily assigned network address, or account identifier (such as a username)</quote> before the period at the end.</text></subsection> <subsection id="H15739C7A57F94F8DAACABD811E0DFC92"> <enum>(c)</enum> <header>Prohibiting the use of subpoenas with a purpose To investigate constitutionally protected activities</header> <text display-inline="yes-display-inline">Section 2703(c) of title 18, United States Code, is further amended by adding at the end the following:</text>
+        <quoted-block style="USC" display-inline="no-display-inline"
+          id="HF790C0350D0F4A739ECE7E38456D6A31">
+          <paragraph commented="no" display-inline="no-display-inline"
+            id="HB37A33606E364B6385911FB1EFAFEED3">
+            <enum>(4)</enum>
+            <header>Protections for constitutionally protected activities</header>
+            <subparagraph commented="no" display-inline="no-display-inline"
+              id="H9A605B5E5FCC47E1A8CD312605516FC5">
+              <enum>(A)</enum>
+              <header>In general</header>
+ <text display-inline="yes-display-inline">A governmental entity may not use a subpoena to require the disclosures described in paragraph (2) if a purpose of the subpoena is to—</text>
+              <clause id="H94DFC4E5A6204494AC0029D0EFBE62B3">
+                <enum>(i)</enum>
+ <text>investigate, monitor, or otherwise acquire information about activities, or any person's engagement in activities, that are exercises of free speech, press, religion, assembly, or petition, or are otherwise protected by the Constitution of the United States; or</text>
+              </clause>
+              <clause id="H3B42ECCAAFD84FD5B1A8D280FA0CD70F">
+                <enum>(ii)</enum>
+ <text>retaliate against any person for their engagement in activities that are exercises of free speech, press, religion, assembly, or petition, or are otherwise protected by the Constitution of the United States.</text>
+              </clause>
+            </subparagraph>
+            <subparagraph commented="no" display-inline="no-display-inline"
+              id="H9EDF8989874F4B009883C8D91105C110">
+              <enum>(B)</enum>
+              <header>Required certification</header>
+              <clause commented="no" display-inline="no-display-inline"
+                id="H4F66F6F6B129451ABED258DAC6C9FFA4">
+                <enum>(i)</enum>
+                <header>In general</header>
+ <text display-inline="yes-display-inline">A governmental entity using a subpoena to require the disclosures described in paragraph (2) from a service provider shall provide a certification under penalty of perjury attesting that the subpoena is being made for a legitimate and lawful purpose, and not with a purpose described in subparagraph (A)—</text>
+                <subclause commented="no" display-inline="no-display-inline"
+                  id="H30F528586D0B4C65B2E27EBE2DE0ED6B">
+                  <enum>(I)</enum>
+ <text display-inline="yes-display-inline">to the service provider; and</text> </subclause> <subclause commented="no" display-inline="no-display-inline" id="H125566903BE74F04B351E4E0B261FCFC"> <enum>(II)</enum> <text display-inline="yes-display-inline">when applying for a preclusion of notice order under section 2705(b), to the court in such application.</text>
+                </subclause>
+              </clause>
+              <clause commented="no" display-inline="no-display-inline"
+                id="HC7C55BF1D1994669816EE24E1AF14FDE">
+                <enum>(ii)</enum>
+                <header>Absence of certification</header>
+ <text display-inline="yes-display-inline">A subpoena to require the disclosures described in paragraph (2) from a service provider shall not be valid, and a preclusion of notice order under section 2705(b) for such subpoena shall not issue, unless the subpoena includes the certification described in clause (i).</text>
+              </clause>
+            </subparagraph>
+          </paragraph>
+          <after-quoted-block>.</after-quoted-block>
+        </quoted-block>
+      </subsection> 
+<subsection id="H6BCA2348F2B4459889E86C2517D25E68"><enum>(d)</enum><header>Required disclosures</header><text>Section 2703(c) of title 18, United States Code, is further amended by adding at the end the following:</text> <quoted-block style="USC" display-inline="no-display-inline" id="H97376E01299F4511B5D3D02562D1A138"> <paragraph id="H6BFA676DA259415BB0F783C20E1BA4A2"><enum>(5)</enum><header>Required disclosures to service provider</header> <subparagraph commented="no" display-inline="no-display-inline" id="HF9EAF36FFCD545BB971F5922983D69CA"><enum>(A)</enum><header>In general</header><text display-inline="yes-display-inline">Except as provided in subparagraph (B)—</text> 
+<clause commented="no" display-inline="no-display-inline" id="H5E8EC0AFD4CC4DB5B5B7A50FBEA92BBB"><enum>(i)</enum><text display-inline="yes-display-inline">the service provider—</text> <subclause commented="no" display-inline="no-display-inline" id="H1E27A1754657446D98BFDF7AD087F443"><enum>(I)</enum><text display-inline="yes-display-inline">may notify a customer or subscriber of the receipt of the subpoena; and</text></subclause> 
+<subclause commented="no" display-inline="no-display-inline" id="HFB1EA0EC60D34C1AA6C2574ECBB00048"><enum>(II)</enum><text>may consult with an attorney in order to obtain legal advice or assistance regarding the subpoena; and</text></subclause></clause> <clause commented="no" display-inline="no-display-inline" id="H2DABCC903D9D411EAB5918108AEF4668"><enum>(ii)</enum><text display-inline="yes-display-inline">the government entity shall inform the service provider that it—</text> 
+<subclause id="HEC9A938D14694E89932C2F82A4B2A33E"><enum>(I)</enum><text>is not being directed to not notify any other person of the existence of the subpoena;</text></subclause> <subclause id="H9A7E23A8F3C44563B5FB03E20F23B362"><enum>(II)</enum><text>may notify the customer or subscriber of the receipt of the subpoena; and</text></subclause> 
+<subclause id="H98026B1966D0448EA30037C30CFA9D7C"><enum>(III)</enum><text>may consult with an attorney in order to obtain legal advice or assistance regarding the subpoena.</text></subclause></clause></subparagraph> <subparagraph commented="no" display-inline="no-display-inline" id="HF2C755E4E9C74748A1DD5527A2D8DB96"><enum>(B)</enum><header>Exception for nondisclosure orders</header><text display-inline="yes-display-inline">If a governmental entity described in subparagraph (A) obtains a preclusion of notice order under section 2705(b)—</text> 
+<clause commented="no" display-inline="no-display-inline" id="HA437BD3E67694FF5869A1B63F74F46D9"><enum>(i)</enum><text display-inline="yes-display-inline">such order may limit the right of the service provider described in subparagraph (A)(i)(I); and</text></clause> <clause commented="no" display-inline="no-display-inline" id="H33135D0D7C8047EC9657821EB2C79098"><enum>(ii)</enum><text display-inline="yes-display-inline">the governmental entity shall modify the required disclosures described in subclauses (I) and (II) of subparagraph (A)(ii) to be consistent with the terms of the order.</text></clause></subparagraph></paragraph><after-quoted-block>.</after-quoted-block></quoted-block></subsection> 
+<subsection id="HD1A0A9C2D2DF49BD875F650913842729"><enum>(e)</enum><header>Public reporting of use of administrative subpoenas</header><text>Section 2703(c) of title 18, United States Code, is further amended by adding at the end the following:</text> <quoted-block style="USC" display-inline="no-display-inline" id="H296B694A6C2248A691CD17FD4A883600"> <paragraph id="H1D57D7534D704EB28EA585F19FADDD4F"> <enum>(6)</enum> <header>Reporting of Federal use of administrative subpoenas</header> <text>Each Federal governmental entity that uses an administrative subpoena to require the disclosure of information under this subsection shall annually publicly publish a report containing, for the 1-year period preceding the date of the report—</text>
+            <subparagraph id="HE15675EF239C4773A5238462B2DAC767">
+              <enum>(A)</enum>
+ <text>the number of administrative subpoenas issued by the governmental entity, disaggregated by the statutory authority under which the administrative subpoenas were issued; and</text>
+            </subparagraph>
+            <subparagraph id="H8FE8C6486C1D446F9D5ECFC8827C4D46">
+              <enum>(B)</enum>
+ <text>the number of accounts for which the governmental entity received information through an administrative subpoena, disaggregated by the statutory authority under which the administrative subpoenas were issued.</text>
+            </subparagraph>
+          </paragraph><after-quoted-block>.</after-quoted-block></quoted-block></subsection></section> 
+</legis-body></bill>
+

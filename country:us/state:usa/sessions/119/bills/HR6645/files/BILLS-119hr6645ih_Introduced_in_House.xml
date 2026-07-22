@@ -1,0 +1,82 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H15EAD7684ACE40C9B742E26B38E03FF0" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 HR 6645 IH: Working Families Disaster Tax Relief Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2025-12-11</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">119th CONGRESS</congress><session display="yes">1st Session</session><legis-num display="yes">H. R. 6645</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20251211">December 11, 2025</action-date><action-desc><sponsor name-id="J000305">Ms. Jacobs</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HWM00">Committee on Ways and Means</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To amend the Internal Revenue Code of 1986 to allow disaster-affected taxpayers to use preceding taxable year earned income to determine eligibility for the earned income credit and the refundable portion of the child tax credit.</official-title></form><legis-body id="HEF4ACF714C9A4896BB3303BAB36E7A7A" style="OLC"> 
+<section section-type="section-one" id="H7D33229F9CF04C819A27D1739862CE53"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Working Families Disaster Tax Relief Act</short-title></quote>.</text></section> <section section-type="subsequent-section" commented="no" display-inline="no-display-inline" id="H17DC2C92C0BD4006BAF91515560EEE38"><enum>2.</enum><header display-inline="yes-display-inline">Election for disaster-affected taxpayers to use preceding year earned income to determine credit eligibility</header> <subsection id="H6650BDD3AFF74703870D4BD19237B353"> <enum>(a)</enum> <header>Election To use prior year income for disaster-Affected taxpayers with respect to child tax credit</header> <text display-inline="yes-display-inline"><external-xref legal-doc="usc" parsable-cite="usc/26/24">Section 24(d)</external-xref> of the Internal Revenue Code of 1986 is amended to read as follows:</text>
+        <quoted-block style="OLC" display-inline="no-display-inline"
+          id="HDAF85DF41C4E419790A360138860AEF9">
+          <paragraph id="H785F90B8ECE44FC98D3BFE5C52525562">
+            <enum>(4)</enum>
+            <header>Election to use prior year income for disaster-affected taxpayers</header>
+            <subparagraph id="HA6320C31AA294D7AB2615C384B2F9001">
+              <enum>(A)</enum>
+              <header>In general</header>
+ <text>A disaster-affected taxpayer may elect to apply paragraph (1) by substituting <quote>the preceding taxable year</quote> for <quote>the taxable year</quote> each place such term appears.</text>
+            </subparagraph>
+            <subparagraph id="H9664B32577604080853D6913A0558838">
+              <enum>(B)</enum>
+              <header>Disaster-affected taxpayer</header>
+ <text display-inline="yes-display-inline">For purposes of this paragraph, the term <quote>disaster-affected taxpayer</quote> means, with respect to a taxable year—</text>
+              <clause commented="no" display-inline="no-display-inline"
+                id="HE42A07D8E2E64023AA14BF43CFA3E7E7">
+                <enum>(i)</enum>
+ <text display-inline="yes-display-inline">a taxpayer whose principal place of abode or principal place of work, during any period in the taxable year which is part of the incident period of a qualified disaster, is located in a qualified disaster zone, or</text>
+              </clause>
+              <clause id="H64BFCC97193943C2A7B639315BD17496">
+                <enum>(ii)</enum>
+ <text>a taxpayer—</text> <subclause commented="no" display-inline="no-display-inline" id="H10C0FE8CB8F14D649A1378ED775034FD"> <enum>(I)</enum> <text display-inline="yes-display-inline">whose principal place of abode, during any period in the taxable year which is part of the incident period of a qualified disaster, is located in the qualified disaster area with respect to such qualified disaster, and</text>
+                </subclause>
+                <subclause id="HD4F3D2AC8D47452092C0BE112AD27117">
+                  <enum>(II)</enum>
+ <text>who is displaced from such principal place of abode during such taxable year as a result of such qualified disaster.</text>
+                </subclause>
+              </clause>
+            </subparagraph>
+            <subparagraph id="HFF654C8801E74C63A6F42F7A9ABBF484">
+              <enum>(C)</enum>
+              <header>Definitions</header>
+ <text display-inline="yes-display-inline">For purposes of this paragraph—</text> <clause id="H0093787B0C864A85B95B1837CAE908C4"> <enum>(i)</enum> <header>Qualified disaster</header> <text display-inline="yes-display-inline">The term <quote>qualified disaster</quote> means any disaster with respect to which a major disaster has been declared by the President under section 401 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act.</text>
+              </clause>
+              <clause id="H1DC5433A37A04AF084D16D2410972ACC">
+                <enum>(ii)</enum>
+                <header>Qualified disaster area</header>
+ <text display-inline="yes-display-inline">The term <quote>qualified disaster area</quote> means, with respect to any qualified disaster, the area with respect to which the major disaster was declared under the Robert T. Stafford Disaster Relief and Emergency Assistance Act.</text>
+              </clause>
+              <clause id="H71A044FA416A482BB549F40511B9C87E">
+                <enum>(iii)</enum>
+                <header>Qualified disaster zone</header>
+ <text display-inline="yes-display-inline">The term <quote>qualified disaster zone</quote> means the portion of a qualified disaster area determined by the President to warrant individual or individual and public assistance from the Federal Government under the Robert T. Stafford Disaster Relief and Emergency Assistance Act.</text>
+              </clause>
+            </subparagraph>
+          </paragraph>
+          <after-quoted-block>.</after-quoted-block>
+        </quoted-block>
+      </subsection>
+<subsection id="HC49E129A17C64993B7A4057EE98E0843">
+        <enum>(b)</enum>
+        <header>Election To use prior year income for disaster-Affected taxpayers with respect to
+          earned income credit</header>
+ <text display-inline="yes-display-inline">Section 32(c) of such Code is amended by adding at the end the following new paragraph:</text>
+        <quoted-block style="OLC" display-inline="no-display-inline"
+          id="H59F2F14519C14DE68F84AA1FCB88A035">
+          <paragraph id="HAF8BC024940942F3BAA8FF75AB005692">
+            <enum>(5)</enum>
+            <header>Election to use prior year income for disaster-affected taxpayers</header>
+ <text display-inline="yes-display-inline">A disaster-affected taxpayer (as defined in section 24(d)(4)(B)) may elect to apply subsection (a)(1) by inserting <quote>preceding</quote> before <quote>taxable year</quote> in such paragraph.</text>
+          </paragraph>
+          <after-quoted-block>.</after-quoted-block>
+        </quoted-block>
+      </subsection>
+<subsection id="HDBFEB2C6E72B41C182DAEBBB61635C5E"><enum>(c)</enum><header>Effective date</header><text>The amendments made by this section shall apply to taxable years beginning after December 31, 2024.</text></subsection></section> </legis-body></bill>
+

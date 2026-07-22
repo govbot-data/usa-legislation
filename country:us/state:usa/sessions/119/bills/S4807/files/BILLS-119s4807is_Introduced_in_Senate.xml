@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public" slc-id="S1-ROS26B86-KH5-C2-2W0"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 S4807 IS: Honor Gold Star Families Act</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2026-06-17</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">II</distribution-code><congress>119th CONGRESS</congress><session>2d Session</session><legis-num>S. 4807</legis-num><current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber><action><action-date date="20260617">June 17, 2026</action-date><action-desc><sponsor name-id="S435">Mr. Sheehy</sponsor> introduced the following bill; which was read twice and referred to the <committee-name committee-id="SSAS00">Committee on Armed Services</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title>To amend title 10, United States Code, to increase, and provide a cost-of-living adjustment with respect to, the death gratuity for families of deceased members of the Armed Forces.</official-title></form><legis-body><section id="S1" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Honor Gold Star Families Act</short-title></quote>.</text></section><section id="H813F1B5C53914D9F9AC5F744D46C1DC5"><enum>2.</enum><header>Increase in and cost-of-living adjustment of death gratuity</header><subsection id="HF21561224D6B436F9D419A6C69ECEED3"><enum>(a)</enum><header>Increase in death gratuity</header><paragraph id="HBED24BCE5FC7492DB66C4A0D902E9033"><enum>(1)</enum><header>Increase</header><text display-inline="yes-display-inline">Section 1478(a) of title 10, United States Code, is amended, in the matter preceding paragraph (1), by striking <quote>$100,000</quote> and inserting <quote>$200,000</quote>.</text></paragraph><paragraph id="H0DE8F1574DD0485D85E972FF6AD21C2C"><enum>(2)</enum><header>Retroactive applicability</header><text>The amendment made by paragraph (1) shall apply with respect to deaths occurring on or after January 1, 2026.</text></paragraph></subsection><subsection id="H1228A034AE454D9B8E1A3BF1AC06D1BC"> <enum>(b)</enum> <header>Cost-of-Living adjustment of death gratuity</header> <text>Section 1478 of title 10, United States Code, as amended by subsection (a), is further amended by inserting after subsection (b) the following new subsection:</text>
+        <quoted-block id="HE3FE3433F5DC452C9283A8C8E827E508" style="OLC">
+          <subsection id="HE14DAD973D464EF5801856BA6A8EE5E9">
+            <enum>(c)</enum>
+            <header>Annual adjustment to death gratuity</header>
+            <paragraph commented="no" display-inline="yes-display-inline"
+              id="HB4EF9DB2E8354B14B653FB23B1C35B1C">
+              <enum>(1)</enum>
+ <text>On January 1, 2027, and January 1 of each year thereafter, the amount of the death gratuity payable under subsection (a) shall be increased by the percentage (if any) by which the Consumer Price Index for All Urban Consumers, published by the Bureau of Labor Statistics, during the preceding calendar year exceeds such Consumer Price Index for the calendar year before such preceding calendar year, rounded to the nearest $100.</text>
+            </paragraph>
+            <paragraph id="H0A57321039AB44C380EFE9FE17E4DB38" indent="up1">
+              <enum>(2)</enum>
+ <text>The Secretary of Defense shall annually publish the amount of the death gratuity payable under subsection (a), as adjusted by paragraph (1), in the Federal Register.</text>
+            </paragraph>
+          </subsection>
+          <after-quoted-block>.</after-quoted-block>
+        </quoted-block>
+      </subsection></section></legis-body></bill>
+
