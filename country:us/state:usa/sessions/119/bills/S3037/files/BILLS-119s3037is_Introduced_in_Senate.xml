@@ -1,0 +1,79 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-type="olc" bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public" slc-id="S1-ROS25J52-RD9-Y1-DMX">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 S3037 IS: No AliPay Act of 2025</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2025-10-23</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+        <distribution-code>II</distribution-code>
+        <congress>119th CONGRESS</congress>
+        <session>1st Session</session>
+        <legis-num>S. 3037</legis-num>
+        <current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+        <action>
+            <action-date date="20251023">October 23, 2025</action-date>
+            <action-desc><sponsor name-id="S404">Mr. Scott of Florida</sponsor> (for himself,
+                    <cosponsor name-id="S412">Mr. Tuberville</cosponsor>, and <cosponsor name-id="S437">Mr. Justice</cosponsor>) introduced the following bill; which was
+                read twice and referred to the <committee-name committee-id="SSBK00">Committee on
+                    Banking, Housing, and Urban Affairs</committee-name></action-desc>
+        </action>
+        <legis-type>A BILL</legis-type>
+        <official-title>To prohibit United States persons from engaging in financial transactions
+            with AliPay.</official-title>
+    </form>
+    <legis-body style="OLC" display-enacting-clause="yes-display-enacting-clause" id="H0E673A52A64E40CFAEDC33C07D212CBF">
+        <section section-type="section-one" id="HA964B238D8CB432BAD4142A5AB308952">
+            <enum>1.</enum>
+            <header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>No AliPay Act of 2025</short-title></quote>.</text>
+        </section>
+        <section id="HC30AE195E50F4AEDB7EEAD1CB14979F8">
+            <enum>2.</enum>
+            <header>Prohibition on use of AliPay</header>
+            <subsection commented="no" display-inline="no-display-inline"
+                id="id07c2664d50b5432c96a27cf774b8616f">
+                <enum>(a)</enum>
+                <header display-inline="yes-display-inline">In general</header>
+ <text display-inline="yes-display-inline">A United States person may not conduct a financial transaction with AliPay (China) Internet Technology Company Limited (referred to in this Act as <quote>AliPay</quote>), including by using any application or payment processing service operated by AliPay.</text>
+            </subsection>
+            <subsection id="HF7B41CC4ED22481ABE18527E9E2D4FEC">
+                <enum>(b)</enum>
+                <header>Definitions</header>
+ <text display-inline="yes-display-inline">In this section:</text> <paragraph id="HD53F64E3D21D4C79941A31A1D7C82E35"> <enum>(1)</enum> <header>Financial transaction</header> <text>The term <term>financial transaction</term> means—</text>
+                    <subparagraph id="H6C0702D9D40F4514A6B21931E278EC96">
+                        <enum>(A)</enum>
+ <text>a transaction that in any way or degree affects interstate or foreign commerce—</text>
+                        <clause id="H6C387B77F62A461F8EF5463F046C3BAB">
+                            <enum>(i)</enum>
+ <text>involving the movement of funds by wire or other means; or</text> </clause> <clause id="H9AEF4CC577E24C4A95FB5B50E26DC2F8"> <enum>(ii)</enum> <text>involving one or more monetary instruments; or</text>
+                        </clause>
+                    </subparagraph>
+                    <subparagraph id="HEB1DAF5CEE964F328AD1B5FD523C6320">
+                        <enum>(B)</enum>
+ <text>a transaction involving the use of a financial institution that is engaged in, or the activities of which affect, interstate or foreign commerce in any way or degree.</text>
+                    </subparagraph>
+                </paragraph>
+                <paragraph id="H8E2B0437BFB34431983533E539327F7B">
+                    <enum>(2)</enum>
+                    <header>United States person</header>
+ <text display-inline="yes-display-inline">The term <term>United States person</term> means—</text>
+                    <subparagraph id="HDCED1E1E9D2B4425AEE4A869A3AA170D">
+                        <enum>(A)</enum>
+ <text>a national of the United States;</text> </subparagraph> <subparagraph id="HE80A86B99B694F6CBD85D791CDAEBDCC"> <enum>(B)</enum> <text>an alien lawfully admitted for permanent residence;</text>
+                    </subparagraph>
+                    <subparagraph id="H11A3341366094C1D809BF5EA4987D7A7">
+                        <enum>(C)</enum>
+ <text display-inline="yes-display-inline">an entity organized under the laws of the United States or under the laws of any jurisdiction within the United States (including a foreign branch of such an entity); or</text>
+                    </subparagraph>
+                    <subparagraph id="H455F12ADB923425A87EC68E0C6FD607A" commented="no" display-inline="no-display-inline">
+                        <enum>(D)</enum>
+ <text>an individual who is physically present in the United States.</text> </subparagraph> </paragraph> </subsection> </section> </legis-body> </bill>
+

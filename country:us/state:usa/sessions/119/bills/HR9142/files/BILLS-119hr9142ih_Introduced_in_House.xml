@@ -1,0 +1,107 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="HA839220F90184753B5235825B54BBA9B" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 HR 9142 IH: Prohibiting Adversarial Patents Act of 2026</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2026-06-04</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">119th CONGRESS</congress><session display="yes">2d Session</session><legis-num display="yes">H. R. 9142</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20260604">June 4, 2026</action-date><action-desc><sponsor name-id="F000471">Mr. Fitzgerald</sponsor> (for himself, <cosponsor name-id="M001194">Mr. Moolenaar</cosponsor>, and <cosponsor name-id="I000056">Mr. Issa</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HJU00">Committee on the Judiciary</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To amend title 35, United States Code, to limit the ability of persons
+            who pose a threat to national security to receive and enforce patents, and for other
+            purposes.</official-title></form><legis-body id="HFE46569182F743F99030FB9D793AF696" style="OLC"> 
+<section id="H4C27B2473CE34DE0BF54D47C7ED7FFFD" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Prohibiting Adversarial Patents Act of 2026</short-title></quote>.</text></section> <section id="HDAF3728ADBED4F8C9642B5DA6F0AB505"><enum>2.</enum><header>Limitation on ability of persons who pose a threat to national security to receive and enforce patents</header> <subsection id="H76365656AE044E81983075595BD59436"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline"><external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/35/10">Chapter 10</external-xref> of title 35, United States Code, is amended by adding at the end the following:</text> 
+<quoted-block style="USC" display-inline="no-display-inline" id="HC1161A6D9B5D4DCD820E752C14649DCB"> 
+<section id="HF964DCDC7B8545CD854B737D36E871D3">
+                        <enum>106.</enum>
+                        <header>Limitation on ability of persons who pose a threat to national
+                            security to receive and enforce patents</header>
+                        <subsection id="HB3049843D7264E589D6AC74451AF904A">
+                            <enum>(a)</enum>
+                            <header>Limitation</header>
+ <text display-inline="yes-display-inline">Notwithstanding any other provision of law—</text>
+                            <paragraph id="H9FABFB02367F46CDA6041E9F093BAC75">
+                                <enum>(1)</enum>
+ <text>a person may not be issued a United States patent for an invention if that person (or any subsidiary, affiliate, successor, assign, legal representative, or privy of such person)—</text>
+                                <subparagraph id="HB22CA1156FF04373B909EB345AE29CCD" commented="no">
+                                    <enum>(A)</enum>
+ <text display-inline="yes-display-inline">is an entity on the Non-SDN Chinese Military-Industrial Complex Companies List (NS–CMIC List) maintained by the Office of Foreign Assets Control of the Department of the Treasury under Executive Order 14032 (86 Fed. Reg. 30145; relating to addressing the threat from securities investments that finance certain companies of the People’s Republic of China), or any successor order;</text>
+                                </subparagraph>
+                                <subparagraph id="H26D59F1A4EF84BB0A783550A816AEFEC" commented="no">
+                                    <enum>(B)</enum>
+ <text display-inline="yes-display-inline">is identified as a Chinese military company in the most recent annual report submitted pursuant to section 1260H of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021 (<external-xref legal-doc="public-law" parsable-cite="pl/116/283">Public Law 116–283</external-xref>; <external-xref legal-doc="usc" parsable-cite="usc/10/113">10 U.S.C. 113</external-xref> note); or</text>
+                                </subparagraph>
+                                <subparagraph id="H49275C677F3A426E9961601E4EC53A1D">
+                                    <enum>(C)</enum>
+ <text display-inline="yes-display-inline">produces or provides communications equipment or service on the list published by the Federal Communications Commission under section 2(a) of the Secure and Trusted Communications Networks Act of 2019 (<external-xref legal-doc="usc" parsable-cite="usc/47/1601">47 U.S.C. 1601(a)</external-xref>);</text>
+                                </subparagraph>
+                            </paragraph>
+                            <paragraph id="HD50BC8BFBA5E427A9490B534803687BE">
+                                <enum>(2)</enum>
+ <text>any United States patent issued to a person described under paragraph (1) shall be unenforceable; and</text>
+                            </paragraph>
+                            <paragraph id="H870A6259DEF34DCCA5487DB7E982538C">
+                                <enum>(3)</enum>
+ <text display-inline="yes-display-inline">no procedure, including any procedure under the Patent Prosecution Highway Program, may be used to conduct an expedited review an application for a patent filed by a person described under paragraph (1).</text>
+                            </paragraph>
+                        </subsection>
+                        <subsection id="H098B1F6E177347B6870C8364C76AB63A">
+                            <enum>(b)</enum>
+                            <header>Waiver</header>
+                            <paragraph id="H40487FF76436491AA7C7AD2F83C2928B">
+                                <enum>(1)</enum>
+                                <header>In general</header>
+ <text>The President may waive the application of the prohibition under subsection (a) with respect to a person for successive periods of not more than 180 days each if the President—</text>
+                                <subparagraph id="HC880B40C124942A9942687D871761CB6">
+                                    <enum>(A)</enum>
+ <text display-inline="yes-display-inline">determines that there is not an essential security interest in applying the prohibition under subsection (a) with respect to a person; and</text>
+                                </subparagraph>
+                                <subparagraph id="HF537E86506874E558495FF58496082D3">
+                                    <enum>(B)</enum>
+ <text display-inline="yes-display-inline">submits, not less than 30 days before waiving such prohibition, a report to the Committee on the Judiciary of the Senate and the Committee on the Judiciary of the House of Representatives—</text>
+                                    <clause id="H229F3F246B1D4F0FB253CFE9D8EDD626">
+                                        <enum>(i)</enum>
+ <text>a specific and detailed rationale for the determination that there is not an essential security interest in applying the prohibition with respect to that person;</text>
+                                    </clause>
+                                    <clause id="HC0D2780804F6462F998AD7C08F962571">
+                                        <enum>(ii)</enum>
+ <text>a description of the activity that resulted in the person being included on a list or in a report described under subparagraphs (A) through (C);</text>
+                                    </clause>
+                                    <clause id="HEAC85950D2BA4B30A28EBF9259B3FAA2">
+                                        <enum>(iii)</enum>
+ <text>an assessment of the significance of such activity to the national security interests of the United States or allies of the United States; and</text>
+                                    </clause>
+                                    <clause id="H38960F87EA234076AE4F906F7ADC0CF5">
+                                        <enum>(iv)</enum>
+ <text>an explanation of any effort made by the United States to secure the cooperation of the government with primary jurisdiction over the person or the location where the activity described in clause (ii) occurred in to terminate, as appropriate, or penalize such activity.</text>
+                                    </clause>
+                                </subparagraph>
+                            </paragraph>
+                            <paragraph id="HAAB2C740893D40B5B9F4DFF12F2C27F7">
+                                <enum>(2)</enum>
+                                <header>Consistency with international obligations</header>
+ <text display-inline="yes-display-inline">The President shall ensure that in granting any waiver under this subsection, the President exercises such authority in a manner that is consistent with international obligations.</text>
+                            </paragraph>
+                        </subsection>
+                        <subsection id="H4E8E795E65724EFDB6D3A74E086E69EF">
+                            <enum>(c)</enum>
+                            <header>No effect on patent application; ownership and term of
+                                patent</header>
+ <text display-inline="yes-display-inline">The application of the prohibition under subsection (a), or the grant of any waiver under subsection (b), to a person shall not affect—</text>
+                            <paragraph id="H9E119940CEFE41089FE7E110BB4445DA">
+                                <enum>(1)</enum>
+ <text>the ability of such person file a patent application;</text> </paragraph> <paragraph id="HE465827FB1D64DA69DC1B7C2CB2BD884"> <enum>(2)</enum> <text>except as provided in subsection (a)(3), the examination of any such application; or</text>
+                            </paragraph>
+                            <paragraph id="H99A5E7D9B498419F9B5FD7BD10CDE4A8">
+                                <enum>(3)</enum>
+ <text>the ownership or term of any patent owned by such person.</text>
+                            </paragraph>
+                        </subsection>
+                    </section><after-quoted-block>.</after-quoted-block></quoted-block></subsection> 
+<subsection id="HA1950275DEDC42669604D588205F7E62" commented="no" display-inline="no-display-inline"><enum>(b)</enum><header>Clerical amendment</header><text>The table of sections for <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/35/10">chapter 10</external-xref> of title 35, United States Code, is amended by inserting after the item relating to <external-xref legal-doc="usc" parsable-cite="usc/35/105">section 105</external-xref> the following:</text> <quoted-block style="USC" display-inline="no-display-inline" id="H5886268110AD4434B47273902932725A"> <toc regeneration="no-regeneration"> <toc-entry level="section">106. Limitation on ability of persons who pose a threat to national security to receive and enforce patents.</toc-entry></toc><after-quoted-block>.</after-quoted-block></quoted-block></subsection></section> </legis-body></bill>
+
