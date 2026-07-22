@@ -1,0 +1,168 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-type="olc" bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public" slc-id="S1-ELT26148-JFY-5R-S4L"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 S4172 IS: Animal Freedom from Testing, Experiments, and Research Act of 2026</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2026-03-24</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">II</distribution-code><congress>119th CONGRESS</congress><session>2d Session</session><legis-num>S. 4172</legis-num><current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber><action><action-date date="20260324">March 24, 2026</action-date><action-desc><sponsor name-id="S252">Ms. Collins</sponsor> (for herself and <cosponsor name-id="S380">Mr. Peters</cosponsor>) introduced the following bill; which was read twice and referred to the <committee-name committee-id="SSAF00">Committee on Agriculture, Nutrition, and Forestry</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title>To amend the Animal Welfare Act to allow for the retirement of certain animals used in Federal research, and for other purposes.</official-title></form><legis-body style="OLC" display-enacting-clause="yes-display-enacting-clause" id="H52244CE78E0842A1A2808D6173694809"><section section-type="section-one" id="H9400CBB50E094204B8A413962D0EA816"><enum>1.</enum><header>Short Title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Animal Freedom from Testing, Experiments, and Research Act of 2026</short-title></quote> or the <quote><short-title>AFTER Act of 2026</short-title></quote>.</text></section><section id="HAE48F0299BDE4BB3B036B467AA926A6E"> <enum>2.</enum> <header>Placement of animals used in Federal research</header> <subsection id="id9924484FCEA14858A1C9BCB114305599"> <enum>(a)</enum> <header>In general</header> <text>Section 14 of the Animal Welfare Act (<external-xref legal-doc="usc" parsable-cite="usc/7/2144">7 U.S.C. 2144</external-xref>) is amended to read as follows:</text>
+        <quoted-block style="OLC" display-inline="no-display-inline" id="H0313167DD36B4D8B8CF226B99D24B7A9">
+          <section id="H63FFDC1A0A684D1E874CA766F80CF0F3">
+            <enum>14.</enum>
+            <header>Standards for Federal facilities</header>
+            <subsection id="H3D769D680FFC445FB2E415DE687292C0">
+              <enum>(a)</enum>
+              <header>Definitions</header>
+ <text>In this section:</text> <paragraph id="H0A0DB3938EFF4A1D862CEAD3EFFCF07E"> <enum>(1)</enum> <header>Animal rescue organization</header> <text display-inline="yes-display-inline">The term <term>animal rescue organization</term> means a nonprofit organization the purpose of which is to rescue covered animals and find permanent adoptive homes for those animals.</text>
+              </paragraph>
+              <paragraph id="H3CE492A120214604AF52FACE2EBD44E8">
+                <enum>(2)</enum>
+                <header>Animal sanctuary</header>
+ <text display-inline="yes-display-inline">The term <term>animal sanctuary</term> means a nonprofit organization that—</text>
+                <subparagraph id="H4C7AC2C4ACB5476EBA62B3D2E23430D0">
+                  <enum>(A)</enum>
+ <text display-inline="yes-display-inline">is registered with the Secretary;</text> </subparagraph> <subparagraph id="H5D989A87F98E4476BA30B9AEE960A5E9"> <enum>(B)</enum> <text>operates a place of refuge in which—</text>
+                  <clause id="HF853D816ED624D4C81BDE6F7D33D85B4">
+                    <enum>(i)</enum>
+ <text>a covered animal is provided care for the lifetime of the animal; and</text>
+                  </clause>
+                  <clause id="H3A6BF59218FE403C927ACC1F8FED4B8C">
+                    <enum>(ii)</enum>
+ <text>an unescorted public visitation of that animal is not permitted;</text> </clause> </subparagraph> <subparagraph id="HD19E03EB4FCD4637BA7953B2BBABF0EE"> <enum>(C)</enum> <text>does not engage in commercial trade of covered animals;</text>
+                </subparagraph>
+                <subparagraph id="H190AEE45DA7F4B96A450F11500249952">
+                  <enum>(D)</enum>
+ <text>does not breed covered animals;</text> </subparagraph> <subparagraph id="H31C642F82FA941159B231A646909D799"> <enum>(E)</enum> <text>does not permit direct contact between the public and covered animals;</text>
+                </subparagraph>
+                <subparagraph id="HFC6649EBB74B4963B0ECF7074AF432F6">
+                  <enum>(F)</enum>
+ <text>does not allow the use of a covered animal for performance or exhibition purposes; and</text>
+                </subparagraph>
+                <subparagraph id="H6765CD6EF13A4F30A98A813D4A9F16BA">
+                  <enum>(G)</enum>
+ <text>does not conduct or permit research on a covered animal other than noninvasive behavioral research.</text>
+                </subparagraph>
+              </paragraph>
+              <paragraph id="H5A88F39676364E58A5E62F7E918B7756">
+                <enum>(3)</enum>
+                <header>Animal shelter</header>
+ <text display-inline="yes-display-inline">The term <term>animal shelter</term> means a facility that—</text>
+                <subparagraph id="id0B9CD9B17B194F58A90D5A08DEF23E1C">
+                  <enum>(A)</enum>
+ <text display-inline="yes-display-inline">accepts or seizes covered animals—</text>
+                  <clause id="idEB441A1DB7D641199394AF651A7A44A9">
+                    <enum>(i)</enum>
+ <text display-inline="yes-display-inline">to care for the animals;</text> </clause> <clause id="idCB78E1B505814507B813DF0D35A1608E"> <enum>(ii)</enum> <text display-inline="yes-display-inline">to place those animals in a permanent adoptive home; or</text>
+                  </clause>
+                  <clause id="id17C3886E1B034C98B29E7313B388F6C8">
+                    <enum>(iii)</enum>
+ <text display-inline="yes-display-inline">for purposes of law enforcement; and</text>
+                  </clause>
+                </subparagraph>
+                <subparagraph id="id550302EB83154FDA819088B1BE367AA2">
+                  <enum>(B)</enum>
+ <text>does not—</text> <clause id="id9F81ADEF0EE544478A2C3FABA2422054"> <enum>(i)</enum> <text>engage in commercial trade of covered animals;</text>
+                  </clause>
+                  <clause id="idBC61CEBFDCA4466D9C86EA60DED9670F">
+                    <enum>(ii)</enum>
+ <text>breed covered animals;</text> </clause> <clause id="id6E971B61604F41C3B78C08184076B943"> <enum>(iii)</enum> <text>allow the use of a covered animal for performance or exhibition purposes; or</text>
+                  </clause>
+                  <clause id="id25FFB0B207B245CFB17F8B4D15FAD4DA">
+                    <enum>(iv)</enum>
+ <text>conduct or permit research on a covered animal other than noninvasive behavioral research.</text>
+                  </clause>
+                </subparagraph>
+              </paragraph>
+              <paragraph id="idA965127DADAC42A3A70178A7397406F2">
+                <enum>(4)</enum>
+                <header>Covered animal</header>
+                <subparagraph id="id796532E23D2647339CB3E771066C60B7">
+                  <enum>(A)</enum>
+                  <header>In general</header>
+ <text display-inline="yes-display-inline">The term <term>covered animal</term> means an animal that is unwanted, abandoned, or otherwise in need of placement in a home.</text>
+                </subparagraph>
+                <subparagraph id="idA077D3D045124850B3013C5751A199A8">
+                  <enum>(B)</enum>
+                  <header>Exclusions</header>
+ <text>The term <term>covered animal</term> does not include—</text> <clause id="idEAE83031D0B64A04A993DB99576348C4"> <enum>(i)</enum> <text>a rat of the genus Rattus; or</text>
+                  </clause>
+                  <clause id="id8C29187763B244AFAD133D978D9A7A6A">
+                    <enum>(ii)</enum>
+ <text>a mouse of the genus Mus.</text> </clause> </subparagraph> </paragraph> <paragraph id="id27ADEF7ADF724F57A92FCB42481F62F5"> <enum>(5)</enum> <header>Nonprofit organization</header> <text>The term <term>nonprofit organization</term> means an organization described in <external-xref legal-doc="usc" parsable-cite="usc/26/501">section 501(c)(3)</external-xref> of the Internal Revenue Code of 1986 and exempt from taxation under section 501(a) of that Code.</text>
+              </paragraph>
+              <paragraph id="id499E04B7D2264F7C9816D6C6FFE8FE46">
+                <enum>(6)</enum>
+                <header>Suitable for retirement</header>
+ <text>The term <term>suitable for retirement</term> means, with respect to an animal, that the animal has been evaluated by a licensed veterinarian and is determined to be mentally and physically healthy.</text>
+              </paragraph>
+            </subsection>
+            <subsection id="HE878684DD6484101824FB835BE542199">
+              <enum>(b)</enum>
+              <header>Laboratory animal facilities and exhibitors</header>
+ <text display-inline="yes-display-inline">Any department, agency, or instrumentality of the United States that operates laboratory animal facilities or exhibits animals shall comply with the standards and other requirements promulgated by the Secretary under subsections (a), (g), (h), and (i) of section 13.</text>
+            </subsection>
+            <subsection id="H7EE29F90299944F3B0A56B4FB0F59E27">
+              <enum>(c)</enum>
+              <header>Retirement</header>
+              <paragraph id="id707B7D35B47A4ECBAF67F7EB9AC0F2FF">
+                <enum>(1)</enum>
+                <header>In general</header>
+ <text display-inline="yes-display-inline">Not later than 90 days after the date of enactment of the <short-title>AFTER Act of 2026</short-title>, any department, agency, or instrumentality of the United States operating a Federal research facility shall, after public notice and comment, promulgate regulations that, with respect to any animal of the facility that is no longer needed for research and determined to be suitable for retirement—</text>
+                <subparagraph id="idEC45755DD8C84592A3401F5A38C6DE84">
+                  <enum>(A)</enum>
+ <text display-inline="yes-display-inline">facilitate and encourage the adoption of the animal by, or placement of the animal with—</text>
+                  <clause id="idA446EB75821A40F0AF1CB2A74EE7B850">
+                    <enum>(i)</enum>
+ <text display-inline="yes-display-inline">an animal rescue organization, animal sanctuary, animal shelter, or individual who intends to keep the animal as a pet; or</text>
+                  </clause>
+                  <clause id="idB7943C346A9F4D3A80D2B239A138C005">
+                    <enum>(ii)</enum>
+ <text>in the case of a nonhuman primate, an animal sanctuary; and</text> </clause> </subparagraph> <subparagraph id="id2E4F78FB81604289A33CB771AA29D808"> <enum>(B)</enum> <text>to the maximum extent practicable, collaborate with appropriate nonprofit organizations to carry out subparagraph (A).</text>
+                </subparagraph>
+              </paragraph>
+              <paragraph id="idA3BC30EB92EF49DCBB974C75959D4D36">
+                <enum>(2)</enum>
+                <header>National placement</header>
+ <text display-inline="yes-display-inline">The regulations promulgated to carry out paragraph (1)(A) shall include consideration of placing animals with the entities described in that subparagraph that are located beyond the immediate geographic vicinity of the Federal research facility at which the animal being retired is located.</text>
+              </paragraph>
+            </subsection>
+            <subsection id="id09D2CB14529D40589D0C96E9CB06F74B">
+              <enum>(d)</enum>
+              <header>Effect on other laws</header>
+ <text display-inline="yes-display-inline">Nothing in this section, including regulations promulgated under subsection (c)(1), shall—</text>
+              <paragraph id="id349EB9736BEC4A0BBFA4E47561F09B96">
+                <enum>(1)</enum>
+ <text display-inline="yes-display-inline">preempt any State or local law relating to the adoption or placement of animals used in research that is more stringent than the requirements of this section;</text>
+              </paragraph>
+              <paragraph id="id443a4a38dad84e949a37aa39ad111a28">
+                <enum>(2)</enum>
+ <text>prohibit, prevent, forestall, or otherwise impede the placement of any chimpanzee that has been used, or was bred or purchased for use, in research conducted or supported by a Federal agency into the sanctuary system established under section 404K of the Public Health Service Act (<external-xref legal-doc="usc" parsable-cite="usc/42/283m">42 U.S.C. 283m</external-xref>); or</text>
+              </paragraph>
+              <paragraph id="idCE28915F21C74449BA483E225D2F0D4B">
+                <enum>(3)</enum>
+ <text display-inline="yes-display-inline">prevent a State or unit of local government from adopting or enforcing an animal welfare law that is more stringent than this section.</text>
+              </paragraph>
+            </subsection>
+          </section>
+          <after-quoted-block>.</after-quoted-block>
+        </quoted-block>
+      </subsection>
+      <subsection id="id123E413C9530440C805EFB9C57BE8F19">
+        <enum>(b)</enum>
+        <header>Technical amendments</header>
+ <text>Section 13 of the Animal Welfare Act (<external-xref legal-doc="usc" parsable-cite="usc/7/2143">7 U.S.C. 2143</external-xref>) is amended—</text> <paragraph id="id89CAF60EBDE6449090A9214307720E6A"> <enum>(1)</enum> <text>by redesignating subsections (g) and (h) as subsections (h) and (i), respectively; and</text>
+        </paragraph>
+        <paragraph id="id2549BAB446D14C51AD6CFCBF321C67C6">
+          <enum>(2)</enum>
+ <text>by redesignating the second subsection (f) (relating to the certification requirement for the delivery of any animal) as subsection (g).</text>
+        </paragraph>
+      </subsection>
+    </section></legis-body></bill>
+
