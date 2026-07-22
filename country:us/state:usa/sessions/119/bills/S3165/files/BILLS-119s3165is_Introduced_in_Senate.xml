@@ -1,0 +1,197 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public" slc-id="S1-EHF25B85-83H-2F-62L">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 S3165 IS: True Shutdown Fairness Act</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2025-11-07</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+        <distribution-code>II</distribution-code>
+        <congress>119th CONGRESS</congress>
+        <session>1st Session</session>
+        <legis-num>S. 3165</legis-num>
+        <current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+        <action>
+            <action-date date="20251107">November 7, 2025</action-date>
+            <action-desc><sponsor name-id="S390">Mr. Van Hollen</sponsor> (for himself and
+                    <cosponsor name-id="S428">Ms. Alsobrooks</cosponsor>) introduced the following
+                bill; which was read twice and referred to the <committee-name committee-id="SSGA00">Committee on Homeland Security and Governmental
+                Affairs</committee-name></action-desc>
+        </action>
+        <legis-type>A BILL</legis-type>
+        <official-title>To appropriate funds for pay and allowances of Federal employees during the
+            lapse in appropriations that began on October 1, 2025, and for other
+            purposes.</official-title>
+    </form>
+    <legis-body display-enacting-clause="yes-display-enacting-clause">
+        <section section-type="section-one" id="S1">
+            <enum>1.</enum>
+            <header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>True Shutdown Fairness Act</short-title></quote>.</text>
+        </section>
+        <section id="id61ac58078c914567914c8809c09c30d7">
+            <enum>2.</enum>
+            <header>Appropriations</header>
+            <subsection id="idfebdf9ea5c6d44989ae0a09b08c223a2">
+                <enum>(a)</enum>
+                <header>Definitions</header>
+ <text>In this section—</text> <paragraph id="id05cbf33cc1f84e26a9a638a31f00e23a"> <enum>(1)</enum> <text>the term <term>agency</term> means—</text>
+                    <subparagraph id="iddee98123bb2b44f5917a77e955385600">
+                        <enum>(A)</enum>
+ <text>each authority of the executive, legislative, or judicial branch of the Government of the United States; and</text>
+                    </subparagraph>
+                    <subparagraph commented="no" display-inline="no-display-inline" id="id64ce75da53c5427ead48f472d10b6cb0">
+                        <enum>(B)</enum>
+ <text>each District of Columbia public employer described in clause (i) or (ii) of section 1341(c)(1)(B) of title 31, United States Code (as in effect on the day before the date of enactment of this Act);</text>
+                    </subparagraph>
+                </paragraph>
+                <paragraph id="idf1e66c3b556249f2bdd4cb168e177ea6">
+                    <enum>(2)</enum>
+ <text>the term <term>contract employee</term> means a contract employee for which the lapse of appropriation suspended, delayed, or interrupted all or part of the work of the contract, or stopped all or part of the work called for in such contract, including—</text>
+                    <subparagraph id="id42d4d86d1f0f4ae189d4ef40467b973b">
+                        <enum>(A)</enum>
+ <text>a service employee, as defined in section 6701(3) of title 41, United States Code, except that an individual covered under this subparagraph includes an individual described in subparagraph (C) of such section 6701(3);</text>
+                    </subparagraph>
+                    <subparagraph id="id2bfd1d04a6264930b9abb9dea92165cc">
+                        <enum>(B)</enum>
+ <text>a laborer or mechanic with respect to whom section 3142 of title 40, United States Code, applies; and</text>
+                    </subparagraph>
+                    <subparagraph id="id235e613e03f74d6093e938bdb1a2e50d">
+                        <enum>(C)</enum>
+ <text>an employee of a business concern that holds a contract, subcontract, or other agreement with an agency that provides for services or supplies, including a service contract under <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/41/67">chapter 67</external-xref> of title 41, United States Code;</text>
+                    </subparagraph>
+                </paragraph>
+                <paragraph id="id412e148a0c974f828dd7f6bdacc70c8f">
+                    <enum>(3)</enum>
+ <text>the term <term>covered individual</term>—</text> <subparagraph id="ide6801ff028374ae4b3c6ed86907c4df2"> <enum>(A)</enum> <text>means each employee of an agency, without regard to whether, during the period of the covered lapse in appropriations with respect to that agency occurring before the date of enactment of this Act—</text>
+                        <clause id="ide5482c00768a41a6a2bf73b66ffef77a">
+                            <enum>(i)</enum>
+ <text>the head of that agency determined that the individual was an excepted employee or an employee performing emergency work, as those terms are defined by the Office of Personnel Management or the appropriate District of Columbia public employer, as applicable; or</text>
+                        </clause>
+                        <clause id="idf2ce68945894421397fc6bd13ed155f7">
+                            <enum>(ii)</enum>
+ <text>the individual was subject to furlough; and</text> </clause> </subparagraph> <subparagraph id="id5b8e21ca5427440ea84eaf7a24f2f6cc"> <enum>(B)</enum> <text>includes—</text>
+                        <clause id="id58413d3af61c4100b26d01a3fcbb770c">
+                            <enum>(i)</enum>
+ <text>a contract employee;</text> </clause> <clause id="id6b9a62faf3ee4b1b929f5eb8d1592306"> <enum>(ii)</enum> <text>a member of the Armed Forces on active duty; and</text>
+                        </clause>
+                        <clause id="idbcdfd84332904393a6db096447d323e2">
+                            <enum>(iii)</enum>
+ <text>a member of a reserve component who, during the covered lapse in appropriations with respect to the applicable agency, performs active service or inactive-duty training;</text>
+                        </clause>
+                    </subparagraph>
+                </paragraph>
+                <paragraph id="id556661ca1f55499484f81570241e5b16">
+                    <enum>(4)</enum>
+ <text>the term <term>covered lapse in appropriations</term> means, with respect to an agency, the lapse in appropriations with respect to that agency beginning on October 1, 2025, and ending on the termination date; and</text>
+                </paragraph>
+                <paragraph id="ida5db0eb5faf34fa8aec3575ea718f5b0">
+                    <enum>(5)</enum>
+ <text>the term <term>termination date</term> means the date on which, after the start of the covered lapse in appropriations—</text>
+                    <subparagraph id="id5573c8d4e9464187ab57ec7954e4f196">
+                        <enum>(A)</enum>
+ <text>there are enacted into law appropriations for the agency (including a continuing appropriation) that provide amounts for the purposes for which amounts are made available under subsection (b); or</text>
+                    </subparagraph>
+                    <subparagraph id="idebaa94e71bf64c9b950d9e0085906124">
+                        <enum>(B)</enum>
+ <text>there are enacted into law appropriations for the agency (including a continuing appropriation) without any appropriation for such purposes.</text>
+                    </subparagraph>
+                </paragraph>
+            </subsection>
+            <subsection id="ideb0bc1813c254f6e91889fbc1fd6be9e">
+                <enum>(b)</enum>
+                <header>Appropriations</header>
+ <text>For fiscal year 2026, there are appropriated to the head of each agency with respect to which there is a covered lapse in appropriations, out of any money in the Treasury not otherwise appropriated, such sums as are necessary to provide, with respect to the covered lapse in appropriations, standard rates of pay, allowances, pay differentials, benefits, and other payments otherwise payable on a regular basis to covered individuals with respect to the agency, subject to the limitation under paragraph (2).</text>
+            </subsection>
+            <subsection id="id57c2cf0c52a349fbb11fbc04956e1252" commented="no">
+                <enum>(c)</enum>
+                <header>Price adjustment</header>
+                <paragraph id="id7f42474741ad477f9e0699998b7eb346" commented="no">
+                    <enum>(1)</enum>
+                    <header>In general</header>
+ <text>As soon as practicable after the date of the enactment of this Act, the head of any agency subject to the covered lapse in appropriations shall adjust the price of any contract described in paragraph (2) to compensate the contractor for reasonable costs incurred as described in paragraph (3), regardless of whether the contract provides for, or otherwise prohibits, the contractor to incur such reasonable costs or receive such an adjustment for incurring such reasonable costs.</text>
+                </paragraph>
+                <paragraph id="id76aaff85eb3d4129a97486b569917b9b" commented="no">
+                    <enum>(2)</enum>
+                    <header>Contract described</header>
+ <text>A contract is described in this paragraph if it is a contract of an agency for which the contractor suspended, delayed, or interrupted all or part of the work under such contract, or stopped all or any part of the work called for in such contract, as a result of the covered lapse in appropriations.</text>
+                </paragraph>
+                <paragraph commented="no" display-inline="no-display-inline" id="id6cd815b4740145b796f7e1a6dc5efdaf">
+                    <enum>(3)</enum>
+                    <header display-inline="yes-display-inline">Reasonable costs described</header>
+ <text>Reasonable costs described in this paragraph are costs actually incurred by the contractor—</text>
+                    <subparagraph id="id42c6d275b859439ebd1e9066ac58b3b1" commented="no">
+                        <enum>(A)</enum>
+ <text>to provide compensation for the period of the covered lapse in appropriations, at an employee’s standard rate of compensation, to any employee who, as a result of the lapse in appropriations—</text>
+                        <clause commented="no" display-inline="no-display-inline" id="id935ef0d9404b4f2389319ca9f71ba082">
+                            <enum>(i)</enum>
+ <text display-inline="yes-display-inline">was furloughed or laid off;</text>
+                        </clause>
+                        <clause commented="no" display-inline="no-display-inline" id="id86158dddaa04489299961836626f3b94">
+                            <enum>(ii)</enum>
+ <text display-inline="yes-display-inline">was otherwise not working;</text>
+                        </clause>
+                        <clause commented="no" display-inline="no-display-inline" id="idd795a5a734a547bfa3ddb6e0e637f900">
+                            <enum>(iii)</enum>
+ <text display-inline="yes-display-inline">experienced a reduction of hours; or</text>
+                        </clause>
+                        <clause commented="no" display-inline="no-display-inline" id="id91495443ad9849409c79c16167112e1a">
+                            <enum>(iv)</enum>
+ <text display-inline="yes-display-inline">experienced a reduction in compensation; or</text>
+                        </clause>
+                    </subparagraph>
+                    <subparagraph id="idfb9bf28dbe444df187006b249dcc1674" commented="no">
+                        <enum>(B)</enum>
+ <text>to restore paid leave taken by any employee during the lapse in appropriations, if the contractor required or permitted employees to use paid leave as a result of the lapse in appropriations.</text>
+                    </subparagraph>
+                </paragraph>
+                <paragraph id="id401e45db924c42668f154682255d0b85" commented="no">
+                    <enum>(4)</enum>
+                    <header>Evidence</header>
+ <text>A contractor seeking an adjustment under paragraph (1) shall provide the head of the applicable agency any evidence of the reasonable costs incurred by the contractor as described in paragraph (3) as the head of the agency, in consultation with the Administrator of the Office of Federal Procurement Policy, considers appropriate.</text>
+                </paragraph>
+            </subsection>
+            <subsection id="id1bfdcba1eb5749e78f21d82d0ff28a77">
+                <enum>(d)</enum>
+                <header>Termination</header>
+ <text>Appropriations and funds made available and authority granted under subsection (b) shall be available to the head of an agency until the termination date.</text>
+            </subsection>
+            <subsection id="id0c0398e1a9b74ed8b2dbd74335ee1fec">
+                <enum>(e)</enum>
+                <header>Charge to future appropriations</header>
+ <text>Expenditures made pursuant to this Act shall be charged to the applicable appropriation, fund, or authorization whenever a bill in which such applicable appropriation, fund, or authorization is enacted into law.</text>
+            </subsection>
+            <subsection id="id2252f6fce9f24c96ba3348b98faff6f9">
+                <enum>(f)</enum>
+                <header>Retroactive effective date</header>
+ <text>This section shall take effect as if enacted on September 30, 2025.</text> </subsection> </section> <section id="id321fa5e74f3e410e8dfb86e331a35195"> <enum>3.</enum> <header>Limitation on reductions in force</header> <subsection id="id054e00ae8c9f47e4892a27b8538f8656"> <enum>(a)</enum> <header>Definitions</header> <text>In this section, the terms <term>agency</term> and <term>covered lapse in appropriations</term> have the meanings given those terms in section 2(a).</text>
+            </subsection>
+            <subsection id="ida8341c7286274db888b9386b5c375590">
+                <enum>(b)</enum>
+                <header>Prohibition</header>
+ <text>During the covered lapse in appropriations, none of the funds made available by this or any other Act may be used to—</text>
+                <paragraph id="id93fb7822350f41018f803205391068c9">
+                    <enum>(1)</enum>
+ <text>propose or implement a reduction in force, or any similar effort, to permanently reduce the number of employees employed by an agency; or</text>
+                </paragraph>
+                <paragraph id="idafee2453174c46a19b949e91db2b4e59">
+                    <enum>(2)</enum>
+ <text>place any employee of an agency in administrative leave for more than 10 work days in any calendar year.</text>
+                </paragraph>
+            </subsection>
+            <subsection id="id682fcd7269f34b08b7f77ae4b22ff933">
+                <enum>(c)</enum>
+                <header>Rule of construction</header>
+ <text>Nothing in this section may be construed to affect a voluntary separation payment offered to an employee under section 3523 of title 5, United States Code.</text>
+            </subsection>
+        </section>
+    </legis-body>
+</bill>
+

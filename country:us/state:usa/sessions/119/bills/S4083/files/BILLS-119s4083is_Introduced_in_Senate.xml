@@ -1,0 +1,143 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-type="olc" bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public" slc-id="S1-GAI26137-524-RT-818"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 S4083 IS: Working Americans’ Tax Cut Act</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2026-03-12</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">II</distribution-code><congress>119th CONGRESS</congress><session>2d Session</session><legis-num>S. 4083</legis-num><current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber><action><action-date date="20260312">March 12, 2026</action-date><action-desc><sponsor name-id="S390">Mr. Van Hollen</sponsor> (for himself, <cosponsor name-id="S406">Mr. Kelly</cosponsor>, <cosponsor name-id="S331">Mrs. Gillibrand</cosponsor>, <cosponsor name-id="S370">Mr. Booker</cosponsor>, <cosponsor name-id="S426">Mr. Kim</cosponsor>, <cosponsor name-id="S253">Mr. Durbin</cosponsor>, <cosponsor name-id="S313">Mr. Sanders</cosponsor>, <cosponsor name-id="S322">Mr. Merkley</cosponsor>, <cosponsor name-id="S337">Mr. Coons</cosponsor>, <cosponsor name-id="S341">Mr. Blumenthal</cosponsor>, <cosponsor name-id="S353">Mr. Schatz</cosponsor>, <cosponsor name-id="S354">Ms. Baldwin</cosponsor>, <cosponsor name-id="S361">Ms. Hirono</cosponsor>, <cosponsor name-id="S359">Mr. Heinrich</cosponsor>, <cosponsor name-id="S363">Mr. King</cosponsor>, <cosponsor name-id="S369">Mr. Markey</cosponsor>, <cosponsor name-id="S422">Mr. Welch</cosponsor>, <cosponsor name-id="S427">Mr. Schiff</cosponsor>, and <cosponsor name-id="S430">Ms. Blunt Rochester</cosponsor>) introduced the following bill; which was read twice and referred to the <committee-name committee-id="SSFI00">Committee on Finance</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title>To amend the Internal Revenue Code of 1986 to make certain modifications in relation to the taxation of income required to fund basic living expenses, and for other purposes.</official-title></form><legis-body style="OLC" display-enacting-clause="yes-display-enacting-clause" id="HD51164F7A3634C17B902E7777896E06F"><section section-type="section-one" id="H8C32458A37AC4C85963E9A31F4608AFF"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Working Americans’ Tax Cut Act</short-title></quote>.</text></section><section id="H81D76298E6FF4D6992D53AC08E0D8C3B"><enum>2.</enum><header>Alternative maximum tax for low-income individuals</header><subsection id="HD2D39A33F6DA479E99831A6D7107D50D"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">Part I of subchapter A of <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/26/1">chapter 1</external-xref> of the Internal Revenue Code of 1986 is amended by inserting after section 1 the following new section:</text><quoted-block style="OLC" display-inline="no-display-inline" id="HF324F2C4033F48F9A903F735B540E1C0"><section id="HE0CA372D50FF44C0AC0F89CFACA12AF1"><enum>1A.</enum><header>Alternative maximum tax for low- and middle-income individuals</header><subsection id="HE47754D4F8F04D6B996FBF47F6429152"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">In the case of a qualified individual, the tax imposed under section 1 for any taxable year shall not exceed 25.5 percent of the excess of—</text><paragraph id="H17529E03657048ACB0BF1CFD643BE708"> <enum>(1)</enum> <text>the taxpayer’s modified adjusted gross income for such taxable year, over</text>
+ </paragraph><paragraph id="HF1CECC28442545799A48918627031941"><enum>(2)</enum><text>the cost-of-living exemption for such taxable year.</text></paragraph></subsection><subsection id="H15180C0DFD6E4E729C862B002C9FAAA3"><enum>(b)</enum><header>Qualified individual</header><paragraph commented="no" display-inline="no-display-inline" id="id2fa3e98bbda34be5b7d5436e84538636"><enum>(1)</enum><header>In general</header><text display-inline="yes-display-inline">For purposes of this section, the term <term>qualified individual</term> means, with respect to any taxable year, any individual if the taxpayer's modified adjusted gross income for such taxable year is less than 175 percent of the cost-of-living exemption for such taxable year.</text></paragraph><paragraph commented="no" display-inline="no-display-inline" id="id569e97b4fa7a4a8aaa728796b0ff991b"><enum>(2)</enum><header>Exception</header><text>The term <term>qualified individual</term> shall not include any person described in section 63(c)(6).</text></paragraph></subsection><subsection id="H9A11C48C94414257A4D50ADF4C4CA3C6"> <enum>(c)</enum> <header>Cost-of-Living exemption</header> <text>For purposes of this section—</text>
+                            <paragraph id="H14C206827AAD4858AA7F893B6489F193">
+                                <enum>(1)</enum>
+                                <header>In general</header>
+ <text>The term <term>cost-of-living exemption</term> means, with respect to any taxable year—</text>
+                                <subparagraph id="H3EFAC4FCBFC0414DB03D016309EA2A68">
+                                    <enum>(A)</enum>
+ <text>in the case of a taxpayer not described in subparagraph (B) or (C), 100 percent of the annualized cost-of-living wage,</text>
+                                </subparagraph>
+                                <subparagraph id="H45F1E668C15342C3A789752D79565574">
+                                    <enum>(B)</enum>
+ <text>in the case of a joint return, 200 percent of the annualized cost-of-living wage, and</text>
+                                </subparagraph>
+                                <subparagraph id="H949AA1463CF1436B87B2A2AB459D6520">
+                                    <enum>(C)</enum>
+ <text>in the case of a head of household, 140 percent of the annualized cost-of-living wage.</text>
+                                </subparagraph>
+                            </paragraph>
+                            <paragraph id="id54efa9fea5a54118b7c1259061d04e4d">
+                                <enum>(2)</enum>
+                                <header>Annualized cost of living wage</header>
+                                <subparagraph commented="no" display-inline="no-display-inline"
+                                    id="idd9aad4c86c0b4758b2c3703a91c175e3">
+                                    <enum>(A)</enum>
+                                    <header>In general</header>
+ <text display-inline="yes-display-inline">The term <term>annualized cost-of-living wage</term> means, with respect to any taxable year, an amount equal to $46,000, multiplied by the ratio of—</text>
+                                    <clause id="idced427ef0d1d4ffe838e3ab0e54870b8">
+                                        <enum>(i)</enum>
+ <text>the CPI–U for the calendar year preceding the calendar year in which such taxable year begins, to</text>
+                                    </clause>
+                                    <clause id="idc0a60a63146f47189b730f250f82583a">
+                                        <enum>(ii)</enum>
+ <text display-inline="yes-display-inline">the CPI–U for the calendar year preceding the calendar year of the date of enactment of the <short-title>Working Americans’ Tax Cut Act</short-title>.</text>
+                                    </clause>
+                                </subparagraph>
+                                <subparagraph commented="no" display-inline="no-display-inline"
+                                    id="id656e9dc74a574c688d7a06f5e70412e7">
+                                    <enum>(B)</enum>
+                                    <header>CPI–U</header>
+ <text>For purposes of this paragraph, the term <term>CPI–U</term> means, when used with respect to a calendar year, the Consumer Price Index for all urban consumers, as published by the Bureau of Labor Statistics, for September of such year.</text>
+                                </subparagraph>
+                            </paragraph>
+ </subsection><subsection id="HBE7DFDCDB1D949FB978C75328C123C52"><enum>(d)</enum><header>Modified adjusted gross income</header><text display-inline="yes-display-inline">For purposes of this section, the term <quote>modified adjusted gross income</quote> means adjusted gross income increased by—</text><paragraph commented="no" display-inline="no-display-inline" id="idf99d7d91060b4d9e8cb729bf545d9a7e"><enum>(1)</enum><text display-inline="yes-display-inline">any amount excluded from gross income under section 911, 931, or 933, and</text></paragraph><paragraph commented="no" display-inline="no-display-inline" id="id06cdf5252dff4a1aad49631d0f6aa51e"><enum>(2)</enum><text display-inline="yes-display-inline">an amount equal to the portion of the taxpayer's social security benefits (as defined in section 86(d)) which is not included in gross income under section 86 for the taxable year.</text></paragraph></subsection></section><after-quoted-block>.</after-quoted-block></quoted-block></subsection><subsection id="H14B2F11D24FD453AB57A6F19D5128703"><enum>(b)</enum><header>Clerical amendment</header><text display-inline="yes-display-inline">The table of sections for part I of subchapter A of chapter 1 of such Code is amended by inserting after the item relating to section 1 the following new item:</text><quoted-block style="OLC" display-inline="no-display-inline" id="HA163F6478DD54B1B83A02BEDD9B3839C"><toc container-level="quoted-block-container" quoted-block="no-quoted-block" lowest-level="section" idref="HF324F2C4033F48F9A903F735B540E1C0" regeneration="yes-regeneration" lowest-bolded-level="division-lowest-bolded"><toc-entry idref="HE0CA372D50FF44C0AC0F89CFACA12AF1" level="section">Sec. 1A. Alternative maximum tax for low- and middle-income individuals.</toc-entry></toc><after-quoted-block>.</after-quoted-block></quoted-block></subsection><subsection id="H64856428CB0B4C33AFAD2F2D9C5A2F11"><enum>(c)</enum><header>Effective date</header><text>The amendments made by this section shall apply to taxable years beginning after December 31, 2025.</text></subsection></section><section display-inline="no-display-inline" id="HA28A15FC25DD45F4BA246FB84F76BC65"><enum>3.</enum><header>Surcharge on high income individuals</header><subsection commented="no" display-inline="no-display-inline" id="H563E79EC4B4C4364BD17CF26CF1E2531"><enum>(a)</enum><header display-inline="yes-display-inline">In general</header><text display-inline="yes-display-inline">Subchapter A of <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/26/1">chapter 1</external-xref> of the Internal Revenue Code of 1986 is amended by adding at the end the following new part:</text><quoted-block style="OLC" display-inline="no-display-inline" id="H68B3E5ED711A460899A59259AD8FEE8E"><part id="HE68ADC46065E49E29EAD319B3A46EF9A"><enum>VIII</enum><header>Surcharge on high income individuals</header><toc container-level="subpart-container" idref="HE68ADC46065E49E29EAD319B3A46EF9A" lowest-bolded-level="division-lowest-bolded" lowest-level="section" quoted-block="no-quoted-block" regeneration="yes-regeneration"><toc-entry idref="H7C1EBF7ADD474F3887944D5F3CCAB13C" level="section">Sec. 59B. Surcharge on high income individuals.</toc-entry></toc><section id="H7C1EBF7ADD474F3887944D5F3CCAB13C"> <enum>59B.</enum> <header>Surcharge on high income individuals</header> <subsection id="H522C22D8E2304DAF939665731F5591A5"> <enum>(a)</enum> <header>General rule</header> <text>In the case of a taxpayer other than a corporation, there is hereby imposed (in addition to any other tax imposed by this subtitle) a tax equal to the sum of—</text>
+                                <paragraph commented="no" display-inline="no-display-inline" id="id5f9b96145b2a4d58a4513513799191f2">
+                                    <enum>(1)</enum>
+ <text display-inline="yes-display-inline">5 percent of so much of the modified adjusted gross income of the taxpayer as exceeds $1,000,000, but does not exceed $2,000,000,</text>
+                                </paragraph>
+                                <paragraph commented="no" display-inline="no-display-inline" id="idb7a1a3c47ce0413182244138ae7c081c">
+                                    <enum>(2)</enum>
+ <text>10 percent of so much of the modified adjusted gross income of the taxpayer as exceeds $2,000,000, but does not exceed $5,000,000, plus</text>
+                                </paragraph>
+                                <paragraph commented="no" display-inline="no-display-inline" id="id3f3057a6812e40d5bfd105d1a52495f6">
+                                    <enum>(3)</enum>
+ <text>12 percent of so much of the modified adjusted gross income of the taxpayer as exceeds $5,000,000.</text>
+                                </paragraph>
+                            </subsection>
+                            <subsection id="HD473BA765C5E4A76BEB25897E10CC2B9">
+                                <enum>(b)</enum>
+                                <header>Inflation adjustment</header>
+                                <paragraph commented="no" display-inline="no-display-inline" id="id517e9770ed9d4f518191ae9a8b249d5d">
+                                    <enum>(1)</enum>
+                                    <header>In general</header>
+ <text display-inline="yes-display-inline">In the case of any taxable year beginning after 2026, subsection (a) shall be applied by substituting each dollar amount in such subsection with an amount equal to the product of—</text>
+                                    <subparagraph commented="no" display-inline="no-display-inline" id="id34508dfab40b47eba7a7c49b3b7dbdd6">
+                                        <enum>(A)</enum>
+ <text display-inline="yes-display-inline">such dollar amount (as determined without regard to this subsection), multiplied by</text>
+                                    </subparagraph>
+                                    <subparagraph commented="no" display-inline="no-display-inline" id="idce486ff04d92426486e0ebb44f81ec38">
+                                        <enum>(B)</enum>
+ <text display-inline="yes-display-inline">an amount equal to the ratio of—</text>
+                                        <clause id="id212f442bc28d4bdcab45d7ccc2f1d2b5">
+                                            <enum>(i)</enum>
+ <text>the CPI–U for the calendar year preceding the calendar year in which such taxable year begins, to</text>
+                                        </clause>
+                                        <clause id="idce6cc766334545a1ad90fbc302e27cc8">
+                                            <enum>(ii)</enum>
+ <text display-inline="yes-display-inline">the CPI–U for the calendar year preceding the calendar year of the date of enactment of the <short-title>Working Americans’ Tax Cut Act</short-title>.</text>
+                                        </clause>
+                                    </subparagraph>
+                                </paragraph>
+                                <paragraph commented="no" display-inline="no-display-inline" id="id5c796f8cd7c74f29b4a4b785984a405d">
+                                    <enum>(2)</enum>
+                                    <header>CPI–U</header>
+ <text>For purposes of this subsection, the term <term>CPI–U</term> means, when used with respect to a calendar year, the Consumer Price Index for all urban consumers, as published by the Bureau of Labor Statistics, for September of such year.</text>
+                                </paragraph>
+                            </subsection>
+                            <subsection commented="no" display-inline="no-display-inline" id="id1c74a3822ece4159a525d8f2ac9cdac7">
+                                <enum>(c)</enum>
+                                <header display-inline="yes-display-inline">Taxpayers making a joint
+                                    return</header>
+ <text>In the case of any taxpayer filing a joint return under section 6013, subsection (a) shall be applied (after the application of subsection (b)) by increasing each of the dollar amounts by an amount equal to 50 percent of such dollar amount.</text>
+                            </subsection>
+                            <subsection commented="no" display-inline="no-display-inline" id="idc4b71f0fe052465a8f79cead3adde7fe">
+                                <enum>(d)</enum>
+                                <header display-inline="yes-display-inline">Modified adjusted gross
+                                    income</header>
+ <text display-inline="yes-display-inline">For purposes of this section, the term <term>modified adjusted gross income</term> means adjusted gross income reduced by any deduction (not taken into account in determining adjusted gross income) allowed for investment interest (as defined in section 163(d)). In the case of an estate or trust, adjusted gross income shall be determined as provided in section 67(e).</text>
+                            </subsection>
+                            <subsection id="HFA8AA1245BC645B7A981845A6CC111B8">
+                                <enum>(e)</enum>
+                                <header>Special rules</header>
+                                <paragraph id="HE209317559AE4E23A1DA7DBBB99D7BDA">
+                                    <enum>(1)</enum>
+                                    <header>Citizens and residents living abroad</header>
+ <text>The dollar amount in effect under subsection (a) (after the application of subsections (b) and (c)) shall be decreased by the excess of—</text>
+                                    <subparagraph id="H6E27F8680FA049258B36663D24BE3896">
+                                        <enum>(A)</enum>
+ <text>the amounts excluded from the taxpayer’s gross income under section 911, over</text>
+                                    </subparagraph>
+                                    <subparagraph id="H7531001F71C84E82A887592694AEC1CE">
+                                        <enum>(B)</enum>
+ <text display-inline="yes-display-inline">the amounts of any deductions or exclusions disallowed under section 911(d)(6) with respect to the amounts described in subparagraph (A).</text>
+                                    </subparagraph>
+                                </paragraph>
+                                <paragraph id="HA4587652828F4C6DBC43739FF0CF8984">
+                                    <enum>(2)</enum>
+                                    <header>Charitable trusts</header>
+ <text display-inline="yes-display-inline">Subsection (a) shall not apply to a trust all the unexpired interests in which are devoted to one or more of the purposes described in section 170(c)(2)(B).</text>
+                                </paragraph>
+                                <paragraph commented="no" display-inline="no-display-inline" id="HBD3512E2CD7D47C0A4F86D17D52EB726">
+                                    <enum>(3)</enum>
+                                    <header>Not treated as tax imposed by this chapter for certain
+                                        purposes</header>
+ <text display-inline="yes-display-inline">The tax imposed under this section shall not be treated as tax imposed by this chapter for purposes of determining the amount of any credit under this chapter or for purposes of section 55.</text>
+                                </paragraph>
+                            </subsection>
+ </section></part><after-quoted-block>.</after-quoted-block></quoted-block></subsection><subsection id="HC6FCA2783A964BF59FE37164A4691B42"><enum>(b)</enum><header>Clerical amendment</header><text>The table of parts for subchapter A of <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/26/1">chapter 1</external-xref> of the Internal Revenue Code of 1986 is amended by adding at the end the following new item:</text><quoted-block style="OLC" id="id054640dc-2362-4351-9b07-9070fed3a7f7"><toc><toc-entry idref="HE68ADC46065E49E29EAD319B3A46EF9A" level="part">Part VIII—Surcharge on high income individuals</toc-entry></toc><after-quoted-block>.</after-quoted-block></quoted-block></subsection><subsection display-inline="no-display-inline" id="H5E1A86FC968B49B1B50DCA1A6C1E2B1D"><enum>(c)</enum><header>Section 15 not To apply</header><text>The amendment made by subsection (a) shall not be treated as a change in a rate of tax for purposes of <external-xref legal-doc="usc" parsable-cite="usc/26/15">section 15</external-xref> of the Internal Revenue Code of 1986.</text></subsection><subsection commented="no" display-inline="no-display-inline" id="H1037A56D9D63420793B242ED2124B414"><enum>(d)</enum><header>Effective date</header><text>The amendments made by this section shall apply to taxable years beginning after December 31, 2025.</text></subsection></section></legis-body></bill>
+

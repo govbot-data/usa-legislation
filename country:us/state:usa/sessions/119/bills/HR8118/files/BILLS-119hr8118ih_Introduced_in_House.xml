@@ -1,0 +1,115 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" public-private="public" dms-id="H13DBE7179BDD4FDB87442F33BD3E4D20">
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 HR 8118 IH: Election Infrastructure Integrity Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2026-03-26</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code>
+<congress display="yes">119th CONGRESS</congress><session display="yes">2d Session</session>
+<legis-num display="yes">H. R. 8118</legis-num>
+<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+<action display="yes">
+<action-date date="20260326">March 26, 2026</action-date>
+<action-desc><sponsor name-id="N000190">Mr. Norman</sponsor> (for himself, <cosponsor name-id="M001212">Mr. Moore of Alabama</cosponsor>, and <cosponsor name-id="C001132">Mr. Crane</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HHA00">Committee on House Administration</committee-name></action-desc>
+</action>
+<legis-type>A BILL</legis-type>
+<official-title display="yes">To require the Election Assistance Commission to establish and maintain a publicly accessible database of private vendors that provide, support, or maintain any component of the election systems used in the administration of elections for Federal office, and for other purposes.</official-title>
+</form>
+<legis-body id="HF4C328B794224186B4AB2FDD12C70965">
+<section id="H906AAA20C4C24F0B9838DEF1EFEA7D97" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Election Infrastructure Integrity Act</short-title></quote>.</text></section> <section id="H26C3189C073B4743849720DE37479477"> <enum>2.</enum> <header>Election vendor transparency database</header> <subsection id="H423AE6272AED40B2A3E390A3B4481F4A"> <enum>(a)</enum> <header>In general</header> <text>Title III of the Help America Vote Act of 2002 (<external-xref legal-doc="usc" parsable-cite="usc/52/21083">52 U.S.C. 21083 et seq.</external-xref>) is amended—</text>
+                <paragraph id="HD15C19D015D94700AF3DBA75F00D951A">
+                    <enum>(1)</enum>
+ <text>by redesignating sections 305 and 306 as sections 306 and 307; and</text> </paragraph> <paragraph id="HABD60E12D65B4ECB804EC8D98A5576E1"> <enum>(2)</enum> <text>by inserting after section 304 the following new section:</text>
+                    <quoted-block id="H1942F2C56F6E4107803906ACD009ACB6" style="OLC">
+                        <section id="H266118FBC39B4E13BBC74D7FDCC663BA">
+                            <enum>305.</enum>
+                            <header>Election vendor transparency database</header>
+                            <subsection id="H56C25C16C8CF46CCBA6A2964EE7E02F2">
+                                <enum>(a)</enum>
+                                <header>In general</header>
+ <text>The Commission shall establish and maintain a publicly accessible database of private vendors that provide, support, or maintain any component of the election systems used in the administration of elections for Federal office as submitted under subsection (b) by each State, unit of local government, and component of a State or unit of local government which is responsible for the administration of an election for Federal office.</text>
+                            </subsection>
+                            <subsection id="H665B8EC6BCE949E6BF9B7E5692615C69">
+                                <enum>(b)</enum>
+                                <header>Requirement To submit information to commission</header>
+ <text>Each State, unit of local government, or component of a State or unit of local government which is responsible for the administration of an election for Federal office shall, not later than 30 days after the date of each election for Federal office held in such State, submit to the Commission the information required under subsection (c) with respect to each private vendor that provided, supported, or maintained any component of the election systems used in the administration of such election for Federal office and the Commission shall promptly add such information to the database established under subsection (a).</text>
+                            </subsection>
+                            <subsection id="HEFCD598621BF401FA64FCD4509DE8EB1">
+                                <enum>(c)</enum>
+                                <header>Information required</header>
+ <text>With respect to a vendor described in subsection (b), the information required is as follows:</text>
+                                <paragraph id="HF43F208E70CD42A6AE5C3161306323AD">
+                                    <enum>(1)</enum>
+ <text>The identity of the vendor.</text> </paragraph> <paragraph id="HA71AA2A9AB09492A8E0E5D48DED65C80"> <enum>(2)</enum> <text>The terms of any contract or agreement with the vendor, except with respect to any information withheld due to security reasons.</text>
+                                </paragraph>
+                                <paragraph id="HFB4317EDAEEB4F4DACE1D0FB4EBA4C9B">
+                                    <enum>(3)</enum>
+ <text>Information with respect to the ownership of the vendor, including any parent companies, beneficial owners, and any foreign ownership or controlling interests.</text>
+                                </paragraph>
+                            </subsection>
+                            <subsection id="H30B161C80DA14F90A066CCBB06F7A842">
+                                <enum>(d)</enum>
+                                <header>Prohibition on federal funds for election administration If
+                                    noncompliant</header>
+ <text>Notwithstanding any other provision of law, no Federal funds may be provided under this Act or any other Act to administer an election for Federal office in a State if the State does not comply with the requirements under this section.</text>
+                            </subsection>
+                            <subsection id="HFA2EF8D07A5048998C22D4347608C972">
+                                <enum>(e)</enum>
+                                <header>Definitions</header>
+ <text>In this section—</text> <paragraph id="H0E1F1BF8CB644A37B907701256ED3F5A"> <enum>(1)</enum> <text>the term <quote>beneficial owner</quote> means a person that is determined to be a beneficial owner under section 240.13d–3 of title 17, Code of Federal Regulations, or any successor regulation;</text>
+                                </paragraph>
+                                <paragraph id="H579E409725374322BFD009864C335D52">
+                                    <enum>(2)</enum>
+ <text>the term <quote>election system</quote> means a voting system, an election management system, a voter registration website or database, an electronic pollbook, a system for tabulating or reporting election results, an election agency communications system, or any other information system (as defined in section 3502 of title 44, United States Code) that the Commission identifies as central to the management, support, or administration of a Federal election; and</text>
+                                </paragraph>
+                                <paragraph id="HF2902886ED8443BCA104F5886E1308ED">
+                                    <enum>(3)</enum>
+ <text>the term <quote>voting system</quote> has the meaning given the term in section 301(b) of the Help America Vote Act of 2002 (<external-xref legal-doc="usc" parsable-cite="usc/52/21081">52 U.S.C. 21081(b)</external-xref>).</text>
+                                </paragraph>
+                            </subsection>
+                        </section>
+                        <after-quoted-block>.</after-quoted-block>
+                    </quoted-block>
+                </paragraph>
+            </subsection>
+            <subsection id="HAFF52F7E686C4502B9B57C04A56AE22D">
+                <enum>(b)</enum>
+                <header>Conforming amendment relating to enforcement</header>
+ <text>Section 401 of such Act (<external-xref legal-doc="usc" parsable-cite="usc/52/21111">52 U.S.C. 21111</external-xref>) is amended by striking <quote>and 304</quote> and inserting <quote>304, and 305</quote>.</text>
+            </subsection>
+            <subsection id="H4C3E130F3911409689E8E86E19228FFA">
+                <enum>(c)</enum>
+                <header>Clerical amendments</header>
+ <text>The table of contents of such Act is amended—</text> <paragraph id="H84344D43F58F48238429A07BB2D8ABF5"> <enum>(1)</enum> <text>by redesignating the items relating to sections 305 and 306 as relating to sections 306 and 307; and</text>
+                </paragraph>
+                <paragraph id="H34ADF36F0C4F4D5BB159AF464511E324">
+                    <enum>(2)</enum>
+ <text>by inserting after the item relating to section 304 the following new item:</text>
+                    <quoted-block id="H16D6E1A01AE54F0F93A8C49BD07EF5DA" style="OLC">
+                        <toc>
+                            <toc-entry level="section">Sec. 305. Election vendor transparency
+                                database.</toc-entry>
+                        </toc>
+                        <after-quoted-block>.</after-quoted-block>
+                    </quoted-block>
+                </paragraph>
+            </subsection>
+            <subsection id="H2E22F78990F24C0B9CC9FFD7B1344D39">
+                <enum>(d)</enum>
+                <header>Effective date</header>
+ <text>The amendments made by this section shall apply with respect to elections for Federal office held in 2026 and each succeeding year.</text>
+            </subsection>
+        </section>
+</legis-body>
+</bill> 
+
+
