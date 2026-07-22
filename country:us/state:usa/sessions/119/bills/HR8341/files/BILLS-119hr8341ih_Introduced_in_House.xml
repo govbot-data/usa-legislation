@@ -1,0 +1,208 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H8E0D2FA3E934427CBD5DAB18C9ACDA68" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 HR 8341 IH: Denaturalization and Expulsion of Persons who Orchestrate Radical Terrorism Act of 2026</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2026-04-16</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">119th CONGRESS</congress><session display="yes">2d Session</session><legis-num display="yes">H. R. 8341</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20260416">April 16, 2026</action-date><action-desc><sponsor name-id="M001235">Mr. Moore of West Virginia</sponsor> (for himself, <cosponsor name-id="G000603">Mr. Gill of Texas</cosponsor>, <cosponsor name-id="F000484">Mr. Fine</cosponsor>, <cosponsor name-id="H001095">Mr. Hunt</cosponsor>, <cosponsor name-id="M000194">Ms. Mace</cosponsor>, <cosponsor name-id="O000175">Mr. Ogles</cosponsor>, <cosponsor name-id="M001212">Mr. Moore of Alabama</cosponsor>, <cosponsor name-id="C001132">Mr. Crane</cosponsor>, and <cosponsor name-id="C001103">Mr. Carter of Georgia</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HJU00">Committee on the Judiciary</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To amend the Immigration and Nationality Act to require an attestation disavowing terrorist intent prior to naturalization of any alien.</official-title></form><legis-body id="HD996457C4CAB4B509BB7D730D972E3B7" style="OLC"> 
+<section id="H0548C1929BD34468B3E987AAF906DA12" section-type="section-one"><enum>1.</enum><header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Denaturalization and Expulsion of Persons who Orchestrate Radical Terrorism Act of 2026</short-title></quote> or as the <quote><short-title>DEPORT Act of 2026</short-title></quote>.</text></section> 
+<section id="H708E1FA464104B0497B6B6F9D578001A"><enum>2.</enum><header>Terrorism attestation requirement for naturalization</header><text display-inline="no-display-inline">Section 316 of the Immigration and Nationality Act (<external-xref legal-doc="usc" parsable-cite="usc/8/1427">8 U.S.C. 1427</external-xref>) is amended by adding at the end the following:</text> <quoted-block style="OLC" id="HBD3FC5C2772B4F50B1386E686E2E2814" display-inline="no-display-inline"> <subsection id="H122034748ED34146A3C6950C24DB4224"><enum>(g)</enum><header>Terrorism attestation</header> <paragraph id="HD757E17CB8A24C3AA44DB5C130364D4F"><enum>(1)</enum><header>In general</header><text display-inline="yes-display-inline">As a condition of naturalization, each applicant shall execute under oath and under penalty of perjury a written attestation, on such form as the Secretary of Homeland Security shall prescribe, that the applicant—</text> 
+<subparagraph id="H712B1A7332F04AB09DDBE16F5C06855D"><enum>(A)</enum><text>has not been convicted of, or had charges pending for, any covered offense, as defined in paragraph (4), at the time of the naturalization application or oath of allegiance; and</text></subparagraph> <subparagraph id="HFA9702F6D8144C77AADE38D1FDB788E4"><enum>(B)</enum><text>does not, at the time of naturalization, possess an intent to commit any covered offense in the future.</text></subparagraph></paragraph> 
+<paragraph id="H0CBCECF243354C4C986194DB408842F1">
+            <enum>(2)</enum>
+            <header>Form requirement</header>
+ <text display-inline="yes-display-inline">Not later than 180 days after the date of enactment of this subsection, the Secretary of Homeland Security shall revise the application for naturalization (Form N–400, or any successor form) to include the attestation required under paragraph (1), with each covered offense listed individually, requiring the applicant to separately affirm compliance as to each such offense.</text>
+          </paragraph> 
+<paragraph id="HD137BBE752444B7DBD8D64F459407526"><enum>(3)</enum><header>Oath requirement</header><text>The oath of allegiance administered under section 337 shall include an express renunciation of any intent to engage in any covered offense against the United States or its people.</text></paragraph> <paragraph id="HB3DF5DD647704BCF86865EC43D28198F"><enum>(4)</enum><header>Covered offenses defined</header><text>For purposes of this subsection and section 340(f), the term <quote>covered offense</quote> means any of the following:</text> 
+<subparagraph id="HB781047C4A48448BB95DCA49BA44A27F"><enum>(A)</enum><text>Any Federal crime of terrorism, as defined in section 2332b(g)(5) of title 18, United States Code.</text></subparagraph> <subparagraph id="H8D3ADD58F9FF404D8B3C08F33EE6B0D1"><enum>(B)</enum><text>Any offense under section 2339A of title 18, United States Code (relating to providing material support to terrorists).</text></subparagraph> 
+<subparagraph id="HE6B4D9A475224F929EFD319E5A797969"><enum>(C)</enum><text>Any offense under section 2339B of title 18, United States Code (relating to providing material support or resources to designated foreign terrorist organizations).</text></subparagraph> <subparagraph id="H3FAA41CE1AB0492FB18FB7C48F448722"><enum>(D)</enum><text>Any offense under section 2339C of title 18, United States Code (relating to financing of terrorism).</text></subparagraph> 
+<subparagraph id="HA19A620E79C64037BFD8C0BD1DC721A7"><enum>(E)</enum><text>Any offense under section 2339D of title 18, United States Code (relating to receiving military-type training from a foreign terrorist organization).</text></subparagraph> <subparagraph id="H735F51BA09F0404E9610E76925DB39D3"><enum>(F)</enum><text>Any offense under section 2332a of title 18, United States Code (relating to use of weapons of mass destruction).</text></subparagraph> 
+<subparagraph id="HDA6B0E4DC4724B7FB15348ECC855BC62"><enum>(G)</enum><text>Any offense under sections 175, 175c, or 178 of title 18, United States Code (relating to biological weapons).</text></subparagraph> <subparagraph id="HE454AFB6429C4C6892AFA58D7BF17942"><enum>(H)</enum><text>Any offense under section 229 of title 18, United States Code (relating to chemical weapons).</text></subparagraph> 
+<subparagraph id="H592A737F85794B2995668401AD22DDC8"><enum>(I)</enum><text>Any offense under section 831 of title 18, United States Code (relating to prohibited transactions involving nuclear materials).</text></subparagraph> <subparagraph id="H21D8ED8037474D27AB9DC361DEBA6A21"><enum>(J)</enum><text>Any offense under section 32 of title 18, United States Code (relating to destruction of aircraft or aircraft facilities).</text></subparagraph> 
+<subparagraph id="H277F306EE98D47939066513C874C70F8"><enum>(K)</enum><text>Any offense under section 37 of title 18, United States Code (relating to violence at international airports).</text></subparagraph> <subparagraph id="HAA9B52DCD5A24974BC829923C62472CB"><enum>(L)</enum><text>Any offense under section 1203 of title 18, United States Code (relating to hostage taking).</text></subparagraph> 
+<subparagraph id="H455BA95EBCD241C7A2DAC154AE73EC46"><enum>(M)</enum><text>Any offense under section 2280 or 2281 of title 18, United States Code (relating to violence against maritime navigation or maritime fixed platforms).</text></subparagraph> <subparagraph id="HDFF10F3CAB6A44F99A4F92A1D607BB7B"><enum>(N)</enum><text>Any offense under section 2332 of title 18, United States Code (relating to criminal penalties involving the killing of United States nationals abroad).</text></subparagraph> 
+<subparagraph id="HA45C0BDE412443DE8CF2F9ECF4B1BDF5"><enum>(O)</enum><text>Any offense under section 2332b of title 18, United States Code (relating to acts of terrorism transcending national boundaries).</text></subparagraph> <subparagraph id="H263A242F1AA44DC5AD5EC45FF44A5F2B"><enum>(P)</enum><text>Any offense under section 2332f of title 18, United States Code (relating to bombings of places of public use, government facilities, public transportation systems, and infrastructure facilities).</text></subparagraph> 
+<subparagraph id="HB8C754972F2143C2834E23C4451AC44F"><enum>(Q)</enum><text>Any offense under section 2332g or 2332h of title 18, United States Code (relating to missile systems designed to destroy aircraft and radiological dispersal devices).</text></subparagraph> <subparagraph id="H07592B5D3AAA4AD0B82EB7B6C106C766"><enum>(R)</enum><text>Any offense under section 2332i of title 18, United States Code (relating to acts of nuclear terrorism).</text></subparagraph> 
+<subparagraph id="H0E2BC56CDC054976AC23F56246F3E9AA"><enum>(S)</enum><text>Any offense under section 2384 of title 18, United States Code (relating to seditious conspiracy).</text></subparagraph> <subparagraph id="H3A1B81D5059A4F9AB16B49F8B6D3CD62"><enum>(T)</enum><text>Any offense under section 1992 of title 18, United States Code (relating to terrorist attacks and other violence against railroad carriers and against mass transportation systems on land, on water, or through the air).</text></subparagraph> 
+<subparagraph id="HBF94BB0A86B343EA993A6D377343D758"><enum>(U)</enum><text>Any offense under section 2283 or 2284 of title 18, United States Code (relating to transportation of explosives, destructive devices, and biological, chemical, nuclear, or radiological weapons, or transportation of terrorists).</text></subparagraph> <subparagraph id="H1B93E3D977ED442681D4D862BCD256C1"><enum>(V)</enum><text>Any conspiracy to commit, or attempt to commit, any of the offenses described in subparagraphs (A) through (U).</text></subparagraph></paragraph></subsection><after-quoted-block>.</after-quoted-block></quoted-block></section> 
+<section id="H2693754D19144722A2B0766DFCE4A7B1"><enum>3.</enum><header>Terrorism convictions and conduct as evidence of illegal procurement of naturalization</header><text display-inline="no-display-inline">Section 340 of the Immigration and Nationality Act (<external-xref legal-doc="usc" parsable-cite="usc/8/1451">8 U.S.C. 1451</external-xref>) is amended—</text> <paragraph id="H8355181D29FC40EB932B0EEFA847A6D0"><enum>(1)</enum><text>in subsection (a), by adding at the end the following: <quote>A conviction, finding, admission, or other credible evidence described in subsection (f) may constitute evidence that naturalization was illegally procured or procured by concealment of a material fact or by willful misrepresentation.</quote>; and</text></paragraph> 
+<paragraph id="H6848431E50A34925ABF0E98A219CAF57"><enum>(2)</enum><text>by adding at the end the following:</text> <quoted-block id="HCF07B7163D6F4CBF941A0C58D6A4A2E8" style="OLC"> <subsection id="H745D57D914B44224B9B1E6734CBCE12C"> <enum>(i)</enum> <header>Terrorism-Related conduct as evidence of illegal procurement</header> <paragraph id="H606D614102A9436FBD87C7684FEA4798"> <enum>(1)</enum> <header>Prima facie evidence of ineligibility for prior naturalization</header> <text display-inline="yes-display-inline">For any person who was naturalized prior to the effective date of the attestation requirement under section 316(g), a conviction described in paragraph (2), or a judicial or administrative finding, admission by the person, or other credible evidence of conduct described in paragraph (2), occurring within 10 years after the date of naturalization, shall constitute prima facie evidence that— </text>
+              <subparagraph id="HD872AD511BB34C8CA112F2FA6E02F7A2">
+                <enum>(A)</enum>
+ <text>the person lacked good moral character under section 101(f), attachment to the principles of the Constitution of the United States under section 316(a), and disposition to the good order and happiness of the United States required for naturalization; and </text>
+              </subparagraph>
+              <subparagraph id="H0FB2DD6BFF52470289D4DD51FCAF1377">
+                <enum>(B)</enum>
+ <text>the order admitting the person to citizenship and the certificate of naturalization were illegally procured or procured by concealment of a material fact or by willful misrepresentation. </text>
+              </subparagraph>
+              <continuation-text continuation-text-level="paragraph">The 10-year period in this
+                paragraph shall apply unless judicially determined to be unconstitutional as
+                applied, in which case a 7-year period shall apply, and if that period is likewise
+                determined unconstitutional, a 5-year period shall apply.</continuation-text>
+            </paragraph>
+            <paragraph id="H7B44C6F1E9924E1680A90428A67C3D2F">
+              <enum>(2)</enum>
+              <header>Covered offenses and conduct</header>
+ <text>The convictions, findings, admissions, or evidence described in this paragraph are—</text>
+              <subparagraph id="HAC8338CA503F4E5280CC57CFC742B49F">
+                <enum>(A)</enum>
+ <text>a conviction by a final judgment, after exhaustion of direct appeals, in any Federal court of competent jurisdiction, or by court-martial under <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/10/47">chapter 47</external-xref> of title 10, United States Code, for any covered offense as defined in section 316(g)(4), including any attempt or conspiracy to commit such an offense;</text>
+              </subparagraph>
+              <subparagraph id="HBFEEB115215C4E52AF655DE00B2F049A">
+                <enum>(B)</enum>
+ <text>knowing membership in, or material support to, a foreign terrorist organization designated under section 219 of this Act, or any organization engaged in terrorist activity as defined in section 212(a)(3)(B), where the person—</text>
+                <clause id="H825D2D1DD3DA466CB3950AF417AB6AD1">
+                  <enum>(i)</enum>
+ <text>knew or reasonably should have known of the organization’s designation or terrorist character at the time of membership or support;</text>
+                </clause>
+                <clause id="HA83F7014236746AA942BE233F2534453">
+                  <enum>(ii)</enum>
+ <text>actively participated in or materially contributed to the organization’s activities, finances, recruitment, or operations; and</text>
+                </clause>
+                <clause id="HDBDCCFA5503E44738C2C251F27DFDBCF">
+                  <enum>(iii)</enum>
+ <text>did not take affirmative steps to disassociate upon learning of the organization’s terrorist character; or</text>
+                </clause>
+              </subparagraph>
+              <subparagraph id="HAC9C2AD49E514346BE9ECA71B7F28A19">
+                <enum>(C)</enum>
+ <text>clear and convincing evidence, established through judicial findings in a civil proceeding under paragraph (4), that the person engaged in specific overt acts constituting terrorist activity as defined in section 212(a)(3)(B), where such evidence includes corroborating documentation, witness testimony, or other independently verifiable proof, and where the person has been afforded full opportunity to contest such evidence.</text>
+              </subparagraph>
+            </paragraph>
+            <paragraph id="HE5149DC8D7674121BEC437C00670EEB9">
+              <enum>(3)</enum>
+              <header>Presumption of illegal procurement based on attestation</header>
+ <text>For any naturalized citizen who executed an attestation under section 316(g), a subsequent conviction for a covered offense as defined in section 316(g)(4), regardless of when such conviction occurs, shall constitute evidence that naturalization was procured by concealment of a material fact or by willful misrepresentation. Specifically—</text>
+              <subparagraph id="H49C0311CC9384204AF0E7379FCA69583">
+                <enum>(A)</enum>
+ <text>for conduct occurring, in whole or in part, prior to the date of naturalization, such conviction shall create a rebuttable presumption that the attestation required under section 316(g)(1)(A) was false at the time it was made; and</text>
+              </subparagraph>
+              <subparagraph id="H7A7491A6028B4A7AB87B1D2BE36E523B">
+                <enum>(B)</enum>
+ <text>for conduct occurring entirely after the date of naturalization, such conviction shall create a rebuttable presumption that the person did not possess a genuine intent to refrain from committing a covered offense at the time the attestation under section 316(g)(1)(B) was executed.</text>
+              </subparagraph>
+              <continuation-text continuation-text-level="paragraph">The presumption in either case
+                may be rebutted only by the defendant establishing, by clear, convincing, and
+                unequivocal evidence, that the attestation was truthful at the time it was made and
+                that they possessed a genuine intent to comply with the attestation at the time of
+                naturalization. Where the defendant produces evidence sufficient to rebut the
+                presumption, the burden of persuasion on the ultimate question of illegal
+                procurement shall return to the Government, which must then establish such
+                procurement by clear, convincing, and unequivocal evidence. </continuation-text>
+            </paragraph>
+            <paragraph id="H0BA84D4634DC44EC93F54C71D9429D37">
+              <enum>(4)</enum>
+              <header>Procedures</header>
+              <subparagraph id="H3D8F380C54B9407A8CED7EA2EA6EE53C">
+                <enum>(A)</enum>
+ <text>Proceedings under this subsection shall be brought by the Attorney General, acting through the Department of Justice, in a civil action filed in the United States district court for the district in which the person resides or is found.</text>
+              </subparagraph>
+              <subparagraph id="H631478913ABA484BA137711A0CD1D858">
+                <enum>(B)</enum>
+ <text>Except where a presumption is established under paragraph (3), the Government shall bear the burden of establishing the grounds for revocation by clear, convincing, and unequivocal evidence.</text>
+              </subparagraph>
+              <subparagraph id="H89F3AEC47DDE47B29CC38B350C471201">
+                <enum>(C)</enum>
+ <text>Revocation of naturalization under this subsection shall take effect on the date of the final order of the court revoking naturalization.</text>
+              </subparagraph>
+              <subparagraph id="H00E04BB185AD42AA98BD29B5955DEA28">
+                <enum>(D)</enum>
+ <text>Upon entry of a final order revoking naturalization under this subsection, the Secretary of Homeland Security shall initiate removal proceedings pursuant to section 240 of this Act. The United States attorney for the district in which a covered conviction is obtained shall notify the Secretary of Homeland Security not later than 30 days after the date on which such conviction becomes final.</text>
+              </subparagraph>
+              <subparagraph id="H517C93E9F8A64ECA9CB027E7A398293E">
+                <enum>(E)</enum>
+ <text>The Attorney General may initiate proceedings under this subsection based on evidence of conduct described in paragraph (2)(C) absent a final criminal conviction only where—</text>
+                <clause id="H467506FB826249C0B9F4E70495279CA6">
+                  <enum>(i)</enum>
+ <text>a federal grand jury has returned an indictment for conduct described in paragraph (2)(A), or a federal court has made a judicial finding of probable cause for such conduct;</text>
+                </clause>
+                <clause id="H97739384493644EABA7B0A4CF6874EE8">
+                  <enum>(ii)</enum>
+ <text>the person has been provided notice and a meaningful opportunity to be heard before a neutral adjudicator;</text>
+                </clause>
+                <clause id="H7FB4A22CE48D43F8B20DA2DAF2D99134">
+                  <enum>(iii)</enum>
+ <text>the Government establishes its case by clear, convincing, and unequivocal evidence;</text>
+                </clause>
+                <clause id="H245BAD1F3819451A82C9EF890EB06ACA">
+                  <enum>(iv)</enum>
+ <text>the civil proceeding is stayed if criminal proceedings on the same conduct are pending, unless the person consents to simultaneous proceedings; and</text>
+                </clause>
+                <clause id="HC7C36004E7C9421CA596A8406A5552A4">
+                  <enum>(v)</enum>
+ <text>where the evidence supporting the proceedings includes classified information, the Attorney General, in consultation with the Director of National Intelligence, may file a classified certification with the reviewing court attesting that—</text>
+                  <subclause id="H8A2178E4975944E69865596B5B2D2028">
+                    <enum>(I)</enum>
+ <text>the classified information has been reviewed by the court in camera and ex parte;</text>
+                  </subclause>
+                  <subclause id="HE93E8FAD64DF452DB3DD94562971B1B9">
+                    <enum>(II)</enum>
+ <text>disclosure of such information would cause identifiable harm to national security; and</text>
+                  </subclause>
+                  <subclause id="HC2CD6CA3344C438F81D25157FEDB3DD7">
+                    <enum>(III)</enum>
+ <text display-inline="yes-display-inline">the classified information, considered together with any unclassified evidence, establishes the evidentiary standard required under subparagraph (B); provided that the person is afforded a meaningful opportunity to contest the unclassified portions of the government’s case and to submit rebuttal evidence.</text>
+                  </subclause>
+                </clause>
+              </subparagraph>
+            </paragraph>
+            <paragraph id="H27C27ACE8D9F408D91D1DEC2236C6E14">
+              <enum>(5)</enum>
+              <header>Statelessness and removal authority</header>
+              <subparagraph id="HF7B179AA70AE452FBE598936C95DA2FB">
+                <enum>(A)</enum>
+ <text>If revocation of naturalization under this subsection would render the person stateless and removal cannot be effectuated, the person shall be detained in accordance with section 241 of this Act (<external-xref legal-doc="usc" parsable-cite="usc/8/1231">8 U.S.C. 1231</external-xref>) until removal becomes practicable.</text>
+              </subparagraph>
+              <subparagraph id="H846C601546044DB694EF8661DAAC0721">
+                <enum>(B)</enum>
+ <text>Notwithstanding subparagraph (A), where revocation is based on terrorism-related conduct under this subsection, the Attorney General may seek continued detention beyond the presumptive removal period by filing a certification with the reviewing district court that—</text>
+                <clause id="HFFDB4AED6A02472C81428896A3C715AC">
+                  <enum>(i)</enum>
+ <text>removal to any available country is actively being pursued;</text> </clause> <clause id="HAB21DA35170E42B186D67D43405173BB"> <enum>(ii)</enum> <text>the person has been individually assessed and determined to pose a specific, articulable threat to national security or public safety; and</text>
+                </clause>
+                <clause id="H8445073C149E4D3EBA61156C8E12E1C8">
+                  <enum>(iii)</enum>
+ <text>detention is reviewed by the court no less frequently than every 180 days.</text>
+                </clause>
+              </subparagraph>
+              <continuation-text continuation-text-level="paragraph">Such certification shall not
+                authorize permanent indefinite detention absent continued judicial
+                authorization.</continuation-text>
+            </paragraph>
+            <paragraph id="H8648E817291244029453F1F88F1D78CE">
+              <enum>(6)</enum>
+              <header>Applicability to prior naturalizations</header>
+ <text>With respect to any person naturalized prior to the effective date of the attestation requirement under section 316(g), a conviction for a covered offense shall constitute independent grounds for the institution of denaturalization proceedings under section 340(a), on the basis that such conviction constitutes evidence that naturalization was procured by concealment of a material fact, to the extent that the person failed to disclose prior convictions, pending charges, or intent to engage in conduct constituting a covered offense at the time of the naturalization application or oath of allegiance.</text>
+            </paragraph>
+            <paragraph id="H24399F0DD661463E96575CEE66ECB3D1">
+              <enum>(7)</enum>
+              <header>No time limitation</header>
+ <text>There shall be no statute of limitations for proceedings under this subsection.</text>
+            </paragraph>
+          </subsection><after-quoted-block>.</after-quoted-block></quoted-block></paragraph></section> 
+<section id="HF7E6919537A0466194AB2488CC259DCD"><enum>4.</enum><header>Deportability of denaturalized persons</header><text display-inline="no-display-inline">Section 237(a) of the Immigration and Nationality Act (<external-xref legal-doc="usc" parsable-cite="usc/8/1227">8 U.S.C. 1227(a)</external-xref>) is amended by adding at the end the following:</text> <quoted-block id="H6334238B971D4E27A05D8DD00C9640FF" style="OLC"> <paragraph id="H1A71F585759E4DBDBE40E5236811C484"><enum>(9)</enum><header>Aliens denaturalized under section 340</header><text>Any alien whose naturalization has been revoked pursuant to section 340 shall be deportable and subject to removal proceedings under this title.</text></paragraph><after-quoted-block>.</after-quoted-block></quoted-block></section> 
+<section id="HBCEC27924928427BBB7939521DB61B75"><enum>5.</enum><header>Inadmissibility for covered terrorism convictions</header> <text display-inline="no-display-inline">Section 212(a)(2) of the Immigration and Nationality Act (<external-xref legal-doc="usc" parsable-cite="usc/8/1182">8 U.S.C. 1182(a)(2)</external-xref>) is amended by adding at the end the following:</text> <quoted-block id="H0397AE03AAF94031A715314FC3E553FC" style="OLC"> <subparagraph id="H75EBA8C0500944D4A8926884AD448FB8"><enum>(K)</enum><header>Federal terrorism convictions</header><text>Any alien who has been convicted of a covered offense, as that term is defined in section 316(g)(4) of this Act, is inadmissible.</text></subparagraph><after-quoted-block>.</after-quoted-block></quoted-block></section> 
+<section id="H952FBEA022B44541971C7A3B741F0608"><enum>6.</enum><header>Revocation of immigration benefits and status</header> 
+<subsection id="H21C7BEFCFD0645A8B9B653189A3B90FE"><enum>(a)</enum><header>In general</header><text>Subject to judicial review, any alien who has been convicted of a covered offense, as that term is defined in section 316(g)(4) of the Immigration and Nationality Act, shall be—</text> <paragraph id="H5E5DD5A0E30F443EA477DE4901DF66F0"><enum>(1)</enum><text>rendered ineligible for any immigration benefit under the immigration laws, including—</text> 
+<subparagraph id="H676E1DDEC3354B88B15A263A8F639F4C"><enum>(A)</enum><text>adjustment of status under section 245 of such Act;</text></subparagraph> <subparagraph id="H7B92494E9E1A4B809B045883E924203E"><enum>(B)</enum><text>any form of relief from removal, including cancellation of removal, voluntary departure, and asylum;</text></subparagraph> 
+<subparagraph id="H66FACFA110A046098282D9AB14C9B453"><enum>(C)</enum><text>any classification as a nonimmigrant under section 101(a)(15) of such Act;</text></subparagraph> <subparagraph id="H0976A41230E04273BBD0EAE1A8D8E7E8"><enum>(D)</enum><text>temporary protected status under section 244 of such Act;</text></subparagraph> 
+<subparagraph id="H7BEBCED92F79496186EFF8B2C67532A6"><enum>(E)</enum><text>deferred action, parole, or any other discretionary grant of permission to remain in the United States; and</text></subparagraph> <subparagraph id="HE4120308E64849AABDD4E6F28D7EE4F1"><enum>(F)</enum><text>naturalization under title III of such Act;</text></subparagraph></paragraph> 
+<paragraph id="H34F73DE425634C8789BF5A6DB0D75211"><enum>(2)</enum><text>subject to removal proceedings under section 240 of the Immigration and Nationality Act; and</text></paragraph> <paragraph id="H5FABA7D61C324FC9A0A79BD5B2930C98"><enum>(3)</enum><text>subject to detention during such proceedings pursuant to section 236(c) of such Act, subject to judicial review as provided under existing law.</text></paragraph></subsection> 
+<subsection id="HEDCBC891DCE142F39225DB948397C673"><enum>(b)</enum><header>Revocation of existing benefits</header><text>Any immigration benefit or status previously granted to an alien described in subsection (a), including lawful permanent resident status, any nonimmigrant status, temporary protected status, deferred action, or parole, shall be revoked upon entry of a final order of removal or denaturalization, subject to judicial review.</text></subsection> <subsection id="H3E3263AFDF004D169D37EBA91741F294"><enum>(c)</enum><header>No waiver</header><text>No waiver under any provision of the Immigration and Nationality Act shall be available with respect to any ground of inadmissibility or deportability arising under this section or section 5 of this Act.</text></subsection></section> 
+<section id="HD40751189B9141408598257B37B3D958"><enum>7.</enum><header>Permanent bar to admission</header><text display-inline="no-display-inline">Section 212(a)(2) of the Immigration and Nationality Act (<external-xref legal-doc="usc" parsable-cite="usc/8/1182">8 U.S.C. 1182(a)(2)</external-xref>) (as amended by this Act) is further amended by adding at the end the following:</text> <quoted-block style="OLC" id="HF5AF8FC5C7B447CF84CE05A6F06FD81E" display-inline="no-display-inline"> <subparagraph id="H6F7F57ED31FD4DC9A4334F5281F27EE1"><enum>(L)</enum><header>Permanent bar for certain terrorist offenders</header><text display-inline="yes-display-inline">Any person whose naturalization is revoked under section 340 or who has previously been ordered removed for conviction for a covered offense, as that term is defined in section 316(g)(4) of this Act, is inadmissible (including any person inadmissible under subparagraph (K)). No waiver of inadmissibility under any provision of this Act or any other provision of law shall be available to such alien.</text></subparagraph><after-quoted-block>.</after-quoted-block></quoted-block></section> 
+<section id="H08FB09E179074C609C37CBC4CEEE6562"><enum>8.</enum><header>Conforming amendment</header><text display-inline="no-display-inline">Section 340(f) of the Immigration and Nationality Act (<external-xref legal-doc="usc" parsable-cite="usc/8/1451">8 U.S.C. 1451(f)</external-xref>) is amended by adding at the end the following: <quote>On entry of a final order of revocation under this subsection, the court shall revoke and set aside the citizenship order and cancel the certificate of naturalization.</quote>.</text></section> <section id="H6EE8F9AE23AC43DA9E8C4446AFD180B5"><enum>9.</enum><header>Rule of construction</header><text display-inline="no-display-inline">Nothing in this Act shall be construed to—</text> 
+<paragraph id="HCEC1842EA538416BB928445A24BB139D"><enum>(1)</enum><text>create any new basis for denaturalization other than through the existing authority under section 340(a) of the Immigration and Nationality Act, as supplemented by the presumptions established in section 340(f) of such Act, as added by this Act;</text></paragraph> <paragraph id="HFEE96954DE2E4633859D7D892DA4FF36"><enum>(2)</enum><text>limit the authority of the United States to institute proceedings under section 340(a) of such Act on any other basis, including illegal procurement, concealment of a material fact, or willful misrepresentation unrelated to the attestation required under section 316(g) of such Act;</text></paragraph> 
+<paragraph id="H8301F604B3DB403887C6798D568EA697"><enum>(3)</enum><text>limit the authority of the Department of Homeland Security or the Department of Justice to bring any criminal or civil action under any other provision of law; or</text></paragraph> <paragraph id="H345C865E8DA74046B833235B059046F4"><enum>(4)</enum><text>authorize the denaturalization of any person who is a citizen of the United States by birth.</text></paragraph></section> 
+<section id="H404E064BAF0F4504A767EAA45DD7EF17"><enum>10.</enum><header>Severability</header><text display-inline="no-display-inline">If any provision of this Act, or the application of any provision to any person or circumstance, is held invalid, the remainder of this Act and the application of its provisions shall not be affected.</text></section> <section id="H01CDF53D2BD84769915AC023043A5580"><enum>11.</enum><header>Effective date</header> <subsection id="H71E54FD56C9D47A7A3F353348463E75A"><enum>(a)</enum><header>In general</header><text>This Act and the amendments made by this Act shall take effect on the date of enactment of this Act.</text></subsection> 
+<subsection id="H76312EAF32BB42ACA5B2F9A7F7E89197"><enum>(b)</enum><header>Attestation requirement</header><text>The attestation requirement under section 316(g) of the Immigration and Nationality Act, as added by section 2 of this Act, shall apply to all applications for naturalization filed on or after the date that is 180 days after the date of enactment of this Act.</text></subsection> <subsection id="H8BEAAEEEA1C94FB0A8B95DE79809DAD9"><enum>(c)</enum><header>Inadmissibility, deportability, and benefit revocation</header><text>The amendments made by sections 5 and 6 of this Act shall apply to any conviction entered on or after the date of enactment of this Act, regardless of when the underlying conduct occurred.</text></subsection></section> 
+</legis-body></bill>
+

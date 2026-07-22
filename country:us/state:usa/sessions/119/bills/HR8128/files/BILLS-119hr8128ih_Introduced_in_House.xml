@@ -1,0 +1,128 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H0D0B7718090F4FF1847058125AD550D2" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 HR 8128 IH: Same-Day Paratransit Innovation Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2026-03-26</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">119th CONGRESS</congress><session display="yes">2d Session</session><legis-num display="yes">H. R. 8128</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20260326">March 26, 2026</action-date><action-desc><sponsor name-id="S001231">Ms. Simon</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HPW00">Committee on Transportation and Infrastructure</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To foster greater deployment of same-day paratransit services for individuals with disabilities and to establish minimum standards for paratransit technology, and for other purposes.</official-title></form><legis-body id="HF562F182411B4431A450C5ED5AAA5C3D" style="OLC"> 
+<section id="HF99D7012A35F48AC8F927664B2C0232A" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Same-Day Paratransit Innovation Act</short-title></quote>.</text></section> <section id="HF268CAB9A4F34A7AA7F6AC522398912E"><enum>2.</enum><header>Findings</header><text display-inline="no-display-inline">Congress finds the following:</text> 
+<paragraph id="HD735F120088B4B37B9B32891926ECDBA"><enum>(1)</enum><text>Mobility access is a fundamental pillar of independence, equity, and dignity for individuals with disabilities, enabling access to daily necessities and the opportunity to participate in a well-rounded, connected life that would otherwise be out of reach.</text></paragraph> <paragraph id="HD2EAF873FA6345E28275E47D7CA2D86B"><enum>(2)</enum><text>According to the Department of Transportation Bureau of Transportation Statistics (BTS), an estimated 18,600,000 Americans have travel-limiting disabilities that could necessitate reliance on paratransit services to access employment, education, healthcare, and community life, yet they face significant and ongoing barriers to achieve mobility, equity, and inclusion.</text></paragraph> 
+<paragraph id="HD95B6248384D4D768BF61FEEB73D4428"><enum>(3)</enum><text>Over 80 percent of the young adults with disabilities surveyed by the National Aging and Disability Transportation Center (NADTC) stated that they’re often held back from activities because of lack of transportation or inability to drive, resulting in them feeling isolated, frustrated, and even trapped without reliable same-day transit, with access barriers compounded by income level, vehicle ownership, and strict or outdated eligibility and scheduling policies.</text></paragraph> <paragraph id="H3E76E8FDBDB8402384F8D69FD74EF3D7"><enum>(4)</enum><text>The Census Bureau projects that almost 1 in 4 Americans will be aged 65 or older and the number of people over age 85 will triple by 2060, thereby increasing already constrained paratransit demand.</text></paragraph> 
+<paragraph id="H30F9A94C850346D58C0066D3B8F07B1A"><enum>(5)</enum><text>The transportation provisions of the Americans with Disabilities Act of 1990 (ADA) only require that complementary paratransit be operated on a next-day basis, requiring riders with disabilities to know and schedule all trips at least 24 hours in advance and leaving no flexibility to adjust to last minute or day-of changes in plans.</text></paragraph> <paragraph id="H839024B1C6FC416BA81E0EF12D2601B0"><enum>(6)</enum><text>The lack of flexible, same-day transportation options hinders the lives and opportunities of persons with disabilities, negatively impacting their independence and participation in civic life and contributing to the 10 percent unemployment rate among working-age Americans with disabilities in July 2025, as reported by the Bureau of Labor Statistics.</text></paragraph> 
+<paragraph id="HD0DB1454A95949DDA9CD9B45B25391F1"><enum>(7)</enum><text>Technological advancements and product offerings now allow transit agencies to schedule and provide same-day paratransit services through dynamic trip matching, real-time route optimization, and the integration of multiple service providers through API or related mechanisms, all accessible through user-friendly mobile applications.</text></paragraph> <paragraph id="HD24BEAC1FD334E6BB99884E686E14CDD"><enum>(8)</enum><text>In 2023, the Federal Transit Administration published a Dear Colleague letter to the transit industry extolling the benefits and opportunities for deploying same-day paratransit using existing formula funding.</text></paragraph> 
+<paragraph id="H3A8FAE8F5B9D4B379557BD7A6901221B"><enum>(9)</enum><text>Whereas, same-day paratransit has been proven to improve transit agency cost and service efficiencies, highlighted by MBTA’s RIDE Flex program, which saw total trips increase by 53 percent and operational spend decrease by 6 percent over 3 years with the integration of a same-day service, per the Federal Transit Administration’s Transit Cooperative Research Program (TCRP).</text></paragraph> <paragraph id="H2577808366FE45ABAD3834436E330BE5"><enum>(10)</enum><text display-inline="yes-display-inline">Congress recognizes the urgent need to modernize and expand same-day paratransit options through formula funding to incentivize transit agencies to provide same-day paratransit services that foster innovation and empower individuals with disabilities to choose the mobility solution that best fits their needs.</text></paragraph></section> 
+<section id="HF197229139984986823F8BDB33C2A2A9">
+      <enum>3.</enum>
+      <header>Accessibility innovation same-day paratransit</header>
+      <subsection id="HE4919C3FAEA1474C8961342C3BB808AF">
+        <enum>(a)</enum>
+        <header>In general</header>
+ <text>Section 5310(d) of title 49, United States Code, is amended—</text> <paragraph id="H272E35E8420142F0B608C6DC92DEE4D6"> <enum>(1)</enum> <text>in paragraph (1), by inserting <quote>except that a grant for a capital project directly related to the provision of same-day paratransit services shall be in an amount equal to 90 percent of the net capital costs of the project, as determined by the Secretary.</quote> after <quote>Secretary</quote>; and</text>
+        </paragraph>
+        <paragraph id="HB8AF3837FAAD40A8B7CD45A6C2FD5680">
+          <enum>(2)</enum>
+ <text>by amending paragraph (2) to read as follows:</text> <quoted-block id="H073DA10FB6FB4398B833CD636A476C92" style="USC"> <paragraph id="H76E9FC9E0F324958A86100F4FC03ED76"> <enum>(2)</enum> <header>Operating assistance</header> <text>A grant made under this section for operating assistance may not exceed an amount equal to—</text>
+              <subparagraph id="H2BE9242BD889457382D585235EC3AA70">
+                <enum>(A)</enum>
+ <text>50 percent of the net operating costs of the project, as determined by the Secretary;</text>
+              </subparagraph>
+              <subparagraph id="HE74BC8A0EF6C4247A9BB0E62F8E9AF01">
+                <enum>(B)</enum>
+ <text>70 percent of the net operating costs of a project to provide same-day paratransit service in compliance with the minimum standards established by the Administrator; or</text>
+              </subparagraph>
+              <subparagraph id="H20242CB9CF9442ED95F601986A935817">
+                <enum>(C)</enum>
+ <text>80 percent of the net operating costs of a project to provide same-day paratransit service in compliance with the minimum standards established by the Administrator and using vehicles operated exclusively by personnel employed by the recipient for same-day paratransit service.</text>
+              </subparagraph>
+            </paragraph>
+            <after-quoted-block>.</after-quoted-block>
+          </quoted-block>
+        </paragraph>
+      </subsection>
+      <subsection id="HC6FB72E941F94D048C38EB0DD3596B7E">
+        <enum>(b)</enum>
+        <header>Urbanized area formula grants</header>
+ <text>Section 5307(d) of title 49, United States Code, is amended—</text> <paragraph id="H18A1357023414CD4B20E9B01AE4EB3E1"> <enum>(1)</enum> <text>in paragraph (1), by inserting <quote>, except that a grant for a capital project directly related to the provision of same-day paratransit services shall be in an amount equal to 90 percent of the net capital costs of the project, as determined by the Secretary.</quote> after <quote>the project</quote>; and</text>
+        </paragraph>
+        <paragraph id="HE142CDBE03774B39BBFF91681AFD7211">
+          <enum>(2)</enum>
+ <text display-inline="yes-display-inline">by amending paragraph (2), to read as follows:</text>
+          <quoted-block id="H8386414A03B74B5283B2BABDF29E9F5B" style="USC">
+            <paragraph id="H4B1DCDCB5CED4E81AA80E7BD7DE66164">
+              <enum>(2)</enum>
+              <header>Operating assistance</header>
+ <text>A grant made under this section for operating assistance may not exceed an amount equal to—</text>
+              <subparagraph id="HF3D5395C9F8C4693B5C5BB16602388BF">
+                <enum>(A)</enum>
+ <text>50 percent of the net operating costs of the project, as determined by the Secretary; or</text>
+              </subparagraph>
+              <subparagraph id="HCC2BC481D45A4381B8F88D272E92592E">
+                <enum>(B)</enum>
+ <text>70 percent of the net operating costs of a project to provide same-day paratransit service in compliance with the minimum standards established by the Administrator; or</text>
+              </subparagraph>
+              <subparagraph id="H85D96DE9542B417885FD0C448FBAC830">
+                <enum>(C)</enum>
+ <text>80 percent of the net operating costs of a project to provide same-day paratransit service in compliance with the minimum standards established by the Administrator and using vehicles operated exclusively by personnel employed by the recipient for same-day paratransit service.</text>
+              </subparagraph>
+            </paragraph>
+            <after-quoted-block>.</after-quoted-block>
+          </quoted-block>
+        </paragraph>
+      </subsection>
+      <subsection id="H0A232E4B5E0E4F5A87E3D62BAAB90F75">
+        <enum>(c)</enum>
+        <header>Formula grants for rural areas</header>
+ <text>Section 5311(g) of title 49, United States Code, is amended—</text> <paragraph id="HDDCC29259F9C4745AE6BDE68879569DA"> <enum>(1)</enum> <text>in paragraph (1)(A), by inserting <quote>, except that a grant for a capital project directly related to the provision of same-day paratransit services shall be in an amount equal to 90 percent of the net capital costs of the project, as determined by the Secretary.</quote> after <quote>Secretary</quote>; and</text>
+        </paragraph>
+        <paragraph id="H630203AA455644E8B52ABD328E90EC8B">
+          <enum>(2)</enum>
+ <text>by amending paragraph (2), to read as follows:</text> <quoted-block id="H45DBB57EDB564563A00CAABE84455B90" style="USC"> <paragraph id="H14F90ED3CE834C899D078B528CB95CB1"> <enum>(2)</enum> <header>Operating assistance</header> </paragraph> <subparagraph id="H0913905A50D04F30A26C1F22FC0CBF6F"> <enum>(A)</enum> <text>A grant made under this section for operating assistance may not exceed an amount equal to—</text>
+              <clause id="H1F4A258673F44451AEA4625263BB0BF2">
+                <enum>(i)</enum>
+ <text>50 percent of the net operating costs of the project, as determined by the Secretary;</text>
+              </clause>
+              <clause id="H2A3CB80B8AC34E46BCF950BE41F81CF6">
+                <enum>(ii)</enum>
+ <text>70 percent of the net operating costs of a project to provide same-day paratransit service in compliance with the minimum standards established by the Administrator; or</text>
+              </clause>
+              <clause id="H1F0C1E90DD2548FC8E1B6C4FB9EF1A0A">
+                <enum>(iii)</enum>
+ <text>80 percent of the net operating costs of a project to provide same-day paratransit service in compliance with the minimum standards established by the administrator, as determined by the secretary and using vehicles operated exclusively by personnel employed by the recipient for same-day paratransit service.</text>
+              </clause>
+            </subparagraph>
+            <subparagraph id="H5C7B477414C74258A976DC058E80420E">
+              <enum>(B)</enum>
+              <header>Exception</header>
+ <text display-inline="yes-display-inline">A State described in section 120(b) of title 23 shall receive a Government share of the net operating costs equal to 62.5 percent of the Government share provided for under paragraph (1)(B).</text>
+            </subparagraph>
+            <after-quoted-block>.</after-quoted-block>
+          </quoted-block>
+        </paragraph>
+      </subsection>
+    </section> 
+<section id="HE165094B11854846A1756B4E89C43D9A"><enum>4.</enum><header>Paratransit software and technology minimum standards</header> 
+<subsection id="HF9E182207D454E3281D5AD3B9F62756C"><enum>(a)</enum><header>In general</header><text>Section 5310 of title 49, United States Code, is amended by adding at the end—</text> <quoted-block id="HBAAB3EDBC2654A63B53BD284944DDA5F" style="OLC"> <subsection id="H56EC76332FCA4B0E99460B7E3A91880E"><enum>(j)</enum><header>Paratransit software minimum standards</header> <paragraph id="H17B687EC504B4F4EB05BC3DD7C84DE00"><enum>(1)</enum><header>In general</header><text>No later than 1 year after enactment of this Act, the Administrator shall issue minimum standards for Americans with Disabilities (ADA) paratransit software and technologies procured pursuant to this section.</text></paragraph> 
+<paragraph id="HB31CEFB2CEA343778356DC4B85F3C9C9"><enum>(2)</enum><header>Standards</header><text>The Administrator shall consider the following in developing the guidance described in the subsection (a):</text> <subparagraph id="H0E2B27EED0C14E53BB9C5EAF0F9664E7"><enum>(A)</enum><text>Accessibility of applications including compliance with Web Content Accessibility Guidelines 2.1 (WCAG 2.1) or any subsequent version of such Guidelines.</text></subparagraph> 
+<subparagraph id="H626ABC070061420396C69AD0A7446247"><enum>(B)</enum><text>Cybersecurity of applications including compliance with System and Organization Controls 2 (SOC 2) and ISO 27001, and any successor standard.</text></subparagraph> <subparagraph id="H84813265D44D45EBB50221286E268FAB"><enum>(C)</enum><text>Data storage on cloud infrastructure located in the United States.</text></subparagraph> 
+<subparagraph id="H92368B367F744538A9CF6B59A37E08C6">
+                <enum>(D)</enum>
+ <text>Integration of multiple service providers—including but not limited to paratransit operated by a transit agency or contractor, taxis, and transportation networking companies (TNC)—through API or related mechanisms, and the ability to move trips between service providers.</text>
+              </subparagraph> 
+<subparagraph id="HA31C434F232D47B29BECB530DCF661E4"><enum>(E)</enum><text>Real-time route optimization and dynamic trip scheduling, with the ability to utilize some of the extra capacity on ADA paratransit fleet to provide same-day paratransit service.</text></subparagraph> <subparagraph id="H5673C95DA7CA4965BD27814892E57E62"><enum>(F)</enum><text>Ability to book on digital booking interfaces that can integrate all service providers.</text></subparagraph> 
+<subparagraph id="HA252442752F7404C9CB2A753B2F4D9E3"><enum>(G)</enum><text>Data sharing and agency portal systems, including an open API to enable integration to third party systems while protecting personally identifiable information of riders and capable, if approved by the recipient, of providing the recipient with the ability to share data with their metropolitan planning organization, State, and local government access to anonymized data for transportation planning, real time operations data, and rules.</text></subparagraph> <subparagraph id="HD9E0DAC539DB469986E92FD40D2B0C7B"><enum>(H)</enum><text>Safeguards necessary to ensure that all data generated by the provision of service or paid for by the recipient is owned by the recipient and cannot be withheld or limited, nor may the provider condition access to such data, in any manner.</text></subparagraph> 
+<subparagraph id="HF393F79FFD1C4338825EF787E70A1CB1"><enum>(I)</enum><text>Such other considerations as the Administrator determines necessary to advance the needs of riders, transit agencies and providers, and that ensure that investments are future-proofed to accommodate emerging technological and operational developments.</text></subparagraph></paragraph> <paragraph id="H364307EDA3664D6982DF88DD7013D815"><enum>(3)</enum><header>Stakeholder consultation</header><text>In developing the minimum standards described in paragraph (1), the Administrator shall consult with relevant stakeholders including—</text> 
+<subparagraph id="H844A0B9FCB4347FB809A699B72EF2FC9"><enum>(A)</enum><text>transit agencies and transit industry associations;</text></subparagraph> <subparagraph id="HBCE7051D58044B75B84368F3A514FEF0"><enum>(B)</enum><text>paratransit riders with disabilities;</text></subparagraph> 
+<subparagraph id="HE5840E86FCCA493FBF917E84698AADC2"><enum>(C)</enum><text>organizations representing riders with disabilities;</text></subparagraph> <subparagraph id="HA56630410C54446E9F637EB76FFE2A91"><enum>(D)</enum><text>United States Access Board;</text></subparagraph> 
+<subparagraph id="H92414B042004455689F41CE622D9CD35"><enum>(E)</enum><text>labor organizations representing frontline public transportation workers;</text></subparagraph> <subparagraph id="H5E253C234FA24943B7AD062F394CF76B"><enum>(F)</enum><text>transit technology providers;</text></subparagraph> 
+<subparagraph id="H6CE704AA98FA4E3B975FC93EFB3C7CB3"><enum>(G)</enum><text>for-hire transportation providers; and</text></subparagraph> <subparagraph id="H17D7F20BBED04858B1A7CED97CDCDD02"><enum>(H)</enum><text>cybersecurity experts.</text></subparagraph></paragraph> 
+<paragraph id="H2F3B393B7D8A430C91146CEF755FFE22"><enum>(4)</enum><header>Limitation</header><text>Beginning not later than 1 year after final minimum standards are published by the Administrator, no funds awarded under section 5307 or 5310 shall be used to acquire or utilize third-party software for the provision of paratransit services that does not meet the minimum standards established under paragraph (1).</text></paragraph> <paragraph id="HED445EF0B0834EC4B6F9A0844C8E6FEF"><enum>(5)</enum><header>Final standards</header><text>Beginning not later than 2 years after final minimum standards are published by the Administrator, no funds awarded under section 5311 shall be used to acquire or utilize third-party software for the provision of paratransit services that does not meet the minimum standards established under paragraph (1).</text></paragraph></subsection><after-quoted-block>.</after-quoted-block></quoted-block></subsection></section> 
+</legis-body></bill>
+

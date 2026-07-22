@@ -1,0 +1,358 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-type="olc" bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public" slc-id="S1-MUR25886-LNN-DD-8W9">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 S3068 IS: Freedom for Agricultural Repair and Maintenance Act</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2025-10-28</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+        <distribution-code>II</distribution-code>
+        <congress>119th CONGRESS</congress>
+        <session>1st Session</session>
+        <legis-num>S. 3068</legis-num>
+        <current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+        <action>
+            <action-date date="20251028">October 28, 2025</action-date>
+            <action-desc><sponsor name-id="S422">Mr. Welch</sponsor> (for himself, <cosponsor name-id="S418">Mr. Fetterman</cosponsor>, and <cosponsor name-id="S366">Ms.
+                    Warren</cosponsor>) introduced the following bill; which was read twice and
+                referred to the <committee-name committee-id="SSCM00">Committee on Commerce,
+                    Science, and Transportation</committee-name></action-desc>
+        </action>
+        <legis-type>A BILL</legis-type>
+        <official-title>To require original equipment manufacturers to make available certain
+            documentation, parts, software, and tools with respect to farm equipment, and for other
+            purposes.</official-title>
+    </form>
+    <legis-body style="OLC" display-enacting-clause="yes-display-enacting-clause" id="HFB17B462474D428D99A9D9F0ACF42A42">
+        <section section-type="section-one" id="HE218A159379B4609BE0B774C3E3476FF">
+            <enum>1.</enum>
+            <header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Freedom for Agricultural Repair and Maintenance Act</short-title></quote> or the <quote><short-title>FARM Act</short-title></quote>.</text>
+        </section>
+        <section id="H42A5A7B1F2F04F87A0EBA245C29419D2">
+            <enum>2.</enum>
+            <header>Definitions</header>
+ <text display-inline="no-display-inline">In this Act:</text> <paragraph id="H8BF1E51E827D458CACE05301C8FEAA92"> <enum>(1)</enum> <header>Authorized repair provider</header> <text>The term <term>authorized repair provider</term>—</text>
+                <subparagraph id="H07779BE4BB1B4B14A7BF31388F2FB895">
+                    <enum>(A)</enum>
+ <text>means, with respect to farm equipment of an original equipment manufacturer, a person that has an arrangement with an OEM under which the OEM grants such person a license to use a trade name, service mark, or other proprietary identifier for the purposes of offering diagnosis, maintenance, or repair services for the farm equipment on behalf of such person or the OEM; and</text>
+                </subparagraph>
+                <subparagraph id="H448A1BD992D544B2A40BC4E1D636DCFE">
+                    <enum>(B)</enum>
+ <text>includes, with respect to farm equipment, an OEM who offers diagnosis, maintenance, or repair services for the farm equipment that the OEM manufactures or offers for sale.</text>
+                </subparagraph>
+            </paragraph>
+            <paragraph id="H2323ADB3C3A54994B20F20A711498BE5">
+                <enum>(2)</enum>
+                <header>Commonly available</header>
+ <text>The term <term>commonly available</term> means any item that is commercially available for purchase from more than a single seller and is not solely made available by an OEM for use on such OEM's products.</text>
+            </paragraph>
+            <paragraph id="H7EF2F0F62C114D13AD664812C11589EA">
+                <enum>(3)</enum>
+                <header>Documentation</header>
+ <text>The term <term>documentation</term> means any manual, diagram, reporting output, service code description, schematic, library of diagnosed issues, software bill of material, or other guidance or information used in effecting the services of diagnosis, maintenance, or repair of farm equipment.</text>
+            </paragraph>
+            <paragraph commented="no" id="H8BA39F54DBAB46F5BE4350B4E3CD7990">
+                <enum>(4)</enum>
+                <header>Farm equipment</header>
+ <text display-inline="yes-display-inline">The term <term>farm equipment</term> means equipment that is designed primarily for use in a farm operation, including any combine, tractor, sprayer, pivot, implement, or attachment, including attachments and repair parts thereof used in the planting, cultivating, irrigating, harvesting, or ranching of agricultural products, excluding self-propelled machines designed primarily for the transportation of persons or property on a street or highway.</text>
+            </paragraph>
+            <paragraph commented="no" id="H54DA58F5CBC742B39642415F608E0176">
+                <enum>(5)</enum>
+                <header>Farm equipment data</header>
+ <text display-inline="yes-display-inline">The term <term>farm equipment data</term> means transmitted or compiled information arising from the operation of farm equipment or any part of farm equipment.</text>
+            </paragraph>
+            <paragraph commented="no" id="H173011052A8949F3BCDDC151D529E4C0">
+                <enum>(6)</enum>
+                <header>Fair and reasonable terms</header>
+ <text display-inline="yes-display-inline">The term <term>fair and reasonable terms</term> means a part, tool, software, or documentation that is made available either directly from an OEM or through an authorized repair provider and, with respect to a part, tool, software, or documentation, the following:</text>
+                <subparagraph commented="no" id="H7741FDA9A60A41A9AF7694A5C1A4D5FA">
+                    <enum>(A)</enum>
+                    <header>Parts</header>
+ <text display-inline="yes-display-inline">For parts, the following:</text> <clause commented="no" id="H2FB32E80945945E89DC3768BE53A6F53"> <enum>(i)</enum> <header>Costs</header> <text>Costs that are fair to both parties, considering the agreed-upon conditions, promised quality, and timeliness of delivery.</text>
+                    </clause>
+                    <clause commented="no" id="HDF541B7FD660476197FB51425A9051C8">
+                        <enum>(ii)</enum>
+                        <header>Terms</header>
+ <text>Terms that—</text> <subclause commented="no" id="H5BF98DEEFC414677838E42ED7B1D1169"> <enum>(I)</enum> <text>do not impose on an owner or an independent repair provider any substantial obligation to use or any restriction on the use of the part to diagnose, maintain, upgrade, reprogram, or repair farm equipment sold, leased, or otherwise supplied by the manufacturer, including a condition that the owner or independent repair provider become an authorized repair provider of the manufacturer, or a requirement that a part be registered, paired with, or approved by the manufacturer or an authorized repair provider before such part is operational; and</text>
+                        </subclause>
+                        <subclause commented="no" id="H1F05D4B290B5427E89A865A3B3978F5C">
+                            <enum>(II)</enum>
+ <text>prohibit a manufacturer from imposing any additional cost or burden that is not reasonably necessary or is designed to be an impediment on the owner or independent repair provider.</text>
+                        </subclause>
+                    </clause>
+                </subparagraph>
+                <subparagraph commented="no" id="H135BEA1FAE1D4BD997F2B1D3DD0E3032">
+                    <enum>(B)</enum>
+                    <header>Tools</header>
+ <text display-inline="yes-display-inline">For tools, the following:</text> <clause commented="no" id="HDEAC4432056540F580C23715ACA86795"> <enum>(i)</enum> <header>Costs for equipment owners</header> <text>No charge for the tool, except for a case in which a tool is requested in physical form, a charge may be included for the reasonable actual costs of preparing and sending the tool.</text>
+                    </clause>
+                    <clause commented="no" id="H0EBFCB03E8AB4F31AC72680635060CA7">
+                        <enum>(ii)</enum>
+                        <header>Costs for independent repair providers</header>
+ <text>Costs that are equivalent to the lowest actual cost for which the manufacturer offers the tool to an authorized repair provider, including any discount, rebate, or other financial incentive offered to an authorized repair provider.</text>
+                    </clause>
+                    <clause commented="no" id="HEBCD1E0AD5C2422093EE9375E1EA2A08">
+                        <enum>(iii)</enum>
+                        <header>Terms</header>
+ <text>Terms that—</text> <subclause commented="no" id="HCD416985F2E2484C8FF5922699655F56"> <enum>(I)</enum> <text>are equivalent to the most favorable terms under which a manufacturer offers the tools to an authorized repair provider, including the methods and timeliness of delivery of the tools;</text>
+                        </subclause>
+                        <subclause commented="no" id="H09B70AC1359046B989241DF2E77185F1">
+                            <enum>(II)</enum>
+ <text>do not impose on an owner or an independent repair provider any substantial obligation to use or any restriction on the use of the tool to diagnose, maintain, upgrade, reprogram, or repair farm equipment sold, leased, or otherwise supplied by the manufacturer, including a condition that the owner or independent repair provider become an authorized repair provider of the manufacturer, that the owner or independent repair provider have internet access to use the tool, or a requirement that a tool be registered, paired with, or approved by the manufacturer or an authorized repair provider before such part or tool is operational; and</text>
+                        </subclause>
+                        <subclause commented="no" id="HA7572A5BDCD64DCCA83E9888E8BE195B">
+                            <enum>(III)</enum>
+ <text>prohibit a manufacturer from imposing any additional cost or burden that is not reasonably necessary or is designed to be an impediment on the owner or independent repair provider.</text>
+                        </subclause>
+                    </clause>
+                </subparagraph>
+                <subparagraph commented="no" id="H22EF2D758D59498C91C92FA02BAD8406">
+                    <enum>(C)</enum>
+                    <header>Documentation</header>
+ <text display-inline="yes-display-inline">For documentation, the following:</text>
+                    <clause commented="no" id="H79D797E84A0D4C59AA90B6CAA814B70B">
+                        <enum>(i)</enum>
+                        <header>Costs</header>
+ <text>No charge for the documentation, except for a case in which documentation is requested in physical printed form, a charge may be included for the reasonable actual costs of preparing and sending the copy.</text>
+                    </clause>
+                    <clause commented="no" id="H7FE4731EE9F84F23B8C1120889B7C501">
+                        <enum>(ii)</enum>
+                        <header>Terms</header>
+ <text>Terms that are equivalent to the most favorable terms under which a manufacturer offers the documentation to an authorized repair provider, including the methods and timeliness of delivery of the part, tool, software, or documentation.</text>
+                    </clause>
+                </subparagraph>
+            </paragraph>
+            <paragraph id="HF9914A23DDE84C6AB430C2D7716BFA0C">
+                <enum>(7)</enum>
+                <header>Firmware</header>
+ <text>The term <term>firmware</term> means a software program or set of instructions programmed on farm equipment, or on a part for such equipment, to allow the equipment or part to communicate within a networked product or system or with other computer hardware, including any relevant patch or fix made by the OEM of such equipment or part.</text>
+            </paragraph>
+            <paragraph id="HF0BC5CC5B3694E24840748017A49EC14">
+                <enum>(8)</enum>
+                <header>Independent repair provider</header>
+ <text>The term <term>independent repair provider</term> means, with respect to farm equipment, a person who—</text>
+                <subparagraph id="H9188E32A1E164B91B4FFA02001408B24">
+                    <enum>(A)</enum>
+ <text>is not an authorized repair provider of the farm equipment; and</text> </subparagraph> <subparagraph id="H549C0D6B4738426FB3C95BC1C99D9FE8"> <enum>(B)</enum> <text>provides diagnosis, maintenance, or repair services for the farm equipment.</text>
+                </subparagraph>
+            </paragraph>
+            <paragraph commented="no" display-inline="no-display-inline" id="idf3e74c0297194e7da3ea3f392c57f570">
+                <enum>(9)</enum>
+                <header>Maintenance</header>
+ <text>The term <term>maintenance</term> has the meaning given such term in section 117(d) of title 17, United States Code.</text>
+            </paragraph>
+            <paragraph id="HDE36975B4CA541F5AD3FCBB46D989A98">
+                <enum>(10)</enum>
+                <header>Original equipment manufacturer; OEM</header>
+ <text>The term <term>original equipment manufacturer</term> or <term>OEM</term> means any person that manufactures farm equipment and sells, leases, or otherwise supplies such farm equipment to any other person.</text>
+            </paragraph>
+            <paragraph id="H8D8CDC030EB440C0B59CDB78641C8606">
+                <enum>(11)</enum>
+                <header>Owner</header>
+ <text>The term <term>owner</term> means any person that owns or leases farm equipment other than the OEM of such farm equipment.</text>
+            </paragraph>
+            <paragraph id="H1736E77BCD8741B8AA2BAD6B25358449">
+                <enum>(12)</enum>
+                <header>Part</header>
+ <text>The term <term>part</term> means any component or subcomponent of farm equipment that is sold, supplied, or otherwise made available by an OEM for purposes of maintaining, repairing, or diagnosing such farm equipment.</text>
+            </paragraph>
+            <paragraph commented="no" display-inline="no-display-inline" id="id13e3f2dc3f4a468382331e8d033591f9">
+                <enum>(13)</enum>
+                <header>Repair</header>
+ <text>The term <term>repair</term> has the meaning given such term in section 117(d) of title 17, United States Code.</text>
+            </paragraph>
+            <paragraph id="H3C4E30FBDDFF4D0C8D4DCD5B15D72B84">
+                <enum>(14)</enum>
+                <header>Software bill of material</header>
+ <text>The term <term>software bill of material</term> means a formal record containing the details and supply chain relationships of various components used in building software.</text>
+            </paragraph>
+            <paragraph id="HF795AC895398415B897607BBEC42B068">
+                <enum>(15)</enum>
+                <header>Tool</header>
+ <text>The term <term>tool</term> means any software program (including any software update), hardware implement, or other apparatus used for repair-related diagnostic testing, maintenance, or repair of farm equipment, including software or any other mechanism that provisions the farm equipment, programs the farm equipment, pairs a new part, calibrates functionality, or performs any other function required to bring the equipment back to fully functional condition.</text>
+            </paragraph>
+            <paragraph id="H5FD9575340FE42F7B522FA0B8F05AD13">
+                <enum>(16)</enum>
+                <header>Trade secret</header>
+ <text>The term <term>trade secret</term> has the meaning given such term in section 1839 of title 18, United States Code.</text>
+            </paragraph>
+        </section>
+        <section id="H94C1C953ABFB44F3A548CAC948FD478F">
+            <enum>3.</enum>
+            <header>Requirements for OEMs</header>
+            <subsection id="HDC4C59548B214075A0E589E306491A58">
+                <enum>(a)</enum>
+                <header>In general</header>
+ <text>An original equipment manufacturer shall make available, on fair and reasonable terms—</text>
+                <paragraph id="HBD14BF2EFD7E4C1EA2164F1CF44BD9F3">
+                    <enum>(1)</enum>
+ <text display-inline="yes-display-inline">to any owner or independent repair provider, any documentation, part, software, firmware, or tool intended for use in order to diagnose, maintain, upgrade, reprogram, or repair farm equipment; and</text>
+                </paragraph>
+                <paragraph id="H9C9DEB4A83FE4F02860B1B538C941F12">
+                    <enum>(2)</enum>
+ <text display-inline="yes-display-inline">to the owner or with the authorization of the owner to an independent repair provider, any farm equipment data generated by the farm equipment of the owner.</text>
+                </paragraph>
+            </subsection>
+            <subsection id="H3D5872D2F65A45888D682CAF3BB75B9D">
+                <enum>(b)</enum>
+                <header>Disabling security functions</header>
+ <text>An OEM shall make available to any owner or independent repair provider, on fair and reasonable terms, any documentation, part, software, or tool required to disable or enable a technological protection measure or other security-related function of farm equipment.</text>
+            </subsection>
+            <subsection id="HDC69D29BFDCF4648B5ABD966BC12A75A">
+                <enum>(c)</enum>
+                <header>Interaction with copyright laws</header>
+                <paragraph id="H8E1F3FC8721247B580D4D1B05B6E2EF4">
+                    <enum>(1)</enum>
+                    <header>In general</header>
+ <text>Notwithstanding section 1201(a) of title 17, United States Code, a person may circumvent a technological measure that effectively controls access to a work protected under such title in connection with an activity protected under this Act if the purpose of such circumvention is—</text>
+                    <subparagraph id="HDE115B6B67F24AEA918963C52E135705">
+                        <enum>(A)</enum>
+ <text>to diagnose, maintain, upgrade, reprogram, or repair farm equipment;</text>
+                    </subparagraph>
+                    <subparagraph id="H7DD0BD330183407AA4F2A380ECC4CA72">
+                        <enum>(B)</enum>
+ <text>to the extent not provided for in section 1201(f) of title 17, United States Code, to enable interoperability with any computer program contained in and that controls the functioning of farm equipment or any product used to diagnose, maintain, upgrade, reprogram, or repair farm equipment;</text>
+                    </subparagraph>
+                    <subparagraph id="HE5C7AA65F31A4AFC865C12536B7304AF">
+                        <enum>(C)</enum>
+ <text>to the extent not provided for in subsections (g) and (j) of section 1201 of title 17, United States Code, to conduct security research relating to farm equipment; or</text>
+                    </subparagraph>
+                    <subparagraph id="HA9A56F9582154183BC123BEA2D42F529">
+                        <enum>(D)</enum>
+ <text>to enable non-infringing modifications of any computer program contained in and that controls the functioning of farm equipment or any device used to diagnose, maintain, upgrade, reprogram, or repair farm equipment.</text>
+                    </subparagraph>
+                </paragraph>
+                <paragraph id="H85347245BA784504BDAE4442AE9B59F4">
+                    <enum>(2)</enum>
+                    <header>Access to circumvention technologies</header>
+ <text>Notwithstanding subsection (a) or (b) of section 1201 of title 17, United States Code, a person may, for the purposes described in paragraph (1), manufacture, import, offer to the public, provide, or otherwise traffic in any technology, product, service, device, component, or part thereof that is primarily designed or produced for the purpose of or use in circumventing—</text>
+                    <subparagraph commented="no" display-inline="no-display-inline" id="idca6c3cb3ac2c4abd99465d9a0c79676a">
+                        <enum>(A)</enum>
+ <text display-inline="yes-display-inline">a technological measure that effectively controls access to a work protected under such title; or</text>
+                    </subparagraph>
+                    <subparagraph commented="no" display-inline="no-display-inline" id="ida55f982884cd49fdb64a03e827933451">
+                        <enum>(B)</enum>
+ <text display-inline="yes-display-inline">any protection afforded by a technological measure that effectively protects a right of a copyright owner under such title in a work or a portion thereof.</text>
+                    </subparagraph>
+                </paragraph>
+            </subsection>
+            <subsection id="H6AD21ADE31FD420A8D9669783F06FA56">
+                <enum>(d)</enum>
+                <header>Ensuring common availability</header>
+                <paragraph id="H4194DC5BF64045E09A6600FC545563D6" commented="no" display-inline="no-display-inline">
+                    <enum>(1)</enum>
+                    <header>In general</header>
+ <text>An OEM that stops offering any documentation, part, software, or tool to any authorized repair provider, independent repair provider, or equipment owner shall be subject to civil penalties under section 4(c).</text>
+                </paragraph>
+                <paragraph id="H889C58D4B28E4AD6991063A2D33B61E8">
+                    <enum>(2)</enum>
+                    <header>Replacement</header>
+ <text>An OEM shall ensure that any part required by the OEM's farm equipment can be replaced without causing damage to the equipment using—</text>
+                    <subparagraph id="HAD381E296F3B4B6B85280F3A61C4BC2E">
+                        <enum>(A)</enum>
+ <text>a commonly available tool; or</text> </subparagraph> <subparagraph id="H9D3B0519B8AD49628BB9FC6633365F04"> <enum>(B)</enum> <text>a tool that is not commonly available that is made available to owners or independent repair providers by the OEM on fair and reasonable terms.</text>
+                    </subparagraph>
+                </paragraph>
+            </subsection>
+        </section>
+        <section id="H2A920B9C10754C9284F5703F7829901A">
+            <enum>4.</enum>
+            <header>Enforcement</header>
+            <subsection id="HC21EEC96863C4D08B42944980EF5E415">
+                <enum>(a)</enum>
+                <header>Unfair or deceptive acts or practices</header>
+ <text>A violation of section 3 or a regulation promulgated under this Act shall be treated as a violation of a rule defining an unfair or deceptive act or practice under section 18(a)(1)(B) of the Federal Trade Commission Act (<external-xref legal-doc="usc" parsable-cite="usc/15/57a">15 U.S.C. 57a(a)(1)(B)</external-xref>).</text>
+            </subsection>
+            <subsection id="H1F004513E90C418194197F78DFAE4A4C">
+                <enum>(b)</enum>
+                <header>Powers of the Commission</header>
+                <paragraph id="HB1EDE2391CB24DCB8236D8665D9F88AC">
+                    <enum>(1)</enum>
+                    <header>In general</header>
+ <text>The Commission shall enforce this Act and any regulations promulgated under this Act in the same manner, by the same means, and with the same jurisdiction, powers, and duties as though all applicable terms and provisions of the Federal Trade Commission Act (<external-xref legal-doc="usc" parsable-cite="usc/15/41">15 U.S.C. 41 et seq.</external-xref>) were incorporated into and made a part of this Act.</text>
+                </paragraph>
+                <paragraph id="H0B20102AC5484636932A46C5FCF77388">
+                    <enum>(2)</enum>
+                    <header>Privileges and immunities</header>
+ <text>Subject to subsection (c), any person who violates section 3 or a regulation promulgated under this Act shall be subject to the penalties and entitled to the privileges and immunities provided in the Federal Trade Commission Act (<external-xref legal-doc="usc" parsable-cite="usc/15/41">15 U.S.C. 41 et seq.</external-xref>).</text>
+                </paragraph>
+                <paragraph id="HDFCEA858F27F4159BAF48F8703A4CA64">
+                    <enum>(3)</enum>
+                    <header>Authority preserved</header>
+ <text>Nothing in this Act shall be construed to limit the authority of the Commission under any other provision of law.</text>
+                </paragraph>
+            </subsection>
+            <subsection commented="no" display-inline="no-display-inline" id="id05caeafce4904b7583d53dd62e810e8b">
+                <enum>(c)</enum>
+                <header>Additional penalties and authority</header>
+ <text>In addition to the authority and penalties provided in the Federal Trade Commission Act (<external-xref legal-doc="usc" parsable-cite="usc/15/41">15 U.S.C. 41 et seq.</external-xref>), an OEM who violates section 3(d)(1) shall be subject to a civil penalty—</text>
+                <paragraph commented="no" display-inline="no-display-inline" id="id34ae25d9eda64b46b2b5def5baf2b72f">
+                    <enum>(1)</enum>
+ <text display-inline="yes-display-inline">for the first violation, in an amount of $1,000 for each day such OEM was in violation;</text>
+                </paragraph>
+                <paragraph commented="no" display-inline="no-display-inline" id="idd21b20992c6445babec6c23785c73451">
+                    <enum>(2)</enum>
+ <text>for the second violation, in an amount of $2,000 for each day such OEM was in violation; and</text>
+                </paragraph>
+                <paragraph commented="no" display-inline="no-display-inline" id="id34e51635a44e4135a98b68e3e8c06374">
+                    <enum>(3)</enum>
+ <text>for the third and subsequent violations, in an amount of $5,000 for each day such OEM was in violation.</text>
+                </paragraph>
+            </subsection>
+        </section>
+        <section commented="no" display-inline="no-display-inline" id="H496044E1751F4E739D1CCA597957A452">
+            <enum>5.</enum>
+            <header>Rulemaking</header>
+            <subsection commented="no" id="HC54CD8BAFA6C4B9A8E07D30EDE900CD8">
+                <enum>(a)</enum>
+                <header>In general</header>
+ <text display-inline="yes-display-inline">The Commission shall promulgate rules as may be necessary to carry out this Act in accordance with section 553 of title 5, United States Code.</text>
+            </subsection>
+            <subsection commented="no" id="H305E49491B2640B480A4857D7517BAD3">
+                <enum>(b)</enum>
+                <header>Clean Air Act</header>
+ <text display-inline="yes-display-inline">The Commission shall promulgate rules that are consistent with the Clean Air Act (<external-xref legal-doc="usc" parsable-cite="usc/42/7401">42 U.S.C. 7401 et seq.</external-xref>) and any related regulation, including paragraphs (1) and (6) of section 1068.101(b) of title 40, Code of Federal Regulations (or a successor regulation).</text>
+            </subsection>
+        </section>
+        <section commented="no" display-inline="no-display-inline" id="H34179EF95EF44B6C9B8B4675FFA762D1">
+            <enum>6.</enum>
+            <header>Limitations</header>
+ <text display-inline="no-display-inline">Nothing in this Act may be construed—</text> <paragraph commented="no" display-inline="no-display-inline" id="H1B37BBC71BA249F29C67C824AABA3FC0"> <enum>(1)</enum> <text>to require an OEM to divulge trade secrets to an owner or an independent service provider, except as necessary to provide access to repair material or process on fair and reasonable terms, consistent with this Act;</text>
+            </paragraph>
+            <paragraph commented="no" display-inline="no-display-inline" id="H588C56C544E94369A1E8D42B5B48D58F">
+                <enum>(2)</enum>
+ <text>to alter the terms of an agreement between an OEM and an authorized repair provider, except with respect to any provision of such an agreement that would limit the obligations of an OEM under this Act;</text>
+            </paragraph>
+            <paragraph commented="no" display-inline="no-display-inline" id="HA3576160AB994DD6B4886A0DCBEEB153">
+                <enum>(3)</enum>
+ <text display-inline="yes-display-inline">to require an authorized repair provider to make any documentation, part, or tool for farm equipment made by an OEM with which the authorized repair provider does not have an arrangement described in section 2(1);</text>
+            </paragraph>
+            <paragraph commented="no" display-inline="no-display-inline" id="H3C82A45606CA405B881286AF7DC47A3C">
+                <enum>(4)</enum>
+ <text>to require an OEM to provide any part or equipment solely used in the development of their products; or</text>
+            </paragraph>
+            <paragraph commented="no" display-inline="no-display-inline" id="H9B8F6E0F44B649A8BFC5E48C73200224">
+                <enum>(5)</enum>
+ <text>to allow—</text> <subparagraph commented="no" display-inline="no-display-inline" id="H5000ABB6E00F46E8903F4D1D29D20B1A"> <enum>(A)</enum> <text>any modification that permanently deactivates a safety notification system when farm equipment is being repaired;</text>
+                </subparagraph>
+                <subparagraph commented="no" display-inline="no-display-inline" id="H9C2C24B489E94CF998A1B8DE8B07E2DB">
+                    <enum>(B)</enum>
+ <text>access to any function of a tool that enables the owner or independent repair provider to change the settings of farm equipment so as to bring the equipment permanently out of compliance with any applicable safety or emissions laws;</text>
+                </subparagraph>
+                <subparagraph commented="no" display-inline="no-display-inline" id="H94D8D3829CF6402DA946A261791F45D5">
+                    <enum>(C)</enum>
+ <text>any violation of emissions laws or copyright laws; or</text> </subparagraph> <subparagraph commented="no" display-inline="no-display-inline" id="H7A501A30E72543C599AA1CB5DE0E579E"> <enum>(D)</enum> <text>any other illegal modification activities.</text>
+                </subparagraph>
+            </paragraph>
+        </section>
+    </legis-body>
+</bill>
+

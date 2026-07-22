@@ -1,0 +1,84 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H473EF2A9E8744ECD81EFABF7747648A1" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 HR 6106 IH: Conflict-free Leaving Employment and Activity Restrictions Path Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2025-11-18</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">119th CONGRESS</congress><session display="yes">1st Session</session><legis-num display="yes">H. R. 6106</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20251118">November 18, 2025</action-date><action-desc><sponsor name-id="P000048">Mr. Pfluger</sponsor> (for himself and <cosponsor name-id="C001121">Mr. Crow</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HFA00">Committee on Foreign Affairs</committee-name>, and in addition to the Committees on <committee-name committee-id="HJU00">the Judiciary</committee-name>, and <committee-name committee-id="HRU00">Rules</committee-name>, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned</action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To amend title 18, United States Code, to prevent and mitigate the potential for conflicts of interest following government service, and for other purposes.</official-title></form><legis-body id="H9798CD0AA41A48519A39270F468645D6" style="OLC"><section section-type="section-one" id="H44E3C54E5DFA43A18A46DF2D4E609373"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Conflict-free Leaving Employment and Activity Restrictions Path Act</short-title></quote> or the <quote><short-title>CLEAR Path Act</short-title></quote>.</text></section><section id="H1A557024AA55417EB7538FA41CFC96B4"><enum>2.</enum><header>Sense of Congress</header><text display-inline="no-display-inline">It is the sense of Congress that—</text><paragraph id="H8C1AC335793141E89ED336B303104084"><enum>(1)</enum><text>Congress and the executive branch have recognized the importance of preventing and mitigating the potential for conflicts of interest following government service, including with respect to senior United States officials working on behalf of foreign governments; and</text></paragraph><paragraph id="HB7AB434BFE49411482DFB9A38CD8995D"><enum>(2)</enum><text>Congress and the executive branch should jointly evaluate the status and scope of post-employment restrictions.</text></paragraph></section><section id="HCE6351DB55F44380920C63568732B338"><enum>3.</enum><header>Post-employment restrictions on officials in positions subject to Senate confirmation</header><subsection commented="no" display-inline="no-display-inline" id="H07DE90B913254B64965EABE09BBE4575"><enum>(a)</enum><header display-inline="yes-display-inline">In general</header><text display-inline="yes-display-inline">Section 207 of title 18, United States Code, is amended by adding at the end the following:</text><quoted-block style="OLC" display-inline="no-display-inline" id="H6CFC13CEFDD04F40B7714C8BEF4717EB"><subsection id="H60003C0C3485418BA1B29896F96EDA3F"> <enum>(m)</enum> <header>Extended post-Employment restrictions for officials in positions subject to Senate confirmation</header> <paragraph id="HB3C57449B64E4A00A4B48E630734F90A"> <enum>(1)</enum> <header>Definitions</header> <text>In this subsection:</text>
+              <subparagraph id="H319EB76FFEF7451796293C9662F6401F">
+                <enum>(A)</enum>
+                <header>Country of concern</header>
+ <text>The term <term>country of concern</term> has the meaning given the term in section 1(m) of the State Department Basic Authorities Act of 1956 (<external-xref legal-doc="usc" parsable-cite="usc/22/2651a">22 U.S.C. 2651a(m)</external-xref>), except that it does not include the country described in paragraph (1)(A)(vi) of that section, as in effect on the date of enactment of the <short-title>Conflict-free Leaving Employment and Activity Restrictions Path Act</short-title>.</text>
+              </subparagraph>
+              <subparagraph id="H8B336D4A7022488FB4093207A892DEB7">
+                <enum>(B)</enum>
+                <header>Foreign governmental entity</header>
+ <text>The term <term>foreign governmental entity</term> has the meaning given the term in section 1(m) of the State Department Basic Authorities Act of 1956 (<external-xref legal-doc="usc" parsable-cite="usc/22/2651a">22 U.S.C. 2651a(m)</external-xref>).</text>
+              </subparagraph>
+              <subparagraph id="HB20E0CBE9DA44A73B75388E23FC2A14E">
+                <enum>(C)</enum>
+                <header>Represent</header>
+ <text>The term <term>represent</term> does not include representation by an attorney, who is duly licensed and authorized to provide legal advice in a United States jurisdiction, of a person or entity in a legal capacity or for the purposes of rendering legal advice.</text>
+              </subparagraph>
+              <subparagraph commented="no" display-inline="no-display-inline"
+                id="H9828F8C02D3F467692612648AA885EA9">
+                <enum>(D)</enum>
+                <header>Senate-confirmed position</header>
+ <text>The term <term>Senate-confirmed position</term> means a position in a department or agency of the executive branch of the United States for which appointment is required to be made by the President, by and with the advice and consent of the Senate.</text>
+              </subparagraph>
+            </paragraph>
+            <paragraph id="HE0AB542511E1419CBF4B9D89B74D1508">
+              <enum>(2)</enum>
+              <header>Agency heads, deputy heads, and other positions subject to Senate
+                confirmation</header>
+ <text>Any person who serves in a position requiring appointment by the President as head or deputy head of, or serves in any other Senate-confirmed position in, a department or agency of the executive branch of the United States, and who, at any time after the termination of the person’s service in that position, knowingly represents, aids, or advises a foreign governmental entity of a country of concern before an officer or employee of the executive or legislative branch of the United States with the intent to influence a decision of the officer or employee in carrying out his or her official duties shall be punished as provided in section 216.</text>
+            </paragraph>
+            <paragraph id="H9C746F943C43487EBF93DF02AD15D734">
+              <enum>(3)</enum>
+              <header>Notice of restrictions</header>
+ <text>Any person subject to the restrictions under this subsection shall be provided notice of these restrictions by the relevant department or agency—</text>
+              <subparagraph id="H73C06E001CD34654AEAC8DAE676855D0">
+                <enum>(A)</enum>
+ <text>upon appointment by the President; and</text> </subparagraph> <subparagraph id="H630607C3B9FC471598F98D54DB62A005"> <enum>(B)</enum> <text>upon termination of service with the relevant department or agency.</text>
+              </subparagraph>
+            </paragraph>
+            <paragraph id="H563C6569425E447D96C12EE187308427">
+              <enum>(4)</enum>
+              <header>Effective date</header>
+              <subparagraph commented="no" display-inline="no-display-inline"
+                id="H05BB6ED68915431A95B335C0CB9A73F5">
+                <enum>(A)</enum>
+                <header>In general</header>
+ <text display-inline="yes-display-inline">Except as provided in subparagraph (B), the restrictions under this subsection shall apply only to persons who are appointed by the President to the positions referenced in this subsection on or after the date of enactment of the <short-title>Conflict-free Leaving Employment and Activity Restrictions Path Act</short-title>.</text>
+              </subparagraph>
+              <subparagraph commented="no" display-inline="no-display-inline"
+                id="H4B910D948F704655B2D7909960BA8663">
+                <enum>(B)</enum>
+                <header>Grace period for added countries of concern</header>
+ <text display-inline="yes-display-inline">If the definition of the term <quote>country of concern</quote> under subsection (m) of section 1 of the State Department Basic Authorities Act of 1956 (<external-xref legal-doc="usc" parsable-cite="usc/22/2651a">22 U.S.C. 2651a</external-xref>) is modified in accordance with paragraph (7) of that subsection by adding a country to the list of countries described in paragraph (1)(A) of that subsection, in the case of any person who is appointed by the President to a position referenced in this subsection on or after the date of enactment of the <short-title>Conflict-free Leaving Employment and Activity Restrictions Path Act</short-title> and who knowingly represents, aids, or advises a foreign governmental entity of a country added to the list of countries described in paragraph (1)(A) of such subsection (m), the restrictions under this subsection shall apply to such person on and after the date that is 30 days after the date of enactment of a relevant joint resolution of approval as described in paragraph (7)(C) of such subsection (m) adding that country to the list of countries described in paragraph (1)(A) of such subsection (m).</text>
+              </subparagraph>
+            </paragraph>
+            <paragraph id="HD8CC57967ECC40AAA3E09F2596B620A9">
+              <enum>(5)</enum>
+              <header>Sunset</header>
+              <subparagraph id="HA60FC4571C8C4A8FA96DF0652F25131C">
+                <enum>(A)</enum>
+                <header>In general</header>
+ <text>On and after the date that is 5 years after the date of enactment of the <short-title>Conflict-free Leaving Employment and Activity Restrictions Path Act</short-title>, the restrictions under paragraph (2) shall not apply to any person appointed by the President, on or after such date of enactment, to a position referenced in this subsection, without regard to the date on which the service of such person in such position terminates.</text>
+              </subparagraph>
+              <subparagraph id="H242E2EF5DFB5437583A392D0143D27C1">
+                <enum>(B)</enum>
+                <header>No effect on conduct before sunset</header>
+ <text>Nothing in subparagraph (A) shall be construed to limit the applicability of paragraph (2) with respect to any conduct by a person appointed by the President to a position referenced in this subsection that occurred before the date that is 5 years after the date of enactment of the <short-title>Conflict-free Leaving Employment and Activity Restrictions Path Act</short-title>.</text>
+              </subparagraph>
+            </paragraph>
+ </subsection><after-quoted-block>.</after-quoted-block></quoted-block></subsection><subsection commented="no" id="H3354F9D56FA34C7E9DDB0612BB7450E1"><enum>(b)</enum><header>Conforming amendment</header><text>Section 1(m) of the State Department Basic Authorities Act of 1956 (<external-xref legal-doc="usc" parsable-cite="usc/22/2651a">22 U.S.C. 2651a(m)</external-xref>) is amended—</text><paragraph commented="no" id="HCC487B02A836455F87ADD5DD98645070"><enum>(1)</enum><text>by redesignating paragraphs (6) and (7) as paragraphs (8) and (9), respectively; and</text></paragraph><paragraph commented="no" id="HE8F055E1E7754DC89B441907DBFFFD75"><enum>(2)</enum><text>by inserting after paragraph (5) the following:</text><quoted-block style="OLC" display-inline="no-display-inline" id="HA4C0BAA797544A108207A4801F4DFC18"><paragraph commented="no" id="H908A70D6AA7040EEB11823DA18A33082"><enum>(6)</enum><header>Relation to government-wide restrictions</header><text>This subsection shall not apply to a person by reason of the person’s service in a position referenced in this subsection if the person is subject to the restrictions under section 207(m) of title 18, United States Code, by reason of the same service.</text></paragraph><after-quoted-block>.</after-quoted-block></quoted-block></paragraph></subsection></section><section commented="no" id="H100C934BCBA14B83AEF9A0CA21F681C0"><enum>4.</enum><header>Mechanism to amend definition of <quote>country of concern</quote></header><text display-inline="no-display-inline">Section 1(m) of the State Department Basic Authorities Act of 1956 (<external-xref legal-doc="usc" parsable-cite="usc/22/2651a">22 U.S.C. 2651a(m)</external-xref>) is amended by inserting after paragraph (6), as added by section 3(b), the end the following:</text><quoted-block style="OLC" display-inline="no-display-inline" id="H107762B66C7649B7B01DDE385D250486"><paragraph id="HBE456D5334C4409FB406CCA18675BF4B"><enum>(7)</enum><header>Modification to definition of <quote>country of concern</quote></header><subparagraph id="H1124C67E13E2423E9F15EDF299A46C43"><enum>(A)</enum><header>In general</header><text>The Secretary of State may, in consultation with the Attorney General, propose the addition or deletion of countries described in paragraph (1)(A).</text></subparagraph><subparagraph id="H2F9001D3D9984B0F8CFD094CE235F910"><enum>(B)</enum><header>Submission</header><text>Any proposal described in subparagraph (A) shall—</text><clause id="H1B9B2F2A412C4377AB9E336BB4D00653"><enum>(i)</enum><text>be submitted to the Chairman and Ranking Member of the Committee on Foreign Relations of the Senate and the Chairman and Ranking Member of the Committee on the Judiciary of the House of Representatives; and</text></clause><clause id="H5DE371BE94724A1A9F2387056445D6F8"><enum>(ii)</enum><text>become effective upon enactment of a joint resolution of approval as described in subparagraph (C).</text></clause></subparagraph><subparagraph id="H954144639BFF45F280BE7464A2809227"><enum>(C)</enum><header>Joint resolution of approval</header><clause id="H91DCBD97CF4846DC9B7DB85BC96F42CC"><enum>(i)</enum><header>In general</header><text>For purposes of subparagraph (B)(ii), the term <term>joint resolution of approval</term> means only a joint resolution—</text><subclause id="H8D2368F2508640C9A652E38D3F90A6FE"><enum>(I)</enum><text>that does not have a preamble;</text></subclause><subclause id="H13FEB3D91699402EB705325A29F0E335"><enum>(II)</enum><text>that includes in the matter after the resolving clause the following: <quote>That Congress approves the modification of the definition of <quote>country of concern</quote> under section 1(m) of the State Department Basic Authorities Act of 1956, as submitted by the Secretary of State on ____; and section 1(m)(1)(A) of the State Department Basic Authorities Act of 1956 (<external-xref legal-doc="usc" parsable-cite="usc/22/2651a">22 U.S.C. 2651a(m)(1)(A)</external-xref>) is amended by ______.</quote>, the blank spaces being appropriately filled in with the appropriate date and the amendatory language required to modify the list of countries in paragraph (1)(A) of this subsection by adding or deleting 1 or more countries; and</text></subclause><subclause id="H665C8CDB53A743A8AC60256DA965D1F3"><enum>(III)</enum><text>the title of which is as follows: <quote>Joint resolution approving modifications to definition of <quote>country of concern</quote> under section 1(m) of the State Department Basic Authorities Act of 1956.</quote>.</text></subclause></clause><clause id="H171D86C057164074A0A706F35089D07E"><enum>(ii)</enum><header>Referral</header><subclause id="HDB009423E7EA4DDAB0E634EB4E93EC78"><enum>(I)</enum><header>Senate</header><text>A resolution described in clause (i) that is introduced in the Senate shall be referred to the Committee on Foreign Relations of the Senate.</text></subclause><subclause commented="no" display-inline="no-display-inline" id="H3589D1D1D8DE4264A44455EB47B69EF7"><enum>(II)</enum><header>House of Representatives</header><text>A resolution described in clause (i) that is introduced in the House of Representatives shall be referred to the Committee on the Judiciary of the House of Representatives.</text></subclause></clause></subparagraph></paragraph><after-quoted-block>.</after-quoted-block></quoted-block></section></legis-body></bill>
+

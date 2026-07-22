@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-type="olc" bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public" slc-id="S1-STR26124-H1K-LM-1L4"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 S5028 IS: Ratepayer Protection Act</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2026-07-16</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">II</distribution-code><congress>119th CONGRESS</congress><session>2d Session</session><legis-num>S. 5028</legis-num><current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber><action><action-date date="20260716">July 16, 2026</action-date><action-desc><sponsor name-id="S438">Mr. Husted</sponsor> introduced the following bill; which was read twice and referred to the <committee-name committee-id="SSEG00">Committee on Energy and Natural Resources</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title>To amend the Public Utility Regulatory Policies Act of 1978 to establish a Federal standard relating to the recovery of the full, incremental costs of upgrades that serve large-load customers, and for other purposes.</official-title></form><legis-body style="OLC" display-enacting-clause="yes-display-enacting-clause" id="H3B22E9DAD4BD488CB1C5AEBCD2E22B11"><section section-type="section-one" id="HDE44DA6C5F6A4065B389B3F4E8460809"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Ratepayer Protection Act</short-title></quote>.</text></section><section id="H1846CFDE9CF54DE1A8E3423DC97704E0"><enum>2.</enum><header>Federal standard relating to large-load customers</header><subsection id="H573A05F8776749C381C8A4C53B721AC9"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">Section 111(d) of the Public Utility Regulatory Policies Act of 1978 (<external-xref legal-doc="usc" parsable-cite="usc/16/2621">16 U.S.C. 2621(d)</external-xref>) is amended by adding at the end the following:</text><quoted-block style="OLC" display-inline="no-display-inline" id="HD482056C4A854678B185C6D100C5B8AB"><paragraph commented="no" id="HDCB6E2993ECE4114A3724E04874A4035"><enum>(22)</enum><header>Standards for large-load customers</header><subparagraph commented="no" id="HB6935727E36D468EB164BA5F40201D70"><enum>(A)</enum><header>Definition of large-load customer</header><text display-inline="yes-display-inline">In this paragraph, the term <quote>large-load customer</quote> means a non-residential electric consumer that, on or after the date of enactment of this paragraph, requests to enter into, or enters into, a contract or other agreement pertaining to the sale of electric energy for one or more facilities that—</text><clause id="idc7aa26c6ae584240a37a6e4ee7299c2b"><enum>(i)</enum><text>require electric energy primarily to operate information technology infrastructure and related systems pertaining to data storage and computational applications and services; and</text></clause><clause id="id72ff2288f2c24dc5833d647788b42281"><enum>(ii)</enum><text>have, in the aggregate, a peak electric demand of 100 megawatts or more at a single site or campus.</text></clause></subparagraph><subparagraph commented="no" display-inline="no-display-inline" id="idbe6791991fd74297bb8d6b3d1e8306dd"><enum>(B)</enum><header>Recovery of full, incremental cost of upgrades</header><text display-inline="yes-display-inline">A rate charged, or entered into, by an electric utility for providing electric service to a large-load customer shall be designed to recover from the large-load customer the full, incremental cost of any generation, transmission, or distribution upgrade necessary to serve the load of such large-load customer, including in the event of the large-load customer—</text><clause commented="no" display-inline="no-display-inline" id="id1fdae91f86d945389e65d031c9dad013"><enum>(i)</enum><text>terminating a contract or other agreement with the electric utility pertaining to the sale of electric energy; or</text></clause><clause commented="no" display-inline="no-display-inline" id="id5a6e9babdf72424b80dc2e527786b11d"><enum>(ii)</enum><text display-inline="yes-display-inline">otherwise ceasing the purchase of electric energy from the electric utility.</text></clause></subparagraph><subparagraph commented="no" id="H30F85BC7998842FFB2AE1F0BB671218E"><enum>(C)</enum><header>Financial assurances and contributions</header><text>Before making any generation, transmission, or distribution upgrade that is necessary to serve the load of a large-load customer, an electric utility shall require the large-load customer provide to the electric utility financial assurances or contributions to cover the cost of such upgrade.</text></subparagraph></paragraph><after-quoted-block>.</after-quoted-block></quoted-block></subsection><subsection commented="no" id="H0277951C9A4F4BBFAB1AB313A20FB73E"> <enum>(b)</enum> <header>Obligations To consider and determine</header> <text>Section 112 of the Public Utility Regulatory Policies Act of 1978 (<external-xref legal-doc="usc" parsable-cite="usc/16/2622">16 U.S.C. 2622</external-xref>) is amended—</text>
+        <paragraph commented="no" id="H1D91A4F73C9647529E22520BB705E26B">
+          <enum>(1)</enum>
+ <text>in subsection (b), by adding at the end the following:</text> <quoted-block style="OLC" id="H1B89781E653646D98530E3C8E8802F72"> <paragraph commented="no" id="H1ACB3A03097D455CBCD5E8CFB46CF3CB" indent="up1"> <enum>(9)</enum> <subparagraph commented="no" display-inline="yes-display-inline" id="H828BD2F1677B4392B5D6DB58EFBAC126"> <enum>(A)</enum> <text display-inline="yes-display-inline">Not later than 1 year after the date of enactment of this paragraph, each State regulatory authority (with respect to each electric utility for which the State has ratemaking authority) and each nonregulated electric utility shall commence consideration under section 111, or set a hearing date for consideration, with respect to the standard established by paragraph (22) of section 111(d).</text>
+              </subparagraph>
+              <subparagraph commented="no" id="H75CE14F5FDE34B7EB17F78C74FEA68F5" indent="up1">
+                <enum>(B)</enum>
+ <text display-inline="yes-display-inline">Not later than 2 years after the date of enactment of this paragraph, each State regulatory authority (with respect to each electric utility for which the State has ratemaking authority) and each nonregulated electric utility shall complete the consideration and make the determination under section 111 with respect to the standard established by paragraph (22) of section 111(d).</text>
+              </subparagraph>
+            </paragraph>
+            <after-quoted-block>;</after-quoted-block>
+          </quoted-block>
+        </paragraph>
+        <paragraph commented="no" id="H49CF4801B5B34B6F8EBC19C3EBEB27B6">
+          <enum>(2)</enum>
+ <text>in subsection (c)—</text> <subparagraph commented="no" id="H896BC37E209C4BF395EA9112E40A84A1"> <enum>(A)</enum> <text>in the first sentence, by striking <quote>subsection (b)(2)</quote> and inserting <quote>subsection (b)</quote>; and</text>
+          </subparagraph>
+          <subparagraph commented="no" id="HE2FEAE06AF3B4FCA9CA427BD54343922">
+            <enum>(B)</enum>
+ <text>by adding at the end the following: <quote>In the case of the standard established by paragraph (22) of section 111(d), the reference contained in this subsection to the date of enactment of this Act shall be deemed to be a reference to the date of enactment of that paragraph (22).</quote>; and</text>
+          </subparagraph>
+        </paragraph>
+        <paragraph commented="no" id="H27585667FF884C53AA0CCE1B13D0F9F7">
+          <enum>(3)</enum>
+ <text>by adding at the end the following:</text> <quoted-block style="OLC" id="H51249F70FD424E7D908E77239BC628A4"> <subsection commented="no" id="HEF7B6514D12648ED9D8FB8A970D9914C"> <enum>(i)</enum> <header>Other prior state actions</header> <text>Subsections (b) and (c) shall not apply to the standard established by paragraph (22) of section 111(d) in the case of any electric utility in a State if, before the date of enactment of this subsection—</text>
+              <paragraph commented="no" id="H5DDC8F261628492FAF67707D17D23272">
+                <enum>(1)</enum>
+ <text>the State has implemented for the electric utility the standard (or a comparable standard);</text>
+              </paragraph>
+              <paragraph commented="no" id="HE460A74693FE4ED0808CC92A04C1A9A5">
+                <enum>(2)</enum>
+ <text display-inline="yes-display-inline">the State regulatory authority for the State or the relevant nonregulated electric utility has conducted a proceeding to consider implementation of the standard (or a comparable standard) for the electric utility; or</text>
+              </paragraph>
+              <paragraph commented="no" id="H5D687EC34E194A89B0B36D50A8748B6D">
+                <enum>(3)</enum>
+ <text>the State legislature has voted on the implementation of the standard (or a comparable standard) for the electric utility.</text>
+              </paragraph>
+            </subsection>
+            <after-quoted-block>.</after-quoted-block>
+          </quoted-block>
+        </paragraph>
+ </subsection><subsection commented="no" id="H2AD129CBDEC2446DA28C194C1E3ED511"><enum>(c)</enum><header>Prior and pending proceedings</header><text display-inline="yes-display-inline">Section 124 of the Public Utility Regulatory Policies Act of 1978 (<external-xref legal-doc="usc" parsable-cite="usc/16/2634">16 U.S.C. 2634</external-xref>) is amended by adding at the end the following: <quote>In the case of the standard established by paragraph (22) of section 111(d), the reference contained in this section to the date of enactment of this Act shall be deemed to be a reference to the date of enactment of that paragraph (22).</quote>.</text></subsection></section></legis-body></bill>
+
