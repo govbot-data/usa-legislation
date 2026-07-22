@@ -1,0 +1,140 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-type="olc" bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public" slc-id="S1-BON25418-NHX-YH-6KM">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 S3114 IS: Union Members Right to Know Act</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2025-11-06</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+        <distribution-code>II</distribution-code>
+        <congress>119th CONGRESS</congress>
+        <session>1st Session</session>
+        <legis-num>S. 3114</legis-num>
+        <current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+        <action>
+            <action-date date="20251106">November 6, 2025</action-date>
+            <action-desc><sponsor name-id="S373">Mr. Cassidy</sponsor> (for himself, <cosponsor name-id="S396">Mrs. Blackburn</cosponsor>, <cosponsor name-id="S376">Ms.
+                    Ernst</cosponsor>, and <cosponsor name-id="S412">Mr. Tuberville</cosponsor>)
+                introduced the following bill; which was read twice and referred to the
+                    <committee-name committee-id="SSHR00">Committee on Health, Education, Labor, and
+                    Pensions</committee-name></action-desc>
+        </action>
+        <legis-type>A BILL</legis-type>
+        <official-title>To amend the Labor-Management Reporting and Disclosure Act of 1959 to
+            require labor organizations to make certain disclosures to its members, and for other
+            purposes.</official-title>
+    </form>
+    <legis-body style="OLC" display-enacting-clause="yes-display-enacting-clause" id="HF65CAF595D91492D91CA7741A39EC2C8">
+        <section section-type="section-one" id="HD9CCED3C6DC94A908A20925FF7837099">
+            <enum>1.</enum>
+            <header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Union Members Right to Know Act</short-title></quote>.</text>
+        </section>
+        <section id="HCF6B70752FC046219693A9341DA95501">
+            <enum>2.</enum>
+            <header>Amendments to the Labor-Management Reporting and Disclosure Act of 1959</header>
+            <subsection commented="no" display-inline="no-display-inline" id="ida7b4b077494947fdb84b645a47469c2e">
+                <enum>(a)</enum>
+                <header>Required disclosures</header>
+ <text display-inline="yes-display-inline">Section 105 of the Labor-Management Reporting and Disclosure Act of 1959 (<external-xref legal-doc="usc" parsable-cite="usc/29/415">29 U.S.C. 415</external-xref>) is amended—</text>
+                <paragraph id="H83D4C5B3D85C4DFAADAFF83EBF6F2120">
+                    <enum>(1)</enum>
+ <text>by striking <quote>Every</quote> and inserting the following:</text> <quoted-block style="OLC" display-inline="no-display-inline" id="HE759342362CD4722AAB191A1DEFA13CC"> <subsection id="HF1A0D02DC55F4E858FAFD70155157018"> <enum>(a)</enum> <header>In general</header> <text display-inline="yes-display-inline">Every</text>
+                        </subsection>
+                        <after-quoted-block>; and</after-quoted-block>
+                    </quoted-block>
+                </paragraph>
+                <paragraph id="HF96D39C2E1444BD5BBD730A2F7B95FEE">
+                    <enum>(2)</enum>
+ <text>by adding at the end the following:</text> <quoted-block style="OLC" display-inline="no-display-inline" id="HF3613D0C61A34A4EADCF13B0CA2D9C68"> <subsection id="H3B3CECC6D94B4CC9AC2B407494B39852"> <enum>(b)</enum> <header>Required disclosures</header> <paragraph id="H0B37247E3AFF442999953D3DC3CE804B"> <enum>(1)</enum> <header>In general</header> <text display-inline="yes-display-inline">Every labor organization shall provide to each member of the labor organization, in accordance with paragraph (2), the following:</text>
+                                <subparagraph id="HCCF52904CF674DC5B397F61658B032DC">
+                                    <enum>(A)</enum>
+ <text>A copy of this Act and a summary of each title of this Act.</text>
+                                </subparagraph>
+                                <subparagraph id="H10B876D59FA04196885E6B853F665832">
+                                    <enum>(B)</enum>
+ <text display-inline="yes-display-inline">A summary of the rights of an individual to seek, pursuant to title VII of the Civil Rights Act of 1964 (<external-xref legal-doc="usc" parsable-cite="usc/42/2000e">42 U.S.C. 2000e et seq.</external-xref>), a reasonable accommodation, based on the religious beliefs or practices of the individual, not to pay dues or fees to the labor organization.</text>
+                                </subparagraph>
+                                <subparagraph id="H0294ECE0296443EC947948D3EB712753">
+                                    <enum>(C)</enum>
+ <text>A summary of the rights of employees under the holding of the Supreme Court of the United States in Communications Workers v. Beck, 487 U.S. 735 (1988).</text>
+                                </subparagraph>
+                            </paragraph>
+                            <paragraph id="HB75A62BF60C8428D8467269EFA7A91A7">
+                                <enum>(2)</enum>
+                                <header>Disclosure requirements</header>
+ <text display-inline="yes-display-inline">Every labor organization shall provide the information under paragraph (1) by—</text>
+                                <subparagraph id="H5A55B410936B45CC994EC07A71981B9E">
+                                    <enum>(A)</enum>
+ <text display-inline="yes-display-inline">mail or electronic mail—</text>
+                                    <clause commented="no" display-inline="no-display-inline" id="idee57b671bca24a6699ffe5b5c3d2dcd3">
+                                        <enum>(i)</enum>
+                                        <subclause commented="no" display-inline="yes-display-inline" id="id251f7a4405c7494d81917e08bdbab531">
+                                            <enum>(I)</enum>
+ <text display-inline="yes-display-inline">to each employee who joins the labor organization on or after the date that is 90 days after the date of enactment of the <short-title>Union Members Right to Know Act</short-title>, not later than 30 days after the employee joins the labor organization; and</text>
+                                        </subclause>
+                                        <subclause commented="no" display-inline="no-display-inline" id="id9ae5cec3e77443f68fb34d5f69d1300b" indent="up1">
+                                            <enum>(II)</enum>
+ <text display-inline="yes-display-inline">to each member of the labor organization who was a member on the day before the date that is 90 days after the date of enactment of the <short-title>Union Members Right to Know Act</short-title>, not later than 1 year after such date of enactment; and </text>
+                                        </subclause>
+                                    </clause>
+                                    <clause commented="no" display-inline="no-display-inline" id="id31b8d2c903a3465988f5d6afeccbca08">
+                                        <enum>(ii)</enum>
+ <text display-inline="yes-display-inline">on an annual basis; and</text>
+                                    </clause>
+                                </subparagraph>
+                                <subparagraph id="HE5E70A0296F444C6AB4585271AF256AB">
+                                    <enum>(B)</enum>
+ <text display-inline="yes-display-inline">if the labor organization has a website, maintaining on the home-page of the website of the labor organization a hyperlink, titled <quote>Union Member Rights and Officer Responsibilities Under the LMRDA</quote>, to the information described under paragraph (1).</text>
+                                </subparagraph>
+                            </paragraph>
+                            <paragraph id="HE4BA26A64AB4479F9B3BC37BF8D1123A">
+                                <enum>(3)</enum>
+                                <header>Compliance</header>
+                                <subparagraph id="H0DE5E44979CF46678D1AEAFD1E385F04">
+                                    <enum>(A)</enum>
+                                    <header>Initial compliance</header>
+ <text display-inline="yes-display-inline">Not later than 180 days after such date of enactment, every labor organization that is required to comply with paragraph (2)(B) shall submit to the Secretary a form signed by its president and treasurer, or corresponding principal officers, certifying that the labor organization has complied with the requirements of such paragraph.</text>
+                                </subparagraph>
+                                <subparagraph id="H7E5C198DF600416A907425535ED8558A">
+                                    <enum>(B)</enum>
+                                    <header>Ongoing compliance</header>
+ <text display-inline="yes-display-inline">Not later than 18 months after such date of enactment, and on an annual basis thereafter, each labor organization shall submit to the Secretary a form signed by its president and treasurer, or corresponding principal officers, certifying that the labor organization has complied with the requirements of paragraph (2).</text>
+                                </subparagraph>
+                            </paragraph>
+                        </subsection>
+                        <after-quoted-block>.</after-quoted-block>
+                    </quoted-block>
+                </paragraph>
+            </subsection>
+            <subsection id="id660b6b17cb9f4f35996e6d24aba58bfc">
+                <enum>(b)</enum>
+                <header>Right not To subsidize labor organization nonrepresentational
+                    activities</header>
+ <text>Title I of the Labor-Management Reporting and Disclosure Act of 1959 (<external-xref legal-doc="usc" parsable-cite="usc/29/411">29 U.S.C. 411 et seq.</external-xref>) is amended by adding at the end the following:</text>
+                <quoted-block style="OLC" display-inline="no-display-inline" id="id7bf830c3f0864ddca9d5d4c9af6b5190">
+                    <section id="id0eb83a0a74644632ac3beecb90cfcad2">
+                        <enum>106.</enum>
+                        <header>Right not to subsidize labor organization nonrepresentational
+                            activities</header>
+ <text display-inline="no-display-inline">No employee’s labor organization dues, fees, assessments, or other contributions shall be used or contributed to any person, organization, or entity for any purpose not directly related to the labor organization’s collective bargaining or contract administration functions on behalf of the represented unit employee unless the employee member, or nonmember required to make such payments as a condition of employment, authorizes such expenditure in writing, after a notice period of not less than 35 days. An initial authorization provided by an employee under the preceding sentence shall expire not later than 1 year after the date on which such authorization is signed by the employee. There shall be no automatic renewal of an authorization under this section.</text>
+                    </section>
+                    <after-quoted-block>.</after-quoted-block>
+                </quoted-block>
+            </subsection>
+        </section>
+        <section id="H6D11BEA0CF5F40149B4E3A2F63B1A409">
+            <enum>3.</enum>
+            <header>Regulations</header>
+ <text display-inline="no-display-inline">Not later than 180 days after the date of enactment of this Act, the Secretary of Labor shall issue such regulations as are necessary to implement the amendments made by section 2 of this Act.</text>
+        </section>
+    </legis-body>
+</bill>
+

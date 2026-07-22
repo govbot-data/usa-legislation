@@ -1,0 +1,115 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H9F209224E9A144E3BAC3E172ACF1C2C2" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 HR 7025 IH: Evidence-Based Grantmaking Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2026-01-13</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">119th CONGRESS</congress><session display="yes">2d Session</session><legis-num display="yes">H. R. 7025</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20260113">January 13, 2026</action-date><action-desc><sponsor name-id="Y000067">Mr. Yakym</sponsor> (for himself, <cosponsor name-id="B001298">Mr. Bacon</cosponsor>, <cosponsor name-id="P000620">Ms. Pettersen</cosponsor>, <cosponsor name-id="T000480">Mr. Timmons</cosponsor>, <cosponsor name-id="R000305">Ms. Ross</cosponsor>, and <cosponsor name-id="M001213">Mr. Moore of Utah</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HGO00">Committee on Oversight and Government Reform</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To amend title 5, United States Code, to require the implementation of evidence-based practices with respect to certain Federal grants, and for other purposes.</official-title></form><legis-body id="H34606FCAB32E49B2A1E4A750602FCF8F" style="OLC"> 
+<section id="H28175BC2612F4E1C86C505855A2FF52C" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Evidence-Based Grantmaking Act</short-title></quote>.</text></section> <section id="HE801D71E057D44CBA04CC38CA339A12A"><enum>2.</enum><header>Requirement to implement evidence-based practices with respect to certain Federal grants</header> <subsection id="HB3422DE2994B4E1A929F5836B3EC24D3"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">Subchapter II of <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/5/3">chapter 3</external-xref> of title 5, United States Code, is amended by inserting after <external-xref legal-doc="usc" parsable-cite="usc/5/315">section 315</external-xref> the following:</text> 
+<quoted-block id="HDD91F6C8E5D24F59874BF51345991BD2" style="USC"> 
+<section id="H507CCF6C7280419B9672D6A079ADEDF4" display-inline="no-display-inline" section-type="subsequent-section"><enum>316.</enum><header>Requirement to implement evidence-based practices with respect to certain Federal grants</header> 
+<subsection id="H04F7F7505C2841FE9CC37938A1CF3F0C"><enum>(a)</enum><header>Requirements</header><text>The head of a covered agency shall, with respect to each covered grant of the agency—</text> <paragraph id="HF1857F2EDE8242658C504B654222C383"><enum>(1)</enum><text display-inline="yes-display-inline">include in any notice of funding opportunity, request for proposals, or announcement with respect to the grant a clearly defined purpose for the grant, including clearly defined intended outcomes for the use of any funds provided under the grant;</text></paragraph> 
+<paragraph id="H83CA1D6221604DECAB35AFF8E65E5D10"><enum>(2)</enum><text>prioritize awarding the covered grant—</text> <subparagraph id="H29936F2C3A8B463C895DDA3B8C96CF87" commented="no"><enum>(A)</enum><text>to applicants that have—</text> 
+<clause id="H12B0CB9663F84D0FB9FB3108B48A9428"><enum>(i)</enum><text>implemented practices that are evidence-based; and</text></clause> <clause id="H21DABC89C41A4B1FA5BA3B988FDDE6CF" commented="no"><enum>(ii)</enum><text>demonstrated in the application for the grant that the applicant will use the funding for such practices to achieve results compatible with the purpose for the grant (as defined in the notice of funding opportunity, request for proposal, and or announcement for the grant);</text> </clause></subparagraph> 
+<subparagraph id="H10BD777FA5D847E58549DDA1C3DBA6B3" commented="no"><enum>(B)</enum><text>to applicants—</text> <clause id="HDBAF2D9DBFD34B4FA204A807502317F7" commented="no"> <enum>(i)</enum> <text display-inline="yes-display-inline">that submit applications that are responsive to community needs; and</text>
+                  </clause> 
+<clause id="H1C328F0B86BF4F7D98317F84471E8E12" commented="no"><enum>(ii)</enum><text display-inline="yes-display-inline">from organizations located in or representative of the community in which the grant seeks to serve; and</text></clause> </subparagraph> <subparagraph id="HE7C5E26231C94B9DBEA965C5D493D0DF" commented="no"><enum>(C)</enum><text>in accordance section 200.202 of title 2, Code of Federal Regulations (or successor regulation);</text> </subparagraph> </paragraph> 
+<paragraph id="H07834AE52A074323966B1DABB4177E5A" commented="no"><enum>(3)</enum><text>require recipients of a covered grant to use practices that are evidenced-based in providing any services to the public or a specific community using funds provided under such grant; and</text></paragraph> <paragraph id="H5E7B9787BA4141DD9074427A26B2D88D"><enum>(4)</enum><text>acting through the Evaluation officer of the agency—</text> 
+<subparagraph id="H433572970C2944B68B06082E4F8BFA09">
+                  <enum>(A)</enum>
+ <text display-inline="yes-display-inline">in accordance with subsection (b), conduct periodic evaluations that are evidence-based during the term of the covered grant to determine, with respect to each activity carried out using funds provided under the covered grant, whether such funds are being used effectively to achieve the intended outcomes for the use of funds provided under the grant (as defined in the notice of funding opportunity, requests for proposal, or announcement for the grant);</text>
+                </subparagraph> 
+<subparagraph id="H925C30F81B9E4CD2BC688C8D7DA6F54C"><enum>(B)</enum><text>establish a process by which such evaluations are to be conducted;</text></subparagraph> <subparagraph id="HFAD955B689734605A32DF711F5C0009F"><enum>(C)</enum><text display-inline="yes-display-inline">make the results of such evaluations available to the public; and</text></subparagraph> 
+<subparagraph id="HF46390BBE967497CB5D37429F08172AB"><enum>(D)</enum><text>use such results to inform decision making in the development of future notices of funding opportunity, requests for proposal, or announcements for the grant.</text></subparagraph></paragraph> </subsection> <subsection id="HC693068E79C14F6AB4A9CD01731B8639"><enum>(b)</enum><header>Evaluation</header><text display-inline="yes-display-inline">In carrying out each evaluation required by subsection (a)(3), each Evaluation officer shall adhere to Federal program evaluation standards, including by using the different types of evaluation, such as impact, outcome, process or implementation, and formative evaluation, in carrying out such evaluation.</text> </subsection> 
+<subsection id="H402D96A3C1DA4028864718B062BD32A5" commented="no" display-inline="no-display-inline"><enum>(c)</enum><header>Agency report to Congress</header><text>The head of each covered agency shall submit an annual report to Congress on the activities carried out by the head of each covered agency under this section.</text></subsection> <subsection id="H6FC1F4D85CBC49D5BF957A7FC7FE3F3A"><enum>(d)</enum><header>Technical assistance</header><text>The head of each covered agency may provide technical assistance to recipients of grants of the agency in carrying out any requirement established pursuant to this section.</text></subsection> 
+<subsection id="H8C7E1350E6964FA6842AA196A76C341C"><enum>(e)</enum><header>Definitions</header><text>In this section:</text> <paragraph id="H0BC2F1E022764BA9846874B944604E00"><enum>(1)</enum><header>Covered agency</header><text>The term <term>covered agency</term> means the following:</text> 
+<subparagraph id="H32D1D5CAE654446E8D8F54D233ED13D7"><enum>(A)</enum><text>Department of Agriculture.</text></subparagraph> <subparagraph id="H9FF981F45EF74BE99C2654E9E3D30F4B"><enum>(B)</enum><text>Department of Commerce.</text></subparagraph> 
+<subparagraph id="H7CD9E913DF4342298A81813DE48466CE"><enum>(C)</enum><text>Department of Education.</text></subparagraph> <subparagraph id="HD9E0BF3F316E4F5B9598A74E9ED55302"><enum>(D)</enum><text>Department of Energy.</text></subparagraph> 
+<subparagraph id="H87D5A9A5FA134DE1A1D14ABBD60512A8"><enum>(E)</enum><text>Department of Health and Human Services.</text></subparagraph> <subparagraph id="H7C5CB4DDC39E4AC897501E644D0D3ADE"><enum>(F)</enum><text>Department of Homeland Security.</text></subparagraph> 
+<subparagraph id="H514CD51B7DEF4659BB26DAD7B90DEBE5"><enum>(G)</enum><text>Department of Housing and Urban Development.</text></subparagraph> <subparagraph id="H0155AAF86A3D46CEB03CAF64E96B9389"><enum>(H)</enum><text>Department of the Interior.</text></subparagraph> 
+<subparagraph id="HA78FADAC3F4841F8A8C42E039FB3ECA3"><enum>(I)</enum><text>Department of Justice.</text></subparagraph> <subparagraph id="H0156BE646DFB464A859B0C727276CB1C"><enum>(J)</enum><text>Department of Labor.</text></subparagraph> 
+<subparagraph id="H7D16D279CC3E457FA3D6449A8B7E20AD"><enum>(K)</enum><text>Department of Transportation.</text></subparagraph> <subparagraph id="H769DDCB568584709BFA26B59DB05AD8E"><enum>(L)</enum><text>Department of the Treasury.</text></subparagraph> 
+<subparagraph id="HD9A6935F9EDC476995F4558B8759ECF4"><enum>(M)</enum><text>Department of Veterans Affairs.</text></subparagraph> <subparagraph id="H62136EB924E6446097E93FD2C80DE032"><enum>(N)</enum><text>The Environmental Protection Agency.</text></subparagraph> 
+<subparagraph id="HB4010CD0B9594DB6B1064F3CAC84232C"><enum>(O)</enum><text>The Small Business Administration.</text></subparagraph></paragraph> <paragraph id="HEA012F0964A4436BADC7AB5077188E8A"><enum>(2)</enum><header>Covered grant</header><text>The term <term>covered grant</term> means a grant made by the head of the covered agency for the purpose of the recipient of such grant providing a service to the public or specific community using the funds provided under such grant.</text></paragraph> 
+<paragraph id="HB65DC356D12A45CA96E3CE9B99C32EBC" commented="no"><enum>(3)</enum><header>Federal program evaluation standards</header><text display-inline="yes-display-inline">The term <term>Federal program evaluation standards</term> means standards and practices described in the Office of Management and Budget Memorandum M–20–12 (relating to the implementation of the Foundations for Evidence-Based Policymaking Act of 2018 and Program Evaluation Standards and Practices).</text> </paragraph> </subsection></section> <after-quoted-block>.</after-quoted-block></quoted-block></subsection> <subsection id="HFC597E8B2B8343809D3F162D19C5F9A0" commented="no"> <enum>(b)</enum> <header>Definition and application of the term <term>evidence-Based</term></header> <paragraph id="HA4CBD38859DF41B3AFFF103C3611F0B2"> <enum>(1)</enum> <header>OMB guidance</header> <subparagraph id="H397F3EBB533047E3BD0E482139E10521"> <enum>(A)</enum> <header>In general</header> <text display-inline="yes-display-inline">Not later than 1 year after the date of the enactment of this Act, the Director shall issue to the heads of covered agencies guidance on how to define and apply the term <term>evidence-based</term> for the purpose of implementing section 316 of title 5, United States Code (as added by subsection (a)).</text>
+          </subparagraph>
+          <subparagraph id="H291F554311A6497485E3E15543344E62">
+            <enum>(B)</enum>
+            <header>Contents</header>
+ <text>The guidance issued by the Director under subparagraph (A) shall provide the head of each such agency the flexibility to define or apply the term <term>evidence-based</term> in a manner—</text>
+            <clause id="H3AD49598BADA43D687DF282B17CCC5CD">
+              <enum>(i)</enum>
+ <text>that aligns with the mission and programs of the agency; and</text> </clause> <clause id="H90DC71C45FC142B7AA599EDD708D216F"> <enum>(ii)</enum> <text>consistent with Federal program evaluation standards.</text>
+            </clause>
+          </subparagraph>
+        </paragraph>
+        <paragraph id="H06023FB4D39B4605BB5604E8E2FA52E5">
+          <enum>(2)</enum>
+          <header>Agency guidance</header>
+ <text>Not later than 1 year after the Director issues the guidance required by paragraph (1), the head of each covered agency, acting through the Evaluation officer of the agency, shall—</text>
+          <subparagraph id="H9A2380EED6BD4C3C9D02494108E97C47">
+            <enum>(A)</enum>
+ <text>define the term <term>evidence-based</term> for the purposes of implementing section 316 of title 5, United States Code, with respect to the covered grants of the agency—</text>
+            <clause id="HED5967E5020648AFBC3A151EF7D499EF">
+              <enum>(i)</enum>
+ <text display-inline="yes-display-inline">in accordance with such guidance;</text> </clause> <clause id="HA95F8E9FD4B14A2CBBD00CCEE56216A4" display-inline="no-display-inline"> <enum>(ii)</enum> <text>in a manner consistent with Federal program evaluation standards;</text>
+            </clause>
+            <clause id="H6A525DB4E6F74355925194226E52CEC2">
+              <enum>(iii)</enum>
+ <text display-inline="yes-display-inline">after publishing a notice in the Federal Register that includes—</text>
+              <subclause id="H5FA57C2784714A04A7547ED748E41140">
+                <enum>(I)</enum>
+ <text>a proposed definition of such term; and</text> </subclause> <subclause id="H647AF7AD9F7040BBBE88331A1648EA4B"> <enum>(II)</enum> <text>a description of how the community engagement practices, evidence-based standards, and evaluation requirements of such section will be applied by the agency to such grants; and</text>
+              </subclause>
+            </clause>
+            <clause id="H3482AD6A622146BDAC9D22BFA1A8D6E4">
+              <enum>(iv)</enum>
+ <text>after providing an opportunity for public comment regarding such proposed definition, not later than the date that is 60 days after the publication of the notice required by clause (iii);</text>
+            </clause>
+          </subparagraph>
+          <subparagraph id="H933ADFCDE11843AABB73B0C04B7FD618">
+            <enum>(B)</enum>
+ <text display-inline="yes-display-inline">establish a framework for identifying applicants proposing to implement practices that are evidence-based, for the purpose of prioritizing the award of covered grants to such applicants in accordance with section 316(a)(2)(A) of title 5, United States Code; and</text>
+          </subparagraph>
+          <subparagraph id="HD248DB5585634D3189BD178B2B1679FE">
+            <enum>(C)</enum>
+ <text display-inline="yes-display-inline">make such definition and framework available to the public.</text>
+          </subparagraph>
+        </paragraph>
+        <paragraph id="H4D11494E17734A9B8E2F7852D42F6C0B">
+          <enum>(3)</enum>
+          <header>Implementation</header>
+ <text>Beginning on the date that is 5 years after the date of the enactment of this section, the head of each agency shall implement the framework established by the head of the agency under paragraph (2)(B) with respect to each covered grant of the agency.</text>
+        </paragraph>
+      </subsection> 
+<subsection id="HA7FF305F4B024A70B58AB108584991DF">
+        <enum>(c)</enum>
+        <header>Application</header>
+ <text display-inline="yes-display-inline">Beginning on the date that is 180 days after the head of a covered agency makes the definition required by subsection (b)(2)(A) for that agency available to the public in accordance with such subsection, section 316 of title 5, United States Code, shall apply to each covered grant of the agency, where practicable.</text>
+      </subsection> 
+<subsection id="H7F295FD65D5F418291846C8EDAD0585C"><enum>(d)</enum><header>Reports</header> 
+<paragraph id="H4B6220F656EB406399CCB675DD548D46" commented="no"><enum>(1)</enum><header>Initial implementation report to OMB</header><text display-inline="yes-display-inline">Not later than 180 days after the head of a covered agency makes the definition and framework required by subsection (b)(2)(B) available to the public in accordance with such subsection, the head of the agency shall submit to the Director a report on how the head will implement the requirements of section 316 of title 5, United States Code, with respect to the covered grants for the agency that includes an initial list of covered grants with respect to which the head of the agency will be implementing the framework.</text> </paragraph> <paragraph id="H6600552AC2614FCA944AC35EEABEBA45" commented="no"><enum>(2)</enum><header>Initial implementation report to Congress</header><text display-inline="yes-display-inline">Beginning on the date that is 1 year after the date of the enactment of this Act, and each year thereafter until the date that is 5 years after the date of such enactment, the Director of OMB shall submit an annual report to Congress on the progress of implementing the provisions of this Act that includes, with respect to the year preceding the report—</text> 
+<subparagraph id="H218D2D48CFBF408FB7BDBB7757306498" commented="no"><enum>(A)</enum><text display-inline="yes-display-inline">progress on—</text> <clause id="H1F51F518C8D94AB1A202AC596F0A7CBE"><enum>(i)</enum><text>defining the term <term>evidence-based</term> for the purposes of implementing section 316 of title 5, United States Code, with respect to the covered grants; and</text></clause> 
+<clause id="H3DE18266B9ED42E1BC7A570BEE365CD9"><enum>(ii)</enum><text>implementing evidence-based practices with respect to the covered grants included on the list required by paragraph (1);</text></clause></subparagraph> <subparagraph id="HF0E927DAD2CE4F1E88CB761A3CCAC2F5" commented="no"><enum>(B)</enum><text>comprehensive details on how the head of each covered agency is defining, integrating, and implementing the framework required by subsection (b)(2)(B) for the covered grants of the agency; and</text></subparagraph> 
+<subparagraph id="H43239571CDA547A288D91B3C1F47D179" commented="no"><enum>(C)</enum><text>an assessment of whether the heads of covered agencies are implementing the provisions of this Act, and the amendments made by this Act, in similar or divergent manners, and any recommendations on where greater alignment in such implementation may improve or streamline the application process for persons seeking multiple grants.</text></subparagraph> </paragraph> <paragraph id="H8CD6D3CC42914A229B4E52759DAA9BE2" commented="no"> <enum>(3)</enum> <header>Annual OMB report</header> <text>Beginning on the date that is one year after the framework required by subsection (b)(2)(B) has begun to be implemented by the heads of covered agencies, and each year thereafter, the Director of OMB shall submit a report to Congress on the extent to which the head of covered agencies have used such framework in awarding grants, including—</text>
+          <subparagraph id="H2D6C4E422A26443B8744242E54E4C1BA" commented="no">
+            <enum>(A)</enum>
+ <text>the number of covered grants with respect to which the head has used such framework; and</text>
+          </subparagraph>
+          <subparagraph id="HFDC09C5B59214FE78339F47E0642CFBC" commented="no">
+            <enum>(B)</enum>
+ <text>select examples of grants of the covered agency with respect to which the head of the covered agency has successfully used such framework to select the recipients of such grant.</text>
+          </subparagraph>
+        </paragraph> 
+<paragraph id="H09800EB8E4B2449498B85B9CA5AB3E5A"><enum>(4)</enum><header>Future grantmaking</header><text display-inline="yes-display-inline">Not later than 1 year after the head of a covered agency has begun to implement the framework established by the head of the agency in accordance with subsection (b)(2)(B), the head of such agency shall submit to the Director a comprehensive report that—</text> <subparagraph id="H7D10A955B5BA4A0E9F2380F067BF399A"><enum>(A)</enum><text>identifies best practices for future grantmaking by the agency; and</text></subparagraph> 
+<subparagraph id="HFD421654858F4F03BBF0FC607B46F23F"><enum>(B)</enum><text>makes recommendations for future improvements to the strategies the agency uses to evaluate grants under section 316(a)(3) of title 5, United States Code, to enhance the impact of Federal grant investments.</text></subparagraph></paragraph></subsection> <subsection id="H786E90EF19E7402E8CEDF599DC4EA2A1"><enum>(e)</enum><header>Definitions</header><text>In this Act, the terms <term>covered agency</term>, <term>covered grant</term>, and <term>Federal program evaluation standards</term> have the meaning given such terms in section 316 of title 5, United States Code, as added by subsection (a).</text></subsection> </section> 
+</legis-body></bill>
+

@@ -1,0 +1,84 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public" slc-id="S1-GOE25824-3GJ-Y7-7NG">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 S3019 IS: No Big Blockbuster Bailouts Act</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2025-10-21</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+        <distribution-code>II</distribution-code>
+        <congress>119th CONGRESS</congress>
+        <session>1st Session</session>
+        <legis-num>S. 3019</legis-num>
+        <current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+        <action>
+            <action-date date="20251021">October 21, 2025</action-date>
+            <action-desc><sponsor name-id="S422">Mr. Welch</sponsor> (for himself, <cosponsor name-id="S247">Mr. Wyden</cosponsor>, and <cosponsor name-id="S385">Ms. Cortez
+                    Masto</cosponsor>) introduced the following bill; which was read twice and
+                referred to the <committee-name committee-id="SSFI00">Committee on
+                    Finance</committee-name></action-desc>
+        </action>
+        <legis-type>A BILL</legis-type>
+        <official-title>To amend title XI of the Social Security Act to provide for the treatment of
+            orphan drugs under the Medicare Drug Price Negotiation Program.</official-title>
+    </form>
+    <legis-body>
+        <section id="S1" section-type="section-one">
+            <enum>1.</enum>
+            <header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>No Big Blockbuster Bailouts Act</short-title></quote>.</text>
+        </section>
+        <section id="id460f9b8f6cd84753902cd0d56e0a6dae">
+            <enum>2.</enum>
+            <header>Treatment of orphan drugs under the Medicare Drug Price Negotiation
+                Program</header>
+            <subsection id="idf23069af240f4b0ab106c09554bdeea4">
+                <enum>(a)</enum>
+                <header>In general</header>
+ <text display-inline="yes-display-inline">Section 1192(e) of the Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/1320f-1">42 U.S.C. 1320f–1(e)</external-xref>) is amended—</text>
+                <paragraph id="id91a893f4ef96455c95b2781324a73293">
+                    <enum>(1)</enum>
+ <text>in paragraph (1), in the matter preceding subparagraph (A), by striking <quote>through (4)</quote> and inserting <quote>and (3)</quote>;</text>
+                </paragraph>
+                <paragraph id="id165bd201a4db44eeb31a3c6880912f91">
+                    <enum>(2)</enum>
+ <text>in paragraph (3)—</text> <subparagraph commented="no" display-inline="no-display-inline" id="id92e0c3dd52f04d44a2e94934f369ec61"> <enum>(A)</enum> <text display-inline="yes-display-inline">by striking subparagraph (A);</text>
+                    </subparagraph>
+                    <subparagraph commented="no" display-inline="no-display-inline" id="id58db07914446457cb3c3cfee7abdc989">
+                        <enum>(B)</enum>
+ <text>by redesignating subparagraphs (B) and (C) as subparagraphs (A) and (B), respectively; and</text>
+                    </subparagraph>
+                    <subparagraph commented="no" display-inline="no-display-inline" id="id6cd0efe742e448df90e002cc30ba4507">
+                        <enum>(C)</enum>
+ <text>in subparagraph (A)(iii), as redesignated by subparagraph (B) of this paragraph, by striking <quote>with respect to</quote> and inserting <quote>subject to paragraph (4), with respect to</quote>; and</text>
+                    </subparagraph>
+                </paragraph>
+                <paragraph id="id74d8d719df3e46728b34ed5da3d069e9">
+                    <enum>(3)</enum>
+ <text>by striking paragraph (4) and inserting the following new paragraph:</text>
+                    <quoted-block style="OLC" display-inline="no-display-inline" id="id288e335fe36c46ee8f21af8973c813f9">
+                        <paragraph id="id3cf742dddf1d4fad9d0ede96958b56df">
+                            <enum>(4)</enum>
+                            <header>Treatment of orphan drugs</header>
+ <text>In the case of a drug that is designated as a drug for one or more rare diseases or conditions and for which the only approved indication (or indications) is for one or more such rare diseases or conditions (as such term is defined in section 526(a)(2) of the Federal Food, Drug, and Cosmetic Act), paragraph (3)(A) shall be applied by substituting <quote>$400,000,000</quote> for <quote>$200,000,000</quote> in clause (i) of such paragraph.</text>
+                        </paragraph>
+                        <after-quoted-block>.</after-quoted-block>
+                    </quoted-block>
+                </paragraph>
+            </subsection>
+            <subsection id="ida60c24dbbe74425383f943ade05f39f2" commented="no" display-inline="no-display-inline">
+                <enum>(b)</enum>
+                <header>Application</header>
+ <text display-inline="yes-display-inline">The amendments made by subsection (a) shall apply with respect to initial price applicability years (as defined in section 1191(b) of the Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/1320f">42 U.S.C. 1320f(b)</external-xref>)) beginning on or after January 1, 2028.</text>
+            </subsection>
+        </section>
+    </legis-body>
+</bill>
+

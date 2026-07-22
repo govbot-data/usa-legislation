@@ -1,0 +1,83 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H8F9CEFB42D7B4BED902260D702ED1D98" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 HR 6811 IH: Postal Suspension Transparency Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2025-12-17</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">119th CONGRESS</congress><session display="yes">1st Session</session><legis-num display="yes">H. R. 6811</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20251217">December 17, 2025</action-date><action-desc><sponsor name-id="P000614">Mr. Pappas</sponsor> (for himself, <cosponsor name-id="B001301">Mr. Bergman</cosponsor>, <cosponsor name-id="B001315">Ms. Budzinski</cosponsor>, and <cosponsor name-id="G000597">Mr. Garbarino</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HGO00">Committee on Oversight and Government Reform</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To require the Postal Service to establish a website providing information on post offices experiencing emergency suspensions, and for other purposes.</official-title></form><legis-body id="HF2C73C1D7DC840059CE601F843CC7522" style="OLC"> 
+<section id="HDF74BE17B42B4B278BF08302C1A46322" section-type="section-one"><enum>1.</enum><header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Postal Suspension Transparency Act</short-title></quote>.</text></section> 
+<section id="H26344DF4DD4644CD979F269DBB165BDC"><enum>2.</enum><header>Post office emergency suspension website</header> 
+<subsection id="H5D0B4244BF6C4503875844AB38BA6076"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">Subchapter VII of <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/39/36">chapter 36</external-xref> of title 39, United States Code, is amended by adding at the end the following new section:</text> <quoted-block style="USC" id="HF93C4AEE7990453DA73256B8CE3B94EA" display-inline="no-display-inline"> <section id="HBB664A190032437D8C975B763D4BCD7D"><enum>3693.</enum><header>Post office emergency suspension website</header> <subsection id="HFFD13C23FBDE48B5B08402250266ECE8"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">The Postal Service shall develop and maintain a publicly available website with an interactive web-tool that provides information about each covered post office, including the information described in subsection (b).</text></subsection> 
+<subsection id="H2670EA9F58214E0390723A1D081444EB">
+              <enum>(b)</enum>
+              <header>Emergency suspension information</header>
+ <text display-inline="yes-display-inline">The information provided on the website shall include—</text>
+              <paragraph id="HA5606354B1A34F1ABE6CFEA325B06C5C">
+                <enum>(1)</enum>
+ <text>a list of each covered post office; and</text> </paragraph> <paragraph id="H8524EBEF4AE8435C9DE2258BDB56EA89"> <enum>(2)</enum> <text>for each covered post office—</text>
+                <subparagraph id="H3B4F54D50ADD4A649EC89C983BFB9EB2">
+                  <enum>(A)</enum>
+ <text>a street address;</text> </subparagraph> <subparagraph id="H236570AB2A0A4079B2BDFAFF6AA56EDF"> <enum>(B)</enum> <text>the date on which the relevant emergency suspension for such covered post office took effect;</text>
+                </subparagraph>
+                <subparagraph id="HF046F7F05B82468ABED3CB2538BD8DAE">
+                  <enum>(C)</enum>
+ <text>the reason for such emergency suspension;</text> </subparagraph> <subparagraph id="H336C902460794B209E1DAB2DDD7F77D0"> <enum>(D)</enum> <text>alternative services available, including how to request curbside delivery;</text>
+                </subparagraph>
+                <subparagraph id="HF462DF7A59614E4CB7CC4B25B66F2B8E">
+                  <enum>(E)</enum>
+ <text>the location of, and hours of operation for, the nearest facility providing retail access to postal services; and</text>
+                </subparagraph>
+                <subparagraph id="HA6FB8CC6DD7647F895F859B747446139">
+                  <enum>(F)</enum>
+ <text>to the extent practicable, the estimated date on which operations at such covered post office will resume.</text>
+                </subparagraph>
+              </paragraph>
+            </subsection> 
+<subsection id="H0D3DDD84DDA24F1A8F9222A77BE697F0" commented="no">
+              <enum>(c)</enum>
+              <header>Address search functionality</header>
+ <text display-inline="yes-display-inline">The website shall include functionality enabling a user to search for information about covered post offices by street address, ZIP Code, or post office box.</text>
+            </subsection> 
+<subsection id="HA506EFBD29FB4074A06CB96AC9153C11" commented="no">
+              <enum>(d)</enum>
+              <header>Format</header>
+ <text>The information described in subsection (a) shall be provided on the website—</text>
+              <paragraph id="HA4518136F35F40589F553CF9598840EE" commented="no">
+                <enum>(1)</enum>
+ <text>in a manner that—</text> <subparagraph id="H7D3994D7F18C4296926585FF30AC087B" commented="no"> <enum>(A)</enum> <text>presents such information on an interactive dashboard;</text>
+                </subparagraph>
+                <subparagraph id="H1507D6C959C240FAA2BA765249094513" commented="no">
+                  <enum>(B)</enum>
+ <text>is searchable and may be sorted and filtered by the elements described in subsection (b)(2); and</text>
+                </subparagraph>
+                <subparagraph id="H5C65EFC19FC14FE7BEE6E5924D251AC9" commented="no">
+                  <enum>(C)</enum>
+ <text>to the extent practicable, enables any person or entity to download in bulk—</text>
+                  <clause id="HA4EB106B5187494ABDE54860E843B346" commented="no">
+                    <enum>(i)</enum>
+ <text>such information; and</text> </clause> <clause id="H822B678EA1BD462F919FA0570BB0E1B3" commented="no"> <enum>(ii)</enum> <text>the results of a search by the elements described in subsection (b)(2);</text>
+                  </clause>
+                </subparagraph>
+              </paragraph>
+              <paragraph id="HE3B2DD9B1100427494914F54B11D97C4" commented="no">
+                <enum>(2)</enum>
+ <text>in an open format that permits any individual or entity to reuse and analyze such information; and</text>
+              </paragraph>
+              <paragraph id="H443504B063EF4892A8A73A59AB1A3135" commented="no">
+                <enum>(3)</enum>
+ <text>in a structured data format, to the extent practicable.</text> </paragraph> </subsection> <subsection id="HB6EA850410EC4CE8B84C871E4ECE3248"> <enum>(e)</enum> <header>Suspension notice</header> <text display-inline="yes-display-inline">Information provided on the website shall not be considered as providing notice to any person that the operations of a post office have been temporarily suspended pursuant to subchapter 61 of the Postal Service Handbook PO–101, or any successor policy.</text>
+            </subsection> 
+<subsection id="HFBEC9317ACF4473095696288B901A3F8"><enum>(f)</enum><header>Definitions</header><text>In this section:</text> <paragraph id="HD88E3989111040448D759176E5B406AB"><enum>(1)</enum><header>Covered post office</header><text display-inline="yes-display-inline">The term <term>covered post office</term> means a post office at which operations have been temporarily suspended pursuant to subchapter 61 of the Postal Service Handbook PO–101, or any successor policy.</text></paragraph> 
+<paragraph id="H133919DC35D84564A36BB5929F3C30DC"><enum>(2)</enum><header>Emergency suspension</header><text>The term <term>emergency suspension</term> means the temporary suspension of operations at a post office pursuant to subchapter 61 of the Postal Service Handbook PO–101, or any successor policy.</text></paragraph> <paragraph id="H3CD02D7E1F344C66B9B04D700B4EABEF"><enum>(3)</enum><header>Post office</header><text>The term <term>post office</term> means a Post Office, as such term is defined in section 241.1 of title 39, Code of Federal Regulations, or any successor regulation, and includes a post office branch or post office station.</text></paragraph> 
+<paragraph id="HA03F85B312FC4C44AEB621DD9A82EDA1"><enum>(4)</enum><header>Website</header><text>The term <term>Website</term> means the website described in subsection (a).</text></paragraph></subsection></section><after-quoted-block>.</after-quoted-block></quoted-block></subsection> <subsection id="HCE9B593FEEE244D0B7D30D94C95A6697" commented="no"><enum>(b)</enum><header>Implementation deadline</header><text>Not later than one year after the date of the enactment of this Act, the Postal Service shall establish the website required under section 3693(a) of title 39, United States Code, as added by this Act.</text></subsection> 
+<subsection id="H34C6B4BD38994731B055B166159ABB42"><enum>(c)</enum><header>Clerical amendment</header><text>The table of sections for <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/39/36">chapter 36</external-xref> of title 39, United States Code, is amended by inserting after the item relating to <external-xref legal-doc="usc" parsable-cite="usc/39/3692">section 3692</external-xref> the following new item:</text> <quoted-block style="USC" id="HECD83C1D71764842B3C1C931017D7551" display-inline="no-display-inline"> <toc regeneration="no-regeneration"> <toc-entry level="section">3693. Post office emergency suspension website.</toc-entry></toc><after-quoted-block>.</after-quoted-block></quoted-block></subsection></section> </legis-body></bill>
+
