@@ -1,0 +1,397 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public" slc-id="S1-ELL25740-G04-73-9DS">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 S3171 IS: Veteran Entrepreneurship Empowerment Act</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2025-11-10</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+        <distribution-code>II</distribution-code>
+        <congress>119th CONGRESS</congress>
+        <session>1st Session</session>
+        <legis-num>S. 3171</legis-num>
+        <current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+        <action>
+            <action-date date="20251110">November 10, 2025</action-date>
+            <action-desc><sponsor name-id="S369">Mr. Markey</sponsor> (for himself and <cosponsor name-id="S324">Mrs. Shaheen</cosponsor>) introduced the following bill; which
+                was read twice and referred to the <committee-name committee-id="SSSB00">Committee
+                    on Small Business and Entrepreneurship</committee-name></action-desc>
+        </action>
+        <legis-type>A BILL</legis-type>
+        <official-title>To waive the guarantee fee for certain business loans made to veterans and
+            spouses of veterans, and for other purposes.</official-title>
+    </form>
+    <legis-body>
+        <section id="S1" section-type="section-one">
+            <enum>1.</enum>
+            <header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Veteran Entrepreneurship Empowerment Act</short-title></quote>.</text>
+        </section>
+        <section commented="no" display-inline="no-display-inline" id="idc5c80916ea1f42bbb2917dbd0c71e0aa">
+            <enum>2.</enum>
+            <header>Findings</header>
+ <text display-inline="no-display-inline">Congress finds the following:</text> <paragraph id="id5ab81524ca574cdda69afdfd7af6e893"> <enum>(1)</enum> <text>According to the D’Aniello Institute for Veterans and Military Families August 2025 report entitled <quote>A Framework for Advancing and Strengthening the Veteran Entrepreneur Ecosystem</quote>—</text>
+                <subparagraph id="idcf9a55c9c5764ebebb64dfc05b224404">
+                    <enum>(A)</enum>
+ <text>veterans are more likely to own businesses than non-veterans;</text> </subparagraph> <subparagraph id="idd5190e6457da438fa15743dceafed245"> <enum>(B)</enum> <text>veteran-owned businesses are less likely to close or fail than non-veteran owned businesses; and</text>
+                </subparagraph>
+                <subparagraph id="ide5e295ba8acb4759894f978b1c9688f0">
+                    <enum>(C)</enum>
+ <text>the top barrier to entrepreneurship listed by veteran and military spouse entrepreneurs is a lack of access to capital or financing.</text>
+                </subparagraph>
+            </paragraph>
+            <paragraph id="id18041b22820842928302d4af7aed6545">
+                <enum>(2)</enum>
+ <text>According to the Federal Reserve’s 2025 Small Business Credit Survey—</text> <subparagraph id="id90d820b36d564d548ef392dfa78b7105"> <enum>(A)</enum> <text>only 48 percent of majority veteran owned firms reported having sufficient financing for their businesses, compared to 57 percent of non-veteran owned firms; and</text>
+                </subparagraph>
+                <subparagraph id="id0447ca92c14c437fb94ffc21ae0be755">
+                    <enum>(B)</enum>
+ <text>25 percent of majority veteran owned firms, and 29 percent of partially veteran owned firms, were denied financing compared to 20 percent of non-veteran owned firms.</text>
+                </subparagraph>
+            </paragraph>
+            <paragraph id="id099b6332648d498d8bdd5548277e29a2">
+                <enum>(3)</enum>
+ <text>According to the Government Accountability Office’s 2025 report entitled <quote>Financial Literacy and Small Business Lending, Resources Available to Military-Affiliated People</quote>—</text>
+                <subparagraph id="id35fdacb5e6f0414ebe8a6008a7db535c">
+                    <enum>(A)</enum>
+ <text>frequent moves, transition from active duty, and difficulties establishing credit and forming business relationships present barriers to accessing capital for veteran entrepreneurs; and</text>
+                </subparagraph>
+                <subparagraph id="id60f7852818c947cf92930ee45846df21">
+                    <enum>(B)</enum>
+ <text>veteran entrepreneurs often lack personal startup funds or sufficient business income necessary for accessing capital.</text>
+                </subparagraph>
+            </paragraph>
+        </section>
+        <section id="id35e9eac860814cbe866966474f3a97af">
+            <enum>3.</enum>
+            <header>Fee waiver</header>
+            <subsection commented="no" display-inline="no-display-inline" id="ide9dfb09c1e854658896b4ab232e37328">
+                <enum>(a)</enum>
+                <header>Small Business Act</header>
+ <text display-inline="yes-display-inline">Section 7(a) of the Small Business Act (<external-xref legal-doc="usc" parsable-cite="usc/15/636">15 U.S.C. 636(a)</external-xref>) is amended—</text>
+                <paragraph commented="no" display-inline="no-display-inline" id="id8fa7e9dce2e04142b54af6f7e9a5e760">
+                    <enum>(1)</enum>
+ <text>in paragraph (18)—</text> <subparagraph commented="no" display-inline="no-display-inline" id="id429f3ce815d74b548f22be005d49c062"> <enum>(A)</enum> <text>in subparagraph (A), in the matter preceding clause (i), by striking <quote>With respect</quote> and inserting <quote>Except as provided in subparagraph (C), with respect</quote>; and</text>
+                    </subparagraph>
+                    <subparagraph commented="no" display-inline="no-display-inline" id="id567e5939338a49d9877640eb29c1e77e">
+                        <enum>(B)</enum>
+ <text>by adding at the end the following:</text> <quoted-block style="OLC" display-inline="no-display-inline" id="idCC5F0A4558BC49F1B358957C8C822CA6"> <subparagraph commented="no" display-inline="no-display-inline" id="ida1ff4610f5f94c309571188bcd61d919"> <enum>(C)</enum> <header>Exception</header> <clause commented="no" display-inline="no-display-inline" id="id56f3b75dfd694424ba3551bf9c865ed6"> <enum>(i)</enum> <header display-inline="yes-display-inline">In general</header> <text>Notwithstanding subparagraph (A), the Administration may not collect a guarantee fee under subparagraph (A) with respect to a loan guaranteed under this subsection if—</text>
+                                    <subclause commented="no" display-inline="no-display-inline" id="idbe6f3d9a9e76442daf323599c7ad2d2a">
+                                        <enum>(I)</enum>
+ <text display-inline="yes-display-inline">the loan is not made under paragraph (36) or (37); </text>
+                                    </subclause>
+                                    <subclause commented="no" display-inline="no-display-inline" id="idf79d93fd2cf2420aa8d63463e0e00892">
+                                        <enum>(II)</enum>
+ <text display-inline="yes-display-inline">the loan is made to a small business concern owned by a veteran or spouse of a veteran; and</text>
+                                    </subclause>
+                                    <subclause id="id5a1e8f4e71c4433c8435e77f5750ef21">
+                                        <enum>(III)</enum>
+ <text>the deferred participation share of the total loan amount is not more than $1,000,000.</text>
+                                    </subclause>
+                                </clause>
+                                <clause commented="no" display-inline="no-display-inline" id="H6515E3BC2F174E9E8B9979365D53A0CC">
+                                    <enum>(ii)</enum>
+                                    <header display-inline="yes-display-inline">Definition</header>
+ <text display-inline="yes-display-inline">In this subparagraph, the term <term>veteran or spouse of a veteran</term> means—</text>
+                                    <subclause commented="no" display-inline="no-display-inline" id="HFD5445EAB70F447C93D3E20E222C9A52">
+                                        <enum>(I)</enum>
+ <text>a veteran;</text> </subclause> <subclause commented="no" display-inline="no-display-inline" id="H6EDB21A04A864769AAEB2864874AC6C0"> <enum>(II)</enum> <text>an individual who is eligible to participate in the Transition Assistance Program established under section 1144 of title 10, United States Code;</text>
+                                    </subclause>
+                                    <subclause commented="no" display-inline="no-display-inline" id="H5C4A67F37D48488BB345F57B517A19B3">
+                                        <enum>(III)</enum>
+ <text>a member of a reserve component of the Armed Forces named in section 10101 of title 10, United States Code;</text>
+                                    </subclause>
+                                    <subclause commented="no" display-inline="no-display-inline" id="HCFF5AC8366494BCF9FE5E933F346F94A">
+                                        <enum>(IV)</enum>
+ <text>the spouse of an individual described in subclause (I), (II), or (III); or</text>
+                                    </subclause>
+                                    <subclause commented="no" display-inline="no-display-inline" id="HFE8DEA6331884B3EB5A95F9A18CF8C06">
+                                        <enum>(V)</enum>
+ <text>the surviving spouse (as defined in section 101 of title 38, United States Code) of an individual described in subclause (I), (II), or (III) who died while serving on active duty or as a result of a disability that is service-connected (as defined in such section).</text>
+                                    </subclause>
+                                </clause>
+                            </subparagraph>
+                            <after-quoted-block>; and</after-quoted-block>
+                        </quoted-block>
+                    </subparagraph>
+                </paragraph>
+                <paragraph commented="no" display-inline="no-display-inline" id="idac503060853b4d07a69b351b9dd94b70">
+                    <enum>(2)</enum>
+ <text>in paragraph (31)—</text> <subparagraph commented="no" display-inline="no-display-inline" id="id22a8fe9fd36d40e89b562643c705a868"> <enum>(A)</enum> <text>by striking subparagraph (G); and</text>
+                    </subparagraph>
+                    <subparagraph id="id57c70761c29c41feb5ae551a8e785453" commented="no" display-inline="no-display-inline">
+                        <enum>(B)</enum>
+ <text>by redesignating subparagraph (H) as subparagraph (G).</text> </subparagraph> </paragraph> </subsection> <subsection commented="no" display-inline="no-display-inline" id="id4649847df4cd45d5b75c80b3ee1eaf68"> <enum>(b)</enum> <header>Small Business Investment Act of 1958</header> <paragraph commented="no" display-inline="no-display-inline" id="id9c2c96fe1a91442a848c85201f0c9199"> <enum>(1)</enum> <header display-inline="yes-display-inline">In general</header> <text display-inline="yes-display-inline">Section 503 of the Small Business Investment Act of 1958 (<external-xref legal-doc="usc" parsable-cite="usc/15/697">15 U.S.C. 697</external-xref>) is amended—</text>
+                    <subparagraph commented="no" display-inline="no-display-inline" id="idf9746705b9e7456a9aa5a5845a69bf5c">
+                        <enum>(A)</enum>
+ <text>in subsection (b)(7)—</text> <clause commented="no" display-inline="no-display-inline" id="ide44fc7f4807f42dda42a1c30fa265df0"> <enum>(i)</enum> <text display-inline="yes-display-inline">by redesignating subparagraphs (A) and (B) as clauses (i) and (ii), respectively;</text>
+                        </clause>
+                        <clause commented="no" display-inline="no-display-inline" id="id908314dfd1cf4709a959e5db585db0cd">
+                            <enum>(ii)</enum>
+ <text display-inline="yes-display-inline">by striking <quote>with respect</quote> and inserting <quote>(A) Except as provided in subparagraph (B), with respect</quote>;</text>
+                        </clause>
+                        <clause id="idce7c60b4595248e49cb3c333bcf0b4a1" commented="no" display-inline="no-display-inline">
+                            <enum>(iii)</enum>
+ <text display-inline="yes-display-inline">in clause (i)(II), as so redesignated, by striking <quote>clause (i)</quote> and inserting <quote>subclause (I)</quote>; and</text>
+                        </clause>
+                        <clause commented="no" display-inline="no-display-inline" id="id851dca947c6e4c00a6f2952266750233">
+                            <enum>(iv)</enum>
+ <text display-inline="yes-display-inline">by adding at the end the following:</text>
+                            <quoted-block style="OLC" display-inline="no-display-inline" id="ida6c13fe6093e49af9f9c1c08f374660a">
+                                <subparagraph commented="no" display-inline="no-display-inline" id="id1b0941aac4674f5ea152b2f168418e0b" indent="up1">
+                                    <enum>(B)</enum>
+ <text>Notwithstanding subparagraph (A), the Administration may not assess or collect any ongoing guarantee fee under subparagraph (A) with respect to a loan guaranteed under this title if the loan is made—</text>
+                                    <clause commented="no" display-inline="no-display-inline" id="id74e1c5a83dbf446ea818c111e7020dbe">
+                                        <enum>(i)</enum>
+ <text>by the Administration;</text> </clause> <clause commented="no" display-inline="no-display-inline" id="id2a078d1b78d545e09002fc2507d84655"> <enum>(ii)</enum> <text display-inline="yes-display-inline">to a small business concern owned by a veteran or spouse of a veteran; and</text>
+                                    </clause>
+                                    <clause commented="no" display-inline="no-display-inline" id="id357a495e1d8f4275aefccfa0593571b9">
+                                        <enum>(iii)</enum>
+ <text display-inline="yes-display-inline">for not more than $1,000,000.</text>
+                                    </clause>
+                                </subparagraph>
+                                <after-quoted-block>;</after-quoted-block>
+                            </quoted-block>
+                        </clause>
+                    </subparagraph>
+                    <subparagraph commented="no" display-inline="no-display-inline" id="idc5262c5af9b046678ae286abacf50c77">
+                        <enum>(B)</enum>
+ <text display-inline="yes-display-inline">in subsection (d)(3)—</text> <clause commented="no" display-inline="no-display-inline" id="idca66bf4203e7453d9979864ea25c9444"> <enum>(i)</enum> <text display-inline="yes-display-inline">by striking <quote>The Administration shall</quote> and inserting <quote>(A) Except as provided in subparagraph (B), the Administration shall</quote>; and</text>
+                        </clause>
+                        <clause commented="no" display-inline="no-display-inline" id="idafbe32da54d8498aa3698f46841a1f94">
+                            <enum>(ii)</enum>
+ <text>by adding at the end the following:</text> <quoted-block style="OLC" display-inline="no-display-inline" id="id6fb272dcf151412fae6f736c45008a01"> <subparagraph commented="no" display-inline="no-display-inline" id="id56403cda6f8b40958484e7867c82ad90" indent="up1"> <enum>(B)</enum> <text>Notwithstanding subparagraph (A), the Administration may not assess or collect any ongoing guarantee fee under subparagraph (A) with respect to a loan guaranteed under this title if the loan is made—</text>
+                                    <clause commented="no" display-inline="no-display-inline" id="id397c6650bacf4965a482bbfa4a40a22e">
+                                        <enum>(i)</enum>
+ <text>by the Administration;</text> </clause> <clause commented="no" display-inline="no-display-inline" id="idac59c900981241f6bc4f8a9d401d30d9"> <enum>(ii)</enum> <text display-inline="yes-display-inline">to a small business concern owned by a veteran or spouse of a veteran; and</text>
+                                    </clause>
+                                    <clause id="id6f951744fd2c409aad60e9167aa30f26" commented="no" display-inline="no-display-inline">
+                                        <enum>(iii)</enum>
+ <text display-inline="yes-display-inline">for not more than $1,000,000.</text>
+                                    </clause>
+                                </subparagraph>
+                                <after-quoted-block>; and</after-quoted-block>
+                            </quoted-block>
+                        </clause>
+                    </subparagraph>
+                    <subparagraph commented="no" display-inline="no-display-inline" id="idc3c9b89641554bbfa1eae8682f67dab8">
+                        <enum>(C)</enum>
+ <text>in subsection (i)—</text> <clause commented="no" display-inline="no-display-inline" id="iddb9f94fcaba847989f0bc716272a4871"> <enum>(i)</enum> <text display-inline="yes-display-inline">by striking <quote><header-in-text style="OLC" level="subsection">Two-Year Waiver of Fees</header-in-text>—The</quote> and inserting the following: “<header-in-text style="OLC" level="section">Waiver of Fees</header-in-text>.—</text>
+                            <quoted-block style="OLC" display-inline="no-display-inline" id="id37ccff94aaf541fca44c9c82c360695e">
+                                <paragraph id="id99a778665d2b421f8150383c0c21527d">
+                                    <enum>(1)</enum>
+                                    <header>Two-Year Waiver of Fees</header>
+ <text>The</text> </paragraph> <after-quoted-block>; and</after-quoted-block> </quoted-block> </clause> <clause commented="no" display-inline="no-display-inline" id="id4cc5fb81644c498eb11759fa4a3a0b6a"> <enum>(ii)</enum> <text>by adding at the end the following:</text>
+                            <quoted-block style="OLC" display-inline="no-display-inline" id="idc645d2ae312847bf9bbcbf23b18e028e">
+                                <paragraph commented="no" display-inline="no-display-inline" id="ida31317ef6cc34d708dd9f8ef1dfd8007">
+                                    <enum>(2)</enum>
+                                    <header>Waiver of Fees for Veterans</header>
+ <text>For a loan of not more than $1,000,000 made by the Administration to a small business concern that is owned by a veteran or spouse of a veteran, such small business concern shall be exempt from any up front guarantee fee, as detailed in section 120.971(d)(1) of title 13, Code of Federal Regulations, or any successor regulation.</text>
+                                </paragraph>
+                                <after-quoted-block>.</after-quoted-block>
+                            </quoted-block>
+                        </clause>
+                    </subparagraph>
+                </paragraph>
+                <paragraph commented="no" display-inline="no-display-inline" id="id4fce5c8df8a64869bbf17f50b93c6f5a">
+                    <enum>(2)</enum>
+                    <header>Conforming amendments</header>
+ <text>The Small Business Investment Act of 1958 (<external-xref legal-doc="usc" parsable-cite="usc/15/661">15 U.S.C. 661 et seq.</external-xref>) is amended—</text>
+                    <subparagraph commented="no" display-inline="no-display-inline" id="idf5ca81df6bec4e72af0075463a27c395">
+                        <enum>(A)</enum>
+ <text>in section 103 (<external-xref legal-doc="usc" parsable-cite="usc/15/662">15 U.S.C. 662</external-xref>)—</text> <clause commented="no" display-inline="no-display-inline" id="id1756fe9093fe40178cb0d3d3925246c9"> <enum>(i)</enum> <text display-inline="yes-display-inline">in paragraph (19), by striking <quote>and</quote> at the end;</text>
+                        </clause>
+                        <clause commented="no" display-inline="no-display-inline" id="ide537685014b345dd8abb398b200efa11">
+                            <enum>(ii)</enum>
+ <text display-inline="yes-display-inline">in paragraph (20), by striking the period at the end and inserting <quote>; and</quote>; and</text>
+                        </clause>
+                        <clause commented="no" display-inline="no-display-inline" id="ide18af91201054a8288a53a142529da9e">
+                            <enum>(iii)</enum>
+ <text>by adding at the end the following:</text> <quoted-block style="OLC" display-inline="no-display-inline" id="id19df5018447246a5b6d7ba944e7d1f7a"> <paragraph commented="no" display-inline="no-display-inline" id="ide86119c9e5314f489a3f6e4f4533686f"> <enum>(21)</enum> <text>the term <term>veteran or spouse of a veteran</term> means—</text>
+                                    <subparagraph id="id4d794f0a4d144a50988612345dab0d60">
+                                        <enum>(A)</enum>
+ <text>a veteran;</text> </subparagraph> <subparagraph id="id5d348f9b8c2e4ce9af65b5087ce4d08d"> <enum>(B)</enum> <text>an individual who is eligible to participate in the Transition Assistance Program established under section 1144 of title 10, United States Code;</text>
+                                    </subparagraph>
+                                    <subparagraph id="id47c197c3e4194c97b720bbbeb586fe72">
+                                        <enum>(C)</enum>
+ <text>a member of a reserve component of the Armed Forces named in section 10101 of title 10, United States Code;</text>
+                                    </subparagraph>
+                                    <subparagraph id="id43bc5278d7494d6284012185d0e52b4f">
+                                        <enum>(D)</enum>
+ <text>the spouse of an individual described in subparagraph (A), (B), or (C); or</text>
+                                    </subparagraph>
+                                    <subparagraph id="ida6eebf5a782648a78e1bac0de49d5b41">
+                                        <enum>(E)</enum>
+ <text>the surviving spouse (as defined in section 101 of title 38, United States Code) of an individual described in subparagraph (A), (B), or (C) who died while serving on active duty or as a result of a disability that is service-connected (as defined in such section).</text>
+                                    </subparagraph>
+                                </paragraph>
+                                <after-quoted-block>; and</after-quoted-block>
+                            </quoted-block>
+                        </clause>
+                    </subparagraph>
+                    <subparagraph commented="no" display-inline="no-display-inline" id="idf7e8617ecc3e4c23bfb70d81d42be718">
+                        <enum>(B)</enum>
+ <text display-inline="yes-display-inline">in section 503(b) (<external-xref legal-doc="usc" parsable-cite="usc/15/697">15 U.S.C. 697(b)</external-xref>), as amended by paragraph (1)—</text>
+                        <clause commented="no" display-inline="no-display-inline" id="id900a22c52db94937aa6681c6cf59b69b">
+                            <enum>(i)</enum>
+ <text>in the matter preceding paragraph (1), by striking <quote>unless—</quote> and inserting <quote>unless the following criteria are met:</quote>;</text>
+                        </clause>
+                        <clause commented="no" display-inline="no-display-inline" id="id46ab6b077ead450e97c5322c449dd6d9">
+                            <enum>(ii)</enum>
+ <text>by striking the semicolon each place it appears and inserting a period;</text>
+                        </clause>
+                        <clause commented="no" display-inline="no-display-inline" id="idf4b3bca64b9c4c3c9a0b90accdb5b54a">
+                            <enum>(iii)</enum>
+ <text>in paragraph (1), by striking <quote>such debenture</quote> and inserting <quote>Such debenture</quote>;</text>
+                        </clause>
+                        <clause commented="no" display-inline="no-display-inline" id="id628b95ee9b3d4df4abe78455210d5b0d">
+                            <enum>(iv)</enum>
+ <text>in paragraph (2), by striking <quote>necessary</quote> and inserting <quote>Necessary</quote>;</text>
+                        </clause>
+                        <clause commented="no" display-inline="no-display-inline" id="id0564336c6363482ca408220ad64ed13a">
+                            <enum>(v)</enum>
+ <text>in paragraph (3), by striking <quote>the interest rate</quote> and inserting <quote>The interest rate</quote>;</text>
+                        </clause>
+                        <clause commented="no" display-inline="no-display-inline" id="id6d9db137ff5547aca7255f11630c1324">
+                            <enum>(vi)</enum>
+ <text>in paragraph (4), by striking <quote>the aggregate</quote> and inserting <quote>The aggregate</quote>;</text>
+                        </clause>
+                        <clause commented="no" display-inline="no-display-inline" id="id0ae76edc7c024b9290405f493282d5f2">
+                            <enum>(vii)</enum>
+ <text>in paragraph (5), by striking <quote>the amount</quote> and inserting <quote>The amount</quote>; and</text>
+                        </clause>
+                        <clause commented="no" display-inline="no-display-inline" id="idb4fe449a2f304f799cfa595985853464">
+                            <enum>(viii)</enum>
+ <text>in paragraph (6)—</text> <subclause commented="no" display-inline="no-display-inline" id="idd27f41a8923e446b99e166fe0e070473"> <enum>(I)</enum> <text display-inline="yes-display-inline">by striking <quote>the Administration</quote> and inserting <quote>The Administration</quote>; and</text>
+                            </subclause>
+                            <subclause commented="no" display-inline="no-display-inline" id="idf6594ed7cbcc4cc5b429351d57f195db">
+                                <enum>(II)</enum>
+ <text>by striking <quote>and</quote> at the end.</text> </subclause> </clause> </subparagraph> </paragraph> </subsection> </section> <section commented="no" display-inline="no-display-inline" id="id9b060b18db234c7688913f1cf6ac70af"> <enum>4.</enum> <header>Equity injection</header> <subsection commented="no" display-inline="no-display-inline" id="id9595850a30a247edaab6381b4e311215"> <enum>(a)</enum> <header>Small Business Act</header> <text>Section 7(a) of the Small Business Act (<external-xref legal-doc="usc" parsable-cite="usc/15/636">15 U.S.C. 636(a)</external-xref>) is amended by adding at the end the following:</text>
+                <quoted-block style="OLC" display-inline="no-display-inline" id="id512e3764df5c4e67af821e5ebdc03a9f">
+                    <paragraph commented="no" display-inline="no-display-inline" id="idcd5bb5802027474a883ed5b7cf7bfe8b">
+                        <enum>(38)</enum>
+                        <header>Equity injection requirements</header>
+                        <subparagraph commented="no" display-inline="no-display-inline" id="idabbcbd97661d4817a61f1dfebec722d5">
+                            <enum>(A)</enum>
+                            <header display-inline="yes-display-inline">Equity injection
+                                defined</header>
+ <text>In this paragraph, the term <term>equity injection</term> means an investment by a borrower in the applicable small business concern, in the form and amount determined appropriate by the Administrator.</text>
+                        </subparagraph>
+                        <subparagraph commented="no" display-inline="no-display-inline" id="id1ea499b7aa5e44a7bd6200a024b3b395">
+                            <enum>(B)</enum>
+                            <header display-inline="yes-display-inline">Equity injection
+                                requirements for veterans</header>
+                            <clause commented="no" display-inline="no-display-inline" id="id5ef148e96a254f2994fbc4c310a759a4">
+                                <enum>(i)</enum>
+                                <header>In general</header>
+ <text display-inline="yes-display-inline">For a startup or change of ownership loan with a deferred participation share of the total amount that is not more than $1,000,000 to a veteran or spouse of a veteran, the minimum equity injection percentage required under Standard Operating Procedure 50 10, version 8, effective on June 1, 2025, or any successor guidance, shall be reduced by not less than 5 percentage points.</text>
+                            </clause>
+                            <clause commented="no" display-inline="no-display-inline" id="idffcf747171ee418c8118911e6563c4f4">
+                                <enum>(ii)</enum>
+                                <header>Required percentage</header>
+ <text>If the guidance described in clause (i) does not list an exact percentage, the Administrator shall include a requirement to reduce the percentage, as calculated under the method used in the guidance, for veterans or spouses of veterans in accordance with clause (i).</text>
+                            </clause>
+                        </subparagraph>
+                        <subparagraph commented="no" display-inline="no-display-inline" id="idbb891b7796674fc8a98c549577ab10bc">
+                            <enum>(C)</enum>
+                            <header>Equity injection requirements generally</header>
+ <text display-inline="yes-display-inline">The Administrator shall encourage lenders to lower equity injection requirements for loans to veterans or spouses of veterans with a deferred participation share of the total amount that is not more than $1,000,000.</text>
+                        </subparagraph>
+                    </paragraph>
+                    <after-quoted-block>.</after-quoted-block>
+                </quoted-block>
+            </subsection>
+            <subsection commented="no" display-inline="no-display-inline" id="id3ed395c7f9134be884937de50a511911">
+                <enum>(b)</enum>
+                <header>Small Business Investment Act of 1958</header>
+                <paragraph commented="no" display-inline="no-display-inline" id="idc2cd9a524de14701959774088ebf5bf5">
+                    <enum/>
+ <text>Section 502(3)(C) of the Small Business Investment Act of 1958 (<external-xref legal-doc="usc" parsable-cite="usc/15/696">15 U.S.C. 696(3)(C)</external-xref>) is amended—</text>
+                    <subparagraph commented="no" display-inline="no-display-inline" id="id6ad30afdd5634097ba8af765b6e60cdc">
+                        <enum>(A)</enum>
+ <text>by redesignating clauses (i) through (iv) as subclauses (I) through (IV), respectively, and adjusting the margins accordingly;</text>
+                    </subparagraph>
+                    <subparagraph commented="no" display-inline="no-display-inline" id="id406a8e5bff6149f4ae27cd0f56717913">
+                        <enum>(B)</enum>
+ <text>by inserting before subclause (I), as so redesignated, the following:</text>
+                        <quoted-block style="OLC" display-inline="no-display-inline" id="id6083b497c2f14608bcd860da08178718">
+                            <clause commented="no" display-inline="no-display-inline" id="id114d87a4b9084c7c8a96dda99063d178">
+                                <enum>(i)</enum>
+ <text>for a small business concern that is not owned by a veteran or spouse of a veteran—</text>
+                            </clause>
+                            <after-quoted-block>;</after-quoted-block>
+                        </quoted-block>
+                    </subparagraph>
+                    <subparagraph commented="no" display-inline="no-display-inline" id="id9ef0ea92ae4b4749b93783270ed493f3">
+                        <enum>(C)</enum>
+ <text>in subclause (III), as so redesignated, by striking <quote>clauses (i) and (ii)</quote> and inserting <quote>subclauses (I) and (II)</quote>; and</text>
+                    </subparagraph>
+                    <subparagraph commented="no" display-inline="no-display-inline" id="ide1144773978c41a9a2608f08a7b7a2b0">
+                        <enum>(D)</enum>
+ <text>by adding at the end the following:</text> <quoted-block style="OLC" display-inline="no-display-inline" id="id35f9f655db5b40c1bfb083c491ae169f"> <clause commented="no" display-inline="no-display-inline" id="idc877d5bca87d4b96b8a07b1ae077dd13"> <enum>(ii)</enum> <text>for a loan to a small business concern owned by a veteran or spouse of a veteran—</text>
+                                <subclause id="id8a48935c52c74ee79c59cae97cf2c94b">
+                                    <enum>(I)</enum>
+ <text>at least 5 percent of the total cost of the project financed, if the small business concern has been in operation for a period of 2 years or less; or</text>
+                                </subclause>
+                                <subclause id="id01f49e7864d648d594c6e0b5ea93aa49">
+                                    <enum>(II)</enum>
+ <text>at least 5 percent of the total cost of the project financed, in all other circumstances, at the discretion of the development company.</text>
+                                </subclause>
+                            </clause>
+                            <after-quoted-block>.</after-quoted-block>
+                        </quoted-block>
+                    </subparagraph>
+                </paragraph>
+            </subsection>
+        </section>
+        <section commented="no" display-inline="no-display-inline" id="ide77ad46002114955a73ceb2bad515789">
+            <enum>5.</enum>
+            <header>Reports</header>
+            <subsection id="ide16381e6afe44df48c1ae899848225db">
+                <enum>(a)</enum>
+                <header>Definitions</header>
+ <text>In this section:</text> <paragraph commented="no" display-inline="no-display-inline" id="id6c0d3464125b4fd78c092fb85e2ac224"> <enum>(1)</enum> <header>Budget justification materials</header> <text>The term <term>budget justification materials</term> has the meaning given that term in section 3(b)(2) of the Federal Funding Accountability and Transparency Act of 2006 (<external-xref legal-doc="usc" parsable-cite="usc/31/6101">31 U.S.C. 6101</external-xref> note);</text>
+                </paragraph>
+                <paragraph commented="no" display-inline="no-display-inline" id="idf15b3c3f065147d681d5cac441bbcf20">
+                    <enum>(2)</enum>
+                    <header>Covered person</header>
+ <text>The term <term>covered person</term> means any individual described in section 7(a)(18)(C)(ii) of the Small Business Act (<external-xref legal-doc="usc" parsable-cite="usc/15/636">15 U.S.C. 636(a)(18)(C)(ii)</external-xref>).</text>
+                </paragraph>
+            </subsection>
+            <subsection commented="no" display-inline="no-display-inline" id="id905e642f13e34531ae84afabb2d5a7b4">
+                <enum>(b)</enum>
+                <header display-inline="yes-display-inline">Lending reports</header>
+ <text>The Administrator of the Small Business Administration shall collect and publish on the website of the Administration data on the participation of covered persons in the loan programs under section 7(a) of the Small Business Act (<external-xref legal-doc="usc" parsable-cite="usc/15/636">15 U.S.C. 636(a)</external-xref>) and title V of the Small Business Investment Act of 1958 (<external-xref legal-doc="usc" parsable-cite="usc/15/695">15 U.S.C. 695 et seq.</external-xref>).</text>
+            </subsection>
+            <subsection commented="no" display-inline="no-display-inline" id="id6ac50873e9d74071aff225dc189e4058">
+                <enum>(c)</enum>
+                <header>Entrepreneurial development</header>
+ <text>The Administrator of the Small Business Administration shall collect and include in budget justification materials submitted by the Administrator data on the participation of covered persons in—</text>
+                <paragraph commented="no" display-inline="no-display-inline" id="id5648c171567d40dd9a978129ba4bda30">
+                    <enum>(1)</enum>
+ <text display-inline="yes-display-inline">the Service Corps of Retired Executives established under section 8(b)(1)(B) of the Small Business Act (<external-xref legal-doc="usc" parsable-cite="usc/15/636">15 U.S.C. 636(a)</external-xref>) (<external-xref legal-doc="usc" parsable-cite="usc/15/637">15 U.S.C. 637(b)(1)(B)</external-xref>);</text>
+                </paragraph>
+                <paragraph commented="no" display-inline="no-display-inline" id="id960b820fadac41e0937fc40460899f23">
+                    <enum>(2)</enum>
+ <text display-inline="yes-display-inline">small business development centers, as defined in section 3 of such Act (<external-xref legal-doc="usc" parsable-cite="usc/15/632">15 U.S.C. 632</external-xref>);</text>
+                </paragraph>
+                <paragraph commented="no" display-inline="no-display-inline" id="id1e8cf3fbf6834dcf891b61efac635d70">
+                    <enum>(3)</enum>
+ <text display-inline="yes-display-inline">women’s business centers described in section 29 of such Act (<external-xref legal-doc="usc" parsable-cite="usc/15/656">15 U.S.C. 656</external-xref>); and</text>
+                </paragraph>
+                <paragraph commented="no" display-inline="no-display-inline" id="id5f3341f09bbe400bb4c4f07dd7bae440">
+                    <enum>(4)</enum>
+ <text display-inline="yes-display-inline">Veteran Business Outreach Centers described in section 32 of such Act (<external-xref legal-doc="usc" parsable-cite="usc/15/657b">15 U.S.C. 657b</external-xref>).</text>
+                </paragraph>
+            </subsection>
+        </section>
+    </legis-body>
+</bill>
+

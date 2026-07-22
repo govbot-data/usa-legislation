@@ -1,0 +1,128 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H13B3BBF010374D9884D6E7A788BB511B" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 HR 6193 IH: Social Security Emergency Inflation Relief Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2025-11-20</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">119th CONGRESS</congress><session display="yes">1st Session</session><legis-num display="yes">H. R. 6193</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20251120">November 20, 2025</action-date><action-desc><sponsor name-id="H001066">Mr. Horsford</sponsor> (for himself, <cosponsor name-id="L000557">Mr. Larson of Connecticut</cosponsor>, <cosponsor name-id="D000096">Mr. Davis of Illinois</cosponsor>, <cosponsor name-id="S001185">Ms. Sewell</cosponsor>, <cosponsor name-id="F000110">Mr. Fields</cosponsor>, <cosponsor name-id="N000147">Ms. Norton</cosponsor>, <cosponsor name-id="T000468">Ms. Titus</cosponsor>, <cosponsor name-id="C001119">Ms. Craig</cosponsor>, <cosponsor name-id="R000621">Ms. Randall</cosponsor>, and <cosponsor name-id="G000599">Mr. Goldman of New York</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HWM00">Committee on Ways and Means</committee-name>, and in addition to the Committees on <committee-name committee-id="HVR00">Veterans' Affairs</committee-name>, <committee-name committee-id="HPW00">Transportation and Infrastructure</committee-name>, and <committee-name committee-id="HGO00">Oversight and Government Reform</committee-name>, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned</action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To provide economic recovery payments to recipients of social security, supplemental security income, railroad retirement benefits, and veterans disability compensation or pension benefits.</official-title></form><legis-body id="H27439EF114BA4A83B2E1B959F2FB0C08" style="OLC"><section id="H377FD79B06A9406C8199CD4A8FB71510" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Social Security Emergency Inflation Relief Act</short-title></quote>.</text></section><section id="H59E7E94D90CE4013941976BEC6AFE311"><enum>2.</enum><header>Economic recovery payments to recipients of social security, supplemental security income, railroad retirement benefits, and veterans disability compensation or pension benefits</header><subsection id="H86285C9F0DD64248B07A918BAC93B8F0"> <enum>(a)</enum> <header>Authority To make payments</header> <paragraph id="H5BB4931ABCCF4359AE56AC52B35E6168"> <enum>(1)</enum> <header>Eligibility</header> <subparagraph id="H539028429D0E42D29B6E0C40EB080CD0"> <enum>(A)</enum> <header>In general</header> <clause id="H2F32183A2D11492CADD9F75D130A7C9D"> <enum>(i)</enum> <header>Eligibility for economic recovery payment</header> <text>Subject to paragraph (5)(C), for any month during the applicable period, the Secretary of the Treasury shall disburse, in accordance with the certification made under subsection (b) by the Commissioner of Social Security, the Railroad Retirement Board, the Secretary of Veterans Affairs, or the Director of the Office of Personnel Management, as applicable, an additional $200 monthly benefit payment to each individual who, for any month during such applicable period—</text>
+              <subclause commented="no" display-inline="no-display-inline"
+                id="HBB6866AFBCCC42B68B6AE82F36BDFC83">
+                <enum>(I)</enum>
+ <text display-inline="yes-display-inline">is entitled to a benefit payment described in clause (i), (ii), (iii), or (iv) of subparagraph (B), or</text>
+              </subclause>
+              <subclause commented="no" display-inline="no-display-inline"
+                id="HF7E1BC71568548A9A8E3B90E94685D69">
+                <enum>(II)</enum>
+ <text display-inline="yes-display-inline">is eligible for a SSI cash benefit described in subparagraph (C).</text>
+              </subclause>
+            </clause>
+            <clause id="H31C1A482F449445B8DDE4775350440A0" commented="no">
+              <enum>(ii)</enum>
+              <header>Applicable period</header>
+ <text>For purposes of this section, the term <term>applicable period</term> means any month during the period beginning on January 1, 2026, and ending on June 30, 2026.</text>
+            </clause>
+          </subparagraph>
+          <subparagraph id="HC5F61CD68A2A47F8BCBBBA76FE7D8F2F">
+            <enum>(B)</enum>
+            <header>Benefit payment described</header>
+ <text>For purposes of subparagraph (A):</text> <clause id="H982CAFDFC9EF481EAE8F4BD5FE6F2839"> <enum>(i)</enum> <header>Title II benefit</header> <text>A benefit payment described in this clause is a monthly insurance benefit payable under title II of the Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/401">42 U.S.C. 401 et seq.</external-xref>), without regard to sections 202(j)(1) and 223(b) of such Act (<external-xref legal-doc="usc" parsable-cite="usc/42/402">42 U.S.C. 402(j)(1)</external-xref>, 423(b)).</text>
+            </clause>
+            <clause id="HB50196828C7F4F5CAE01F787CF5E4F18">
+              <enum>(ii)</enum>
+              <header>Railroad retirement benefit</header>
+ <text>A benefit payment described in this clause is a monthly annuity or pension payment payable under the Railroad Retirement Act of 1974 (<external-xref legal-doc="usc" parsable-cite="usc/45/231">45 U.S.C. 231 et seq.</external-xref>), without regard to section 5(a)(ii) of such Act (45 U.S.C. 231d(a)(ii)).</text>
+            </clause>
+            <clause id="H8980B39D7FF04713BB7C9F21BFB6AD8F">
+              <enum>(iii)</enum>
+              <header>Veterans benefit</header>
+ <text>A benefit payment described in this clause is a compensation or pension payment payable under—</text>
+              <subclause id="HD196905D60F74903B99E8FB3053038C3">
+                <enum>(I)</enum>
+ <text>section 1110, 1117, 1121, 1131, 1141, or 1151 of title 38, United States Code;</text>
+              </subclause>
+              <subclause id="H8CA4F519CDE346708ECAFCE9691C1659">
+                <enum>(II)</enum>
+ <text>section 1310, 1312, 1313, 1315, 1316, or 1318 of title 38, United States Code;</text>
+              </subclause>
+              <subclause id="HB3C4FF25609C4EB8BDE21FFABDF26D7F">
+                <enum>(III)</enum>
+ <text>section 1513, 1521, 1536, 1537, 1541, 1542, or 1562 of title 38, United States Code; or</text>
+              </subclause>
+              <subclause id="HEC06FF5034B842EF8867EAF02AF982D3">
+                <enum>(IV)</enum>
+ <text>section 1805, 1815, or 1821 of title 38, United States Code,</text> </subclause> <continuation-text continuation-text-level="clause">to a veteran, surviving spouse, child, or parent as described in paragraph (2), (3), (4)(A)(ii), or (5) of section 101, title 38, United States Code, who received that benefit during any month during the applicable period.</continuation-text> </clause> <clause id="HE2CFE5E00D3F428CACD8A72233E3074F"> <enum>(iv)</enum> <header>Civil Service Retirement System benefit</header> <text>A benefit payment described in this clause is an annuity payment under subchapter III of <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/5/83">chapter 83</external-xref> of title 5, United States Code.</text>
+            </clause>
+          </subparagraph>
+          <subparagraph id="H3093F5305B4D4A08B20164C571C20B6F">
+            <enum>(C)</enum>
+            <header>SSI cash benefit described</header>
+ <text>A SSI cash benefit described in this subparagraph is a cash benefit payable under section 1611 (other than under subsection (e)(1)(B) of such section) or 1619(a) of the Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/1382">42 U.S.C. 1382</external-xref>, 1382h).</text>
+          </subparagraph>
+        </paragraph>
+        <paragraph id="HCAF94B53C50E412993A31ABF1E92617E">
+          <enum>(2)</enum>
+          <header>Requirement</header>
+ <text>A payment shall be made under paragraph (1) only to individuals who reside in 1 of the 50 States, the District of Columbia, Puerto Rico, Guam, the United States Virgin Islands, American Samoa, or the Northern Mariana Islands. For purposes of the preceding sentence, the determination of the individual's residence shall be based on the current address of record under a program specified in paragraph (1).</text>
+        </paragraph>
+        <paragraph id="H697916D2368C45CCA529765365B68AC8">
+          <enum>(3)</enum>
+          <header>No double payments</header>
+ <text>An individual who is eligible for a payment under this section shall be paid only 1 such payment per month, regardless of whether the individual is entitled to, or eligible for, more than 1 benefit or cash payment described in paragraph (1).</text>
+        </paragraph>
+        <paragraph id="HAF142E33AC0E49BF8FF726C6E532F1D0">
+          <enum>(4)</enum>
+          <header>Limitation</header>
+ <text>A payment under this section shall not be made—</text> <subparagraph id="HD19E4AAFD3D04F6FB0469D9787C0BCC8"> <enum>(A)</enum> <text>in the case of an individual entitled to a benefit specified in paragraph (1)(B)(i) or a benefit specified in paragraph (1)(B)(ii), if the individual is entitled to such benefit on the basis of section 7(b)(2) of the Railroad Retirement Act of 1974 (<external-xref legal-doc="usc" parsable-cite="usc/45/231f">45 U.S.C. 231f(b)(2)</external-xref>) if, for the most recent month of such individual's entitlement in the applicable period, such individual's benefit under such paragraph was not payable by reason of subsection (x) or (y) of section 202 the Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/402">42 U.S.C. 402</external-xref>) or section 1129A of such Act (<external-xref legal-doc="usc" parsable-cite="usc/42/1320a-8a">42 U.S.C. 1320a–8a</external-xref>);</text>
+          </subparagraph>
+          <subparagraph id="H23F612ACC3A84122A97E4DB67EDA1744">
+            <enum>(B)</enum>
+ <text>in the case of an individual entitled to a benefit specified in paragraph (1)(B)(iii) if, for the most recent month of such individual's entitlement in the applicable period, such individual's benefit under such paragraph was not payable, or was reduced, by reason of section 1505, 5313, or 5313B of title 38, United States Code;</text>
+          </subparagraph>
+          <subparagraph id="HC576082F93B34F2C84E1D3E2C928DFC7">
+            <enum>(C)</enum>
+ <text>in the case of an individual eligible for a benefit specified in paragraph (1)(C) if, for the most recent month in which the individual was so eligible in the applicable period, such individual's benefit under such paragraph was not payable by reason of subsection (e)(1)(A) or (e)(4) of section 1611 (<external-xref legal-doc="usc" parsable-cite="usc/42/1382">42 U.S.C. 1382</external-xref>) or section 1129A of such Act (<external-xref legal-doc="usc" parsable-cite="usc/42/1320a-8a">42 U.S.C. 1320a–8a</external-xref>); or</text>
+          </subparagraph>
+          <subparagraph id="H30D6694F7C0B46E0B7B06848A3F1DACA">
+            <enum>(D)</enum>
+ <text>in the case of any individual whose date of death occurs before the date on which the payment is certified.</text>
+          </subparagraph>
+        </paragraph>
+        <paragraph id="H7771F83F210D48339936219754DD0D11">
+          <enum>(5)</enum>
+          <header>Timing and manner of payments</header>
+          <subparagraph id="H078FD3F67EDC45DF80931174A08F4B92">
+            <enum>(A)</enum>
+            <header>In general</header>
+ <text>At the earliest practicable date but in no event later than 30 days after the date of enactment of this Act, the Commissioner of Social Security, in coordination with the Railroad Retirement Board, the Secretary of Veterans Affairs, and the Director of the Office of Personnel Management, shall commence certifying monthly payments under this section. Such payments may be certified to be electronically delivered in the same manner and to the same account identified by the payee or on file with the relevant agency through the applicable benefit program described in paragraph (1).</text>
+          </subparagraph>
+          <subparagraph id="H7010095563124BDB9584B504D426DF1B">
+            <enum>(B)</enum>
+            <header>Notice requirements</header>
+ <text>The Commissioner of Social Security, the Railroad Retirement Board, the Secretary of Veterans Affairs, and the Director of the Office of Personnel Management (as applicable) shall each, as soon as practicable after payments begin to be issued under this section, provide each individual who is determined to be eligible for such payments with a notice that includes the following:</text>
+            <clause id="HFC679C341E944B6B8FF278D545C33485">
+              <enum>(i)</enum>
+ <text>Information regarding the individual's eligibility for payments under this section, the amount of payments the individual is eligible for, and the manner in which the payments will be delivered.</text>
+            </clause>
+            <clause id="H8BEFB46ACE504440BC83F911F0B5BDBC">
+              <enum>(ii)</enum>
+ <text>Notice that the payments under this section are disregarded for Federal income tax purposes and for purposes of determining eligibility for, or the amount of, benefits or assistance under any Federal or federally-assisted benefit program.</text>
+            </clause>
+          </subparagraph>
+          <subparagraph id="H888359FC290D45D595D8F9F5DF98889D">
+            <enum>(C)</enum>
+            <header>Deadline</header>
+ <text>No payments shall be disbursed by the Secretary of the Treasury under this section after July 1, 2026, regardless of any determinations of entitlement to, or eligibility for, such payments made after such date.</text>
+          </subparagraph>
+        </paragraph>
+ </subsection><subsection id="HE246CFA28A3849D2AFCDBB74F01D6364"><enum>(b)</enum><header>Identification of recipients</header><paragraph commented="no" display-inline="no-display-inline" id="H424C4E18B5DA49F98BD2DAB6F6647893"><enum>(1)</enum><header>In general</header><text display-inline="yes-display-inline">The Commissioner of Social Security (in coordination with the Railroad Retirement Board, the Secretary of Veterans Affairs, and the Director of the Office of Personnel Management) shall—</text><subparagraph commented="no" display-inline="no-display-inline" id="H9D01A26BE4DB446CAC106526F7F757A7"><enum>(A)</enum><text display-inline="yes-display-inline">identify individuals entitled to, or eligible for, more than 1 benefit or cash payment described in paragraph (1) of subsection (a) for purposes of ensuring compliance with paragraph (3) of such subsection, and</text></subparagraph><subparagraph commented="no" display-inline="no-display-inline" id="H5B997B1FF2BC496D971987B07F080353"><enum>(B)</enum><text display-inline="yes-display-inline">certify the individuals entitled to receive payments under this section and provide the Secretary of the Treasury with the information needed for the Secretary of the Treasury to disburse such payments.</text></subparagraph></paragraph><paragraph commented="no" display-inline="no-display-inline" id="H6AB1BF7A88A8405299FCF024BDDFFCAD"><enum>(2)</enum><header>Subsequent determination of entitlement or eligibility</header><text display-inline="yes-display-inline">A certification of an individual under this subsection shall be unaffected by any subsequent determination or redetermination of the individual's entitlement to, or eligibility for, a benefit specified in subparagraph (B) or (C) of subsection (a)(1).</text></paragraph></subsection><subsection id="H85413FCA9FB04D3B9D9CE0093E73ACEC"><enum>(c)</enum><header>Treatment of payments</header><paragraph id="H3B188A50885541649D6FE9F5E5BD1C99"> <enum>(1)</enum> <header>Payment to be disregarded for purposes of all federal and federally assisted programs</header> <text>A payment under subsection (a) shall not be regarded as income and shall not be regarded as a resource, for purposes of determining the eligibility of the recipient (or the recipient's spouse or family) for benefits or assistance, or the amount or extent of benefits or assistance, under any Federal program or under any State or local program financed in whole or in part with Federal funds.</text>
+ </paragraph><paragraph id="H518B4159C0264C1BA707FCD5F6D93571"><enum>(2)</enum><header>Payment not considered income for purposes of taxation</header><text>A payment under subsection (a) shall not be considered as gross income for purposes of the Internal Revenue Code of 1986.</text></paragraph><paragraph id="HEBFCAA934AFF4720AA5311B02858F3DE"><enum>(3)</enum><header>Payments protected from assignment</header><text>The provisions of sections 207 and 1631(d)(1) of the Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/407">42 U.S.C. 407</external-xref>, 1383(d)(1)), section 14(a) of the Railroad Retirement Act of 1974 (<external-xref legal-doc="usc" parsable-cite="usc/45/231m">45 U.S.C. 231m(a)</external-xref>), and section 5301 of title 38, United States Code, shall apply to any payment made under subsection (a) as if such payment was a benefit payment or cash benefit to such individual under the applicable program described in subparagraph (B) or (C) of subsection (a)(1).</text></paragraph><paragraph id="H086B54C930DE417D8BBBEB0241BAB450"><enum>(4)</enum><header>Payments not subject to offset</header><text>Notwithstanding section 3716 of title 31, United States Code, any payment made under this section shall not—</text><subparagraph id="HCD5DCC484FF344F686C4D523CE64BE27"><enum>(A)</enum><text>be subject to offset under such section; and</text></subparagraph><subparagraph id="H0226A5BBF9D846FEAAD347F9A1C207C5"><enum>(B)</enum><text>be counted towards the amount of the exemption for Federal benefit programs under subsection (c)(3)(A)(ii) of such section.</text></subparagraph></paragraph></subsection><subsection id="HC222B197A12B416A958EFF24C96FEB0F"><enum>(d)</enum><header>Payment to representative payees and fiduciaries</header><paragraph id="H40FF4AEDF0AD45BAAC6D56325019532C"><enum>(1)</enum><header>In general</header><text>In any case in which an individual who is entitled to a payment under subsection (a) and whose benefit payment or cash benefit described in paragraph (1) of that subsection is paid to a representative payee or fiduciary, the payment under subsection (a) shall be made to the individual's representative payee or fiduciary and the entire payment shall be used only for the benefit of the individual who is entitled to the payment.</text></paragraph><paragraph id="H44875B1160A9444C923281827C27F99A"><enum>(2)</enum><header>Applicability</header><subparagraph id="H07AF728DD2984DE2B7EDF60E155026AC"><enum>(A)</enum><header>Payment on the basis of a title II or SSI benefit</header><text>Section 1129(a)(3) of the Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/1320a-8">42 U.S.C. 1320a–8(a)(3)</external-xref>) shall apply to any payment made on the basis of an entitlement to a benefit specified in paragraph (1)(B)(i) or (1)(C) of subsection (a) in the same manner as such section applies to a payment under title II or XVI of such Act.</text></subparagraph><subparagraph id="H7B62A315F39B421A994007A3982DB473"><enum>(B)</enum><header>Payment on the basis of a railroad retirement benefit</header><text>Section 13 of the Railroad Retirement Act (<external-xref legal-doc="usc" parsable-cite="usc/45/231l">45 U.S.C. 231l</external-xref>) shall apply to any payment made on the basis of an entitlement to a benefit specified in paragraph (1)(B)(ii) of subsection (a) in the same manner as such section applies to a payment under such Act.</text></subparagraph><subparagraph id="H62D5D066C33748FF8850F33D35D61402"><enum>(C)</enum><header>Payment on the basis of a veterans benefit</header><text>Sections 5502, 6106, and 6108 of title 38, United States Code, shall apply to any payment made on the basis of an entitlement to a benefit specified in paragraph (1)(B)(iii) of subsection (a) in the same manner as those sections apply to a payment under that title.</text></subparagraph></paragraph></subsection><subsection id="HAD3857E8D3CE4D11B6AE5B72B19B4026"><enum>(e)</enum><header>Presidential prohibition</header><text display-inline="yes-display-inline">In providing additional monthly benefit payments to individuals pursuant to this Act, the Secretary of the Treasury may not include the name of the President on such payments or allow the President to sign any of the payments.</text></subsection><subsection id="H35E2B643F0EB446D90533603DE17911A"><enum>(f)</enum><header>Appropriation</header><text>Out of any sums in the Treasury of the United States not otherwise appropriated, the following sums are appropriated for fiscal year 2026, to carry out this section:</text><paragraph id="H07D6DC05096F453D965AB11FADDE9CD0"><enum>(1)</enum><text>For the Secretary of the Treasury—</text><subparagraph id="HE46B90EC1787470DB382DBEB58F7FA83"> <enum>(A)</enum> <text>such sums as may be necessary for payments to individuals certified by the Commissioner of Social Security, the Railroad Retirement Board, or the Secretary of Veterans Affairs as entitled to receive payments under this section; and</text>
+ </subparagraph><subparagraph id="H2FF29126969B4D5992B6D989FB813284"><enum>(B)</enum><text>$11,000,000 for administrative costs incurred in carrying out this section.</text></subparagraph></paragraph><paragraph id="H1FF0A325D94B4ECEBFC70FB801A569D4"><enum>(2)</enum><text>For the Commissioner of Social Security, $83,000,000 for the Social Security Administration's Limitation on Administrative Expenses for costs incurred in carrying out this section.</text></paragraph><paragraph id="HA74DA4E0E13040DCA1815442E9A1ACD5"><enum>(3)</enum><text>For the Railroad Retirement Board, $1,100,000 to the Railroad Retirement Board's Limitation on Administration for administrative costs incurred in carrying out this section.</text></paragraph><paragraph id="H6449631CF1FD41CAB91D821747626B86"><enum>(4)</enum><text>For the Secretary of Veterans Affairs, $3,000,000 for the Information Systems Technology account and $5,000,000 for the General Operating Expenses account for administrative costs incurred in carrying out this section.</text></paragraph><paragraph id="H58C8CDFD055547CF8E4A7048860759C1"><enum>(5)</enum><text>For the Director of the Office of Personnel Management, $10,000,000 for administrative costs incurred in carrying out this section.</text></paragraph></subsection></section></legis-body></bill>
+

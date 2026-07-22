@@ -1,0 +1,109 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="HB2F00411B90743EFBD4F31F41D174721" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 HR 8577 IH: Disaster Declaration Transparency Act of 2026</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2026-04-29</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">119th CONGRESS</congress><session display="yes">2d Session</session><legis-num display="yes">H. R. 8577</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20260429">April 29, 2026</action-date><action-desc><sponsor name-id="K000391">Mr. Krishnamoorthi</sponsor> (for himself, <cosponsor name-id="N000191">Mr. Neguse</cosponsor>, and <cosponsor name-id="P000620">Ms. Pettersen</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HPW00">Committee on Transportation and Infrastructure</committee-name>, and in addition to the Committee on <committee-name committee-id="HRU00">Rules</committee-name>, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned</action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To provide for a procedure for Congress to carry out a reversal of a decision by the President not to declare a major disaster requested by the Governor of a State under the Robert T. Stafford Disaster Relief and Emergency Assistance Act, and for other purposes.</official-title></form><legis-body id="H47568ECE11E04F60A75071300577383C" style="OLC"> 
+<section section-type="section-one" id="H64DAA73C04724D5BAE65E01B2CD86EF4"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Disaster Declaration Transparency Act of 2026</short-title></quote>.</text></section> <section section-type="subsequent-section" id="HA14CEA6A08EB4E98B333052B3B1ED2CF"><enum>2.</enum><header>Process for congressional reversal of refusal to declare major disaster</header><text display-inline="no-display-inline">Section 401 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (<external-xref legal-doc="usc" parsable-cite="usc/42/5170">42 U.S.C. 5170</external-xref>) is amended by adding at the end the following:</text> 
+<quoted-block style="OLC" display-inline="no-display-inline" id="H76307875E1B34E04AF346F3BFB0A7537"> 
+<subsection id="H4084728D21A34ECF93398D925755B5FE"><enum>(d)</enum><header>Notification to Congress</header> 
+<paragraph commented="no" display-inline="no-display-inline" id="H78E9460B08F344CFBECC2970BB39927A">
+                        <enum>(1)</enum>
+                        <header display-inline="yes-display-inline">Covered refusal</header>
+ <text>In this subsection, the term <term>covered refusal</term> means an instance in which—</text>
+                        <subparagraph id="H647ED686F19940EB999BE6288E636787">
+                            <enum>(A)</enum>
+ <text>the Governor of a State requests a declaration by the President of a major disaster under subsection (a); and</text>
+                        </subparagraph>
+                        <subparagraph id="HB4A46A839F074F5BAC27D58D0326F9D8">
+                            <enum>(B)</enum>
+ <text>the President declines to declare such a major disaster—</text> <clause id="HCAF0C7C18184450AB7856BA25439A58F"> <enum>(i)</enum> <text>contrary to a recommendation provided by the Administrator of the Federal Emergency Management Agency; or</text>
+                            </clause>
+                            <clause id="H8756B209DFDD49529AA8EEF0B7292991" commented="no" display-inline="no-display-inline">
+                                <enum>(ii)</enum>
+ <text>based on a recommendation by the Administrator of the Federal Emergency Management Agency not to approve the declaration that is contrary to established precedent.</text>
+                            </clause>
+                        </subparagraph>
+                    </paragraph> 
+<paragraph commented="no" display-inline="no-display-inline" id="HEDF70D885E7C498598634082EB8F3C53"><enum>(2)</enum><header display-inline="yes-display-inline">Notification requirement</header><text display-inline="yes-display-inline">Not later than 24 hours after issuing a covered refusal, the President shall submit to the Speaker of the House of Representatives and the President of the Senate a written explanation of the covered refusal.</text></paragraph></subsection> <subsection id="HC1210F29CB6A46D5B3BBFA20FE086CD3"><enum>(e)</enum><header>Declaration by joint resolution</header> <paragraph id="HD7D3C17E06064CC28F33159821BD2132"><enum>(1)</enum><header>Definitions</header><text>In this subsection:</text> 
+<subparagraph commented="no" display-inline="no-display-inline" id="HCCDC6F3CE3A04E1B898561A7DC6E9B77"><enum>(A)</enum><header>Covered joint resolution</header><text display-inline="yes-display-inline">The term <term>covered joint resolution</term> means only a joint resolution of either House of Congress—</text> <clause commented="no" display-inline="no-display-inline" id="H712CA47578EB4F259451B116667616AC"><enum>(i)</enum><text>introduced not later than 14 calendar days after the date on which Congress receives a notification under subsection (d)(2) relating to a covered refusal; and</text></clause> 
+<clause commented="no" display-inline="no-display-inline" id="H04CCDF4163B34B58B17784352865C486"><enum>(ii)</enum><text display-inline="yes-display-inline">the sole matter after the resolving clause of which is as follows: <quote>That the President shall declare a major disaster under section 401 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (<external-xref legal-doc="usc" parsable-cite="usc/42/5170">42 U.S.C. 5170</external-xref>) relating to _______</quote>, the blanks being filled in with a description of the disaster that is the subject of the covered refusal.</text></clause></subparagraph> <subparagraph commented="no" display-inline="no-display-inline" id="HA625D3AC72B944E4982F38EBDCF88449"><enum>(B)</enum><header>Covered refusal</header><text>The term <term>covered refusal</term> has the meaning given the term in subsection (d).</text></subparagraph></paragraph> 
+<paragraph id="H714A725220A342D3954144D201546480" commented="no"><enum>(2)</enum><header>Introduction</header><text>A covered joint resolution may be introduced—</text> <subparagraph id="H3923B8F81484408898F4C59E7513577C" commented="no"><enum>(A)</enum><text>in the House of Representatives, by the majority leader (or the majority leader's designee) or the minority leader (or the minority leader's designee); and</text></subparagraph> 
+<subparagraph id="HC9E24B630C514DCE89638B67CB36C901" commented="no"><enum>(B)</enum><text>in the Senate, by the majority leader (or the majority leader's designee) or the minority leader (or the minority leader's designee).</text></subparagraph></paragraph> <paragraph id="H31E795486DF4416FB02657495E5AB790"><enum>(3)</enum><header>Floor consideration in house of representatives</header> <subparagraph id="H5F5C48025079419B8A890D67CBF2C81E"><enum>(A)</enum><header>Discharge from committee</header><text>If a committee of the House of Representatives to which a covered joint resolution has been referred has not reported the joint resolution within 2 calendar days after the date of referral of the joint resolution, the committee shall be discharged from further consideration of the joint resolution and the joint resolution shall be placed on the appropriate calendar.</text></subparagraph> 
+<subparagraph id="HE4597579854B43E6B0661413EA8EE48F"><enum>(B)</enum><header>Moving to consideration</header><text>At any time after a covered joint resolution has been placed on the appropriate calendar, it is in order for the sponsor of the joint resolution (or a designee) to move for the consideration of that joint resolution.</text></subparagraph> <subparagraph id="HCD498CA0EC504BDC83120723E072935A"> <enum>(C)</enum> <header>Points of order; motions</header> <text>All points of order against the covered joint resolution and its consideration are waived. If the motion under subparagraph (B) is agreed to, the joint resolution shall remain the unfinished business of the House of Representatives until disposed of, except as provided in paragraph (5).</text>
+                        </subparagraph> 
+<subparagraph id="H523B596CAD9D489BAEF128A5E35FE818"><enum>(D)</enum><header>No amendments</header><text>A covered joint resolution shall not be subject to amendment in the House of Representatives.</text></subparagraph> <subparagraph id="H22A5E984E65E45FB830D9AFB85F919D2"><enum>(E)</enum><header>Debate</header><text>General debate on a covered joint resolution shall not exceed 4 hours, which shall be equally divided and controlled by the sponsor of the joint resolution (or a designee) and an opponent.</text></subparagraph> 
+<subparagraph id="HBCB15D8F0A2A480090A2836DAF354309"><enum>(F)</enum><header>Final passage</header><text>At the conclusion of debate, the previous question shall be considered as ordered on the resolution, and the House of Representatives shall vote on final passage without intervening motion.</text></subparagraph></paragraph> <paragraph id="H5F2E780471264F8F87D12B71FF36F475"><enum>(4)</enum><header>Consideration in the senate</header> <subparagraph id="HF85AE286F2FB40708550C38C210C3DC0"><enum>(A)</enum><header>Reporting and discharge</header><text>If the committee of the Senate to which a covered joint resolution was referred has not reported the joint resolution within 2 calendar days after the date of referral of the joint resolution, that committee shall be discharged from further consideration of the joint resolution and the joint resolution shall be placed on the appropriate calendar.</text></subparagraph> 
+<subparagraph id="HCD9137A06BF24270A9F85B70BB666634"><enum>(B)</enum><header>Proceeding to consideration</header><text>Notwithstanding Rule XXII of the Standing Rules of the Senate, it is in order at any time after the committee of the Senate to which a covered joint resolution was referred reports the joint resolution to the Senate or has been discharged from consideration of the joint resolution (even though a previous motion to the same effect has been disagreed to) to move to proceed to the consideration of the joint resolution, and all points of order against the joint resolution (and against consideration of the joint resolution) are waived. The motion to proceed is not debatable. The motion is not subject to a motion to postpone.</text></subparagraph> <subparagraph id="HDEA9BD94869449BE8D1A02893CE3C6B7"><enum>(C)</enum><header>No amendments</header><text>An amendment to a covered joint resolution, or a motion to postpone, or a motion to proceed to the consideration of other business, or a motion to recommit a covered joint resolution, is not in order.</text></subparagraph> 
+<subparagraph id="H19E2F8F80C8D42ADA2B10BF649AA497D"><enum>(D)</enum><header>Consideration</header> 
+<clause id="H6B01F6C85CBB428C97946505E2BC8B26"><enum>(i)</enum><header>Limitation on debate</header><text>Consideration in the Senate of a covered joint resolution shall be limited to not more than 10 hours, which shall be equally divided between, and controlled by, the majority leader and the minority leader, or by their designees.</text></clause> <clause id="H1E59FDCBC3A84625BE5CF7F59DE33846"><enum>(ii)</enum><header>Vote on adoption</header><text>Whenever all the time for debate on a covered joint resolution has been used or yielded back, the vote on the passage of the resolution shall occur without any intervening motion or amendment, except that a single quorum call at the conclusion of the debate if requested in accordance with the Rules of the Senate may occur immediately before such vote.</text></clause></subparagraph> 
+<subparagraph id="H9E3CB279ED574E7CAD7DE81ADCB34E3D"><enum>(E)</enum><header>Rulings of the chair on procedure</header><text>Appeals from the decisions of the Chair relating to the application of the rules of the Senate, as the case may be, to the procedure relating to a covered joint resolution shall be decided without debate.</text></subparagraph> <subparagraph id="HE423855CE2E045E5A0A05F6D5B44E11B"><enum>(F)</enum><header>Consideration of veto messages</header><text>Debate in the Senate of any veto message with respect to a covered joint resolution, including all debatable motions and appeals in connection with the joint resolution, shall be limited to 10 hours, to be equally divided between, and controlled by, the majority leader and the minority leader or their designees.</text></subparagraph></paragraph> 
+<paragraph id="H47E0F632C7C24B06AEC5923E55DAF6EF"><enum>(5)</enum><header>Rules relating to senate and house of representatives</header> 
+<subparagraph id="H344E4D3B08A94829B295D995E8C713F8">
+                            <enum>(A)</enum>
+                            <header>Treatment of senate joint resolution in house of
+                                Representatives</header>
+ <text>In the House of Representatives, the following procedures shall apply to a covered joint resolution received from the Senate (unless the House has already passed a joint resolution relating to the same proposed action):</text>
+                            <clause id="H9DEAE27C8C1149229E07A30F61DE6353">
+                                <enum>(i)</enum>
+ <text>The joint resolution shall be referred to the appropriate committees.</text>
+                            </clause>
+                            <clause id="H2B67A7F8221349DB982B743DC8D766EC">
+                                <enum>(ii)</enum>
+ <text>If a committee to which a joint resolution has been referred has not reported the joint resolution within 2 calendar days after the date of referral, that committee shall be discharged from further consideration of the joint resolution.</text>
+                            </clause>
+                            <clause id="H676C07D862B043A1A4A6A2652AB7C548">
+                                <enum>(iii)</enum>
+ <text>Beginning on the third legislative day after the committee to which a joint resolution has been referred reports the joint resolution to the House of Representatives or has been discharged from further consideration thereof, it shall be in order to move to proceed to consider the joint resolution in the House of Representatives. All points of order against the motion are waived. Such a motion shall not be in order after the House of Representatives has disposed of a motion to proceed on the joint resolution. The previous question shall be considered as ordered on the motion to its adoption without intervening motion. The motion shall not be debatable. A motion to reconsider the vote by which the motion is disposed of shall not be in order.</text>
+                            </clause>
+                            <clause id="H397E9E4341BA4FB987B61638F4484A21">
+                                <enum>(iv)</enum>
+ <text>The joint resolution shall be considered as read. All points of order against the joint resolution and against its consideration are waived. The previous question shall be considered as ordered on the joint resolution to final passage without intervening motion except 4 hours of debate equally divided and controlled by the sponsor of the joint resolution (or a designee) and an opponent. A motion to reconsider the vote on passage of the joint resolution shall not be in order.</text>
+                            </clause>
+                        </subparagraph> 
+<subparagraph id="H6A8E70226C374FFA9ECD8905685A595E">
+                            <enum>(B)</enum>
+                            <header>Treatment of house of Representatives joint resolution in
+                                senate</header>
+                            <clause id="HCF3665AE35D14940AFCB1E01D34E1705">
+                                <enum>(i)</enum>
+                                <header>Receipt before passage</header>
+ <text>If, before the passage by the Senate of a covered joint resolution, the Senate receives an identical joint resolution from the House of Representatives, the following procedures shall apply:</text>
+                                <subclause id="HDECB8863AFC746B1B553455F8DE53A8D">
+                                    <enum>(I)</enum>
+ <text>That joint resolution shall not be referred to a committee.</text>
+                                </subclause>
+                                <subclause id="HAAEBFD23A7BF4A188FA9E7D3939B7E21">
+                                    <enum>(II)</enum>
+ <text>With respect to that joint resolution—</text> <item id="H1F23617582594897B042AF18A2E42BF8"> <enum>(aa)</enum> <text>the procedure in the Senate shall be the same as if no joint resolution had been received from the House of Representatives; but</text>
+                                    </item>
+                                    <item id="H581B5ACD88594E9FA6DC80679E3673C6">
+                                        <enum>(bb)</enum>
+ <text>the vote on passage shall be on the joint resolution from the House of Representatives.</text>
+                                    </item>
+                                </subclause>
+                            </clause>
+                            <clause id="HC7461DCE340F4B35BEFF638ADE2402FF">
+                                <enum>(ii)</enum>
+                                <header>Receipt after passage</header>
+ <text>If, following passage of a covered joint resolution in the Senate, the Senate receives an identical joint resolution from the House of Representatives, that joint resolution shall be placed on the appropriate Senate calendar.</text>
+                            </clause>
+                            <clause id="HC583633BCFC346A4831E7ED585A552D0">
+                                <enum>(iii)</enum>
+                                <header>No companion measure</header>
+ <text>If a covered joint resolution is received from the House of Representatives, and no companion joint resolution has been introduced in the Senate, the Senate procedures under this subsection shall apply to the House of Representatives joint resolution.</text>
+                            </clause>
+                        </subparagraph> 
+<subparagraph id="H14470E5A96824B469EB5BEDFD5ED7F67"><enum>(C)</enum><header>Application to revenue measures</header><text>The provisions of this paragraph shall not apply in the House of Representatives to a covered joint resolution that is a revenue measure.</text></subparagraph></paragraph> <paragraph id="H3F2B0941E2B04CDBBF70E33CEB7899AD"><enum>(6)</enum><header>Rules of house of representatives and senate</header><text>This subsection is enacted by Congress—</text> 
+<subparagraph id="HA30E894CA8E9472FAA21A6BB34032DFB"><enum>(A)</enum><text>as an exercise of the rulemaking power of the Senate and the House of Representatives, respectively, and as such is deemed a part of the rules of each House, respectively, and supersedes other rules only to the extent that it is inconsistent with such rules; and</text></subparagraph> <subparagraph id="H5AC74FC5F3B64352805525068EE5E96E"><enum>(B)</enum><text>with full recognition of the constitutional right of either House to change the rules (so far as relating to the procedure of that House) at any time, in the same manner, and to the same extent as in the case of any other rule of that House.</text></subparagraph></paragraph></subsection><after-quoted-block>.</after-quoted-block></quoted-block></section> 
+</legis-body></bill>
+

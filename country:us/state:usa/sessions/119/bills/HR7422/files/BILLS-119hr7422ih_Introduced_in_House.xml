@@ -1,0 +1,218 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H2F40FEE929FB4F4FA86DFB1CDA6F9397" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 HR 7422 IH: Next-Generation Equity Savings Tool Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2026-02-09</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">119th CONGRESS</congress><session display="yes">2d Session</session><legis-num display="yes">H. R. 7422</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20260209">February 9, 2026</action-date><action-desc><sponsor name-id="C001039">Mrs. Cammack</sponsor> (for herself and <cosponsor name-id="M001219">Mr. Moylan</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HWM00">Committee on Ways and Means</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To amend the Internal Revenue Code of 1986 to allow the establishment of first-time homebuyer savings accounts.</official-title></form><legis-body id="H33F3A8F4198B48CDB9C14FDF404A75BB" style="OLC"> 
+<section id="H3804DCFE0602427F826980D58C55E5B5" section-type="section-one"><enum>1.</enum><header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Next-Generation Equity Savings Tool Act</short-title></quote> or the <quote><short-title>NEST Act</short-title></quote>.</text></section> 
+<section id="H059DFDAAB93D4D028F72242228E95374" section-type="subsequent-section"><enum>2.</enum><header>First-time homebuyer savings account</header> 
+<subsection id="H54B18D1E20494A0CAB80BF075143E7DB"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">Part VII of subchapter B of <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/26/1">chapter 1</external-xref> of the Internal Revenue Code of 1986 is amended by inserting after section 223 the following new section:</text> <quoted-block style="OLC" display-inline="no-display-inline" id="H16AB052AA73F4E8488C8E5989EA5061C"> <section id="H3741F648DB2C4C2E8254603EDAF02E51"><enum>223A.</enum><header>First-time homebuyer savings account</header> <subsection id="HC0F8285F74B34B19B45D48410DFAB15F"><enum>(a)</enum><header>Deduction allowed</header><text display-inline="yes-display-inline">In the case of an account beneficiary, there shall be allowed as a deduction for the taxable year an amount equal to the aggregate amount paid in cash during such taxable year by or on behalf of such individual to a first-time homebuyer savings account of such individual.</text></subsection> 
+<subsection id="HB10214D7DC05408FA941B0DDB766ED0C"><enum>(b)</enum><header>Definitions and special rules</header><text>For purposes of this section—</text> <paragraph id="HF3EEE03D8981460B8AAC9A27AFECC6AC"><enum>(1)</enum><header>First-time homebuyer savings account</header><text>The term <quote>first-time homebuyer savings account</quote> means a trust created or organized in the United States exclusively for the purpose of paying the qualified home ownership expenses of the account beneficiary (and designated as a first-time homebuyer savings account at the time created or organized), but only if the written governing instrument creating the trust meets the following requirements:</text> 
+<subparagraph id="H0E87EC4B9D8E414E90DE3285FDA3A76E" commented="no"><enum>(A)</enum><text>No contribution will be accepted—</text> <clause id="H0F8FB78359D94C5187ACA86ECDBAD7EF"><enum>(i)</enum><text>if the account beneficiary had an ownership interest in a principal residence at any time during the 3-year period ending on the date of the contribution,</text></clause> 
+<clause id="H9C085562A2334D3EA5DD7F2C303A02F8"><enum>(ii)</enum><text>if such contribution would result in lifetime aggregate contributions to the account exceeding the State threshold amount,</text></clause> <clause id="HD111309A20464470B7EE7AFA8839C79F"><enum>(iii)</enum><text>unless it is in cash, or</text></clause> 
+<clause id="HFD66FFC055C54EE18A2C6001463C2F46" commented="no"><enum>(iv)</enum><text>except in the case of rollover contributions, if such contribution would result in aggregate contributions to the account for the taxable year exceeding the amount in effect under subsection (b)(1)(B).</text></clause></subparagraph> <subparagraph id="H2A39A548CB1A45479E410863D138BB99" commented="no" display-inline="no-display-inline"><enum>(B)</enum><text display-inline="yes-display-inline">The trustee is a bank (as defined in section 408(n)) or another person who demonstrates to the satisfaction of the Secretary that the manner in which that person will administer the trust will be consistent with the requirements of this section.</text></subparagraph> 
+<subparagraph id="H34F182F4330F4E2ABA7CEC0648D3F38E" commented="no"><enum>(C)</enum><text display-inline="yes-display-inline">No part of the trust assets will be invested in life insurance contracts.</text></subparagraph> <subparagraph id="H9713B8F752094094A97AF46B0ACDD638" commented="no"><enum>(D)</enum><text display-inline="yes-display-inline">The assets of the trust shall not be commingled with other property except in a common trust fund or common investment fund.</text></subparagraph> 
+<subparagraph id="HD7DF09289DE645E590F10168916137C1"><enum>(E)</enum><text>The account beneficiary has attained the age of 18.</text></subparagraph></paragraph> <paragraph id="H9E46D698384749FF8E51C15B45CDE97B"><enum>(2)</enum><header>State threshold amount</header><text>The term <quote>State threshold amount</quote> means 20 percent of the median home sale price in the State in which such account is established.</text></paragraph> 
+<paragraph id="HC33F6F6F9832449CBDF1437CA2708509"><enum>(3)</enum><header>Qualified home ownership expenses</header><text>The term <quote>qualified home ownership expenses</quote> means costs to acquire, construct, or reconstruct a residence, including a down payment, financing, or other closing costs relating to the purchase, if such residence is the primary residence of the account beneficiary of a first-time homebuyer savings account and such account beneficiary is a first-time homebuyer (as defined in section 36(c)) with respect to such purchase.</text></paragraph> <paragraph id="HD9453410399C4E1389BE553503451359"><enum>(4)</enum><header>Account beneficiary</header><text display-inline="yes-display-inline">The term <quote>account beneficiary</quote> means the individual on whose behalf the first-time homebuyer savings account is established.</text></paragraph> 
+<paragraph id="HCB139A39A96A45BA939AF0522D7ABA9F"><enum>(5)</enum><header>Certain rules to apply</header><text>Rules similar to the following rules shall apply for purposes of this section:</text> <subparagraph id="H17038A6E92BC47269E0CD8649A8684BD"><enum>(A)</enum><text display-inline="yes-display-inline">Section 219(d)(2) (relating to no deduction for rollovers).</text></subparagraph> 
+<subparagraph id="H82A00B38DDE54CA7B67B71474F6662AF"><enum>(B)</enum><text display-inline="yes-display-inline">Section 219(f)(3) (relating to time when contributions deemed made).</text></subparagraph> <subparagraph id="H5CA9D6164EEB4644AF63A90DA4C8D412"><enum>(C)</enum><text display-inline="yes-display-inline">Section 219(f)(5) (relating to employer payments).</text></subparagraph> 
+<subparagraph id="HFCFE2629A9AF4A95AE8597BAA7712632"><enum>(D)</enum><text display-inline="yes-display-inline">Section 408(g) (relating to community property laws).</text></subparagraph></paragraph></subsection> <subsection id="H1292BF89CDFE487FA569FCABB8B1EA49"><enum>(c)</enum><header>Tax treatment of accounts</header> <paragraph id="H8D53FA552417409D9C07B978D5E8B4DC"><enum>(1)</enum><header>In general</header><text display-inline="yes-display-inline">A first-time homebuyer savings account is exempt from taxation under this subtitle unless such account has ceased to be a first-time homebuyer savings account. Notwithstanding the preceding sentence, any such account is subject to the taxes imposed by section 511 (relating to imposition of tax on unrelated business income of charitable, etc. organizations).</text></paragraph> 
+<paragraph id="H102B7F6250E94C62A3DC680F58996611" display-inline="no-display-inline"><enum>(2)</enum><header>Account terminations</header> 
+<subparagraph id="H2742EEF445F24683AB4D7E6BC1BDB49C"><enum>(A)</enum><header>Acquisition of principal residence</header><text display-inline="yes-display-inline">If the account beneficiary acquires an ownership interest in a principal residence—</text> <clause id="HCEED12A160F0488A8F5AEFA96D31D62A"><enum>(i)</enum><text>each first-time homebuyer savings account of such beneficiary shall cease to be a first-time homebuyer savings account as of the close of the 60-day period beginning on the date of such acquisition, and</text></clause> 
+<clause id="H6B7068E470D8405E9199225486E1816E"><enum>(ii)</enum><text>the balance of such account as of such date shall be treated as distributed to such beneficiary.</text></clause></subparagraph> <subparagraph id="H782BC8188EF445EA8D9A7CDB7AF7C767"><enum>(B)</enum><header>Prohibited transactions, etc</header><text>Rules similar to the rules of paragraphs (2) and (4) of section 408(e) shall apply to any first-time homebuyer savings account, and any amounts treated as distributed under such rules shall be treated as not used to pay qualified home ownership expenses.</text></subparagraph></paragraph></subsection> 
+<subsection id="HADBE28943DB346679947F597F5380F23"><enum>(d)</enum><header>Tax treatment of distributions</header> 
+<paragraph id="H3DC884A8DC834DD58C47CD0437BABF77"><enum>(1)</enum><header>Amounts used for qualified home ownership expenses</header><text display-inline="yes-display-inline">Any amount paid or distributed out of a first-time homebuyer savings account which is used exclusively to pay qualified home ownership expenses of any account beneficiary shall not be includible in gross income.</text></paragraph> <paragraph id="H797F0E6C655D415FA1AC73A5B3DF9953"><enum>(2)</enum><header>Inclusion of amounts not used for qualified home ownership expenses</header><text display-inline="yes-display-inline">Any amount paid or distributed out of a first-time homebuyer savings account which is not used exclusively to pay the qualified home ownership expenses of the account beneficiary shall be included in the gross income of such beneficiary.</text></paragraph> 
+<paragraph id="HEBF1242BF20D4D448CB61816DA21D3A7"><enum>(3)</enum><header>Excess contributions returned before due date of return</header> 
+<subparagraph id="H93C5213E260A48A3B78561D346B3E76C"><enum>(A)</enum><header>In general</header><text display-inline="yes-display-inline">If any excess contribution is contributed for a taxable year to any first-time homebuyer savings account of an individual, <internal-xref idref="H797F0E6C655D415FA1AC73A5B3DF9953" legis-path="223A.(e)(2)">paragraph (2)</internal-xref> shall not apply to distributions from the first-time homebuyer savings accounts of such individual (to the extent such distributions do not exceed the aggregate excess contributions to all such accounts of such individual for such year) if—</text> <clause id="HA145F54EFD8A4A7FB23B1EC18546497F"><enum>(i)</enum><text display-inline="yes-display-inline">such distribution is received by the individual on or before the last day prescribed by law (including extensions of time) for filing such individual's return for such taxable year, and</text></clause> 
+<clause id="HD5C00944DDFA4570BDE5405FBA1E0039"><enum>(ii)</enum><text display-inline="yes-display-inline">such distribution is accompanied by the amount of net income attributable to such excess contribution.</text></clause><continuation-text continuation-text-level="subparagraph">Any net income described in <internal-xref idref="HD5C00944DDFA4570BDE5405FBA1E0039" legis-path="223A.(e)(3)(A)(ii)">clause (ii)</internal-xref> shall be included in the gross income of the individual for the taxable year in which it is received.</continuation-text></subparagraph> <subparagraph id="H308B8B894ECC4D86B5986405E6EA3AE4"><enum>(B)</enum><header>Excess contribution</header><text display-inline="yes-display-inline">For purposes of <internal-xref idref="H93C5213E260A48A3B78561D346B3E76C" legis-path="223A.(e)(3)(A)">subparagraph (A)</internal-xref>, the term <quote>excess contribution</quote> means any contribution (other than a rollover contribution described in <internal-xref idref="H85B2174332D249239050E46559DFA24F" legis-path="223A.(e)(5)">paragraph (5)</internal-xref>) which is neither excludable from gross income under section 139J nor deductible under this section.</text></subparagraph></paragraph> 
+<paragraph id="HBC4DE5095F1C4EB0B39C2975A4FD2CD8"><enum>(4)</enum><header>Additional tax for distributions not used for home ownership expenses</header> 
+<subparagraph id="H3C6D6D883D05405EB8B21E213007C717"><enum>(A)</enum><header>In general</header><text display-inline="yes-display-inline">The tax imposed by this chapter for any taxable year on any taxpayer who receives a payment or distribution from a first-time homebuyer savings account which is includible in gross income shall be increased by 20 percent of the amount which is so includible.</text></subparagraph> <subparagraph id="H5C0326E82E2C4BDBA16BB35FF1686204"><enum>(B)</enum><header>Exceptions</header><text display-inline="yes-display-inline"><internal-xref idref="H3C6D6D883D05405EB8B21E213007C717" legis-path="q:H16AB052AA73F4E8488C8E5989EA5061C:223A.(e)(4)(A)">Subparagraph (A)</internal-xref> shall not apply if the payment or distribution is made to the account beneficiary (or to the estate of such account beneficiary) on or after the death of such account beneficiary.</text></subparagraph></paragraph> 
+<paragraph id="H85B2174332D249239050E46559DFA24F"><enum>(5)</enum><header>Rollover contribution</header><text>An amount is described in this paragraph as a rollover contribution if it meets the following requirements:</text> <subparagraph id="H0C0274A6C81F4D02929C9C67F0F09372"><enum>(A)</enum><header>In general</header><text display-inline="yes-display-inline"><internal-xref idref="H797F0E6C655D415FA1AC73A5B3DF9953" legis-path="223A.(e)(2)">Paragraph (2)</internal-xref> shall not apply to any amount paid or distributed from a first-time homebuyer savings account to the account beneficiary to the extent the amount received is paid into a first-time homebuyer savings account for the benefit of such beneficiary not later than the 60th day after the day on which the beneficiary receives the payment or distribution.</text></subparagraph> 
+<subparagraph id="H7E040B0BC81B4890960D1F272F51ED31"><enum>(B)</enum><header>Limitation</header><text display-inline="yes-display-inline">This paragraph shall not apply to any amount described in <internal-xref idref="H0C0274A6C81F4D02929C9C67F0F09372" legis-path="223A.(e)(5)(A)">subparagraph (A)</internal-xref> received by an individual from a first-time homebuyer savings account if, at any time during the 1-year period ending on the day of such receipt, such individual received any other amount described in <internal-xref idref="H0C0274A6C81F4D02929C9C67F0F09372" legis-path="223A.(e)(5)(A)">subparagraph (A)</internal-xref> from a first-time homebuyer savings account which was not includible in the individual's gross income because of the application of this paragraph.</text></subparagraph></paragraph> <paragraph id="H91374DC5AD2E4F4DB18D12552268CD9A"><enum>(6)</enum><header>Special rules for death and divorce</header><text display-inline="yes-display-inline">Rules similar to the rules of paragraphs (7) and (8) of section 223(f) shall apply for purposes of this section.</text></paragraph> 
+<paragraph id="HCE22E3F8D205475984F7507C35DA9ED0"><enum>(7)</enum><header>Disallowance of excluded amounts as deduction, credit, or exclusion</header><text display-inline="yes-display-inline">No deduction, credit, or exclusion shall be allowed to the taxpayer under any other section of this chapter for any qualified home ownership expenses to the extent taken into account in determining the amount of the exclusion under <internal-xref idref="H3DC884A8DC834DD58C47CD0437BABF77" legis-path="223A.(e)(1)">paragraph (1)</internal-xref>.</text></paragraph></subsection> <subsection id="HBFCEEDC6A891494180B54A5081C11CD4" display-inline="no-display-inline" commented="no"><enum>(e)</enum><header>Contribution limit adjustment</header> <paragraph id="H3A3BE269876D4C33B8826FCC7A634735"><enum>(1)</enum><header>In general</header><text>Except as provided in paragraph (2), in the case of any taxable year beginning after 2025, the Secretary, after consultation with the Secretary of Housing and Urban Development, shall adjust the State threshold amount for each State to reflect the median home price in each such State using the most recent data available to the Secretary.</text></paragraph> 
+<paragraph id="H39F2B86546254597AEAC67200B92970D"><enum>(2)</enum><header>Limit may not be lowered</header><text>The adjustment described in paragraph (1) may only be used to increase the State threshold amount for a State.</text></paragraph></subsection> <subsection id="H3289FF49DAC94023945251AFE60300F1" display-inline="no-display-inline"><enum>(f)</enum><header>Reports</header> <paragraph id="HF191817C44C24B988DCC5D30936117A2"><enum>(1)</enum><header>In general</header><text>The trustee of a first-time homebuyer savings account shall make such reports regarding such account to the Secretary and to the account beneficiary with respect to contributions, distributions, and such other matters as the Secretary may require. The reports required by this subsection shall be filed at such time and in such manner and furnished to such individuals at such time and in such manner as may be required.</text></paragraph> 
+<paragraph id="H2246C8C369E540178BC6C6FDA80A919E"><enum>(2)</enum><header>Rollover distributions</header><text>In the case of any distribution described in <internal-xref idref="H85B2174332D249239050E46559DFA24F" legis-path="223A.(e)(5)">subsection (e)(5)</internal-xref>, the officer or employee having control of the first-time homebuyer savings account (or their designee) shall provide a report to the trustee of the first-time homebuyer savings account to which the distribution is made. Such report shall be filed at such time and in such manner as the Secretary may require and shall include information with respect to the contributions, distributions, and earnings of the first-time homebuyer savings account as of the date of the distribution described in such subsection, together with such other matters as the Secretary may require.</text></paragraph></subsection></section><after-quoted-block>.</after-quoted-block></quoted-block></subsection> <subsection id="HD0A091A6CF654F07B236B46ECF4468D7"><enum>(b)</enum><header>Deduction allowed above the line</header><text>Section 62(a) of such Code is amended by inserting after paragraph (21) the following new paragraph:</text> 
+<quoted-block style="OLC" display-inline="no-display-inline" id="HD3EFEC30B88E4F39B0BBA4189000FF01"> 
+<paragraph id="H81D2233280B44C34844127EA865B9D3B"><enum>(22)</enum><header>First-time homebuyer savings accounts</header><text display-inline="yes-display-inline">The deduction allowed by section 223A.</text></paragraph><after-quoted-block>.</after-quoted-block></quoted-block></subsection> <subsection id="H1D46168C9CCC473794A91838DE4B3EA5"> <enum>(c)</enum> <header>Exclusions for employer contributions to first-Time homebuyer savings accounts</header> <paragraph id="HED1F96EEB2864A4A86A9BFF07A410F97"> <enum>(1)</enum> <header>Exclusion from income tax</header> <subparagraph id="H73F749623FE8452CB6CB75FA2FF160FF"> <enum>(A)</enum> <header>In general</header> <text>Part III of subchapter B of chapter 1 of such Code is amended by inserting after section 139I the following new section:</text>
+                        <quoted-block style="OLC" display-inline="no-display-inline"
+                            id="H88FEBC93F8C848A490393A1576C74EE4">
+                            <section id="H478B865BECD94C1E8964A4E5DA083473">
+                                <enum>139J.</enum>
+                                <header>First-time homebuyer savings account contributions</header>
+ <text display-inline="no-display-inline">In the case of an account beneficiary (as defined in section 223A(c)(3)), gross income does not include amounts contributed by such account beneficiary’s employer to any first-time homebuyer savings account (as defined in section 223A(c)(1)) of such account beneficiary.</text>
+                            </section>
+                            <after-quoted-block>.</after-quoted-block>
+                        </quoted-block>
+                    </subparagraph>
+                    <subparagraph id="HEBBEF2F307974E819F6DEA3A97DF4AEF">
+                        <enum>(B)</enum>
+                        <header>Clerical amendment</header>
+ <text display-inline="yes-display-inline">The table of sections for part III of subchapter B of chapter 1 of such Code is amended by inserting after the item relating to section 139I the following new item:</text>
+                        <quoted-block style="OLC" display-inline="no-display-inline"
+                            id="H095046518C444FFA8658C6754BBAFC21">
+                            <toc regeneration="yes-regeneration">
+                                <toc-entry level="section" idref="H478B865BECD94C1E8964A4E5DA083473"
+                                    >Sec. 139J. First-time homebuyer savings account
+                                    contributions.</toc-entry>
+                            </toc>
+                            <after-quoted-block>.</after-quoted-block>
+                        </quoted-block>
+                    </subparagraph>
+                </paragraph>
+                <paragraph id="HD71FAE83500D42B8A235A416F5396503">
+                    <enum>(2)</enum>
+                    <header>Exclusion from employment taxes</header>
+                    <subparagraph id="H66BFD28E6E844C4FBE4085E840E72660">
+                        <enum>(A)</enum>
+                        <header>Social security taxes</header>
+                        <clause id="H2465FF737E834907874AA5C89481A376">
+                            <enum>(i)</enum>
+                            <header>In general</header>
+ <text>Section 3121(a) is amended by striking <quote>or</quote> at the end of paragraph (22)(B), by striking the period at the end of paragraph (23) and inserting <quote>, or</quote>, and by inserting after paragraph (23) the following new paragraph:</text>
+                            <quoted-block style="OLC" display-inline="no-display-inline"
+                                id="H5B41CD3D22C84245AA2055E4419DCEC2">
+                                <paragraph id="HBD49B6AB9EFB41969320381D74114A71">
+                                    <enum>(24)</enum>
+ <text display-inline="yes-display-inline">any payment made to or for the benefit of an employee if at the time of such payment it is reasonable to believe that the employee will be able to exclude such payment from income under section 139J.</text>
+                                </paragraph>
+                                <after-quoted-block>. </after-quoted-block>
+                            </quoted-block>
+                        </clause>
+                        <clause id="H856E5E6336134C3E92B3F811887B42D8"
+                            display-inline="no-display-inline">
+                            <enum>(ii)</enum>
+                            <header>Conforming amendment to Social Security Act</header>
+ <text>Section 209(a) of the Social Security Act is amended by striking <quote>or</quote> at the end of paragraph (19), by striking <quote>).</quote> at the end of paragraph (20) and inserting <quote>; or</quote>, and by inserting after paragraph (20) the following new paragraph:</text>
+                            <quoted-block style="OLC" display-inline="no-display-inline"
+                                id="H532BDE02CEF049BF91CC3CD86E1B85B4">
+                                <paragraph id="HF904AF0F752F4C92AEE858CBB0F0ADF5">
+                                    <enum>(21)</enum>
+ <text display-inline="yes-display-inline">any reimbursement which is excludable from gross income under <external-xref legal-doc="usc" parsable-cite="usc/26/139J">section 139J</external-xref> of the Internal Revenue Code of 1986.</text>
+                                </paragraph>
+                                <after-quoted-block>.</after-quoted-block>
+                            </quoted-block>
+                        </clause>
+                    </subparagraph>
+                    <subparagraph id="HF3F98850921046EEB66514D031834F5A">
+                        <enum>(B)</enum>
+                        <header>Railroad retirement tax</header>
+ <text display-inline="yes-display-inline">Section 3231(e) of such Code is amended by adding at the end the following new paragraph:</text>
+                        <quoted-block style="OLC" display-inline="no-display-inline"
+                            id="HBE166E1430864B5987033401652DD2CD">
+                            <paragraph id="H9A51CA9C43DE410F93F84DCC166F3B82" commented="no">
+                                <enum>(13)</enum>
+                                <header>First-time homebuyer savings account contributions</header>
+ <text display-inline="yes-display-inline">The term ‘compensation’ shall not include any payment made to or for the benefit of an employee if at the time of such payment it is reasonable to believe that the employee will be able to exclude such payment from income under section 139J.</text>
+                            </paragraph>
+                            <after-quoted-block>.</after-quoted-block>
+                        </quoted-block>
+                    </subparagraph>
+                    <subparagraph id="HF98247A72B534050837108664683C096">
+                        <enum>(C)</enum>
+                        <header>Unemployment tax</header>
+ <text display-inline="yes-display-inline">Section 3306(b) of such Code is amended by striking <quote>or</quote> at the end of paragraph (19)(B), by striking the period at the end of paragraph (20) and inserting <quote>; or</quote>, and by inserting after paragraph (20) the following new paragraph:</text>
+                        <quoted-block style="OLC" display-inline="no-display-inline"
+                            id="HD1D334B922004A17936C8BE19B2BCEE8">
+                            <paragraph id="HA6FC6AAA700945B5BA09509B80A4624D">
+                                <enum>(21)</enum>
+ <text display-inline="yes-display-inline">any payment made to or for the benefit of an employee if at the time of such payment it is reasonable to believe that the employee will be able to exclude such payment from income under section 139J.</text>
+                            </paragraph>
+                            <after-quoted-block>.</after-quoted-block>
+                        </quoted-block>
+                    </subparagraph>
+                    <subparagraph id="H947A5FEFCC63493692FA582B536F8F34">
+                        <enum>(D)</enum>
+                        <header>Withholding tax</header>
+ <text>Section 3401(a) of such Code is amended by striking <quote>or</quote> at the end of paragraph (22), by striking the period at the end of paragraph (23) and inserting <quote>; or</quote>, and by inserting after paragraph (23) the following new paragraph:</text>
+                        <quoted-block style="OLC" display-inline="no-display-inline"
+                            id="H642FE111A6D34B45A7230E951020636E">
+                            <paragraph id="HD0A4435464054DEEA8ED970D4D0D492E">
+                                <enum>(24)</enum>
+ <text display-inline="yes-display-inline">any payment made to or for the benefit of an employee if at the time of such payment it is reasonable to believe that the employee will be able to exclude such payment from income under section 139J.</text>
+                            </paragraph>
+                            <after-quoted-block>.</after-quoted-block>
+                        </quoted-block>
+                    </subparagraph>
+                </paragraph>
+                <paragraph id="H601367CCED42453384D097A8EF71A99F">
+                    <enum>(3)</enum>
+                    <header>Employer contributions required to be shown on W–2</header>
+ <text>Section 6051(a) of such Code is amended by striking <quote>and</quote> at the end of paragraph (16), by striking the period at the end of paragraph (17) and inserting <quote>, and</quote>, and by inserting after paragraph (17) the following new paragraph:</text>
+                    <quoted-block style="OLC" display-inline="no-display-inline"
+                        id="HE1BEF2385F8845DCA933A7224930922B">
+                        <paragraph id="H82A4A6DF476B4414AEFAFE52D2BFF5C9">
+                            <enum>(18)</enum>
+ <text display-inline="yes-display-inline">the amount contributed to any first-time homebuyer savings account (as defined in section 223A(c)(1)) of such employee.</text>
+                        </paragraph>
+                        <after-quoted-block>.</after-quoted-block>
+                    </quoted-block>
+                </paragraph>
+            </subsection> 
+<subsection id="H32CE7271941E4A04B5AB0D87E01DE939" display-inline="no-display-inline"><enum>(d)</enum><header>Tax on excess contributions</header> 
+<paragraph id="H28E9EFC5C6864D09B163A2D301AE9BB3"><enum>(1)</enum><header>In general</header><text display-inline="yes-display-inline">Section 4973(a) of such Code is amended by striking <quote>or</quote> at the end of paragraph (5), by inserting <quote>or</quote> at the end of paragraph (6), and by inserting after paragraph (6) the following new paragraph:</text> <quoted-block style="OLC" display-inline="no-display-inline" id="HDABF8A10EB374BE58516B56F16A4495F"> <paragraph id="HEC98214DCAC849C6ABB5DDE18356C8C2"><enum>(7)</enum><text display-inline="yes-display-inline">a first-time homebuyer savings account (within the meaning of section 223A).</text></paragraph><after-quoted-block>.</after-quoted-block></quoted-block></paragraph> 
+<paragraph id="HC1B527260F334545893237206E374B02" display-inline="no-display-inline"><enum>(2)</enum><header>Excess contribution</header><text display-inline="yes-display-inline">Section 4973 of such Code is amended by adding at the end the following new subsection:</text> <quoted-block style="OLC" display-inline="no-display-inline" id="H12412B4DF3324CDF9F6185997976E07F"> <subsection id="H8CBDE065CC6A4E8D93714360A42A8333"> <enum>(i)</enum> <header>Excess contributions to first-Time homebuyer savings account</header> <text display-inline="yes-display-inline">For purposes of this section, in the case of first-time homebuyer savings accounts (as defined in section 223A), the term <quote>excess contributions</quote> means the sum of—</text>
+                            <paragraph id="H27A52C149EBE4AF4955542CE13A36CF8">
+                                <enum>(1)</enum>
+ <text>the aggregate amount contributed for the taxable year to first-time homebuyer savings accounts (other than a rollover contribution contributed under section 223A(e)(4) or (6)) which is neither excludable from gross income under section 139J nor allowable as a deduction under section 223A for such year, plus</text>
+                            </paragraph>
+                            <paragraph id="H66DFD253086B40CD95378C38B34F9B87">
+                                <enum>(2)</enum>
+ <text>the amount determined under this subsection for the preceding taxable year, reduced by the sum of—</text>
+                                <subparagraph id="H4BB2B794902748BF900DC4E80A7669AC">
+                                    <enum>(A)</enum>
+ <text>the distribution out of the first-time homebuyer savings accounts which were included in gross income under section 223A(e)(1), plus</text>
+                                </subparagraph>
+                                <subparagraph id="HA2D9ECC1DBCB439BB57797C83AEF37C5">
+                                    <enum>(B)</enum>
+ <text>the excess (if any) of—</text> <clause id="H6C1F90C730A54422B3F7C9163A5200F8"> <enum>(i)</enum> <text>the maximum amount allowable as a deduction under section 223A(b) (determined without regard to section 139J) for the taxable year, over</text>
+                                    </clause>
+                                    <clause id="H23ED0E023080447484147C154944F64A">
+                                        <enum>(ii)</enum>
+ <text>the amount contributed to first-time homebuyer savings accounts for the taxable year.</text>
+                                    </clause>
+                                    <continuation-text continuation-text-level="subparagraph">For
+                                        purposes of this subsection, any contribution which is
+                                        distributed out of the first-time homebuyer savings account
+                                        in a distribution to which section 223A(e)(4)(C) applies
+                                        shall be treated as an amount not
+                                        contributed.</continuation-text>
+                                </subparagraph>
+                            </paragraph>
+                        </subsection><after-quoted-block display="yes">.</after-quoted-block></quoted-block></paragraph></subsection> 
+<subsection id="H034D2A393ACE4898AC2AE28056425927"><enum>(e)</enum><header>Tax on prohibited transactions</header> 
+<paragraph id="H9AB804A1CB284003B4727ECFF6DAA1C5"><enum>(1)</enum><text>Section 4975(c) of such Code is amended by adding at the end the following new paragraph:</text> <quoted-block style="OLC" display-inline="no-display-inline" id="H80E94913B6FB4B8296F42A2C040A0E6B"> <paragraph id="HFE19567491DF482BAC45A8AA290E8E58"><enum>(8)</enum><header>Special rule for first-time homebuyer savings accounts</header><text display-inline="yes-display-inline">An individual for whose benefit a first-time homebuyer savings account (within the meaning of section 223A(c)) is established shall be exempt from the tax imposed by this section with respect to any transaction concerning such account (which would otherwise be taxable under this section) if, with respect to such transaction, the account ceases to be a first-time homebuyer savings account by reason of the application of section 223(d)(2) to such account.</text></paragraph><after-quoted-block>.</after-quoted-block></quoted-block></paragraph> 
+<paragraph id="HAF70E76DF89E4D3DA8CA4FD2C0D41437"><enum>(2)</enum><text display-inline="yes-display-inline">Section 4975(e)(1) of such Code is amended by striking <quote>or</quote> at the end of subparagraph (F), by redesignating subparagraph (G) as subparagraph (H), and by inserting after subparagraph (F) the following new subparagraph:</text> <quoted-block style="OLC" display-inline="no-display-inline" id="H4465D3094A1C4D50BA77F42CE3890454"> <subparagraph id="H1B2D89A906484DF2BA1E8BBB723F4231"><enum>(G)</enum><text display-inline="yes-display-inline">a first-time homebuyer savings account described in section 223A(c).</text></subparagraph><after-quoted-block>.</after-quoted-block></quoted-block></paragraph></subsection> 
+<subsection id="H123B87EB57EC4A27855FFA866CFE51C6">
+                <enum>(f)</enum>
+                <header>Penalty for failure To file reports</header>
+ <text>Section 6693(a)(2) of such Code is amended by striking <quote>and</quote> at the end of subparagraph (E), by striking the period at the end of subparagraph (F) and inserting <quote>, and</quote>, and by inserting after subparagraph (F) the following new subparagraph:</text>
+                <quoted-block style="OLC" display-inline="no-display-inline"
+                    id="HF6E1036FD7DC4BBA85F578AF419D1B25">
+                    <subparagraph id="HBC6E01D63E0D46598A49AC60619124CD">
+                        <enum>(G)</enum>
+ <text display-inline="yes-display-inline">Section 223A(g) (relating to first-time homebuyer savings accounts).</text>
+                    </subparagraph>
+                    <after-quoted-block>.</after-quoted-block>
+                </quoted-block>
+            </subsection> 
+<subsection id="H2A55B64CEA4A498980A3C34CF6B86BD9"><enum>(g)</enum><header>Conforming amendments</header> 
+<paragraph id="H050B0338868441F18A55FE6A3A6F070C"><enum>(1)</enum><text>Section 26(b)(2) of such Code is amended by striking <quote>and</quote> at the end of subparagraph (Y), by striking the period at the end of subparagraph (Z) and inserting <quote>, and</quote>, and by inserting after subparagraph (Z) the following new subparagraph:</text> <quoted-block style="OLC" display-inline="no-display-inline" id="H5AA63535A0EB415CB7FB163EB1F1C84F"> <subparagraph id="H3F90B71C16154400A8AD0BE14B000620"><enum>(AA)</enum><text display-inline="yes-display-inline">section 223A(e)(2) (relating to additional tax on first-time homebuyer savings account not used for qualified home ownership expenses).</text></subparagraph><after-quoted-block>.</after-quoted-block></quoted-block></paragraph> 
+<paragraph id="HC0801B219B1A4E408721B325018BA7D2"><enum>(2)</enum><text>Section 408(e)(2)(ii) of such Code is amended by inserting <quote>or to a first-time homebuyer savings account under section 223A(e)(7)</quote> before the period.</text></paragraph> <paragraph id="H51FE320AFAC741E0A91326B6ECA5D6E6"><enum>(3)</enum><text>Section 530(d)(9)(A)(ii) of such Code is amended by inserting <quote>, to a first-time homebuyer savings account under section 223A(e)(7),</quote> after <quote>section 408(e)(2)</quote>.</text></paragraph> 
+<paragraph id="H63619CBD33464499828FB3A029CEC011"><enum>(4)</enum><text>Section 877A of such Code is amended—</text> <subparagraph id="HC94C67F2BAB04EDF8665F9690E2CE5DE"><enum>(A)</enum><text display-inline="yes-display-inline">in subsection (e)(2) by inserting <quote>a first-time homebuyer savings account (as defined in section 223A),</quote> after <quote>section 223),</quote>, and</text></subparagraph> 
+<subparagraph id="H16BB3B9C252C468EBE2F4FCCE383E8AD">
+                        <enum>(B)</enum>
+ <text display-inline="yes-display-inline">in subsection (g)(6) by inserting <quote>223(e)(4),</quote> after <quote>529A(c)(3),</quote>.</text>
+                    </subparagraph></paragraph> 
+<paragraph id="H07275B73937D49C3986587528ACF78F4"><enum>(5)</enum><text display-inline="yes-display-inline">The table of sections for part VII of subchapter B of chapter 1 of such Code is amended by inserting after the item relating to section 223 the following new item:</text> <quoted-block style="OLC" display-inline="no-display-inline" id="HF52B71AA4EA94FFBAAEB2791C23EB598"> <toc regeneration="no-regeneration"> <toc-entry level="section">Sec. 223A. First-time homebuyer savings account.</toc-entry></toc><after-quoted-block>.</after-quoted-block></quoted-block></paragraph></subsection> <subsection id="HDF34A94FE1604EC48E49204147462588"><enum>(h)</enum><header>Effective date</header><text>The amendments made by this section shall apply to taxable years beginning after December 31, 2025.</text></subsection></section> 
+</legis-body></bill>
+
