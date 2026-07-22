@@ -1,0 +1,79 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public" slc-id="S1-ELT25A09-LN8-YK-WYT">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 S3132 IS: Emergency Relief for Hungry Families Act of 2025</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2025-11-06</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+        <distribution-code>II</distribution-code>
+        <congress>119th CONGRESS</congress>
+        <session>1st Session</session>
+        <legis-num>S. 3132</legis-num>
+        <current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+        <action>
+            <action-date date="20251106">November 6, 2025</action-date>
+            <action-desc><sponsor name-id="S247">Mr. Wyden</sponsor> (for himself and <cosponsor name-id="S322">Mr. Merkley</cosponsor>) introduced the following bill; which was
+                read twice and referred to the <committee-name committee-id="SSAF00">Committee on
+                    Agriculture, Nutrition, and Forestry</committee-name></action-desc>
+        </action>
+        <legis-type>A BILL</legis-type>
+        <official-title>To amend the Food and Nutrition Act of 2008 to exempt discounting food from
+            the equal treatment requirement during a government shutdown, and for other
+            purposes.</official-title>
+    </form>
+    <legis-body>
+        <section id="S1" section-type="section-one">
+            <enum>1.</enum>
+            <header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Emergency Relief for Hungry Families Act of 2025</short-title></quote>.</text>
+        </section>
+        <section commented="no" display-inline="no-display-inline" id="id4a93b19a52104ad1bb6fa97b77763469">
+            <enum>2.</enum>
+            <header>Exemption from equal treatment requirement</header>
+ <text display-inline="no-display-inline">Section 9(j) of the Food and Nutrition Act of 2008 (<external-xref legal-doc="usc" parsable-cite="usc/7/2018">7 U.S.C. 2018(j)</external-xref>) is amended by adding at the end the following:</text>
+            <quoted-block style="OLC" display-inline="no-display-inline" id="id39e1fbd23106497d99b5b0e79b5764c0">
+                <paragraph id="id248b65503bac4231aa3cb7ff7b40d221">
+                    <enum>(6)</enum>
+                    <header>Exemption from equal treatment requirement</header>
+                    <subparagraph id="id39487a7677254d45b29da25001a8f720">
+                        <enum>(A)</enum>
+                        <header>Definition of covered period</header>
+ <text>In this paragraph, the term <term>covered period</term> means a period during which—</text>
+                        <clause id="id39de8071d6b9460c82991ab8a831daf4">
+                            <enum>(i)</enum>
+ <text>interim continuing appropriations or full-year appropriations for a fiscal year for the Department of Agriculture have lapsed; and</text>
+                        </clause>
+                        <clause id="id1ee1dfc1bfd443bc8fb42847fc56f742">
+                            <enum>(ii)</enum>
+ <text>participants of the supplemental nutrition assistance program are not receiving—</text>
+                            <subclause id="id9c2e2eaf56724106b37894a50a59355c">
+                                <enum>(I)</enum>
+ <text>any benefits; or</text> </subclause> <subclause id="id4ed94c10e9e94d5a847813768e9f8be2"> <enum>(II)</enum> <text>the full amount of benefits.</text>
+                            </subclause>
+                        </clause>
+                    </subparagraph>
+                    <subparagraph id="id66ec87966bf34f20965cbf13a5c1de71">
+                        <enum>(B)</enum>
+                        <header>Waiver</header>
+ <text>Notwithstanding paragraph (2), during a covered period, an authorized retail food store may, without seeking a waiver, offer an incentive, which shall be effective for the entire duration of the covered period.</text>
+                    </subparagraph>
+                    <subparagraph commented="no" display-inline="no-display-inline" id="id02fe534122164cc593693bbb1f3583e5">
+                        <enum>(C)</enum>
+                        <header>Effect</header>
+ <text>An incentive offered by an authorized retail food store under subparagraph (B) shall not be deemed a violation of the equal treatment requirement described in section 278.2(b) of title 7, Code of Federal Regulations (or a successor regulation).</text>
+                    </subparagraph>
+                </paragraph>
+                <after-quoted-block>.</after-quoted-block>
+            </quoted-block>
+        </section>
+    </legis-body>
+</bill>
+

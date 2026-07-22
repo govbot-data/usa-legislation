@@ -1,0 +1,133 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H41E2C4CC6CD74952813D7DA437B1E1FD" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 HR 9244 IH: Business Activity Tax Simplification Act of 2026</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2026-06-10</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">119th CONGRESS</congress><session display="yes">2d Session</session><legis-num display="yes">H. R. 9244</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20260610">June 10, 2026</action-date><action-desc><sponsor name-id="H001101">Mr. Harrigan</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HJU00">Committee on the Judiciary</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To regulate certain State taxation of interstate commerce, and for other purposes.</official-title></form><legis-body id="H56951BA29D364F04841B406A78725034" style="OLC"> 
+<section id="H08ED0A57A3F34B75A3D7F729F8605C52" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Business Activity Tax Simplification Act of 2026</short-title></quote>.</text></section> 
+<section id="H2B09EC266A1B453790C218EA7601E291"><enum>2.</enum><header>Modernization of <external-xref legal-doc="public-law" parsable-cite="pl/86/272">Public Law 86–272</external-xref></header> 
+<subsection id="HDEEF4530EF0C4F1DB34D0DA355EF6FEA">
+        <enum>(a)</enum>
+        <header>Solicitations With Respect to Sales and Transactions of Other Than Tangible Personal
+          Property</header>
+ <text>Section 101 of the Act entitled <quote>An Act relating to the power of the States to impose net income taxes on income derived from interstate commerce, and authorizing studies by congressional committees of matters pertaining thereto</quote>, approved September 14, 1959 (<external-xref legal-doc="usc" parsable-cite="usc/15/381">15 U.S.C. 381 et seq.</external-xref>), is amended—</text>
+        <paragraph id="HFF54FDF3C1B945C9B144B48AE1B57E84">
+          <enum>(1)</enum>
+ <text>in subsection (a), by striking <quote>either, or both,</quote> and inserting <quote>any one or more</quote>;</text>
+        </paragraph>
+        <paragraph id="H05BB26EF05E64ED0BCEAA7CBA123E6B2">
+          <enum>(2)</enum>
+ <text>in subsection (a)(1), by striking <quote>by such person</quote> and all that follows and inserting</text>
+          <quoted-block display-inline="yes-display-inline" id="H79BBF8756FB54A8D8226F89566DBBFC1"
+            style="OLC">
+ <text>(which are sent outside the State for approval or rejection) or customers by such person, or the representative of such person, in such State for sales or transactions, which are—</text>
+            <subparagraph id="HEEADE89B831942B6B702DE592F834D15">
+              <enum>(A)</enum>
+ <text>in the case of tangible personal property, filled by shipment or delivery from a point outside the State; and</text>
+            </subparagraph>
+            <subparagraph id="HB2FB854FCD5343C492898B9403E4320B">
+              <enum>(B)</enum>
+ <text>in the case of all other forms of property, services, and other transactions, fulfilled or distributed from a point outside the State;</text>
+            </subparagraph>
+            <after-quoted-block>;</after-quoted-block>
+          </quoted-block>
+        </paragraph>
+        <paragraph id="HE930DDE3A21A4AA39AB692B69FE92757">
+          <enum>(3)</enum>
+ <text>in subsection (a)(2), by striking the period at the end and inserting a semicolon;</text>
+        </paragraph>
+        <paragraph id="H6D100F55EB6A40E0A06C7BE8FD813F56">
+          <enum>(4)</enum>
+ <text>in subsection (a), by adding at the end the following:</text> <quoted-block id="H358205776E0440FAB03F2DF88817EC17" style="OLC"> <paragraph id="H0844417E40F14AA895FE71075CDA198C"> <enum>(3)</enum> <text>the furnishing of information to customers or affiliates in such State, or the coverage of events or other gathering of information in such State by such person, or his representative, which information is used or disseminated from a point outside the State;</text>
+            </paragraph>
+            <paragraph id="H6F39B71CE89646148AD237E2CD69FEE3">
+              <enum>(4)</enum>
+ <text>those business activities directly related to such person’s potential or actual purchase of goods or services within the State if the final decision to purchase is made outside the State; and</text>
+            </paragraph>
+            <paragraph id="H06067F6EAD1D477FA0E1D4C078F141F6">
+              <enum>(5)</enum>
+ <text display-inline="yes-display-inline">by reason of sales or transactions of a digital good or a digital service.</text>
+            </paragraph>
+            <after-quoted-block>;</after-quoted-block>
+          </quoted-block>
+        </paragraph>
+        <paragraph id="H50D1DF245F8F40E2844C85F7ABA47F91">
+          <enum>(5)</enum>
+ <text>by striking subsection (c) and inserting the following:</text> <quoted-block id="H07F868695E1F4B50AAF164CC14D898E9" style="OLC"> <subsection id="H7749A212067A4376BD9FEC14C1D77951"> <enum>(c)</enum> <text>For purposes of subsection (a), a person shall not be considered to have engaged in business activities within a State during any taxable year merely—</text>
+              <paragraph id="H59836BEA5B034C828F9CA50475E532DD">
+                <enum>(1)</enum>
+ <text>by reason of sales or transactions in such State, the solicitation of orders for sales or transactions in such State, the furnishing of information to customers or affiliates in such State, or the coverage of events or other gathering of information in such State, on behalf of such person by one or more independent contractors;</text>
+              </paragraph>
+              <paragraph id="H1603C1DF764A40D09B090B9B202817E6">
+                <enum>(2)</enum>
+ <text>by reason of the maintenance of an office in such State by one or more independent contractors whose activities on behalf of such person in such State are limited to making sales or fulfilling transactions, soliciting orders for sales or transactions, the furnishing of information to customers or affiliates, or the coverage of events or other gathering of information; or</text>
+              </paragraph>
+              <paragraph id="H005CC97D7252488FA7AD2E0590D874E5">
+                <enum>(3)</enum>
+ <text>by reason of the furnishing of information to an independent contractor by such person ancillary to the solicitation of orders or transactions by the independent contractor on behalf of such person.</text>
+              </paragraph>
+            </subsection>
+            <after-quoted-block>; and</after-quoted-block>
+          </quoted-block>
+        </paragraph>
+        <paragraph id="HC74363ADC6A64D728D80FE0772A66C24">
+          <enum>(6)</enum>
+ <text>in subsection (d)(1)—</text> <subparagraph id="HA324774EA0A24C8D96FD3C770B61C1DD"> <enum>(A)</enum> <text>by inserting <quote>or fulfilling transactions</quote> after <quote>selling</quote>; and</text>
+          </subparagraph>
+          <subparagraph id="HCAC46C7D7BC14B2DB067E7B220BA660E">
+            <enum>(B)</enum>
+ <text>by striking <quote>the sale of, tangible personal property</quote> and inserting <quote>a sale or transaction, furnishing information, or covering events, or otherwise gathering information</quote>.</text>
+          </subparagraph>
+        </paragraph>
+      </subsection> 
+<subsection id="H9179E2B88F694ED8BC4CD13E2074B81F">
+        <enum>(b)</enum>
+        <header>Application of Prohibitions to Other Business Activity Taxes</header>
+ <text>Title I of the Act entitled <quote>An Act relating to the power of the States to impose net income taxes on income derived from interstate commerce, and authorizing studies by congressional committees of matters pertaining thereto</quote>, approved September 14, 1959 (<external-xref legal-doc="usc" parsable-cite="usc/15/381">15 U.S.C. 381 et seq.</external-xref>), is amended by adding at the end the following:</text>
+        <quoted-block id="HDE7D4831C22D47FD8524E42B69280CDB" style="traditional">
+          <section id="H4F2D59D37E1F43C7A4E9A09F12A14839">
+            <enum>105.</enum>
+ <text display-inline="yes-display-inline">For taxable periods beginning on or after January 1, 2019, the prohibitions of section 101 that apply with respect to net income taxes shall also apply with respect to each other business activity tax, as defined in section 5(a)(2) of the Business Activity Tax Simplification Act of 2019. A State or political subdivision thereof may not assess or collect any tax which by reason of this section the State or political subdivision may not impose.</text>
+          </section>
+          <section id="HC313B74CD0A64CB1BA6B88617FA2C651">
+            <enum>106.</enum>
+ <text display-inline="yes-display-inline">For purposes of this title—</text> <paragraph id="H1FF4CC3B3C5E401396728FA5434711CA"> <enum>(1)</enum> <text display-inline="yes-display-inline">the term <term>digital good</term> means any software or other good that is delivered or transferred electronically, including sounds, images, data, facts, or combinations thereof, maintained in digital format, where such software or other good is the true object of the transaction, rather than the activity or service performed to create such software or other good, that results in the delivery to the customer of a complete copy of such software or other good, with the right to use permanently or for a specified period, and includes as an incidental component charges for the delivery or transfer of such software or other good; and</text>
+            </paragraph>
+            <paragraph id="HE3E1DCA76EE7459CA6BEA4095F15700E">
+              <enum>(2)</enum>
+ <text display-inline="yes-display-inline">the term <term>digital service</term> means any service that is provided electronically, including but not limited to audio services, data processing, cloud computing, the provision of remote access to or use of a digital good, and includes as an incidental component charges for the electronic provision of the digital service to the customer.</text>
+            </paragraph>
+          </section>
+          <after-quoted-block>.</after-quoted-block>
+        </quoted-block>
+      </subsection></section> 
+<section id="HEA5D6F0F87A940878491BDF6D02C63D0"><enum>3.</enum><header>Minimum jurisdictional standard for State and local net income taxes and other business activity taxes</header> 
+<subsection id="H1917F77D636E4809B273B2AD7E452A5B"><enum>(a)</enum><header>In General</header><text>No taxing authority of a State shall have power to impose, assess, or collect a net income tax or other business activity tax on any person relating to such person’s activities in interstate commerce unless such person has a physical presence in the State during the taxable period with respect to which the tax is imposed.</text></subsection> <subsection id="H9E1826B071144A2EBCB38CA56E809868"><enum>(b)</enum><header>Requirements for Physical Presence</header> <paragraph id="HB57BB5482FC146C7A6A8CCFAED9F2A61"><enum>(1)</enum><header>In general</header><text>For purposes of subsection (a), a person has a physical presence in a State only if such person’s business activities in the State include any of the following during such person’s taxable year:</text> 
+<subparagraph id="HC8C17C890CC44D9F99398091775FAEC6"><enum>(A)</enum><text>Being an individual physically in the State, or assigning one or more employees to be in the State.</text></subparagraph> <subparagraph id="HC66144FA01F64189954B2CB88CE3C1BC"><enum>(B)</enum><text>Using the services of an agent (excluding an employee) to establish or maintain the market in the State if such agent does not perform business services in the State for any other person during such taxable year.</text></subparagraph> 
+<subparagraph id="HC49265CF717745E18C500B363D4AD83E"><enum>(C)</enum><text>The leasing or owning of tangible personal property or of real property in the State.</text></subparagraph></paragraph> <paragraph id="HDDCFEA4B726F450C8259D13B959E6AD7"><enum>(2)</enum><header>De minimis physical presence</header><text>For purposes of this section, the term <term>physical presence</term> shall not include—</text> 
+<subparagraph id="H6D528FC03BF940C5A3DB5B7B8464A2B8"><enum>(A)</enum><text>presence in a State for less than 15 days in a taxable year (or a greater number of days if provided by State law); or</text></subparagraph> <subparagraph id="H612901958E9F4862B2F3514AD4CD42DC"><enum>(B)</enum><text>presence in a State to conduct limited or transient business activity.</text></subparagraph></paragraph></subsection> 
+<subsection id="H64DCE3780A744E86A23CAD46208AE951"><enum>(c)</enum><header>Taxable Periods Not Consisting of a Year</header><text>If the taxable period for which the tax is imposed is not a year, then any requirements expressed in days for establishing physical presence under this Act shall be adjusted pro rata accordingly.</text></subsection> <subsection id="HAE12C7D1E2144B3DAD157B243667E327"><enum>(d)</enum><header>Minimum Jurisdictional Standard</header><text>This section provides for minimum jurisdictional standards and shall not be construed to modify, affect, or supersede the authority of a State or any other provision of Federal law allowing persons to conduct greater activities without the imposition of tax jurisdiction.</text></subsection> 
+<subsection id="H8B6CF1FBBC5045068FB44AAB5292BFA4"><enum>(e)</enum><header>Exceptions</header> 
+<paragraph id="H573951C1D12A45B9AE1249D71207CAC2"><enum>(1)</enum><header>Domestic business entities and individuals domiciled in, or residents of, the State</header><text>Subsection (a) does not apply with respect to—</text> <subparagraph id="HCCF6690FEB3741C79348882BBE372F5D"><enum>(A)</enum><text>a person (other than an individual) that is incorporated or formed under the laws of the State (or domiciled in the State) in which the tax is imposed; or</text></subparagraph> 
+<subparagraph id="H13AAD9D838A34AF1803DC8E2BF3B8809"><enum>(B)</enum><text>an individual who is domiciled in, or a resident of, the State in which the tax is imposed.</text></subparagraph></paragraph> <paragraph id="H9C8EF07B443E49EA91A8776881D2AE79"><enum>(2)</enum><header>Taxation of partners and similar persons</header><text>This section shall not be construed to modify or affect any State business activity tax liability of an owner or beneficiary of an entity that is a partnership, an S corporation (as defined in <external-xref legal-doc="usc" parsable-cite="usc/26/1361">section 1361</external-xref> of the Internal Revenue Code of 1986), a limited liability company (classified as a partnership for Federal income tax purposes), a trust, an estate, or any other similar entity if the entity has a physical presence in the State in which the tax is imposed.</text></paragraph> 
+<paragraph id="H29EE9789EA624B72AD5167D7824C4A22"><enum>(3)</enum><header>Preservation of authority</header><text>This section shall not be construed—</text> <subparagraph id="H3B4735CD98F8450B9309D21F75A58826"><enum>(A)</enum><text>to modify, affect, or supersede the authority of a State to enact a law and bring an enforcement action under such law or existing law against a person or entity, including related person or entity, that is engaged in an illegal activity, a sham transaction, or an actual abuse in its business activities in order to ensure a proper reflection of its tax liabilities; or</text></subparagraph> 
+<subparagraph id="HEFBF2A8D02CF43C2B31684CFD626138E"><enum>(B)</enum><text>to supersede the authority of a State to require combined reporting.</text></subparagraph></paragraph></subsection></section> <section id="H4BDEE6E7781948B89F8A77A81D7620D3"><enum>4.</enum><header>Group returns</header><text display-inline="no-display-inline">If, in computing the net income tax or other business activity tax liability of a person for a taxable year, the net income or other economic results of affiliated persons is taken into account, the portion of such combined or consolidated net income or other economic results that may be subject to tax by the State shall be computed using the methodology that is generally applicable to businesses conducting similar business activities and, if that generally applicable methodology employs an apportionment formula, the denominator or denominators of that formula shall include the aggregate factors of all persons whose net income or other economic results are included in such combined or consolidated net income or other economic results and the numerator or numerators shall include the factors attributable to the State of only those persons that are themselves subject to taxation by the State pursuant to the provisions of this Act and subject to all other legal constraints on State taxation of interstate or foreign commerce.</text></section> 
+<section id="H4A98D3DDC96D489A92BC5723B241DEE3"><enum>5.</enum><header>Definitions and effective date</header> 
+<subsection id="H67A0C1A26ADE408D8A6801CBBC87A3CA"><enum>(a)</enum><header>Definitions</header><text>For purposes of this Act:</text> <paragraph id="H99C1E192999F43F6B298298BBA5FDA53"> <enum>(1)</enum> <header>Net income tax</header> <text>The term <term>net income tax</term> has the meaning given that term for the purposes of the Act entitled <quote>An Act relating to the power of the States to impose net income taxes on income derived from interstate commerce, and authorizing studies by congressional committees of matters pertaining thereto</quote>, approved September 14, 1959 (<external-xref legal-doc="usc" parsable-cite="usc/15/381">15 U.S.C. 381 et seq.</external-xref>).</text>
+        </paragraph> 
+<paragraph id="HB5E13FCE0C2F4BF390943A007EC4F48A"><enum>(2)</enum><header>Other business activity tax</header> 
+<subparagraph id="H6CD61C612AD144A0B0357487D72DD88C"><enum>(A)</enum><header>In general</header><text>The term <term>other business activity tax</term> means any tax in the nature of a net income tax or tax measured by the amount of, or economic results of, business or related activity conducted in the State.</text></subparagraph> <subparagraph id="HFA0558DDBD724A49A7EF8746C83D0062"><enum>(B)</enum><header>Exclusion</header><text>The term <term>other business activity tax</term> does not include a sales tax, a use tax, or a similar transaction tax, imposed on the sale or acquisition of goods or services, whether or not denominated a tax imposed on the privilege of doing business.</text></subparagraph></paragraph> 
+<paragraph id="H887931C1EC5A4D09BDB246F94A4B8F51"><enum>(3)</enum><header>Person</header><text>The term <term>person</term> has the meaning given such term by section 1 of title 1 of the United States Code. Each corporation that is a member of a group of affiliated corporations, whether unitary or not, is itself a separate <term>person</term>.</text></paragraph> <paragraph id="H2CE5D9AF1BDE4260AE5F973D8E8FE00D"><enum>(4)</enum><header>State</header><text>The term <term>State</term> means any of the several States, the District of Columbia, or any territory or possession of the United States, or any political subdivision of any of the foregoing.</text></paragraph> 
+<paragraph id="H41643E87FFA94FCD911C8E633C520430"><enum>(5)</enum><header>Tangible personal property</header><text>For purposes of section 3(b)(1)(C), the leasing or owning of tangible personal property does not include the leasing or licensing of computer software.</text></paragraph></subsection> <subsection id="H9193DABE1F5D407AA832C84A1C4D027C"> <enum>(b)</enum> <header>Effective Date</header> <text>This Act shall apply with respect to taxable periods beginning on or after January 1, 2026.</text>
+      </subsection></section> 
+</legis-body></bill>
+

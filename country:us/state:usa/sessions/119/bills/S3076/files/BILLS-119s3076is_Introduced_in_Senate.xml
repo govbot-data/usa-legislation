@@ -1,0 +1,135 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-type="olc" bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public" slc-id="S1-SIL25B10-5LK-1S-VCF">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 S3076 IS: Nitazene Control Act</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2025-10-30</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+        <distribution-code>II</distribution-code>
+        <congress>119th CONGRESS</congress>
+        <session>1st Session</session>
+        <legis-num>S. 3076</legis-num>
+        <current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+        <action>
+            <action-date date="20251030">October 30, 2025</action-date>
+            <action-desc><sponsor name-id="S433">Mr. McCormick</sponsor> (for himself, <cosponsor name-id="S432">Mr. Gallego</cosponsor>, <cosponsor name-id="S423">Mr.
+                    Ricketts</cosponsor>, <cosponsor name-id="S324">Mrs. Shaheen</cosponsor>,
+                    <cosponsor name-id="S420">Mr. Schmitt</cosponsor>, <cosponsor name-id="S436">Ms.
+                    Slotkin</cosponsor>, and <cosponsor name-id="S439">Mrs. Moody</cosponsor>)
+                introduced the following bill; which was read twice and referred to the
+                    <committee-name committee-id="SSJU00">Committee on the
+                    Judiciary</committee-name></action-desc>
+        </action>
+        <legis-type>A BILL</legis-type>
+        <official-title>To amend the Controlled Substances Act to permanently schedule the class of
+            2-benzylbenzimidazole-opioids known as nitazenes, and for other
+            purposes.</official-title>
+    </form>
+    <legis-body style="OLC" display-enacting-clause="yes-display-enacting-clause" id="H312B3FB95CAC4D348CAAC5E34C60698B">
+        <section section-type="section-one" id="HD492955755934739B1698EB301BE4C27">
+            <enum>1.</enum>
+            <header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Nitazene Control Act</short-title></quote>.</text>
+        </section>
+        <section id="H2D0C6DE6E0C14418A412EF017B478CDC">
+            <enum>2.</enum>
+            <header>Findings</header>
+ <text display-inline="no-display-inline">Congress finds the following:</text> <paragraph id="HA55245C7089E4E678D9BC86860385D3E"> <enum>(1)</enum> <text>2-Benzylbenzimidazole opioids are a class of synthetic opioids first synthesized in the 1950s that exhibit significant potency at the mu-opioid receptor, with some substances exceeding the potency of fentanyl.</text>
+            </paragraph>
+            <paragraph id="H006933CD76084B748D8CAB7A991712BE">
+                <enum>(2)</enum>
+ <text>The Drug Enforcement Administration has temporarily or permanently scheduled multiple 2-benzylbenzimidazole opioids compounds under schedule I of section 202(c) of the Controlled Substances Act (<external-xref legal-doc="usc" parsable-cite="usc/21/812">21 U.S.C. 812(c)</external-xref>) due to their high abuse potential and lack of accepted medical use.</text>
+            </paragraph>
+            <paragraph id="HD696A5FA3E254E109688BD136331D962">
+                <enum>(3)</enum>
+ <text>Nitazenes and related compounds have emerged in the illicit drug supply as designer drugs and contribute to overdose and fatal poisonings in the United States.</text>
+            </paragraph>
+            <paragraph id="H3E3C491D79BC483F8827F9DD6FDE2827">
+                <enum>(4)</enum>
+ <text>A class-wide permanent scheduling of 2-benzylbenzimidazole opioids is necessary to preemptively address the proliferation of new analogs, streamline enforcement, and protect public health.</text>
+            </paragraph>
+            <paragraph id="idda7081e3f6f64197b5106f823c8dc2ef">
+                <enum>(5)</enum>
+ <text>The HALT Fentanyl Act (<external-xref legal-doc="usc" parsable-cite="usc/28/801">28 U.S.C. 801</external-xref> note; <external-xref legal-doc="public-law" parsable-cite="pl/119/26">Public Law 119–26</external-xref>) created pathways for research using schedule I controlled substances that apply to scheduled nitazenes.</text>
+            </paragraph>
+        </section>
+        <section id="H454001045C924923B402B421C608EF3F">
+            <enum>3.</enum>
+            <header>Schedule I classification of nitazenes</header>
+            <subsection id="H57CE5D304FB6458F81C8960248037158">
+                <enum>(a)</enum>
+                <header>Amendment</header>
+ <text>Schedule I of section 202(c) of the Controlled Substances Act (<external-xref legal-doc="usc" parsable-cite="usc/21/812">21 U.S.C. 812(c)</external-xref>) is amended by adding at the end the following:</text>
+                <quoted-block style="OLC" id="H203F88D634DA42D395BA7C0541B37BFE">
+                    <subsection id="H13720D25A0584A75B049989E6BEFF661">
+                        <enum>(f)</enum>
+                        <paragraph commented="no" display-inline="yes-display-inline" id="idedb1bd09b2234d9aa7df12f2d964de03">
+                            <enum>(1)</enum>
+ <text>Unless specifically exempted or unless listed in another schedule, any material, compound, mixture, or preparation which contains any quantity of a 2-benzylbenzimidazole opioid, or which contains the salts, isomers, and salts of isomers of a 2-benzylbenzimidazole opioid.</text>
+                        </paragraph>
+                        <paragraph commented="no" display-inline="no-display-inline" id="id20b7a76cf6ab45c9bc9b29c3c1a0b239" indent="up1">
+                            <enum>(2)</enum>
+ <text display-inline="yes-display-inline">For purposes of paragraph (1), the term <term>2-benzylbenzimidazole opioid</term> includes the following:</text>
+                            <subparagraph commented="no" display-inline="no-display-inline" id="id3a40e56bfaa44b92bb701d917e559bbb">
+                                <enum>(A)</enum>
+ <text>A substance that is structurally related to 2-benzylbenzimidazole with the following modifications:</text>
+                                <clause commented="no" display-inline="no-display-inline" id="id7fa5f253a802498e8981c439245d5470">
+                                    <enum>(i)</enum>
+ <text>At the 1-position, substitution with an alkyl linker connected to a substituted amine group containing hydrogen, alkyl, alkenyl, or heteroaryl group, such as a morphilino, pyrrolidino, or piperidinyl groups, whether or not further substituted.</text>
+                                </clause>
+                                <clause commented="no" display-inline="no-display-inline" id="id8d89598c72d74667b0c1141b3a8456a4">
+                                    <enum>(ii)</enum>
+ <text display-inline="yes-display-inline">At the 2-position—</text>
+                                    <subclause id="id6e368de4a28a47b59ed8893d7ec03852">
+                                        <enum>(I)</enum>
+ <text>replacement of the alkyl portion of the benzyl group with a substituted or unsubstituted alkyl, alkoxy, carbamates group, nitrogen, sulfur, or oxygen atom; or</text>
+                                    </subclause>
+                                    <subclause id="id88fecf41ffc9484baa3cff5c975bc8b5">
+                                        <enum>(II)</enum>
+ <text>replacement of the phenyl portion of the benzyl group with an aryl or heteroaryl group.</text>
+                                    </subclause>
+                                </clause>
+                                <clause commented="no" display-inline="no-display-inline" id="idca1ee3e86a2844cab5e14d6cbcdb9694">
+                                    <enum>(iii)</enum>
+ <text>Substitution on the phenyl portion of the benzimidazole ring with a hydrogen atom, halogen, nitro, cyano, substituted or unsubstituted amide, amine, alkyl, alkoxy, aryl, or heteroaryl group.</text>
+                                </clause>
+                                <clause commented="no" display-inline="no-display-inline" id="id7f247ae8165244f88429e6114ce1e622">
+                                    <enum>(iv)</enum>
+ <text>At the 6-position, substitution with hydrogen, nitro, trifluoromethyl, methoxy, trifluoromethoxy, cyano, and halogen groups.</text>
+                                </clause>
+                            </subparagraph>
+                            <subparagraph commented="no" display-inline="no-display-inline" id="id017258865d2a4c4688e3efe4f320dcdb">
+                                <enum>(B)</enum>
+ <text>A substance that exhibits agonist activity at the mu-opioid receptor.</text>
+                            </subparagraph>
+                            <subparagraph commented="no" display-inline="no-display-inline" id="id2a3cdbc549ad472099e803dd5013add7">
+                                <enum>(C)</enum>
+ <text>Etonitazene, clonitazene, metonitazene, isotonitazene, protonitazene, butonitazene, etodesnitazene, flunitazene, N-pyrrolidino etonitazene, N-desethyl isotonitazene, and N-piperidinyl etonitazene.</text>
+                            </subparagraph>
+                        </paragraph>
+                    </subsection>
+                    <after-quoted-block>.</after-quoted-block>
+                </quoted-block>
+            </subsection>
+            <subsection id="HA7A114881FF1429F8436ECDA827EE11D">
+                <enum>(b)</enum>
+                <header>Removal of temporary status</header>
+ <text>Any substance included in the amendment made by subsection (a) that was temporarily scheduled under section 201(h) of the Controlled Substances Act (<external-xref legal-doc="usc" parsable-cite="usc/21/811">21 U.S.C. 811(h)</external-xref>) shall be deemed permanently scheduled and subject to the requirements of schedule I of section 202(c) of that Act (<external-xref legal-doc="usc" parsable-cite="usc/21/812">21 U.S.C. 812(c)</external-xref>) as of the date of enactment of this Act.</text>
+            </subsection>
+            <subsection id="HC667603EA40444C98CA768DC491A788B">
+                <enum>(c)</enum>
+                <header>Rule of construction</header>
+ <text>Nothing in this subsection shall be construed to authorize the initiation of new research using 2-benzylbenzimidazole opioids, as defined in subsection (f) of schedule I of section 202(c) of the Controlled Substances Act (<external-xref legal-doc="usc" parsable-cite="usc/21/812">21 U.S.C. 812(c)</external-xref>), as added by subsection (a) of this section, without proper registration and scheduling compliance.</text>
+            </subsection>
+        </section>
+    </legis-body>
+</bill>
+

@@ -1,0 +1,83 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-type="olc" bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public" slc-id="S1-ELL25684-94S-XR-9XG">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 S3048 IS: Telehealth Response for E-prescribing Addiction Therapy Services Act</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2025-10-23</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+        <distribution-code>II</distribution-code>
+        <congress>119th CONGRESS</congress>
+        <session>1st Session</session>
+        <legis-num>S. 3048</legis-num>
+        <current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+        <action>
+            <action-date date="20251023">October 23, 2025</action-date>
+            <action-desc><sponsor name-id="S288">Ms. Murkowski</sponsor> (for herself, <cosponsor
+                    name-id="S316">Mr. Whitehouse</cosponsor>, <cosponsor name-id="S327">Mr.
+                    Warner</cosponsor>, <cosponsor name-id="S384">Mr. Tillis</cosponsor>, <cosponsor
+                    name-id="S362">Mr. Kaine</cosponsor>, <cosponsor name-id="S383">Mr.
+                    Sullivan</cosponsor>, <cosponsor name-id="S409">Mr. Luján</cosponsor>,
+                    <cosponsor name-id="S385">Ms. Cortez Masto</cosponsor>, <cosponsor
+                    name-id="S322">Mr. Merkley</cosponsor>, <cosponsor name-id="S408">Mr.
+                    Hickenlooper</cosponsor>, <cosponsor name-id="S247">Mr. Wyden</cosponsor>,
+                    <cosponsor name-id="S359">Mr. Heinrich</cosponsor>, <cosponsor name-id="S311"
+                    >Ms. Klobuchar</cosponsor>, <cosponsor name-id="S418">Mr. Fetterman</cosponsor>,
+                    <cosponsor name-id="S406">Mr. Kelly</cosponsor>, <cosponsor name-id="S369">Mr.
+                    Markey</cosponsor>, <cosponsor name-id="S432">Mr. Gallego</cosponsor>,
+                    <cosponsor name-id="S366">Ms. Warren</cosponsor>, <cosponsor name-id="S422">Mr.
+                    Welch</cosponsor>, and <cosponsor name-id="S370">Mr. Booker</cosponsor>) introduced
+                the following bill; which was read twice and referred to the <committee-name
+                    committee-id="SSHR00">Committee on Health, Education, Labor, and
+                    Pensions</committee-name></action-desc>
+        </action>
+        <legis-type>A BILL</legis-type>
+        <official-title>To amend the Controlled Substances Act to allow for the use of telehealth in
+            substance use disorder treatment, and for other purposes.</official-title>
+    </form>
+    <legis-body style="OLC" display-enacting-clause="yes-display-enacting-clause" id="H335F4E3F1C0D4ED3A93CF5AEFB27AED2">
+        <section section-type="section-one" id="H8C2499041C00436BA272EF9BCAC55AF8">
+            <enum>1.</enum>
+            <header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Telehealth Response for E-prescribing Addiction Therapy Services Act</short-title></quote> or the <quote><short-title>TREATS Act</short-title></quote>.</text>
+        </section>
+        <section id="HFC2929B025D4457B82B96DD5AA4FE5DA">
+            <enum>2.</enum>
+            <header>Telehealth for substance use disorder treatment</header>
+ <text display-inline="no-display-inline">Section 309(e)(2) of the Controlled Substances Act (<external-xref legal-doc="usc" parsable-cite="usc/21/829">21 U.S.C. 829(e)(2)</external-xref>) is amended—</text>
+            <paragraph id="H5AFECA0022634114A991D680F7AB3A23">
+                <enum>(1)</enum>
+ <text>in subparagraph (A)(i)—</text> <subparagraph commented="no" display-inline="no-display-inline" id="id63c405318bca4221a70130389de0f10c"> <enum>(A)</enum> <text display-inline="yes-display-inline">by striking <quote>at least 1 in-person medical evaluation</quote> and inserting the following:</text>
+                    <quoted-block style="OLC" display-inline="yes-display-inline" id="idB78595A9E4044636B5613BEEB24F1729">
+ <text>at least—</text> <subclause id="H36A0762E95704A67B6B3CE0F98B8DA81"> <enum>(I)</enum> <text display-inline="yes-display-inline">1 in-person medical evaluation</text>
+                        </subclause>
+                        <after-quoted-block>; and</after-quoted-block>
+                    </quoted-block>
+                </subparagraph>
+                <subparagraph commented="no" display-inline="no-display-inline" id="id10bcbdbe9bc448c4b9939b1625300517">
+                    <enum>(B)</enum>
+ <text>by adding at the end the following:</text> <quoted-block style="OLC" display-inline="no-display-inline" id="id69EA609056D745918C8F0EE0A6AB5797"> <subclause commented="no" display-inline="no-display-inline" id="idbe9547e19dbc490199059b4342feff5c"> <enum>(II)</enum> <text display-inline="yes-display-inline">for purposes of prescribing a controlled substance in schedule III, IV, or V that has been approved by the Food and Drug Administration for the treatment of a substance use disorder, 1 telehealth evaluation of the patient; or </text>
+                        </subclause>
+                        <after-quoted-block>; and</after-quoted-block>
+                    </quoted-block>
+                </subparagraph>
+            </paragraph>
+            <paragraph id="H311C53D146234A369BD0E0566098CF31">
+                <enum>(2)</enum>
+ <text>by adding at the end the following:</text> <quoted-block style="OLC" display-inline="no-display-inline" id="id81B8CB5AE1D44F92A483AE2CCECDC7E8"> <subparagraph id="id51451DBA2935471BA43A305B441BD595"> <enum>(D)</enum> <text display-inline="yes-display-inline">The term <term>telehealth evaluation</term> means a medical evaluation that is conducted in accordance with applicable Federal and State laws by a practitioner (other than a pharmacist) who is at a location remote from the patient and is communicating with the patient, or a practitioner who is treating the patient, using a telecommunications system referred to in section 1834(m) of the Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/1395m">42 U.S.C. 1395m(m)</external-xref>) that includes audio-only or audio and video equipment permitting two-way, real-time interactive communication between the distant site practitioner and the patient, or the practitioner who is treating the patient.</text>
+                    </subparagraph>
+                    <after-quoted-block>.</after-quoted-block>
+                </quoted-block>
+            </paragraph>
+        </section>
+    </legis-body>
+</bill>
+
+

@@ -1,0 +1,196 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public" slc-id="S1-MAZ25679-H5M-60-1ML">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 S3044 IS: Wildfire Emissions Prevention Act of 2025</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2025-10-23</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+        <distribution-code>II</distribution-code>
+        <congress>119th CONGRESS</congress>
+        <session>1st Session</session>
+        <legis-num>S. 3044</legis-num>
+        <current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+        <action>
+            <action-date date="20251023">October 23, 2025</action-date>
+            <action-desc><sponsor name-id="S431">Mr. Curtis</sponsor> (for himself and <cosponsor name-id="S410">Ms. Lummis</cosponsor>) introduced the following bill; which was
+                read twice and referred to the <committee-name committee-id="SSEV00">Committee on
+                    Environment and Public Works</committee-name></action-desc>
+        </action>
+        <legis-type>A BILL</legis-type>
+        <official-title>To amend the Clean Air Act to modify the handling of air quality monitoring
+            with respect to prescribed fires, and for other purposes.</official-title>
+    </form>
+    <legis-body>
+        <section id="S1" section-type="section-one">
+            <enum>1.</enum>
+            <header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Wildfire Emissions Prevention Act of 2025</short-title></quote>.</text>
+        </section>
+        <section commented="no" display-inline="no-display-inline" id="id94c1a836e2424975a89454eab88c278f">
+            <enum>2.</enum>
+            <header>Air quality monitoring data influenced by exceptional events and prescribed
+                fires</header>
+            <subsection commented="no" display-inline="no-display-inline" id="idce3a3991cb5448d0ab75d5d2334f4b9b">
+                <enum>(a)</enum>
+                <header display-inline="yes-display-inline">In general</header>
+ <text display-inline="yes-display-inline">Section 319(b) of the Clean Air Act (<external-xref legal-doc="usc" parsable-cite="usc/42/7619">42 U.S.C. 7619(b)</external-xref>) is amended—</text>
+                <paragraph commented="no" display-inline="no-display-inline" id="idd1b96ec8c884405083b63991b354b913">
+                    <enum>(1)</enum>
+ <text>in the subsection heading, by inserting <quote><header-in-text style="OLC" level="subsection">and prescribed fires</header-in-text></quote> after <quote><header-in-text style="OLC" level="subsection">events</header-in-text></quote>;</text>
+                </paragraph>
+                <paragraph commented="no" display-inline="no-display-inline" id="id228ffb583ff740bfa00a282e82c8e0a9">
+                    <enum>(2)</enum>
+ <text>in paragraph (1)—</text> <subparagraph commented="no" display-inline="no-display-inline" id="ide0f6ae18c5434289b1a144403ab1add6"> <enum>(A)</enum> <text>in subparagraph (A)—</text>
+                        <clause commented="no" display-inline="no-display-inline" id="id18c2f986b4614883a9bc39168f6df53c">
+                            <enum>(i)</enum>
+ <text>in clause (ii), by inserting <quote>, unless the purpose is to prevent more severe emissions</quote> before the semicolon at the end;</text>
+                        </clause>
+                        <clause commented="no" display-inline="no-display-inline" id="id5187aa3f8ad240349e10dd36430c108d">
+                            <enum>(ii)</enum>
+ <text display-inline="yes-display-inline">by striking clauses (iii) and (iv) and inserting the following:</text>
+                            <quoted-block id="id1F40F9D9DCAA4186B1F132E704AFCF52" style="OLC" act-name="">
+                                <clause id="idD7238FBF39D44398B809FF091478B9C4">
+                                    <enum>(iii)</enum>
+ <text>is a natural event, or an event caused by human activity that is unlikely to recur unless the event intended to mirror the occurrence or reoccurrence of a natural event, or a prescribed fire; and</text>
+                                </clause>
+                                <clause commented="no" display-inline="no-display-inline" id="id8396bd6c59424b2681f7d377b082593e">
+                                    <enum>(iv)</enum>
+ <text display-inline="yes-display-inline">is determined to be an exceptional event by the impacted State, unless the Administrator, through the process established in the regulations revised under paragraph (2), subsequently determines that the event is not an exceptional event.</text>
+                                </clause>
+                                <after-quoted-block>; and</after-quoted-block>
+                            </quoted-block>
+                        </clause>
+                        <clause commented="no" display-inline="no-display-inline" id="id1510c9e43b3e4cce98e9dd83a1c3dbfe">
+                            <enum>(iii)</enum>
+ <text>by redesignating clauses (i) through (iv) as subclauses (I) through (IV), respectively, and indenting appropriately;</text>
+                        </clause>
+                    </subparagraph>
+                    <subparagraph id="id4355982c583a413694bee2c41db7a7ec">
+                        <enum>(B)</enum>
+ <text>in subparagraph (B)—</text> <clause id="idafb91f1a7fa24e829891e94613558c92"> <enum>(i)</enum> <text>in the matter preceding clause (i), by striking <quote>In this subsection, the</quote> and inserting <quote>The</quote>; and</text>
+                        </clause>
+                        <clause id="id1af6036079c04cc7aaa4786e48abb15b">
+                            <enum>(ii)</enum>
+ <text>by redesignating each of clauses (i) through (iii) as subclauses (I) through (III), respectively, and indenting appropriately;</text>
+                        </clause>
+                    </subparagraph>
+                    <subparagraph id="ideb70454477024d8f9644d922031fff90">
+                        <enum>(C)</enum>
+ <text>by redesignating subparagraphs (A) and (B) as clauses (i) and (ii), respectively, and indenting appropriately;</text>
+                    </subparagraph>
+                    <subparagraph id="id8e6490c534794f88b54e5619a1eec364">
+                        <enum>(D)</enum>
+ <text>by striking the paragraph designation and heading and all that follows through <quote>this section:</quote> in the matter preceding clause (i) (as so redesignated) and inserting the following:</text>
+                        <quoted-block id="id8F4453EE40A9474892BEF85CEB29EA9B" style="OLC" act-name="">
+                            <paragraph id="id6020DB40AF34459695D443E210236FDA">
+                                <enum>(1)</enum>
+                                <header>Definitions</header>
+ <text>In this subsection:</text> <subparagraph commented="no" display-inline="no-display-inline" id="idbd9de5c8b0474d2097eb181779a0b425"> <enum>(A)</enum> <header display-inline="yes-display-inline">Exceptional event</header> </subparagraph> </paragraph> <after-quoted-block>; and</after-quoted-block> </quoted-block> </subparagraph> <subparagraph commented="no" display-inline="no-display-inline" id="id484fe792e5f34e15a505ce85372a1371"> <enum>(E)</enum> <text>by adding at the end the following:</text>
+                        <quoted-block style="OLC" display-inline="no-display-inline" id="id6a98c7742de04ce0936b9b5806811cdf">
+                            <subparagraph commented="no" display-inline="no-display-inline" id="id47321ea9cd564206922807eb539f95a1">
+                                <enum>(B)</enum>
+                                <header>Prescribed fire</header>
+ <text>The term <term>prescribed fire</term> means a fire originating from a planned ignition in accordance with applicable laws, policies, and regulations to meet specific objectives.</text>
+                            </subparagraph>
+                            <after-quoted-block>;</after-quoted-block>
+                        </quoted-block>
+                    </subparagraph>
+                </paragraph>
+                <paragraph commented="no" display-inline="no-display-inline" id="ida28cd477db0548d8bc1acdb99eb30461">
+                    <enum>(3)</enum>
+ <text>in paragraph (2)—</text> <subparagraph commented="no" display-inline="no-display-inline" id="id15892fecc05c4ff5945b67cd769a2e0d"> <enum>(A)</enum> <text>by striking subparagraph (A) and inserting the following:</text>
+                        <quoted-block id="idEA0F8D5C3A084246894B1E47D050EB02" style="OLC" act-name="">
+                            <subparagraph id="id75C06555D39643C4B0687D77B12277CA">
+                                <enum>(A)</enum>
+                                <header>Proposed revisions</header>
+ <text>Not later than 270 days after the date of enactment of the <short-title>Wildfire Emissions Prevention Act of 2025</short-title>, the Administrator, after consultation with Federal land managers, State air pollution control agencies, State foresters, and State fish and wildlife agencies, shall publish in the Federal Register revisions to existing regulations promulgated under this section to govern the review of State determinations and handling of air quality monitoring data influenced by exceptional events or prescribed fires.</text>
+                            </subparagraph>
+                            <after-quoted-block>; and</after-quoted-block>
+                        </quoted-block>
+                    </subparagraph>
+                    <subparagraph commented="no" display-inline="no-display-inline" id="id0c29e7d94eb04d688699dccae72f1b5f">
+                        <enum>(B)</enum>
+ <text>in subparagraph (B)—</text> <clause commented="no" display-inline="no-display-inline" id="id7db4277522ee44f7a1da1d9c24246288"> <enum>(i)</enum> <text>in the subparagraph heading, by striking <quote><header-in-text style="OLC" level="subparagraph">regulations</header-in-text></quote> and inserting <quote><header-in-text style="OLC" level="subparagraph">revisions</header-in-text></quote>;</text>
+                        </clause>
+                        <clause commented="no" display-inline="no-display-inline" id="ida4f25fff46da4f44a827f109bb04a0ad">
+                            <enum>(ii)</enum>
+ <text>by striking <quote>proposed regulations</quote> each place it appears and inserting <quote>proposed revisions</quote>;</text>
+                        </clause>
+                        <clause commented="no" display-inline="no-display-inline" id="id02047d141fa74db4b704132bfe296319">
+                            <enum>(iii)</enum>
+ <text display-inline="yes-display-inline">by striking <quote>1 year</quote> and inserting <quote>180 days</quote>; and</text>
+                        </clause>
+                        <clause commented="no" display-inline="no-display-inline" id="id613b192194ea41e09e090ea7816f8426">
+                            <enum>(iv)</enum>
+ <text>by striking <quote>promulgate final regulations</quote> and all that follows through the period at the end and inserting <quote>finalize the revisions under subparagraph (A) to regulations promulgated under this section to govern the review of State determinations and handling of air quality monitoring data influenced by exceptional events or prescribed fires that are consistent with paragraph (3).</quote>;</text>
+                        </clause>
+                    </subparagraph>
+                </paragraph>
+                <paragraph commented="no" display-inline="no-display-inline" id="id842c3f28ab4840b3a89cac9f43b5deaa">
+                    <enum>(4)</enum>
+ <text>in paragraph (3)—</text> <subparagraph commented="no" display-inline="no-display-inline" id="id65e6c4a60af847a484c491c3980e18e0"> <enum>(A)</enum> <text>in subparagraph (A)(iii), by striking <quote>manner, an appropriate</quote> and inserting <quote>manner in an appropriate</quote>; and</text>
+                    </subparagraph>
+                    <subparagraph commented="no" display-inline="no-display-inline" id="idff0a124d71d2493d81676a46430efd40">
+                        <enum>(B)</enum>
+ <text>in subparagraph (B)—</text> <clause commented="no" display-inline="no-display-inline" id="id7c455e5f72b14bd789d60449f7fea0e6"> <enum>(i)</enum> <text>in clause (i), by inserting <quote>or a prescribed fire</quote> after <quote>an exceptional event</quote>;</text>
+                        </clause>
+                        <clause commented="no" display-inline="no-display-inline" id="iddd8a6e27c0aa4c3b948e8a5854cd4fad">
+                            <enum>(ii)</enum>
+ <text>in clause (ii)—</text> <subclause commented="no" display-inline="no-display-inline" id="id2ddb080cc7764c42bd0f4d510a89f26b"> <enum>(I)</enum> <text>by inserting <quote>or be reasonably expected to exist</quote> after <quote>must exist</quote>; and</text>
+                            </subclause>
+                            <subclause commented="no" display-inline="no-display-inline" id="idb9dac80119854bf888cf79f8483c807c">
+                                <enum>(II)</enum>
+ <text>by striking <quote>exceptional event</quote> each place it appears and inserting <quote>exceptional event or a prescribed fire</quote>; and</text>
+                            </subclause>
+                        </clause>
+                        <clause commented="no" display-inline="no-display-inline" id="id1de8f31c101445fb88346aee682f0c70">
+                            <enum>(iii)</enum>
+ <text>in clause (iv)—</text> <subclause commented="no" display-inline="no-display-inline" id="idce64455266e64765aa4bd6bf37c58799"> <enum>(I)</enum> <text>by striking <quote>Governor of a State to petition the Administrator</quote> and inserting <quote>Administrator to review State determinations</quote>;</text>
+                            </subclause>
+                            <subclause commented="no" display-inline="no-display-inline" id="id59dd2e4bd4b549c3b105a144ab175be9">
+                                <enum>(II)</enum>
+ <text>by inserting <quote>or prescribed fires</quote> after <quote>exceptional events</quote>;</text>
+                            </subclause>
+                            <subclause commented="no" display-inline="no-display-inline" id="id4ceec73436b144c9b6e9489363fac19a">
+                                <enum>(III)</enum>
+ <text>by striking <quote>with respect to exceedances</quote> and inserting the following: “with respect to—</text>
+                                <quoted-block id="idE2144831DC894EC18A5AECD9DA8D877E" style="OLC" act-name="">
+                                    <subclause id="id6F4694B102F542FD96A06FC6BEB4FAC9">
+                                        <enum>(I)</enum>
+ <text>exceedances</text> </subclause> <after-quoted-block>;</after-quoted-block> </quoted-block> </subclause> <subclause commented="no" display-inline="no-display-inline" id="id9879acdab4134a149b89557af4097c47"> <enum>(IV)</enum> <text>in subclause (I) (as so designated), by striking the period at the end and inserting <quote>; or</quote>; and</text>
+                            </subclause>
+                            <subclause commented="no" display-inline="no-display-inline" id="id12842e0079444dd1a76bf8f573aac917">
+                                <enum>(V)</enum>
+ <text>by adding at the end the following:</text> <quoted-block id="idCCB7D8FB41DC4D06834C1C4B41B91C5B" style="OLC" act-name=""> <subclause id="id56C95A453F5A45F09AFB68CC889B9948"> <enum>(II)</enum> <text>the designation, redesignation, classification, or reclassification of an area, the demonstration by a State of attainment of a national ambient air quality standard, or other determinations by the Administrator for determining compliance with this Act.</text>
+                                    </subclause>
+                                    <after-quoted-block>; and</after-quoted-block>
+                                </quoted-block>
+                            </subclause>
+                        </clause>
+                    </subparagraph>
+                </paragraph>
+                <paragraph commented="no" display-inline="no-display-inline" id="id23fdfc11e2094f779b9deee6b646c0fa">
+                    <enum>(5)</enum>
+ <text>by striking paragraph (4) and inserting the following:</text> <quoted-block id="id8377527F3CE7489584CE5C3188531365" style="OLC" act-name=""> <paragraph id="id0B802F4D5B9B4BB39251775EC592C4C3"> <enum>(4)</enum> <header>Regional, national, or international exceptional events</header> <text>At the request of multiple State or local government agencies or Tribal authorities, the Administrator shall conduct analyses or otherwise collaborate with such agencies or authorities to lead the development of regional, national, or international exceptional event demonstrations when exceptional events impact multijurisdictional areas.</text>
+                        </paragraph>
+                        <after-quoted-block>.</after-quoted-block>
+                    </quoted-block>
+                </paragraph>
+            </subsection>
+            <subsection commented="no" display-inline="no-display-inline" id="id0cc00305db8444bfb0ba47d79097dc33">
+                <enum>(b)</enum>
+                <header>Savings provision</header>
+ <text>Nothing in this Act or an amendment made by this Act makes stationary source (as defined in section 51.491 of title 40, Code of Federal Regulations (as in effect on the date of enactment of this Act)) emissions that were not an exceptional event (as defined in section 319(b)(1) of the Clean Air Act (<external-xref legal-doc="usc" parsable-cite="usc/42/7619">42 U.S.C. 7619(b)(1)</external-xref>)) on the day before the date of enactment of this Act an exceptional event under that section after that date of enactment.</text>
+            </subsection>
+        </section>
+    </legis-body>
+</bill>
+

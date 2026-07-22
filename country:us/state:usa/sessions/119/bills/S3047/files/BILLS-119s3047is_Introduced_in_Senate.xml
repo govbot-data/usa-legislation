@@ -1,0 +1,63 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public" slc-id="S1-KEL25772-5GC-FD-5N9">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 S3047 IS: Restoring Rural Health Act</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2025-10-23</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+        <distribution-code>II</distribution-code>
+        <congress>119th CONGRESS</congress>
+        <session>1st Session</session>
+        <legis-num>S. 3047</legis-num>
+        <current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+        <action>
+            <action-date date="20251023">October 23, 2025</action-date>
+            <action-desc><sponsor name-id="S395">Mrs. Hyde-Smith</sponsor> (for herself and
+                    <cosponsor name-id="S427">Mr. Schiff</cosponsor>) introduced the following bill;
+                which was read twice and referred to the <committee-name committee-id="SSFI00">Committee on Finance</committee-name></action-desc>
+        </action>
+        <legis-type>A BILL</legis-type>
+        <official-title>To provide for the treatment of certain critical access
+            hospitals.</official-title>
+    </form>
+    <legis-body>
+        <section id="id9c9e816eb6214bfebc48499515ed2bdb" section-type="section-one">
+            <enum>1.</enum>
+            <header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Restoring Rural Health Act</short-title></quote>.</text>
+        </section>
+        <section id="iddbeab510c16f4e978eaf8b97bd0c3161" section-type="subsequent-section">
+            <enum>2.</enum>
+            <header>Treatment of certain critical access hospitals</header>
+ <text display-inline="no-display-inline">Section 1820(c)(2)(B)(i) of the Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/1395i-4">42 U.S.C. 1395i–4(c)(2)(B)(i)</external-xref>) is amended—</text>
+            <paragraph commented="no" display-inline="no-display-inline" id="id70e70c8ffb25440abd44e5ed413dd4b0">
+                <enum>(1)</enum>
+ <text>in subclause (I), by striking <quote>or</quote> after the semicolon;</text> </paragraph> <paragraph commented="no" display-inline="no-display-inline" id="idedfce7a6ce144c31ab775a358d2435d5"> <enum>(2)</enum> <text>in subclause (II), by inserting <quote>or</quote> after the semicolon; and</text>
+            </paragraph>
+            <paragraph id="id7326364743b8400c9d452b29f533d95e">
+                <enum>(3)</enum>
+ <text>by adding at the end the following new subclause:</text> <quoted-block style="OLC" display-inline="no-display-inline" id="idc9ac1cfb3dd049f2ae5ba400cca86d53"> <subclause commented="no" display-inline="no-display-inline" id="id66cce3b61934448fbd6c3568dc5b9a04"> <enum>(III)</enum> <text>is a facility that—</text>
+                        <item commented="no" display-inline="no-display-inline" id="iddfc3863ea9f74d90801d8f39062c70c7">
+                            <enum>(aa)</enum>
+ <text display-inline="yes-display-inline">as of January 1, 2024, was designated as a critical access hospital; and</text>
+                        </item>
+                        <item commented="no" display-inline="no-display-inline" id="ida8832b566de043e5b0958880e5b25431">
+                            <enum>(bb)</enum>
+ <text display-inline="yes-display-inline">receives notice from the Centers for Medicare &amp; Medicaid Services during the period beginning on December 1, 2024, and ending on January 1, 2027, that the facility was found to be noncompliant with the distance requirement under section 485.610(c) of title 42, Code of Federal Regulations (or a successor regulation);</text>
+                        </item>
+                    </subclause>
+                    <after-quoted-block>.</after-quoted-block>
+                </quoted-block>
+            </paragraph>
+        </section>
+    </legis-body>
+</bill>
+
