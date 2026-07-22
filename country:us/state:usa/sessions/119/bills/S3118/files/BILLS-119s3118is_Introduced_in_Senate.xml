@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public" slc-id="S1-DAV25L76-CNN-MK-STD">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 S3118 IS: Respect the Chief Act of 2025</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2025-11-06</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+        <distribution-code>II</distribution-code>
+        <congress>119th CONGRESS</congress>
+        <session>1st Session</session>
+        <legis-num>S. 3118</legis-num>
+        <current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+        <action>
+            <action-date date="20251106">November 6, 2025</action-date>
+            <action-desc><sponsor name-id="S396">Mrs. Blackburn</sponsor> introduced the following
+                bill; which was read twice and referred to the <committee-name committee-id="SSAS00">Committee on Armed Services</committee-name></action-desc>
+        </action>
+        <legis-type>A BILL</legis-type>
+        <official-title>To require reporting on compliance with requirements to update leadership
+            boards across the Department of Defense.</official-title>
+    </form>
+    <legis-body>
+        <section id="S1" section-type="section-one">
+            <enum>1.</enum>
+            <header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Respect the Chief Act of 2025</short-title></quote>.</text>
+        </section>
+        <section id="idf7b30a572d594bb698f60b75ad3d6b7f">
+            <enum>2.</enum>
+            <header>Reporting on compliance with requirements to update leadership boards at
+                military installations</header>
+            <subsection commented="no" display-inline="no-display-inline" id="idd41ec3ed54154cf4b6493e6dc7ef02cc">
+                <enum>(a)</enum>
+                <header>Initial report</header>
+ <text>Not later than January 31, 2026, the Secretary of Defense shall submit to the President and the congressional defense committees a report certifying compliance, during the preceding calendar year, with applicable requirements to update command and control leadership boards across the Department of Defense.</text>
+            </subsection>
+            <subsection commented="no" display-inline="no-display-inline" id="id49d64ad7d07a44c19f215507027fa255">
+                <enum>(b)</enum>
+                <header>Subsequent reports</header>
+ <text>Not later than 120 days after the inauguration of a new President or the confirmation of a new Secretary of Defense, the Secretary of Defense shall submit to the President and the congressional defense committees a report certifying that all command and control leadership boards across the Department of Defense have been updated to reflect the current Commander-in-Chief and other applicable leadership changes.</text>
+            </subsection>
+            <subsection commented="no" display-inline="no-display-inline" id="id483735f494b646529360497bcb1fbe2a">
+                <enum>(c)</enum>
+                <header>Congressional defense committees defined</header>
+ <text>In this section, the term <term>congressional defense committees</term> has the meaning given the term in section 101(a)(16) of title 10, United States Code.</text>
+            </subsection>
+        </section>
+    </legis-body>
+</bill>
+
