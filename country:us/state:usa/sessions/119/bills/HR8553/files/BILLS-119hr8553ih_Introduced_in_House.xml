@@ -1,0 +1,421 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H50AAA1E5AEE1409B96F2C1C718FA5E0C" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 HR 8553 IH: Precision Oncology Program for Cancer of the Prostate Authorization Act of 2026</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2026-04-28</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">119th CONGRESS</congress><session display="yes">2d Session</session><legis-num display="yes">H. R. 8553</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20260428">April 28, 2026</action-date><action-desc><sponsor name-id="M001210">Mr. Murphy</sponsor> (for himself and <cosponsor name-id="C001136">Mr. Conaway</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HVR00">Committee on Veterans' Affairs</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To direct the Secretary of Veterans Affairs to establish a precision oncology program for cancer of the prostate, and for other purposes.</official-title></form><legis-body id="H2758B8BE72064832AFCF82259CA2A96B" style="OLC"> 
+<section id="HB054ECD2FAFB4AB68147CCDBC73F30AC" section-type="section-one"><enum>1.</enum><header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Precision Oncology Program for Cancer of the Prostate Authorization Act of 2026</short-title></quote> or the <quote><short-title>POPCaP Authorization Act of 2026</short-title></quote>.</text></section> 
+<section id="H6401CC9530E5404FA962F4EF3CF835FC"><enum>2.</enum><header>Establishment of precision oncology program for cancer of the prostate</header> 
+<subsection id="H4F6485B25DED4BE798219EEAF150C4E3"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">Subchapter II of <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/38/73">chapter 73</external-xref> of title 38, United States Code, is amended by adding at the end the following new section:</text> <quoted-block style="USC" id="H6595C745AE07499EA45494FAC3E72791" display-inline="no-display-inline"> <section id="HA5439C41EB6248468AD43F0BE89D4693"> <enum>7330E</enum> <header>Precision oncology program for cancer of the prostate</header> <subsection id="H421B3C11278C4E1E9D7D5471A0BF5ECE"> <enum>(a)</enum> <header>Establishment</header> <text display-inline="yes-display-inline">The Secretary shall establish a precision oncology program for cancer of the prostate (in this section, referred to as the <quote>Program</quote>) at the Department in accordance with this section. In carrying out the Program, the Secretary shall—</text>
+                            <paragraph id="HC6793AE2F9414DAB834BCD7123EC5EFE">
+                                <enum>(1)</enum>
+ <text>shall designate Centers of Excellence in accordance with subsection (d); and</text>
+                            </paragraph>
+                            <paragraph id="H1AA5C0A7411145BDAC049A1B653F4E42">
+                                <enum>(2)</enum>
+ <text>maintain the Program Leadership team under subsection (g).</text> </paragraph> </subsection> <subsection id="H1D36694114154B75B151E3D3DF33D7AB" commented="no"> <enum>(b)</enum> <header>Eligibility</header> <text>A veteran is eligible to enroll in additional medical services through the Program if such veteran is enrolled in the patient enrollment system under section 1705 of this title and has a diagnosis of prostate cancer or non-prostate genitourinary cancer.</text>
+                        </subsection>
+                        <subsection id="HCA9497C177754A30A2E4745363245B13">
+                            <enum>(c)</enum>
+                            <header>Requirements of Centers of Excellence</header>
+                            <paragraph id="H228F94B0F3C4428D83315E245605B7D5" display-inline="yes-display-inline">
+                                <enum>(1)</enum>
+ <text>Each Center of Excellence designated under this section shall carry out the following activities:</text>
+                                <subparagraph id="H83693BB7E76D44A4BB9A23BBECE88B27" indent="up1">
+                                    <enum>(A)</enum>
+ <text>Establishing a program of genetic sequencing for veterans with advanced prostate cancer.</text>
+                                </subparagraph>
+                                <subparagraph id="H1DD325CE5E67413BB72DAEB2292A9AC0" indent="up1">
+                                    <enum>(B)</enum>
+ <text>Implementing the uniform genetic sequencing platform developed by the Program Leadership under subsection (g)(3)(H) to allow for coordination among Centers.</text>
+                                </subparagraph>
+                                <subparagraph id="H2DFF53B816FF469A9255E47355A99CAC" indent="up1">
+                                    <enum>(C)</enum>
+ <text>Participating in the Telemedicine Tumor Board of the Program.</text>
+                                </subparagraph>
+                                <subparagraph id="HE67BCFBFC47D4174BCC09A197EE55159" indent="up1">
+                                    <enum>(D)</enum>
+ <text>Participating in the prostate cancer registry maintained by the Program Leadership under subsection (g)(3)(E) to track relevant genetic mutations.</text>
+                                </subparagraph>
+                                <subparagraph id="HBC02FADAA15140BDB6AA79B160608A8A" indent="up1">
+                                    <enum>(E)</enum>
+ <text>Providing travel support to eligible veterans with such mutations to facilitate access to studies.</text>
+                                </subparagraph>
+                                <subparagraph id="H7D161BB1F4DF49168439E5522487678C" indent="up1">
+                                    <enum>(F)</enum>
+ <text>Developing biomarker-specific clinical trials.</text> </subparagraph> <subparagraph id="H27166764443E47829089E4931B89D14F" indent="up1"> <enum>(G)</enum> <text>Participating in industry-sponsored precision oncology studies.</text>
+                                </subparagraph>
+                                <subparagraph id="H2327FF8DC8AE42A89AF4F0B569FE076C" indent="up1">
+                                    <enum>(H)</enum>
+ <text>Participating in monthly calls and not less than three in-person meetings per year with the Program Leadership to assess progress.</text>
+                                </subparagraph>
+                                <subparagraph id="H5AECE2E33294451C83509D40E53CBF9A" indent="up1">
+                                    <enum>(I)</enum>
+ <text display-inline="yes-display-inline">Providing ongoing reporting to the Program Leadership regarding trial accrual and research conducted by the Center.</text>
+                                </subparagraph>
+                                <subparagraph id="HB3FC8E53448340E4B915F812E6FD17F6" indent="up1">
+                                    <enum>(J)</enum>
+ <text>Establishing metastasis biopsy capability.</text> </subparagraph> <subparagraph id="HA9C0EF85DA78430EB12FDD7D90A9023E" indent="up1"> <enum>(K)</enum> <text>Extending resources to affiliated medical centers in the Veterans Integrated Service Network in which the Center is located.</text>
+                                </subparagraph>
+                            </paragraph>
+                            <paragraph id="H9570049C852B4983B7F3FAFF6594818B" indent="up1">
+                                <enum>(2)</enum>
+ <text>The Secretary shall ensure that each Center designated under the Program employs, at a minimum—</text>
+                                <subparagraph id="HDC4D35FB99644B10A4958F92E62FC727">
+                                    <enum>(A)</enum>
+ <text display-inline="yes-display-inline">a medical oncologist;</text>
+                                </subparagraph>
+                                <subparagraph id="HD5B0F0A7B1244C2EBCBBE2B5FD4BD8FA">
+                                    <enum>(B)</enum>
+ <text>an interventional radiologist;</text> </subparagraph> <subparagraph id="H7901ACFA9700481290CA9FCBF8DDCB5E"> <enum>(C)</enum> <text>a urologist;</text>
+                                </subparagraph>
+                                <subparagraph id="H10B2CB7852E94AB88174891DD346ABAD">
+                                    <enum>(D)</enum>
+ <text>a radiation oncologist;</text> </subparagraph> <subparagraph id="H99EB1FD8F7544C6EB5C6462895600729"> <enum>(E)</enum> <text>a pathologist; and</text>
+                                </subparagraph>
+                                <subparagraph id="H75ADC5DA2E9F441F945CAE6782267ACB">
+                                    <enum>(F)</enum>
+ <text>two full-time equivalent research staff members.</text> </subparagraph> </paragraph> </subsection> <subsection id="HF25D12221959474A8F3D87BEB3B2F82B"> <enum>(d)</enum> <header>Designation of Centers of Excellence</header> <paragraph id="H803A5710F0C74B1886C68D1CF301750D" display-inline="yes-display-inline"> <enum>(1)</enum> <text>The Secretary may designate additional medical facilities as Centers of Excellence.</text>
+                            </paragraph>
+                            <paragraph id="H41692045EC5646B59900C8B0EDB13E82" indent="up1">
+                                <enum>(2)</enum>
+ <text>The Secretary shall ensure that not fewer than 21 medical facilities are designated as Centers of Excellence under this section at all times.</text>
+                            </paragraph>
+                            <paragraph id="HDBBFF748D6294DD0B932C8F6DB06C767" indent="up1">
+                                <enum>(3)</enum>
+ <text>The Secretary shall ensure that at least one medical facility in each Veterans Integrated Service Network is designated as a Center of Excellence under this section.</text>
+                            </paragraph>
+                            <paragraph id="H6AA7252910ED4B6F98BE69E219F813A4" indent="up1"
+                                commented="no">
+                                <enum>(4)</enum>
+ <text>The Secretary shall ensure that not fewer than seven of the Centers of Excellence designated under this section have a genitourinary program.</text>
+                            </paragraph>
+                            <paragraph id="H83E2B69B9C334D96A6B8123241025110" indent="up1">
+                                <enum>(5)</enum>
+ <text>Effective on the date of the enactment of this section, the following medical facilities shall be designated as Centers of Excellence for the Program:</text>
+                                <subparagraph id="H249B924FFDE742F0ABD5FBEAA21E5A1E">
+                                    <enum>(A)</enum>
+ <text>The Seattle VA Medical Center in Seattle, Washington.</text>
+                                </subparagraph>
+                                <subparagraph id="H7B7D9F4B74E94F508077DE719260315C">
+                                    <enum>(B)</enum>
+ <text>The James J. Peters VA Medical Center in the Bronx, New York.</text>
+                                </subparagraph>
+                                <subparagraph id="HFA50F596577C4870A0B9A6C49D1C6349">
+                                    <enum>(C)</enum>
+ <text>The Lieutenant Colonel Charles S. Kettles VA Medical Center in Ann Arbor, Michigan.</text>
+                                </subparagraph>
+                                <subparagraph id="HA4A5798052814B5DAE7F253CCD8AAD4F">
+                                    <enum>(D)</enum>
+ <text>The Margaret Cochran Corbin Manhattan VA Medical Center in Manhattan, New York.</text>
+                                </subparagraph>
+                                <subparagraph id="H2D774017B3A2453F9C158CAE5F50A070">
+                                    <enum>(E)</enum>
+ <text>The Jesse Brown Department of Veterans Affairs Medical Center in Chicago, Illinois.</text>
+                                </subparagraph>
+                                <subparagraph id="HF959CBAE39914F5A915D47E17BF66E7E">
+                                    <enum>(F)</enum>
+ <text>The West Los Angeles VA Medical Center in Los Angeles, California.</text>
+                                </subparagraph>
+                                <subparagraph id="H99F0E8E188BD48B8827E17F9DB39A199">
+                                    <enum>(G)</enum>
+ <text>The Corporal Michael J. Crescenz VA Medical Center in Philadelphia, Pennsylvania.</text>
+                                </subparagraph>
+                                <subparagraph id="H178C29D15A124DFDBF7B1FF35082F392">
+                                    <enum>(H)</enum>
+ <text>The Durham VA Medical Center in Durham, North Carolina.</text>
+                                </subparagraph>
+                                <subparagraph id="H04F6923FBD6E48D4BABBA5252FABAA0B">
+                                    <enum>(I)</enum>
+ <text>The Washington DC VA Medical Center in Washington, District of Columbia.</text>
+                                </subparagraph>
+                                <subparagraph id="HA9EDEC13CDAF493680D83B87FCB0032C">
+                                    <enum>(J)</enum>
+ <text>The James A. Haley Veterans Hospital in Tampa, Florida.</text>
+                                </subparagraph>
+                                <subparagraph id="H9EA264DD63CB47F28968DBBEFDA3A563">
+                                    <enum>(K)</enum>
+ <text>The Portland VA Medical Center in Portland, Oregon.</text> </subparagraph> <subparagraph id="H543EDD8C2A574F0A9DA33E5510D25995"> <enum>(L)</enum> <text>The Jamaica Plain VA Medical Center in Boston, Massachusetts.</text>
+                                </subparagraph>
+                                <subparagraph id="HC19AC2AC4219423680AAA44C01584FEA">
+                                    <enum>(M)</enum>
+ <text>The San Francisco VA Medical Center in San Francisco, California.</text>
+                                </subparagraph>
+                                <subparagraph id="H0BBD4BC4E85843ABB79694E622C3D24F">
+                                    <enum>(N)</enum>
+ <text>The Michael E. DeBakey Department of Veterans Affairs Medical Center in Houston, Texas.</text>
+                                </subparagraph>
+                                <subparagraph id="H96144294C7FB4095952B01D78924F4C5">
+                                    <enum>(O)</enum>
+ <text>The Rocky Mountain Regional VA Medical Center in Aurora, Colorado.</text>
+                                </subparagraph>
+                                <subparagraph id="HE91942011EDA45B99C9EFE6F30B4FF4A">
+                                    <enum>(P)</enum>
+ <text display-inline="yes-display-inline">The John J. Cochran Veterans Hospital in St. Louis, Missouri.</text>
+                                </subparagraph>
+                                <subparagraph id="HC9D46B67435E490EB8E6FB8632161539">
+                                    <enum>(Q)</enum>
+ <text>The Kansas City VA Medical Center in Kansas City, Missouri.</text>
+                                </subparagraph>
+                                <subparagraph id="H724950690F9C4DBBA7D476C579FE7EDB">
+                                    <enum>(R)</enum>
+ <text>The Joseph Maxwell Cleland Atlanta VA Medical Center in Decatur, Georgia.</text>
+                                </subparagraph>
+                                <subparagraph id="H8120B49BF307420497487FA199A51290">
+                                    <enum>(S)</enum>
+ <text>The Ralph H. Johnson VA Medical Center in Charleston, South Carolina.</text>
+                                </subparagraph>
+                                <subparagraph id="H9A24D85BEB6B42B88716E9EF11101744">
+                                    <enum>(T)</enum>
+ <text>The Orlando VA Medical Center in Orlando, Florida.</text> </subparagraph> <subparagraph id="H7EDB1E5539854A5D8112DD680D409BED"> <enum>(U)</enum> <text>The Baltimore VA Medical Center in Baltimore, Maryland.</text>
+                                </subparagraph>
+                                <subparagraph id="H8A33F150600B4938A0F71800EE96D092">
+                                    <enum>(V)</enum>
+ <text>The John L. McClellan Memorial Veterans’ Hospital in Little Rock, Arkansas.</text>
+                                </subparagraph>
+                                <subparagraph id="H1D83E27722614C34A26FF7373FEF58AD">
+                                    <enum>(W)</enum>
+ <text>The William S. Middleton Memorial Veterans Hospital in Madison, Wisconsin.</text>
+                                </subparagraph>
+                                <subparagraph id="H88D41B62F1F446C39E5D4A6A0479A35F">
+                                    <enum>(X)</enum>
+ <text>The Minneapolis VA Medical Center in Minneapolis, Minnesota.</text>
+                                </subparagraph>
+                                <subparagraph id="H07E7050C47504D618E185A53C663C169">
+                                    <enum>(Y)</enum>
+ <text>The George E. Wahlen Department of Veterans Affairs Medical Center in Salt Lake City, Utah.</text>
+                                </subparagraph>
+                                <subparagraph id="H093E21E362794A9788C050F9D7A03B36">
+                                    <enum>(Z)</enum>
+ <text>The Carl T. Hayden Veterans’ Administration Medical Center in Phoenix, Arizona.</text>
+                                </subparagraph>
+                                <subparagraph id="H93B9681A1A3D461DAF9206EC31A743E8">
+                                    <enum>(AA)</enum>
+ <text>The Dallas VA Medical Center in Dallas, Texas.</text> </subparagraph> <subparagraph id="H74BA1FA149364247978AF556409059E2"> <enum>(BB)</enum> <text>The Malcom Randall Department of Veterans Affairs Medical Center in Gainesville, Florida.</text>
+                                </subparagraph>
+                            </paragraph>
+                            <paragraph id="H65CC343F994248C5BD61FFB6A8D0BE0E" indent="up1">
+                                <enum>(6)</enum>
+ <text>For purposes of complying with the minimum number of Centers of Excellence under paragraph (2), the Secretary shall count any towards the minimum number any medical facility designated under paragraph (5) and not terminated under subsection (e).</text>
+                            </paragraph>
+                        </subsection>
+                        <subsection id="H54ACF1ED9C4F4D9A9C3C02EC62BAAD0A">
+                            <enum>(e)</enum>
+                            <header>Termination of Designation</header>
+                            <paragraph id="HB36AB52B291C4F7A8DE8451C11BBB8E5" display-inline="yes-display-inline">
+                                <enum>(1)</enum>
+ <text display-inline="yes-display-inline">Each Center of Excellence designated under subsection (d) shall remain so designated for not less than five years, unless the Secretary terminates such designation in accordance with this subsection.</text>
+                            </paragraph>
+                            <paragraph id="H83646988C9EE47EC979DC0B567D9D3A4" display-inline="no-display-inline" indent="up1">
+                                <enum>(2)</enum>
+ <text>Not earlier than January 1, 2030, the Secretary may terminate the designation of a medical facility as a Center of Excellence under this section if the Secretary determines the facility is failing to meet the requirements in subsection (c).</text>
+                            </paragraph>
+                            <paragraph id="HC628FF46D5A54EAB91C62ADFD2A0B515" indent="up1">
+                                <enum>(3)</enum>
+ <text>Before terminating the designation of a medical facility, the Secretary shall—</text>
+                                <subparagraph id="H866A8F6E09ED4CF2B106C26552BDCCDE">
+                                    <enum>(A)</enum>
+ <text>submit to the Committees on Veterans’ Affairs and the Committees on Appropriations of the House of Representatives and the Senate a notice of the intent to terminate such designation; and</text>
+                                </subparagraph>
+                                <subparagraph id="HC36AAD7F7C7546B689B0B082E97E327F">
+                                    <enum>(B)</enum>
+ <text>wait for a period of 60 days following the date of the submission of such notice.</text>
+                                </subparagraph>
+                            </paragraph>
+                        </subsection>
+                        <subsection id="HA41B0D9E2C2E4B5FA7219A2DD244DCD8">
+                            <enum>(f)</enum>
+                            <header>Performance review</header>
+                            <paragraph id="HAF7576370538423AB3B6AD5D7C0DD42C" display-inline="yes-display-inline">
+                                <enum>(1)</enum>
+ <text display-inline="yes-display-inline">In 2030 and each year thereafter, the Secretary shall review the performance of not more than seven Centers of Excellence.</text>
+                            </paragraph>
+                            <paragraph id="HDFDFAAFD493A4924B58DF3A58FFDFC80" indent="up1">
+                                <enum>(2)</enum>
+ <text>The Secretary shall ensure that the performance of each Center of Excellence is reviewed only once in a five year period.</text>
+                            </paragraph>
+                            <paragraph id="H623662657FC24469962322F1033B7770" indent="up1">
+                                <enum>(3)</enum>
+ <text>By the date of the submission of the annual report described in subsection (f) in 2035 and every fifth year thereafter, the Secretary shall ensure the performance of each Center of Excellence has been reviewed.</text>
+                            </paragraph>
+                            <paragraph id="H80F417383EFA4D959D0958014D13FD1C" indent="up1">
+                                <enum>(4)</enum>
+ <text>Each performance review under this subsection shall assess whether the performance of the Center of Excellence in providing the services required under subsection (c) is adequate to justify the continued designation of the facility as a Center of Excellence under this section.</text>
+                            </paragraph>
+                        </subsection>
+                        <subsection id="H6CD34A316C18431490A589E2C4B30A11">
+                            <enum>(g)</enum>
+                            <header>Program Leadership team</header>
+                            <paragraph id="H96B1D64C85DB4190A9112B9A18EC5819" display-inline="yes-display-inline">
+                                <enum>(1)</enum>
+ <text>The Secretary shall establish a Program Leadership team located at the Seattle VA Medical Center in Seattle, Washington, which shall remain designated as a Center of Excellence until at least 2033.</text>
+                            </paragraph>
+                            <paragraph id="H2FF14BC8B6B1482DA210408AB648638F" indent="up1">
+                                <enum>(2)</enum>
+ <text display-inline="yes-display-inline">If the Secretary terminates the designation of the Seattle VA Medical Center in Seattle, Washington, as a Center of Excellence under subsection (e), the Secretary shall select another Center to serve as the location of the Program Leadership team.</text>
+                            </paragraph>
+                            <paragraph id="H69F332842F754E16943C505B129BEA81" indent="up1">
+                                <enum>(3)</enum>
+ <text>The Program Leadership team shall include, at a minimum, an Executive Director, a Clinical Director, and a Research Director, who shall be employees of the medical center at which the Program Leadership team is located.</text>
+                            </paragraph>
+                            <paragraph id="HDF80DE0ED61B4C03B0375832C16F398B" indent="up1">
+                                <enum>(4)</enum>
+ <text display-inline="yes-display-inline">The Program Leadership team shall—</text>
+                                <subparagraph id="HEE72F65D799C46A3B20020BC973D0BF3">
+                                    <enum>(A)</enum>
+ <text>provide strategic liaison services with sponsors and prospective sponsors of clinical trials to ensure engagement by the Department with study design and participation;</text>
+                                </subparagraph>
+                                <subparagraph id="H3EEE3C0101A1495996E1E41B63D88E56">
+                                    <enum>(B)</enum>
+ <text>coordinate participation by the Department in prostate cancer group studies sponsored by the National Cancer Institute;</text>
+                                </subparagraph>
+                                <subparagraph id="HF1F2D02DC7DF4F2C816594599D7A5AD8">
+                                    <enum>(C)</enum>
+ <text>facilitate the development of study concepts, designs, and start-up with researchers of the Department with limited clinical trial experience;</text>
+                                </subparagraph>
+                                <subparagraph id="HDA790555F2C8437188297BA31A863EBA">
+                                    <enum>(D)</enum>
+ <text>create and execute a model for hybrid decentralized clinical trials to be used by Centers of Excellence when conducting trials, including remote research coordination, regulatory start-up and maintenance, data management, and Institutional Review Board approval;</text>
+                                </subparagraph>
+                                <subparagraph id="H6CC1393673CF46AB88137A2BC1AA6E09">
+                                    <enum>(E)</enum>
+ <text>create and maintain a publicly available prostate cancer registry and data repository of the Department;</text>
+                                </subparagraph>
+                                <subparagraph id="H0DDE5878F4CB40E78CB3321BFA1A69FF" commented="no">
+                                    <enum>(F)</enum>
+ <text>establish and maintain relevant working groups of experts of the Department;</text>
+                                </subparagraph>
+                                <subparagraph id="HA0C2175A27EA462FB4C217C1B9D29F21">
+                                    <enum>(G)</enum>
+ <text>host at least monthly calls and at least three in-person meetings per year with a representative of each Center for Excellence to assess progress; and</text>
+                                </subparagraph>
+                                <subparagraph id="H2228F69A0D2F49B1BF8ECB8B8AA40CCA">
+                                    <enum>(H)</enum>
+ <text>develop a uniform genetic sequencing platform to be implemented by each Center of Excellence to allow for coordination among such Centers.</text>
+                                </subparagraph>
+                            </paragraph>
+                            <paragraph id="H0BC94A28AE034B5CB7A6B943B4E0CCF4" indent="up1">
+                                <enum>(5)</enum>
+ <text>The Executive Director shall—</text> <subparagraph id="HB1D1D52835104A988D2418297A0B43BA"> <enum>(A)</enum> <text>provide administrative leadership to the Program in partnership with the Clinical Director;</text>
+                                </subparagraph>
+                                <subparagraph id="HB4F3F035C1734CC49F4C1AF25C920871">
+                                    <enum>(B)</enum>
+ <text display-inline="yes-display-inline">develop, execute, and monitor a national strategic plan for the Program; and</text>
+                                </subparagraph>
+                                <subparagraph id="H500995C99336474BAA551B6D6934DB3D">
+                                    <enum>(C)</enum>
+ <text>serve as the liaison to leadership of the Department and Centers of Excellence.</text>
+                                </subparagraph>
+                            </paragraph>
+                            <paragraph id="H425707F9C0494BAE9A91C707DD90F9EC" indent="up1">
+                                <enum>(6)</enum>
+ <text>The Clinical Director shall—</text> <subparagraph id="H3568382C33CC49CB94DBC2B1E6862C13"> <enum>(A)</enum> <text>oversee the Program to ensure eligible veterans receive access to care based on the latest research;</text>
+                                </subparagraph>
+                                <subparagraph id="H02C6C95D15B44F4EA4453B54E1BE0265">
+                                    <enum>(B)</enum>
+ <text>develop and implement strategies for Program growth, quality improvement, and patient satisfaction;</text>
+                                </subparagraph>
+                                <subparagraph id="H153C055AC6C34F8EA73AF34BDAB9D13E">
+                                    <enum>(C)</enum>
+ <text>serve on the review committee of the Program for clinical trials conducted by Centers of Excellence to ensure studies are conducted ethically and efficiently; and</text>
+                                </subparagraph>
+                                <subparagraph id="H83AA4A41781E4B39A38CE6E240BD836F">
+                                    <enum>(D)</enum>
+ <text>serve as the liaison with stakeholders to integrate clinical services and research.</text>
+                                </subparagraph>
+                            </paragraph>
+                            <paragraph id="H2E4C43737C6F44F388CCC165333A2F42" indent="up1">
+                                <enum>(7)</enum>
+ <text display-inline="yes-display-inline">The Research Director shall—</text>
+                                <subparagraph id="HDDA3A368D50046B5921C4CF0432FF215">
+                                    <enum>(A)</enum>
+ <text>provide leadership on national research objectives;</text> </subparagraph> <subparagraph id="H9D52F4DE721643A4B68618294455C52E"> <enum>(B)</enum> <text>serve on committees to review new research concepts and projects developed by Centers of Excellence;</text>
+                                </subparagraph>
+                                <subparagraph id="HC5829B4652A14B04BB57BBF713F2355C">
+                                    <enum>(C)</enum>
+ <text display-inline="yes-display-inline">maintain an understanding of current research and emerging technologies in prostate cancer; and</text>
+                                </subparagraph>
+                                <subparagraph id="HA67C244F348E4AD2967D1EB6AE3FEC03">
+                                    <enum>(D)</enum>
+ <text display-inline="yes-display-inline">interact with stakeholders, including regulatory agencies, study sponsors, and research institutions, to improve prostate cancer research conducted by the Department.</text>
+                                </subparagraph>
+                            </paragraph>
+                        </subsection>
+                        <subsection id="H76B04B729E2246A0BDAD0F7263161EA6">
+                            <enum>(h)</enum>
+                            <header>Annual Report</header>
+                            <paragraph id="H5E6642DDCA19406B92954239E7B1E644" display-inline="yes-display-inline">
+                                <enum>(1)</enum>
+ <text display-inline="yes-display-inline">Not later than March 1 of each year, the Secretary shall submit to the Committees on Veterans’ Affairs and the Committees on Appropriations of the House of Representatives and the Senate a report on the Program. Each such report shall include, for the year covered by the report—</text>
+                                <subparagraph id="HB7842745893141B3903A84CAD0025557" indent="up1">
+                                    <enum>(A)</enum>
+ <text>the funding levels for each Center of Excellence;</text> </subparagraph> <subparagraph id="H7C09B1BDABBE4964A22E34F859853FD2" indent="up1"> <enum>(B)</enum> <text display-inline="yes-display-inline">the number of veterans participating the Program;</text>
+                                </subparagraph>
+                                <subparagraph id="HDE88F853C2AF4DB9AB74F00471D6E2C4" indent="up1">
+                                    <enum>(C)</enum>
+ <text>the number of researchers and providers participating in the Program;</text>
+                                </subparagraph>
+                                <subparagraph id="H1E5316E9AD3140FB81175407D77BC478" indent="up1">
+                                    <enum>(D)</enum>
+ <text>the number of publications relating to prostate cancer by researchers and providers of the Department;</text>
+                                </subparagraph>
+                                <subparagraph id="H2BC4DE0D649D450EBC0B5F7E0AA3907F" indent="up1">
+                                    <enum>(E)</enum>
+ <text>the number of clinical research studies supported by the Program;</text>
+                                </subparagraph>
+                                <subparagraph id="H40876376111B4692BA04CB20A35FDFCC" indent="up1">
+                                    <enum>(F)</enum>
+ <text>the number of veterans enrolled in such clinical research studies;</text>
+                                </subparagraph>
+                                <subparagraph id="HAA441FC2EAD145F9B383445434F4A423" indent="up1">
+                                    <enum>(G)</enum>
+ <text>the five-year survival rate of veterans enrolled in clinical research studies of the Program compared to other veterans and civilians with prostate cancer;</text>
+                                </subparagraph>
+                                <subparagraph id="H08D41C890BC14924B1228B4D6B851477" indent="up1" commented="no">
+                                    <enum>(H)</enum>
+ <text>the five-year survival rate of veterans with non-prostate genitourinary cancers enrolled in clinical research studies of the Program at genitourinary centers compared to that of other veterans and civilians with non-prostate genitourinary cancers; and</text>
+                                </subparagraph>
+                                <subparagraph id="HBC53559595C0450693B16D2015089FF6" indent="up1">
+                                    <enum>(I)</enum>
+ <text>an estimate of (A) through (G) for the upcoming year.</text>
+                                </subparagraph>
+                            </paragraph>
+                            <paragraph id="HB3A8B76F707A4FF5B29B8929E4983504" indent="up1" commented="no">
+                                <enum>(2)</enum>
+ <text>In 2029, the report required in this subsection shall include a comprehensive plan for the designation and operation of the Centers of Excellence under this section, including a timeline for the performance evaluations, performance criteria to be used in evaluations, and the process for selecting Centers.</text>
+                            </paragraph>
+                            <paragraph id="H81AF574CEDF94ABE849DBBD4A85A182B" indent="up1">
+                                <enum>(3)</enum>
+ <text display-inline="yes-display-inline">In 2031 and each year thereafter, the report required in this subsection shall include, for the year covered by the report, the results of the performance reviews conducted under subsection (f) and a determination by the Secretary regarding whether each Center of Excellence reviewed that year meets the criteria for continued designation as a Center of Excellence.</text>
+                            </paragraph>
+                        </subsection>
+                        <subsection id="H41A381513C744CDC8DAA56DAA31C450A">
+                            <enum>(i)</enum>
+                            <header>Authorization of appropriations</header>
+ <text>There is authorized to be appropriated $15,500,000 for each of fiscal years 2027 through 2029 to the Secretary to carry out this section.</text>
+                        </subsection>
+                    </section><after-quoted-block>.</after-quoted-block></quoted-block></subsection> 
+<subsection id="H83FDF797B8534978B8327A7FAED057DE"><enum>(b)</enum><header>Clerical amendment</header><text>The table of sections at the beginning of such chapter is amended by inserting after the item relating to section 7330D the following new item:</text> <quoted-block style="USC" id="H6F6C2741D5FC451391037D22FF300512" display-inline="no-display-inline"> <toc regeneration="no-regeneration"> <toc-entry level="section">7330E. Precision oncology program for cancer of the prostate.</toc-entry></toc><after-quoted-block>.</after-quoted-block></quoted-block></subsection> <subsection id="H563D3620D3904A2798E121D6EB98F153" display-inline="no-display-inline"><enum>(c)</enum><header>Functions and funding of Centers of Excellence</header> <paragraph id="H1EB93DAF507846A2AC875F03F60EF590"> <enum>(1)</enum> <header>Functions</header> <text>The Secretary of Veterans Affairs may not remove from any medical facility designated as a Center of Excellence under section 7330D of title 38, United States Code, any staff, program, or function relating to prostate cancer that was in effect on January 1, 2023, until January 1, 2030.</text>
+                </paragraph> 
+<paragraph id="HF7DE2A03EAB9426A995222FA3181806E" commented="no">
+                    <enum>(2)</enum>
+                    <header>Funding</header>
+ <text>The Secretary of Veterans Affairs may not reduce funding provided to such Centers of Excellence below the total amount provided by public and private sources in effect on January 1, 2023, until January 1, 2030.</text>
+                </paragraph></subsection> 
+<subsection id="H068481FAECD245E29EDB9A7842BF3940"><enum>(d)</enum><header>Deadline</header><text>The program required by section 7330E of title 38, United States Code, as added by subsection (a), shall be established by not later than 180 days after the date of the enactment of this Act.</text></subsection></section> <section id="H6C155500A5C7466096FF72B5AF4AFE71"><enum>3.</enum><header>Implementation plan</header><text display-inline="no-display-inline">Not later than 60 days after the date of the enactment of this Act, the Secretary of Veterans Affairs shall submit to the Committees on Veterans’ Affairs of the Senate and the House of Representatives a plan for the implementation of section 7330E of title 38, United States Code, as added by section 2. Such plan shall include—</text> 
+<paragraph id="H9E883C3A893B4B59A604DFE70DA5C00D"><enum>(1)</enum><text>a description of staffing requirements at each Center of Excellence designated under such section;</text></paragraph> <paragraph id="H3B03421F82BC44D4BD596E462FEC5214"> <enum>(2)</enum> <text>a description of any contracting requirements necessary to fulfill the requirements of such section;</text>
+            </paragraph> 
+<paragraph id="HE6A579C7AFC74311A8F964F695DCE277"><enum>(3)</enum><text>a plan for the development of the uniform sequencing platform required under subsection (g)(3)(H) of such section;</text></paragraph> <paragraph id="HBDA148556CB8471E86FEC4D5C4D498A7"><enum>(4)</enum><text display-inline="yes-display-inline">a description of the development of the prostate cancer registry and data repository under subsection (g)(3)(E) of such section;</text></paragraph> 
+<paragraph id="H72A6EF7C07694FF6A3F5BC7C549EED5C"><enum>(5)</enum><text>a plan for coordination with the Central Institutional Review Board; and</text></paragraph> <paragraph id="H7BB79FFEF5E940E7ADF886692CF47029"><enum>(6)</enum><text>a description of anticipated funding levels for the ten-year period beginning on the date of the submission of the plan.</text></paragraph></section> 
+</legis-body></bill>
+

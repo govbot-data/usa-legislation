@@ -1,0 +1,381 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H24616CB15DB040CE9E8A105A250DB4BA" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 HR 7399 IH: Kids Off Social Media Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2026-02-05</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">119th CONGRESS</congress><session display="yes">2d Session</session><legis-num display="yes">H. R. 7399</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20260205">February 5, 2026</action-date><action-desc><sponsor name-id="L000596">Mrs. Luna</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HIF00">Committee on Energy and Commerce</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To prohibit users who are under age 13 from accessing social media platforms, to prohibit the use of personalized recommendation systems on individuals under age 17, and limit the use of social media in schools.</official-title></form><legis-body id="H6329C154FF134639963C9C95BA9A4892" style="OLC"><section id="H30C16AEC75D74BC8B8990E950505B762" section-type="section-one"><enum>1.</enum><header>Short title; table of contents</header><subsection id="H4919ED223E474865A70E17DE260D248C"><enum>(a)</enum><header>Short title</header><text display-inline="yes-display-inline">This Act may be cited as the <quote><short-title>Kids Off Social Media Act</short-title></quote>.</text></subsection><subsection id="H3B69692A4DC749F8B5F56EA3AF8A6FAB"><enum>(b)</enum><header>Table of contents</header><text>The table of contents for this Act is as follows:</text><toc><toc-entry level="section" idref="H30C16AEC75D74BC8B8990E950505B762">Sec. 1. Short title; table of contents.</toc-entry><toc-entry level="title" idref="H0AF3D2163E3B48B6B1FCA44A00886E92">TITLE I—Kids Off Social Media Act</toc-entry><toc-entry level="section" idref="H6886C969CF0441BB9F083E07D49D5783">Sec. 101. Short title.</toc-entry><toc-entry level="section" idref="H2155C6A833344D26AD905240B6687316">Sec. 102. Definitions.</toc-entry><toc-entry level="section" idref="H5494EB04CFCC4206A570E400FFCDE34C">Sec. 103. No children under 13.</toc-entry><toc-entry level="section" idref="H7E368F1D1E37420FA1C9172E35342811">Sec. 104. Prohibition on the use of personalized recommendation systems on children or teens.</toc-entry><toc-entry level="section" idref="HFC1A045293C5407CB273FD53037AF570">Sec. 105. Determination of whether an operator has knowledge fairly implied on the basis of objective circumstances that an individual is a child or teen.</toc-entry><toc-entry level="section" idref="H111EE800650D4AF2AAE274D0A485DEB0">Sec. 106. Enforcement.</toc-entry><toc-entry level="section" idref="H04715D7F4CE4471288C17228AA6C04DA">Sec. 107. Relationship to other laws.</toc-entry><toc-entry level="section" idref="HDC56F8B56419447DBD2D9F3803F4AF3E">Sec. 108. Effective date.</toc-entry><toc-entry level="title" idref="HF6D622B0EBAC43E5A99B41317DD7AD31">TITLE II—Eyes on the Board Act of 2025</toc-entry><toc-entry level="section" idref="HBD47B102994142A28AA281F0BFA87B70">Sec. 201. Short title.</toc-entry><toc-entry level="section" idref="H9A7047F2BA484991AB63F113D1D1989A">Sec. 202. Updating the Children’s Internet Protection Act to include social media platforms.</toc-entry><toc-entry level="section" idref="HB8A41CF339064A07802CF22A89DDFECA">Sec. 203. Internet safety policies.</toc-entry><toc-entry level="title" idref="H9AA6740DF2D94661ABCD0439F5C6DD50">TITLE III—Severability</toc-entry><toc-entry level="section" idref="H1AA1A2AD626B4468B0D091EE833614E1">Sec. 301. Severability.</toc-entry></toc></subsection></section><title id="H0AF3D2163E3B48B6B1FCA44A00886E92" style="OLC"><enum>I</enum><header>Kids Off Social Media Act</header><section id="H6886C969CF0441BB9F083E07D49D5783"><enum>101.</enum><header>Short title</header><text display-inline="no-display-inline">This title may be referred to as the <quote><short-title>Kids Off Social Media Act</short-title></quote>.</text></section><section id="H2155C6A833344D26AD905240B6687316"><enum>102.</enum><header>Definitions</header><text display-inline="no-display-inline">In this title:</text><paragraph id="H1D6FEDADD88E47A3BCBAFA909B5E74FC"><enum>(1)</enum><header>Personalized recommendation system</header><text>The term <term>personalized recommendation system</term> means a fully or partially automated system used to suggest, promote, or rank content, including other users or posts, based on the personal data of users.</text></paragraph><paragraph id="H79D7D683D41247F2AD3A702198C6E6B9"><enum>(2)</enum><header>Child</header><text>The term <term>child</term> means an individual under the age of 13.</text></paragraph><paragraph id="H54F679E9EEFE44FCAFBD583BD472539E"><enum>(3)</enum><header>Commission</header><text>The term <term>Commission</term> means the Federal Trade Commission.</text></paragraph><paragraph commented="no" display-inline="no-display-inline" id="HB74FB10A161B4452AC85B591A03E3239"><enum>(4)</enum><header display-inline="yes-display-inline">Know or knows</header><text>The term <term>know</term> or <term>knows</term> means to have actual knowledge or knowledge fairly implied on the basis of objective circumstances.</text></paragraph><paragraph commented="no" display-inline="no-display-inline" id="HDAA7E245FA9C4543809DF6F08A39757C"> <enum>(5)</enum> <header display-inline="yes-display-inline">Personal data</header> <text>The term <term>personal data</term> has the same meaning as the term <term>personal information</term> as defined in section 1302 of the Children’s Online Privacy Protection Act (<external-xref legal-doc="usc" parsable-cite="usc/15/6501">15 U.S.C. 6501</external-xref>).</text>
+ </paragraph><paragraph id="HC6D51D37B9A14D518E1753FAA4261EE8"><enum>(6)</enum><header>Social medial platform</header><subparagraph id="H73E0B468D2F4479E80058941E7A456E9"><enum>(A)</enum><header>In general</header><text>The term <term>social media platform</term> means a public-facing website, online service, online application, or mobile application that—</text><clause id="H954EFE92409C4706913CA1C298654458"><enum>(i)</enum><text>is directed to consumers;</text></clause><clause id="H8E7FC147F23149EE9C01DF31C8E8578E"><enum>(ii)</enum><text>collects personal data;</text></clause><clause id="HD0597C927A8D446B916E7FF04E929491"><enum>(iii)</enum><text>primarily derives revenue from advertising or the sale of personal data; and</text></clause><clause id="H252B21FAF48E4C539E2A531835F3D9A8"><enum>(iv)</enum><text>as its primary function provides a community forum for user-generated content, including messages, videos, and audio files among users where such content is primarily intended for viewing, resharing, or platform-enabled distributed social endorsement or comment.</text></clause></subparagraph><subparagraph id="H5CB83152E7BD4B859E521CC4115A6AB4"><enum>(B)</enum><header>Limitation</header><text>The term <term>social medial platform</term> does not include a platform that, as its primary function for consumers, provides or facilitates any of the following:</text><clause id="H9F8091F83E6F444788510E1E2ADCDB3A"><enum>(i)</enum><text>The purchase and sale of commercial goods.</text></clause><clause id="H48EE1B5305724AC38D55DA6D63986827"><enum>(ii)</enum><text>Teleconferencing or videoconferencing services that allow reception and transmission of audio or video signals for real-time communication, provided that the real-time communication is initiated by using a unique link or identifier to facilitate access.</text></clause><clause id="HB268FBBA91694C319D5C74F1ED5B45F6"><enum>(iii)</enum><text>Crowd-sourced reference guides such as encyclopedias and dictionaries.</text></clause><clause id="H42BB77F6C3C54A739575C0EBD48933F6"><enum>(iv)</enum><text>Cloud storage, file sharing, or file collaboration services, including such services that allow collaborative editing by invited users.</text></clause><clause id="HB504DED663A9403480F35EC933EF0CA1"><enum>(v)</enum><text>The playing or creation of video games.</text></clause><clause id="HF7CD6DD6321F4422BFFA5AF695385845"><enum>(vi)</enum><text>Content that consists primarily of news, sports, sports coverage, entertainment, or other information or content that is not user-generated but is preselected by the platform and for which any chat, comment, or interactive functionality is incidental, directly related to, or dependent on the provision of the content provided by the platform.</text></clause><clause id="HD879748F553B4F08B878345F6AB4401C"><enum>(vii)</enum><text>Business, product, or travel information including user reviews or rankings of such businesses, products, or other travel information.</text></clause><clause id="HE2B4F60981544DF484592AEB03323CE5"><enum>(viii)</enum><text>Educational information, experiences, training, or instruction provided to build knowledge, skills, or a craft, district-sanctioned or school-sanctioned learning management systems and school information systems for the purposes of schools conveying content related to the education of students, or services or services on behalf of or in support of an elementary school or secondary school, as such terms are defined in section 8101 of the Elementary and Secondary Education Act of 1965 (<external-xref legal-doc="usc" parsable-cite="usc/20/7801">20 U.S.C. 7801</external-xref>).</text></clause><clause id="H578CF1F7B7784E95BCFC9F438D6B6FFB"><enum>(ix)</enum><text>An email service.</text></clause><clause id="HFD78EDDE949B4A5B8A17108DA81D8A28"><enum>(x)</enum><text>A wireless messaging service, including such a service provided through short message service or multimedia messaging protocols, that is not a component of, or linked to, a social media platform and where the predominant or exclusive function of the messaging service is direct messaging consisting of the transmission of text, photos, or videos that are sent by electronic means, where messages are transmitted from the sender to the recipient and are not posted publicly or within a social media platform.</text></clause><clause id="H0A7AB5C165314EDF819030C68AF78E5F"><enum>(xi)</enum><text>A broadband internet access service (as such term is defined for purposes of section 8.1(b) of title 47, Code of Federal Regulations, or any successor regulation).</text></clause><clause id="HD2D7A2C0E18745AD84AA988D924E755C"><enum>(xii)</enum><text>A virtual private network or similar service that exists solely to route internet traffic between locations.</text></clause></subparagraph></paragraph><paragraph id="HE1A0A26A402B4CB2930BB7CEB1A78801"><enum>(7)</enum><header>Teen</header><text>The term <term>teen</term> means an individual over the age of 12 and under the age of 17.</text></paragraph><paragraph id="H8E0521457D2649A0AC8FA3236ABC724E"><enum>(8)</enum><header>User</header><text>The term <term>user</term> means, with respect to a social media platform, an individual who registers an account or creates a profile on the social media platform.</text></paragraph></section><section id="H5494EB04CFCC4206A570E400FFCDE34C"><enum>103.</enum><header>No children under 13</header><subsection id="H8D10CB134FA94F84ACAF488CF2392BD2"><enum>(a)</enum><header>No accounts for children under 13</header><text>A social media platform shall not permit an individual to create or maintain an account or profile if it knows that the individual is a child.</text></subsection><subsection id="H86EBF7CABCD04EFBB8FA4BFED128FCE8"><enum>(b)</enum><header>Termination of existing accounts belonging to children</header><text>A social media platform shall terminate any existing account or profile of a user who the social media platform knows is a child.</text></subsection><subsection id="HC1177697FD9C458EB25BC0BB5C5F3A2A"><enum>(c)</enum><header>Deletion of children's personal data</header><paragraph id="H9E2AFDFB15C94E65A9232E76F7B8D7E7"><enum>(1)</enum><header>In general</header><text>Subject to paragraph (2), upon termination of an existing account or profile of a user pursuant to subsection (b), a social media platform shall immediately delete all personal data collected from the user or submitted by the user to the social media platform.</text></paragraph><paragraph id="HD9689263866542559D6139A92E6DD82F"><enum>(2)</enum><header>Children's access to personal data</header><text>To the extent technically feasible and not in violation of any licensing agreement, a social media platform shall allow the user of an existing account or profile that the social media platform has terminated under subsection (b), from the date such termination occurs to the date that is 90 days after such date, to request, and shall provide to such user upon such request, a copy of the personal data collected from the user or submitted by the user to the social media platform both—</text><subparagraph id="HBBDEAE2CECC1413F8E9ED4770430BC11"><enum>(A)</enum><text>in a manner that is readable and which a reasonable person can understand; and</text></subparagraph><subparagraph id="H90A71385791A4B35B51EBA2009339473"><enum>(B)</enum><text>in a portable, structured, and machine-readable format.</text></subparagraph></paragraph></subsection><subsection id="H835B3B9D92414563985150A18A78B792"><enum>(d)</enum><header>Rule of Construction</header><text>Nothing in subsection (c) shall be construed to prohibit a social media platform from retaining a record of the termination of an account or profile and the minimum information necessary for the purposes of ensuring compliance with this section.</text></subsection></section><section id="H7E368F1D1E37420FA1C9172E35342811"><enum>104.</enum><header>Prohibition on the use of personalized recommendation systems on children or teens</header><subsection id="HADFE88C0625F4194B9BC84D48574F7D3"><enum>(a)</enum><header>In general</header><paragraph commented="no" display-inline="no-display-inline" id="H8CCBBBE579464398AA1BA11D33C6E325"><enum>(1)</enum><header>Prohibition on use of personalized recommendation systems on children or teens</header><text display-inline="yes-display-inline">Except as provided in paragraph (2), a social media platform shall not use the personal data of a user or visitor in a personalized recommendation system to display content if the platform knows that the user or visitor is a child or teen.</text></paragraph><paragraph commented="no" display-inline="no-display-inline" id="HF359F304E75B420D9B076FB644A84456"><enum>(2)</enum><header>Exception</header><text>A social media platform may use a personalized recommendation system to display content to a child or teen if the system only uses the following personal data of the child or teen:</text><subparagraph id="H467FE9C39E3040D4945CA5C2BCA8D6B2"><enum>(A)</enum><text>The type of device used by the child or teen.</text></subparagraph><subparagraph commented="no" display-inline="no-display-inline" id="H95C3A1BA4BBE4AF5B75A933A6B10E44B"><enum>(B)</enum><text display-inline="yes-display-inline">The languages used by the child or teen to communicate.</text></subparagraph><subparagraph id="H8BAB310209944E35B3082E436B17B04F"><enum>(C)</enum><text>The city or town in which the child or teen is located.</text></subparagraph><subparagraph id="HF2ED30CECADD4C87A5970F646F0DFB16"><enum>(D)</enum><text>The fact that the individual is a child or teen.</text></subparagraph><subparagraph id="H64A78658C2FE48F893B5469D8B61969C"><enum>(E)</enum><text>The age of the child or teen.</text></subparagraph></paragraph></subsection><subsection id="H75174F2621394997A2F47ACF2BCC76C0"><enum>(b)</enum><header>Rule of construction</header><text>The prohibition in subsection (a) shall not be construed to—</text><paragraph commented="no" display-inline="no-display-inline" id="HEC4B25377EC84AA48FEA3B3B24FFC049"><enum>(1)</enum><text display-inline="yes-display-inline">prevent a social media platform from providing search results to a child or teen deliberately or independently searching for (such as by typing a phrase into a search bar or providing spoken input), or specifically requesting, content, so long as such results are not based on the personal data of the child or teen (except to the extent permitted under subsection (a)(2));</text></paragraph><paragraph id="H06639EDCBE0642B68D2231FF6575B587"><enum>(2)</enum><text>prevent a social media platform from taking reasonable measures to—</text><subparagraph id="H7329E96066C94C42A4F8B4DC475840E2"><enum>(A)</enum><text>block, detect, or prevent the distribution of unlawful or obscene material;</text></subparagraph><subparagraph id="HA3B92DF569FD4289AD1DBA3884122BB5"><enum>(B)</enum><text>block or filter spam, or protect the security of a platform or service; or</text></subparagraph><subparagraph id="H8C47B262E3ED497CAC7129615527FB59"><enum>(C)</enum><text>prevent criminal activity; or</text></subparagraph></paragraph><paragraph id="H8F7A9CFF440D4015B4EB3A4DAE1B247A"><enum>(3)</enum><text>prohibit a social media platform from displaying user-generated content that has been selected, followed, or subscribed to by a teen account holder as long as the display of the content is based on a chronological format.</text></paragraph></subsection></section><section id="HFC1A045293C5407CB273FD53037AF570"><enum>105.</enum><header>Determination of whether an operator has knowledge fairly implied on the basis of objective circumstances that an individual is a child or teen</header><subsection id="HF5734EC0271F4E29AE8F10AA0DC96A05" commented="no"><enum>(a)</enum><header>Rules of construction</header><text>For purposes of enforcing this title, in making a determination as to whether a social media platform has knowledge fairly implied on the basis of objective circumstances that a user is a child or teen, the Commission or the attorney general of a State, as applicable, shall rely on competent and reliable evidence, taking into account the totality of circumstances, including whether a reasonable and prudent person under the circumstances would have known that the user is a child or teen.</text></subsection><subsection id="H65E99AEFB7414487B794FFE6A8A4FC0E"><enum>(b)</enum><header>Protections for privacy</header><text>Nothing in this title, including a determination described in subsection (a), shall be construed to require a social media platform to—</text><paragraph id="H92E26F3BD0604FA1B22A54D501CFD9A6"><enum>(1)</enum><text>implement an age gating or age verification functionality; or</text></paragraph><paragraph id="HE6BBAAA05B5E4A04BC06E45457E1F840"><enum>(2)</enum><text>affirmatively collect any personal data with respect to the age of users that the social media platform is not already collecting in the normal course of business.</text></paragraph></subsection><subsection id="H2356A4392B6D4E9980FA18CDD66484A4"><enum>(c)</enum><header>Restriction on use and retention of personal data</header><text>If a social media platform or a third party acting on behalf of a social media platform voluntarily collects personal data for the purpose of complying with this title, the social media platform or a third party shall not—</text><paragraph id="H896322970EE14829AA6FB3022A0D7802"><enum>(1)</enum><text>use any personal data collected specifically for a purpose other than for sole compliance with the obligations under this title; or</text></paragraph><paragraph id="HC9D06276C35C48A9BD83CE42223AD4C4"><enum>(2)</enum><text>retain any personal data collected from a user for longer than is necessary to comply with the obligations under this title or than is minimally necessary to demonstrate compliance with this title.</text></paragraph></subsection></section><section id="H111EE800650D4AF2AAE274D0A485DEB0"><enum>106.</enum><header>Enforcement</header><subsection id="HF82640642DC9466EAC5554FCE499F369"><enum>(a)</enum><header>Enforcement by commission</header><paragraph id="HE936E23502E34770959BBB320614CAF1"><enum>(1)</enum><header>Unfair or deceptive acts or practices</header><text>A violation of this title shall be treated as a violation of a rule defining an unfair or deceptive act or practice prescribed under section 18(a)(1)(B) of the Federal Trade Commission Act (<external-xref legal-doc="usc" parsable-cite="usc/15/57a">15 U.S.C. 57a(a)(1)(B)</external-xref>).</text></paragraph><paragraph id="H0C5F55986DF8464A9A47448609F744C8"><enum>(2)</enum><header>Powers of commission</header><subparagraph id="H9E9EE03FC902464685E96654FA2E5E9B"><enum>(A)</enum><header>In general</header><text>The Commission shall enforce this title in the same manner, by the same means, and with the same jurisdiction, powers, and duties as though all applicable terms and provisions of the Federal Trade Commission Act (<external-xref legal-doc="usc" parsable-cite="usc/15/41">15 U.S.C. 41 et seq.</external-xref>) were incorporated into and made a part of this title.</text></subparagraph><subparagraph id="H399FE5AF380242F6A1A16E47D055BE05"><enum>(B)</enum><header>Privileges and immunities</header><text>Any person who violates this title shall be subject to the penalties and entitled to the privileges and immunities provided in the Federal Trade Commission Act (<external-xref legal-doc="usc" parsable-cite="usc/15/41">15 U.S.C. 41 et seq.</external-xref>).</text></subparagraph></paragraph><paragraph id="HB5954A65E6C947C783697AD1C73E36C5"><enum>(3)</enum><header>Authority preserved</header><text>Nothing in this title shall be construed to limit the authority of the Commission under any other provision of law.</text></paragraph></subsection><subsection id="H386ECBF1A124429EB4A3D7B775876E4A"><enum>(b)</enum><header>Enforcement by states</header><paragraph id="HA4ED269AC05946DC8A6C0DECD5DFFAB8"><enum>(1)</enum><header>Authorization</header><text>Subject to paragraph (3), in any case in which the attorney general of a State has reason to believe that an interest of the residents of the State has been or is threatened or adversely affected by the engagement of a social media platform in a practice that violates this title, the attorney general of the State may, as parens patriae, bring a civil action against the social media platform on behalf of the residents of the State in an appropriate district court of the United States to—</text><subparagraph id="HCED539126137432BAD36DAA9D3116A7E"><enum>(A)</enum><text>enjoin that practice;</text></subparagraph><subparagraph id="H4305DDB0BE1E43AAA26BEF62B4477BA7"><enum>(B)</enum><text>enforce compliance with this title;</text></subparagraph><subparagraph id="HC57969C9D0E244B6B5AADCE0FC884A56"><enum>(C)</enum><text>on behalf of residents of the States, obtain damages, restitution, or other compensation, each of which shall be distributed in accordance with State law; or</text></subparagraph><subparagraph id="H02EC590AC8F14F89BE78BB0CC91B7240"><enum>(D)</enum><text>obtain such other relief as the court may consider to be appropriate.</text></subparagraph></paragraph><paragraph id="HC4DDA4C43EA34B3D979D280FFBF6F26F"> <enum>(2)</enum> <header>Rights of federal trade commission</header> <subparagraph id="HAD6FD3EF921546B799BFDCFD9E144A03"> <enum>(A)</enum> <header>Notice to federal trade commission</header> <clause id="H46FF7F8FE51D409F96D881587875263F"> <enum>(i)</enum> <header>In general</header> <text>The attorney general of a State shall notify the Commission in writing that the attorney general intends to bring a civil action under paragraph (1) before the filing of the civil action.</text>
+              </clause>
+              <clause id="H6351CCDA208946E283CC44883B5CDBE0">
+                <enum>(ii)</enum>
+                <header>Contents</header>
+ <text>The notification required under clause (i) with respect to a civil action shall include a copy of the complaint to be filed to initiate the civil action.</text>
+              </clause>
+              <clause id="HE0C0E42B4E224B9EA08F1E9BFFADE785">
+                <enum>(iii)</enum>
+ <text>Clause (i) shall not apply with respect to the filing of an action by an attorney general of a State under this paragraph if the attorney general of the State determines that it not feasible to provide the notice required in that clause before filing the action.</text>
+              </clause>
+            </subparagraph>
+            <subparagraph id="H54FD99ADAB1846DFB9BE912F807EEF69">
+              <enum>(B)</enum>
+              <header>Intervention by federal trade commission</header>
+ <text>Upon receiving notice under subparagraph (A)(i), the Commission shall have the right to intervene in the action that is the subject of the notice.</text>
+            </subparagraph>
+ </paragraph><paragraph id="HBE8F8510C6F746F8A325F56DBD3BA347"><enum>(3)</enum><header>Effect of intervention</header><text>If the Commission intervenes in an action under paragraph (1), it shall have the right—</text><subparagraph id="H60EFECB76AC44C679EC6E0D3630C8EC9"><enum>(A)</enum><text>to be heard with respect to any matter that arises in that action; and</text></subparagraph><subparagraph id="HD68F8A1ECB4246E3BDC0BB1AD0616D2E"><enum>(B)</enum><text>file a petition for appeal.</text></subparagraph></paragraph><paragraph id="HC382B6C380874E77BF27D465F93049F8"><enum>(4)</enum><header>Investigatory powers</header><text>Nothing in this subsection may be construed to prevent the attorney general of a State from exercising the powers conferred on the attorney general by the laws of the State to—</text><subparagraph id="HCEAEC32075DB45AABD7E092363A8C8AF"><enum>(A)</enum><text>conduct investigations;</text></subparagraph><subparagraph id="HD12676D0742646D0A0BD47FF89ED532B"><enum>(B)</enum><text>administer oaths or affirmations; or</text></subparagraph><subparagraph id="HD5A09F27044C46298553D323C99D913B"><enum>(C)</enum><text>compel the attendance of witnesses or the production of documentary or other evidence.</text></subparagraph></paragraph><paragraph id="H129C5CFBE9184F41A7B8396F1AE3AB86"> <enum>(5)</enum> <header>Preemptive action by federal trade commission</header> <text>In any case in which an action is instituted by or on behalf of the Commission for a violation of this Act, no State may, during the pendency of that action, institute a separate civil action under paragraph (1) against any defendant named in the complaint in the action instituted by or on behalf of the Commission for that violation.</text>
+ </paragraph><paragraph id="H73370C1A12824771AD16A219E13CBFEB"><enum>(6)</enum><header>Venue; service of process</header><subparagraph id="H865ED1E01B0F41DA81EE1FAC2F05B31C"><enum>(A)</enum><header>Venue</header><text>Any action brought under paragraph (1) may be brought in—</text><clause id="HB5A5E1024F7547A6A329D649CBC1DC0D"><enum>(i)</enum><text>the district court of the United States that meets applicable requirements relating to venue under section 1391 of title 28, United States Code; or</text></clause><clause id="H7463E5F8218C4B1D9BBC877053E936DC"><enum>(ii)</enum><text>another court of competent jurisdiction.</text></clause></subparagraph><subparagraph id="HA299C14487A846F3AA2A7B5E547C0348"><enum>(B)</enum><header>Service of process</header><text>In an action brought under paragraph (1), process may be served in any district in which the defendant—</text><clause id="H24BA6D67577643689EA116F65DC641D6"><enum>(i)</enum><text>is an inhabitant; or</text></clause><clause id="H2C920B72B2B841FDA9CA26D687B7E5FF"><enum>(ii)</enum><text>may be found.</text></clause></subparagraph></paragraph></subsection></section><section id="H04715D7F4CE4471288C17228AA6C04DA"><enum>107.</enum><header>Relationship to other laws</header><text display-inline="no-display-inline">The provisions of this title shall preempt any State law, rule, or regulation only to the extent that such State law, rule, or regulation conflicts with a provision of this title. Nothing in this title shall be construed to prohibit a State from enacting a law, rule, or regulation that provides greater protection to children or teens than the protection provided by the provisions of this title. Nothing in this title shall be construed to—</text><paragraph id="H30B4FA905E68405789632B4EFB18C1A0"><enum>(1)</enum><text>affect the application of—</text><subparagraph commented="no" display-inline="no-display-inline" id="HDBEA063175494876AFE4A7E223E2A94E"><enum>(A)</enum><text display-inline="yes-display-inline">section 444 of the General Education Provisions Act (<external-xref legal-doc="usc" parsable-cite="usc/20/1232g">20 U.S.C. 1232g</external-xref>, commonly known as the <quote>Family Educational Rights and Privacy Act of 1974</quote>) or other Federal or State laws governing student privacy; or</text></subparagraph><subparagraph id="HC4A31771D0684446B411814B2395EC1F"><enum>(B)</enum><text>the Children’s Online Privacy Protection Act of 1998 (<external-xref legal-doc="usc" parsable-cite="usc/15/6501">15 U.S.C. 6501 et seq.</external-xref>) or any rule or regulation promulgated under such Act; or</text></subparagraph></paragraph><paragraph id="HB6FF38B1243D4625ACC5FF935247509B"><enum>(2)</enum><text>authorize any action that would conflict with section 18(h) of the Federal Trade Commission Act (<external-xref legal-doc="usc" parsable-cite="usc/15/57a">15 U.S.C. 57a(h)</external-xref>).</text></paragraph></section><section id="HDC56F8B56419447DBD2D9F3803F4AF3E" commented="no" display-inline="no-display-inline"><enum>108.</enum><header>Effective date</header><text display-inline="no-display-inline">This title shall take effect 1 year after the date of enactment of this Act.</text></section></title><title id="HF6D622B0EBAC43E5A99B41317DD7AD31" style="OLC"><enum>II</enum><header>Eyes on the Board Act of 2025</header><section id="HBD47B102994142A28AA281F0BFA87B70"><enum>201.</enum><header>Short title</header><text display-inline="no-display-inline">This title may be cited as the <quote><short-title>Eyes on the Board Act of 2025</short-title></quote>.</text></section><section id="H9A7047F2BA484991AB63F113D1D1989A"><enum>202.</enum><header>Updating the Children’s Internet Protection Act to include social media platforms</header><subsection commented="no" display-inline="no-display-inline" id="H8FAEC2488B584A61B810FD4EE8E55E7D">
+          <enum>(a)</enum>
+          <header display-inline="yes-display-inline">In general</header>
+ <text display-inline="yes-display-inline">Section 1721 of the Children’s Internet Protection Act (title XVII of <external-xref legal-doc="public-law" parsable-cite="pl/106/554">Public Law 106–554</external-xref>) is amended—</text>
+          <paragraph commented="no" display-inline="no-display-inline"
+            id="H6AA66BEC3E694EE78F92B6ACDF7638AA">
+            <enum>(1)</enum>
+ <text>by redesignating subsections (f) through (h) as subsections (g) through (i), respectively; and</text>
+          </paragraph>
+          <paragraph commented="no" display-inline="no-display-inline"
+            id="H292466A932414370AF37D5DC1ADD98D0">
+            <enum>(2)</enum>
+ <text display-inline="yes-display-inline">by inserting after subsection (e) the following:</text>
+            <quoted-block style="OLC" id="HB95616E6111B4C9C8208E633F081C7C8" act-name="">
+              <subsection id="HB195B5C4F9874835843ADA50A2B2D59B">
+                <enum>(f)</enum>
+                <header>Limitation on use of school broadband subsidies for access to social media
+                  platforms</header>
+                <paragraph id="HF1DC90E2A2FB458096EC3081ECD43F8F">
+                  <enum>(1)</enum>
+                  <header>Definitions</header>
+ <text>In this subsection:</text> <subparagraph commented="no" display-inline="no-display-inline" id="H4DD0FE57497A40D4B930DA98833DC506"> <enum>(A)</enum> <header>Commission</header> <text>The term <term>Commission</term> means the Federal Communications Commission.</text>
+                  </subparagraph>
+                  <subparagraph commented="no" display-inline="no-display-inline"
+                    id="H54D76DC194564C0182896CC01FDD213F">
+                    <enum>(B)</enum>
+                    <header>Section 254(h)</header>
+ <text display-inline="yes-display-inline">The term <term>section 254(h)</term> means section 254(h) of the Communications Act of 1934 (<external-xref legal-doc="usc" parsable-cite="usc/47/254">47 U.S.C. 254(h)</external-xref>).</text>
+                  </subparagraph>
+                  <subparagraph commented="no" display-inline="no-display-inline"
+                    id="H682CA1C31E334E44BB4292DA02A090CA">
+                    <enum>(C)</enum>
+                    <header display-inline="yes-display-inline">Social media platform</header>
+ <text>The term <term>social media platform</term>—</text> <clause id="H5CB0AD17A98A4A63A5FBF1C75C2A9B7D"> <enum>(i)</enum> <text>means any website, online service, online application, or mobile application that—</text>
+                      <subclause commented="no" display-inline="no-display-inline"
+                        id="H7B040F759A6A4196BFF4EBADD073A7AA">
+                        <enum>(I)</enum>
+ <text display-inline="yes-display-inline">serves the public; and</text> </subclause> <subclause commented="no" display-inline="no-display-inline" id="H485B646AA54744219E326E44D250A1F6"> <enum>(II)</enum> <text display-inline="yes-display-inline">primarily provides a forum for users to communicate user-generated content, including messages, videos, images, and audio files, to other online users; and</text>
+                      </subclause>
+                    </clause>
+                    <clause commented="no" display-inline="no-display-inline"
+                      id="H685F2C55DBE047DB8708E3A60B04D079">
+                      <enum>(ii)</enum>
+ <text display-inline="yes-display-inline">does not include—</text> <subclause id="H98F5A57369904D3E9048AA03F8258F4E"> <enum>(I)</enum> <text>an internet service provider;</text>
+                      </subclause>
+                      <subclause id="HAC08B3D21B6D41A5A552253DBF6B27EC">
+                        <enum>(II)</enum>
+ <text>electronic mail;</text> </subclause> <subclause id="H964B0DA0887E4EE58ED8F9A0A57F8B80"> <enum>(III)</enum> <text>an online service, application, or website—</text>
+                        <item id="HE3DBBD8D19194DD4BDCFAC7A700E7545">
+                          <enum>(aa)</enum>
+ <text>that consists primarily of content that is not user-generated, but is preselected by the provider; and</text>
+                        </item>
+                        <item commented="no" display-inline="no-display-inline"
+                          id="H41CD2F1D76D74E0CA7A767DD5089453F">
+                          <enum>(bb)</enum>
+ <text>for which any chat, comment, or interactive functionality is incidental to, directly related to, or dependent on the provision of content described in item (aa);</text>
+                        </item>
+                      </subclause>
+                      <subclause commented="no" display-inline="no-display-inline"
+                        id="HD5F87655F6B04D65AA413E76B2E1CA4C">
+                        <enum>(IV)</enum>
+ <text>an online service, application, or website—</text> <item commented="no" display-inline="no-display-inline" id="H3DF305D012084D5AB23BFD2A312FBD06"> <enum>(aa)</enum> <text display-inline="yes-display-inline">that is non-commercial and primarily designed for educational purposes; and</text>
+                        </item>
+                        <item commented="no" display-inline="no-display-inline"
+                          id="H12B1C21416B04EE095CF116E76429CFC">
+                          <enum>(bb)</enum>
+ <text>the revenue of which is not primarily derived from advertising or the sale of personal data;</text>
+                        </item>
+                      </subclause>
+                      <subclause commented="no" display-inline="no-display-inline"
+                        id="HF71391DC38E9488E9C1BFA58698708C6">
+                        <enum>(V)</enum>
+ <text display-inline="yes-display-inline">a wireless messaging service, including such a service provided through a short messaging service or multimedia service protocols—</text>
+                        <item commented="no" display-inline="no-display-inline"
+                          id="HD6A9032A90F64EC1870A2BE90B4FF398">
+                          <enum>(aa)</enum>
+ <text display-inline="yes-display-inline">that is not a component of, or linked to, a website, online service, online application, or mobile application described in clause (i); and</text>
+                        </item>
+                        <item commented="no" display-inline="no-display-inline"
+                          id="H49E133863EBA4B578C2FEBA77CB760F9">
+                          <enum>(bb)</enum>
+ <text>the predominant or exclusive function of which is direct messaging consisting of the transmission of text, photos, or videos that—</text>
+                          <subitem commented="no" display-inline="no-display-inline"
+                            id="H5E924D64296C401CBEA400B5C388AEF1">
+                            <enum>(AA)</enum>
+ <text display-inline="yes-display-inline">are sent by electronic means from the sender to a recipient; and</text>
+                          </subitem>
+                          <subitem commented="no" display-inline="no-display-inline"
+                            id="HA092DFF32EB74D77AC8EF3068C5117E6">
+                            <enum>(BB)</enum>
+ <text display-inline="yes-display-inline">are not posted publicly or on a website, online service, online application, or mobile application described in clause (i);</text>
+                          </subitem>
+                        </item>
+                      </subclause>
+                      <subclause commented="no" display-inline="no-display-inline"
+                        id="H628861FDBBF245F4A08F2F8D9B58197E">
+                        <enum>(VI)</enum>
+ <text>a teleconferencing or video conferencing service that allows for the reception and transmission of audio or video signals for real-time communication that is initiated by using a unique link or identifier to facilitate access;</text>
+                      </subclause>
+                      <subclause commented="no" display-inline="no-display-inline"
+                        id="HCDE50A894FEF49AB9AFBDA4FBB6363A3">
+                        <enum>(VII)</enum>
+ <text>a product or service that primarily functions as business-to-business software or a cloud storage, file sharing, or file collaboration service; or</text>
+                      </subclause>
+                      <subclause id="HD84B46615BAA46D680B1B7B286E13EDF">
+                        <enum>(VIII)</enum>
+ <text>an organization that is not organized to carry on business for the profit of the organization or of the members of the organization.</text>
+                      </subclause>
+                    </clause>
+                  </subparagraph>
+                  <subparagraph commented="no" display-inline="no-display-inline"
+                    id="HB98EB47A4C8E45AB8A3DD5BFC6EACB59">
+                    <enum>(D)</enum>
+                    <header>Technology protection measure</header>
+ <text>The term <term>technology protection measure</term> means a specific technology that blocks or filters access to a social media platform.</text>
+                  </subparagraph>
+                </paragraph>
+                <paragraph commented="no" display-inline="no-display-inline"
+                  id="H0C734BB522554215A99915B2930FE81E">
+                  <enum>(2)</enum>
+                  <header display-inline="yes-display-inline">Requirements with respect to social
+                    media platforms</header>
+                  <subparagraph commented="no" display-inline="no-display-inline"
+                    id="HE905164CF32F4D0C97C85E758488AE5C">
+                    <enum>(A)</enum>
+                    <header display-inline="yes-display-inline">In general</header>
+                    <clause commented="no" display-inline="no-display-inline"
+                      id="H16ED5E4F9A6B4AD0944F07B90F99EC8B">
+                      <enum>(i)</enum>
+                      <header display-inline="yes-display-inline">Certification required</header>
+ <text>An elementary or secondary school that is subject to paragraph (5) of section 254(h) may not receive services at discount rates under section 254(h) unless the school, school board, local educational agency, or other authority with responsibility for administration of the school—</text>
+                      <subclause commented="no" display-inline="no-display-inline"
+                        id="H7F330C4335CB4A4A9CA96C307156527B">
+                        <enum>(I)</enum>
+ <text display-inline="yes-display-inline">submits to the Commission the certification described in subparagraph (B); and</text>
+                      </subclause>
+                      <subclause commented="no" display-inline="no-display-inline"
+                        id="H847C1B59DD9A4B82B83B8547E5A43C1A">
+                        <enum>(II)</enum>
+ <text>ensures that the use of the school’s supported services, devices, and networks is in accordance with the certification described in subclause (I).</text>
+                      </subclause>
+                    </clause>
+                    <clause commented="no" display-inline="no-display-inline"
+                      id="H246EC504C9FE45DBB5FC5DC74DBDD917">
+                      <enum>(ii)</enum>
+                      <header>Rule of construction</header>
+ <text>Nothing in clause (i) may be construed to prohibit—</text> <subclause commented="no" display-inline="no-display-inline" id="HA3037DE6BE4041C8A1D53BE890E4B6E1"> <enum>(I)</enum> <text display-inline="yes-display-inline">district-sanctioned or school-sanctioned learning management systems and school information systems used for purposes of schools conveying content related to the education of students; or</text>
+                      </subclause>
+                      <subclause commented="no" display-inline="no-display-inline"
+                        id="H63B9BD97BA1C484FA453CEC2BC29CBC1">
+                        <enum>(II)</enum>
+ <text>a teacher from using a social media platform for educational instruction.</text>
+                      </subclause>
+                    </clause>
+                  </subparagraph>
+                  <subparagraph commented="no" display-inline="no-display-inline"
+                    id="H5825DDA2E4BF4D6FACE8D2BAEB546737">
+                    <enum>(B)</enum>
+                    <header>Certification with respect to students and social media</header>
+                    <clause commented="no" display-inline="no-display-inline"
+                      id="H112B4CD03D7542C4866E53D645257304">
+                      <enum>(i)</enum>
+                      <header display-inline="yes-display-inline">In general</header>
+ <text>A certification under this subparagraph is a certification that the applicable school, school board, local educational agency, or other authority with responsibility for administration of the school—</text>
+                      <subclause commented="no" display-inline="no-display-inline"
+                        id="H0E9ADCC34D9C4997BF391EB08A65EEB8">
+                        <enum>(I)</enum>
+ <text display-inline="yes-display-inline">is enforcing a policy of preventing students of the school from accessing social media platforms on any supported service, device, or network that includes—</text>
+                        <item commented="no" display-inline="no-display-inline"
+                          id="HDACD8114CFDD4E9FB28C102FCDAA37EE">
+                          <enum>(aa)</enum>
+ <text display-inline="yes-display-inline">monitoring the online activities of any such service, device, or network to determine if those students are accessing social media platforms; and</text>
+                        </item>
+                        <item commented="no" display-inline="no-display-inline"
+                          id="H1E01A5F2900D4510A4A5D2B13A1741FE">
+                          <enum>(bb)</enum>
+ <text display-inline="yes-display-inline">the operation of a technology protection measure with respect to those services, devices, and networks that protects against access by those students to a social media platform; and</text>
+                        </item>
+                      </subclause>
+                      <subclause commented="no" display-inline="no-display-inline"
+                        id="H7FF6D3DE9DAA4A61925BC4FC3F813D2A">
+                        <enum>(II)</enum>
+ <text>is enforcing the operation of the technology protection measure described in subclause (I) during any use of supported services, devices, or networks by students of the school.</text>
+                      </subclause>
+                    </clause>
+                    <clause commented="no" display-inline="no-display-inline"
+                      id="H8A06D93E0BB24F238F49831FC887BD9B">
+                      <enum>(ii)</enum>
+                      <header>Rule of construction</header>
+ <text>Nothing in this subparagraph may be construed to require the applicable school, school board, local educational agency, or other authority to track an individual website, online application, or mobile application that a student is attempting to access (or any search terms used by, or the browsing history of a student) beyond the identity of the website or application and whether access to the website or application is blocked by a technology protection measure because the website or application is a social media platform.</text>
+                    </clause>
+                  </subparagraph>
+                  <subparagraph commented="no" display-inline="no-display-inline"
+                    id="HBBA377D73AA34AC9A44124F0BB45805D">
+                    <enum>(C)</enum>
+                    <header>Timing of implementation</header>
+                    <clause commented="no" display-inline="no-display-inline"
+                      id="H3D3F5284FF4C4B35B45281C3FABF4728">
+                      <enum>(i)</enum>
+                      <header display-inline="yes-display-inline">In general</header>
+ <text>In the case of a school to which this paragraph applies, the certification under this paragraph shall be made—</text>
+                      <subclause commented="no" display-inline="no-display-inline"
+                        id="H789F6F23A5A84F23A5AD6E7041289522">
+                        <enum>(I)</enum>
+ <text display-inline="yes-display-inline">with respect to the first program funding year under section 254(h) after the date of enactment of the <short-title>Eyes on the Board Act of 2025</short-title>, not later than 120 days after the beginning of that program funding year; and</text>
+                      </subclause>
+                      <subclause commented="no" display-inline="no-display-inline"
+                        id="H52F9095AAF094A96935BAA65B9EEC636">
+                        <enum>(II)</enum>
+ <text>with respect to any subsequent funding year, as part of the application process for that program funding year.</text>
+                      </subclause>
+                    </clause>
+                    <clause commented="no" display-inline="no-display-inline"
+                      id="H0C0F1E613CD84A7A9CCA8F6224106DA2">
+                      <enum>(ii)</enum>
+                      <header>Process</header>
+                      <subclause commented="no" display-inline="no-display-inline"
+                        id="H09B3DFD93EE748FEB324F0BB77220E3C">
+                        <enum>(I)</enum>
+                        <header>Schools with measures in place</header>
+ <text>A school covered by clause (i) that has in place measures meeting the requirements necessary for certification under this paragraph shall certify its compliance with this paragraph during each annual program application cycle under section 254(h), except that, with respect to the first program funding year after the date of enactment of the <short-title>Eyes on the Board Act of 2025</short-title>, the certification shall be made not later than 120 days after the beginning of that first program funding year.</text>
+                      </subclause>
+                      <subclause commented="no" display-inline="no-display-inline"
+                        id="HA2459E9FCC7E47F2BE2D0C107C8D0C12">
+                        <enum>(II)</enum>
+                        <header>Schools without measures in place</header>
+                        <item commented="no" display-inline="no-display-inline"
+                          id="H370DCA3066DB47C1B8723BFA74D41E0C">
+                          <enum>(aa)</enum>
+                          <header display-inline="yes-display-inline">First 2 program years</header>
+ <text>A school covered by clause (i) that does not have in place measures meeting the requirements for certification under this paragraph—</text>
+                          <subitem commented="no" display-inline="no-display-inline"
+                            id="H8F721977B1654C5ABB4016A93B7EACCB">
+                            <enum>(AA)</enum>
+ <text display-inline="yes-display-inline">for the first program year after the date of enactment of the <short-title>Eyes on the Board Act of 2025</short-title> in which the school is applying for funds under section 254(h), shall certify that the school is undertaking such actions, including any necessary procurement procedures, to put in place measures meeting the requirements for certification under this paragraph; and</text>
+                          </subitem>
+                          <subitem commented="no" display-inline="no-display-inline"
+                            id="H27149F3C4F494C2682A6B5F1A12922ED">
+                            <enum>(BB)</enum>
+ <text>for the second program year after the date of enactment of the <short-title>Eyes on the Board Act of 2025</short-title> in which the school is applying for funds under section 254(h), shall certify that the school is in compliance with this paragraph.</text>
+                          </subitem>
+                        </item>
+                        <item commented="no" display-inline="no-display-inline"
+                          id="H024BF9B67003412CA9B0795639774286">
+                          <enum>(bb)</enum>
+                          <header>Subsequent program years</header>
+ <text>Any school that is unable to certify compliance with such requirements in such second program year shall be ineligible for services at discount rates or funding in lieu of services at such rates under section 254(h) for such second year and all subsequent program years under section 254(h), until such time as such school comes into compliance with this paragraph.</text>
+                        </item>
+                      </subclause>
+                      <subclause commented="no" display-inline="no-display-inline"
+                        id="H2A8C006940ED4285B7150D09843CB9AA">
+                        <enum>(III)</enum>
+                        <header>Waivers</header>
+ <text display-inline="yes-display-inline">Any school subject to subclause (II) that cannot come into compliance with subparagraph (B) in such second program year may seek a waiver of subclause (II)(aa)(BB) if State or local procurement rules or regulations or competitive bidding requirements prevent the making of the certification otherwise required by such subclause. A school, school board, local educational agency, or other authority with responsibility for administration of the school shall notify the Commission of the applicability of such subclause to the school. Such notice shall certify that the school in question will be brought into compliance before the start of the third program year after the date of enactment of the <short-title>Eyes on the Board Act of 2025</short-title> in which the school is applying for funds under section 254(h).</text>
+                      </subclause>
+                    </clause>
+                  </subparagraph>
+                  <subparagraph commented="no" display-inline="no-display-inline"
+                    id="H94718F579AE142A4BADA3A57EECCD696">
+                    <enum>(D)</enum>
+                    <header>Noncompliance</header>
+                    <clause commented="no" display-inline="no-display-inline"
+                      id="H84CF27363BDD492FBB5E280FE3E0F351">
+                      <enum>(i)</enum>
+                      <header>Failure to submit certification</header>
+ <text display-inline="yes-display-inline">Any school that knowingly fails to comply with the application guidelines regarding the annual submission of a certification required by this paragraph shall not be eligible for services at discount rates or funding in lieu of services at such rates under section 254(h).</text>
+                    </clause>
+                    <clause commented="no" display-inline="no-display-inline"
+                      id="HEA315C5B0185465789722DB027FEE982">
+                      <enum>(ii)</enum>
+                      <header>Failure to comply with certification</header>
+ <text display-inline="yes-display-inline">Any school that knowingly fails to ensure the use of its supported services, devices, and networks is in accordance with a certification under subparagraph (B) shall reimburse any funds and discounts received under section 254(h) for the period covered by such certification.</text>
+                    </clause>
+                    <clause commented="no" display-inline="no-display-inline"
+                      id="HC1F45F6008BF4A1B82F77C06921E0602">
+                      <enum>(iii)</enum>
+                      <header>Remedy of noncompliance</header>
+                      <subclause commented="no" display-inline="no-display-inline"
+                        id="H1B6A632703E94D5497DA47EE9DD4B024">
+                        <enum>(I)</enum>
+                        <header display-inline="yes-display-inline">Failure to submit</header>
+ <text display-inline="yes-display-inline">A school that has failed to submit a certification under clause (i) may remedy the failure by submitting the certification to which the failure relates. Upon submittal of such certification, the school shall be eligible for services at discount rates under section 254(h).</text>
+                      </subclause>
+                      <subclause commented="no" display-inline="no-display-inline"
+                        id="HF53B94EA4D294C6CB2A2EEC8F0259419">
+                        <enum>(II)</enum>
+                        <header>Failure to comply</header>
+ <text display-inline="yes-display-inline">A school that has failed to comply with a certification as described in clause (ii) may remedy the failure by ensuring that the use of its supported services, devices, and networks is in accordance with such certification. Upon submittal to the Commission of a certification or other appropriate evidence of such remedy, the school shall be eligible for services at discount rates under section 254(h).</text>
+                      </subclause>
+                    </clause>
+                  </subparagraph>
+                  <subparagraph id="H438879C65B4E4490BA26DEE66912E7A7">
+                    <enum>(E)</enum>
+                    <header>Rule of construction</header>
+ <text>Nothing in this paragraph may be construed to consider a school, school board, local educational agency, or other authority with responsibility for the administration of a school in violation of this paragraph, or subject to a delay in the processing of funding applications or requests for reimbursement, if that school, school board, local educational agency, or other authority makes a good faith effort to comply with this paragraph and to correct a known violation of this paragraph within a reasonable period of time.</text>
+                  </subparagraph>
+                </paragraph>
+                <paragraph id="HBFA2D5CB2AFD45F28F4F56F3F21A423F">
+                  <enum>(3)</enum>
+                  <header>Enforcement</header>
+                  <subparagraph commented="no" display-inline="no-display-inline"
+                    id="HAF917D4DEE0F49A5B1F5BE80F7DAD076">
+                    <enum>(A)</enum>
+                    <header>In general</header>
+ <text display-inline="yes-display-inline">The Commission shall—</text> <clause commented="no" display-inline="no-display-inline" id="H66906C3A0DD842C6AAB559B889C21DA3"> <enum>(i)</enum> <text display-inline="yes-display-inline">not later than 120 days after the date of enactment of the <short-title>Eyes on the Board Act of 2025</short-title>, amend the rules of the Commission to carry out this subsection; and</text>
+                    </clause>
+                    <clause commented="no" display-inline="no-display-inline"
+                      id="HCC03417188E74946B47E7B4781FE6EBD">
+                      <enum>(ii)</enum>
+ <text display-inline="yes-display-inline">subject to subparagraph (B), enforce this subsection, and any rules issued under this subsection, as if this subsection and those rules were part of the Communications Act of 1934 (<external-xref legal-doc="usc" parsable-cite="usc/47/151">47 U.S.C. 151 et seq.</external-xref>) or the rules issued under that Act.</text>
+                    </clause>
+                  </subparagraph>
+                  <subparagraph commented="no" display-inline="no-display-inline"
+                    id="H2BD1DF673A1343ACABFF3294930228CC">
+                    <enum>(B)</enum>
+                    <header>Limitations</header>
+                    <clause commented="no" display-inline="no-display-inline"
+                      id="H07671FB85456414EBB1B1D17156CCE83">
+                      <enum>(i)</enum>
+                      <header>Noncompliance despite good faith efforts</header>
+ <text display-inline="yes-display-inline">The Commission may not seek recovery of funding provided under section 254(h), or delay the processing of a funding application, because of the violation by a school, school board, local educational agency, or other authority with responsibility for administration of the school of any requirement of this subsection, or any rule issued under this subsection, if the school, school board, local educational agency, or other authority with responsibility for administration of the school made a good faith effort to comply with that requirement and correct any known violations of that requirement within a reasonable period of time.</text>
+                    </clause>
+                    <clause commented="no" display-inline="no-display-inline"
+                      id="H519C10C851A04979B90F155004085A0E">
+                      <enum>(ii)</enum>
+                      <header>Noncompliance without good faith efforts</header>
+ <text display-inline="yes-display-inline">With respect to any violation of a requirement of this subsection, or any rule issued under this subsection, in which a school, school board, local educational agency, or other authority with responsibility for administration of the school does not make a good faith effort to comply with that requirement, or does not correct any known violation of that requirement within a reasonable period of time, the Commission shall seek recovery of the funding provided to the school under section 254(h) for such period consistent with the remedy established under paragraph (2)(D)(iii).</text>
+                    </clause>
+                  </subparagraph>
+                </paragraph>
+                <paragraph commented="no" display-inline="no-display-inline"
+                  id="H229D0FF901234F6C88371E4C6ECB44BB">
+                  <enum>(4)</enum>
+                  <header>Exemption for certain libraries</header>
+ <text>Nothing in this subsection may be construed to require a library (as defined in section 213 of the Museum and Library Services Act (<external-xref legal-doc="usc" parsable-cite="usc/20/9122">20 U.S.C. 9122</external-xref>)), except a library of an elementary or secondary school, to comply with the requirements of this subsection or any rule issued under this subsection.</text>
+                </paragraph>
+              </subsection>
+              <after-quoted-block>.</after-quoted-block>
+            </quoted-block>
+          </paragraph>
+ </subsection><subsection commented="no" display-inline="no-display-inline" id="H4D09F99A73B741889B0BACAAD8E44550"><enum>(b)</enum><header>Technical and conforming amendments</header><text>Section 254(h) of the Communications Act of 1934 (<external-xref legal-doc="usc" parsable-cite="usc/47/254">47 U.S.C. 254(h)</external-xref>) is amended—</text><paragraph commented="no" display-inline="no-display-inline" id="HA3FE162A6DE5496487C30E880C1A608B"><enum>(1)</enum><text>in paragraph (5)(E)—</text><subparagraph commented="no" display-inline="no-display-inline" id="H227EB2E9CE85428DA24E0DCA0C3E08C7"><enum>(A)</enum><text display-inline="yes-display-inline">in clause (i), in the matter preceding subclause (I), by striking <quote>1721(h)</quote> and inserting <quote>1721(i)</quote>; and</text></subparagraph><subparagraph commented="no" display-inline="no-display-inline" id="HA4C8928453CC4D5F8E59A1E348DD9B09"><enum>(B)</enum><text>in clause (ii)(I), by striking <quote>1721(h)</quote> and inserting <quote>1721(i)</quote>; and</text></subparagraph></paragraph><paragraph commented="no" display-inline="no-display-inline" id="HCE5CC2A71D0F4F92BAE2C107F66BBA60"><enum>(2)</enum><text>in paragraph (6)(E)—</text><subparagraph commented="no" display-inline="no-display-inline" id="HD852AC38BF6040B5BBB1A869AF541649"><enum>(A)</enum><text display-inline="yes-display-inline">in clause (i), in the matter preceding subclause (I), by striking <quote>1721(h)</quote> and inserting <quote>1721(i)</quote>; and</text></subparagraph><subparagraph id="H4385902EFD4D4A79B8004B982956A35C" commented="no" display-inline="no-display-inline"><enum>(B)</enum><text>in clause (ii)(I), by striking <quote>1721(h)</quote> and inserting <quote>1721(i)</quote>.</text></subparagraph></paragraph></subsection></section><section id="HB8A41CF339064A07802CF22A89DDFECA"><enum>203.</enum><header>Internet safety policies</header><text display-inline="no-display-inline">Section 254 of the Communications Act of 1934 (<external-xref legal-doc="usc" parsable-cite="usc/47/254">47 U.S.C. 254</external-xref>) is amended—</text><paragraph id="H20C2DF1CAEB34141948E4A1D3B6E098E"><enum>(1)</enum><text>in subsection (h)(5)—</text><subparagraph id="HCE427886A63E4C329589D801CEA18865"><enum>(A)</enum><text>in subparagraph (A)(i)—</text><clause id="HC0AE427B7B2A4501AE5E6BE83DDEFB8F"> <enum>(i)</enum> <text>in subclause (I), by inserting <quote>and copies of the internet safety policy to which each such certification pertains</quote> before the semicolon at the end; and</text>
+ </clause><clause id="H3070E275846842E095C48BD6561136D4"><enum>(ii)</enum><text>in subclause (II)—</text><subclause id="HBD6C93CB4825480BBF8892FECADE69EC"><enum>(I)</enum><text>by striking <quote>Commission</quote> and all that follows through the end of the subclause and inserting the following:</text><quoted-block style="OLC" display-inline="yes-display-inline" id="HD03356C5AB5B48BEA02992CC6EA26B9F"><text>Commission—</text><item id="HA1391B41902B4A0E90CA549FCD058E61"> <enum>(aa)</enum> <text>a certification that an internet safety policy described in subclause (I) have been adopted and implemented for the school; and</text>
+ </item><after-quoted-block>; and</after-quoted-block></quoted-block></subclause><subclause id="H9A5D6F8F5FED4828BF4B3D159BFC8F0C"><enum>(II)</enum><text>by adding at the end the following:</text><quoted-block style="OLC" display-inline="no-display-inline" id="H3E12E1D4A8324F46BCF6C55950268C8D"><item id="H68CA3E737349419DB0606783590E2BD3"> <enum>(bb)</enum> <text>copies of the internet safety policy described in item (aa); and</text>
+ </item><after-quoted-block>; and</after-quoted-block></quoted-block></subclause></clause></subparagraph><subparagraph id="HC4C015C15F474545A82DBA0C9FE07F71"><enum>(B)</enum><text>by adding at the end the following:</text><quoted-block style="OLC" display-inline="no-display-inline" id="HD968C48DBF1E4A48AD38585FABD9ECD4"><subparagraph id="H8788A0BA76874FBCB9A7CF6F60AC3699"> <enum>(G)</enum> <header>Database of internet safety policies</header> <text>The Commission shall establish an easily accessible, public database that contains each internet safety policy submitted to the Commission under subclauses (I) and (II) of subparagraph (A)(i).</text>
+              </subparagraph>
+ <after-quoted-block>; and</after-quoted-block></quoted-block></subparagraph></paragraph><paragraph id="H670966D02BE64F24B63676A8EAEBD691"><enum>(2)</enum><text>in subsection (l), by striking paragraph (3) and inserting the following:</text><quoted-block style="OLC" display-inline="no-display-inline" id="H84E219DEA8A64D628D8462159D84575D"><paragraph id="H38D27B107D864A7F80AF6CE4A5669292"> <enum>(3)</enum> <header>Availability for review</header> <text>A copy of each internet safety policy adopted by a library under this subsection shall be made available to the Commission, upon request of the Commission, by the library for purposes of the review of the internet safety policy by the Commission.</text>
+ </paragraph><after-quoted-block>.</after-quoted-block></quoted-block></paragraph></section></title><title id="H9AA6740DF2D94661ABCD0439F5C6DD50" style="OLC"><enum>III</enum><header>Severability</header><section id="H1AA1A2AD626B4468B0D091EE833614E1" commented="no" display-inline="no-display-inline" section-type="subsequent-section"><enum>301.</enum><header>Severability</header><text display-inline="no-display-inline">If any provision of this Act is determined to be unenforceable or invalid, the remaining provisions of this Act shall not be affected.</text></section></title></legis-body></bill>
+

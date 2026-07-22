@@ -1,0 +1,77 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public" slc-id="S1-LIP26656-NDK-8L-HSN"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 S4594 IS: Subpoena Abuse Prevention Act</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2026-05-20</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">II</distribution-code><congress>119th CONGRESS</congress><session>2d Session</session><legis-num>S. 4594</legis-num><current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber><action><action-date date="20260520">May 20, 2026</action-date><action-desc><sponsor name-id="S247">Mr. Wyden</sponsor> (for himself and <cosponsor name-id="S410">Ms. Lummis</cosponsor>) introduced the following bill; which was read twice and referred to the <committee-name committee-id="SSJU00">Committee on the Judiciary</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title>To amend section 2703 of title 18, United States Code, to prohibit certain use of administrative subpoenas with respect to customer communications and records, and for other purposes.</official-title></form><legis-body><section id="S1" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Subpoena Abuse Prevention Act</short-title></quote>.</text></section><section id="id83e147f875d8429296ce4c9e9fa36f58"><enum>2.</enum><header>Reforming subpoenas</header><subsection commented="no" display-inline="no-display-inline" id="id38bae46b98514fb08570730e6a37c974"> <enum>(a)</enum> <header display-inline="yes-display-inline">Consistent protections for phone and app-Based call and texting records</header> <text display-inline="yes-display-inline">Section 2703(c)(2) of title 18, United States Code, is amended—</text>
+        <paragraph commented="no" display-inline="no-display-inline"
+          id="id3b9357e0f451494b9da3e918b4c85cb8">
+          <enum>(1)</enum>
+ <text display-inline="yes-display-inline">by striking subparagraph (C); and</text> </paragraph> <paragraph commented="no" display-inline="no-display-inline" id="idd4b1ba6e71cb42acbb9b6fdbed6bea5d"> <enum>(2)</enum> <text>by redesignating subparagraphs (D), (E), and (F) as subparagraphs (C), (D), and (E), respectively.</text>
+        </paragraph>
+ </subsection><subsection id="id5b43f96a25634455b4b5b324d4afe9c1"><enum>(b)</enum><header>Prohibiting the use of subpoenas for bulk collection of certain subscriber information</header><text display-inline="yes-display-inline">Section 2703(c)(2) of title 18, United States Code, as amended by subsection (a), is further amended in the matter following subparagraph (E), as so redesignated, by inserting <quote>, provided that for any administrative, grand jury, or trial subpoena, the governmental entity identifies the subscriber or customer by name, address, temporarily assigned network address, or account identifier (such as a username)</quote> before the period at the end.</text></subsection><subsection id="idbc11a061613a44b592b062762796f236"> <enum>(c)</enum> <header>Prohibiting the use of subpoenas with a purpose To investigate constitutionally protected activities</header> <text display-inline="yes-display-inline">Section 2703(c) of title 18, United States Code, is further amended by adding at the end the following:</text>
+        <quoted-block style="OLC" display-inline="no-display-inline"
+          id="id7b22e1469c134d0099498964d3b580f7">
+          <paragraph commented="no" display-inline="no-display-inline"
+            id="id498703a9a88a45d098805259fa066839">
+            <enum>(4)</enum>
+            <header>Protections for constitutionally protected activities</header>
+            <subparagraph commented="no" display-inline="no-display-inline"
+              id="id844de011af37410f93861c8e1e644aee">
+              <enum>(A)</enum>
+              <header>In general</header>
+ <text display-inline="yes-display-inline">A governmental entity may not use a subpoena to require the disclosures described in paragraph (2) if a purpose of the subpoena is to—</text>
+              <clause id="idafcf2aa5a351425aa8b7ea570fac4a36">
+                <enum>(i)</enum>
+ <text>investigate, monitor, or otherwise acquire information about activities, or any person's engagement in activities, that are exercises of free speech, press, religion, assembly, or petition, or are otherwise protected by the Constitution of the United States; or</text>
+              </clause>
+              <clause id="idd54d0cb3764946f0810bfad3a4166dab">
+                <enum>(ii)</enum>
+ <text>retaliate against any person for their engagement in activities that are exercises of free speech, press, religion, assembly, or petition, or are otherwise protected by the Constitution of the United States.</text>
+              </clause>
+            </subparagraph>
+            <subparagraph commented="no" display-inline="no-display-inline"
+              id="idde438ac0561544fd85b4ae5bf031e04a">
+              <enum>(B)</enum>
+              <header>Required certification</header>
+              <clause commented="no" display-inline="no-display-inline"
+                id="ide427f7caaa214bec8da2c07261c0473e">
+                <enum>(i)</enum>
+                <header>In general</header>
+ <text display-inline="yes-display-inline">A governmental entity using a subpoena to require the disclosures described in paragraph (2) from a service provider shall provide a certification under penalty of perjury attesting that the subpoena is being made for a legitimate and lawful purpose, and not with a purpose described in subparagraph (A)—</text>
+                <subclause commented="no" display-inline="no-display-inline"
+                  id="idec78d279a36c4699af07346a742aa846">
+                  <enum>(I)</enum>
+ <text display-inline="yes-display-inline">to the service provider; and</text> </subclause> <subclause commented="no" display-inline="no-display-inline" id="idc2b2a8ef7396438cbb68e1bac5e0df73"> <enum>(II)</enum> <text display-inline="yes-display-inline">when applying for a preclusion of notice order under section 2705(b), to the court in such application.</text>
+                </subclause>
+              </clause>
+              <clause commented="no" display-inline="no-display-inline"
+                id="ida7267bf013644f68b4e1ab8229f6df25">
+                <enum>(ii)</enum>
+                <header>Absence of certification</header>
+ <text display-inline="yes-display-inline">A subpoena to require the disclosures described in paragraph (2) from a service provider shall not be valid, and a preclusion of notice order under section 2705(b) for such subpoena shall not issue, unless the subpoena includes the certification described in clause (i).</text>
+              </clause>
+            </subparagraph>
+          </paragraph>
+          <after-quoted-block>.</after-quoted-block>
+        </quoted-block>
+ </subsection><subsection id="id78e496c8ca4847e99312425d8ff36a2c"><enum>(d)</enum><header>Required disclosures</header><text>Section 2703(c) of title 18, United States Code, is further amended by adding at the end the following:</text><quoted-block style="OLC" display-inline="no-display-inline" id="id4f81a749e061494db1f8dca2f8a12d80"><paragraph id="idcacf72cdd3b246f794220f4787ff9238"><enum>(5)</enum><header>Required disclosures to service provider</header><subparagraph commented="no" display-inline="no-display-inline" id="id38b11b5e25f747dcbc860d907a291da0"><enum>(A)</enum><header>In general</header><text display-inline="yes-display-inline">Except as provided in subparagraph (B)—</text><clause commented="no" display-inline="no-display-inline" id="id10c85590462040a2afc09b1ef848413e"><enum>(i)</enum><text display-inline="yes-display-inline">the service provider—</text><subclause commented="no" display-inline="no-display-inline" id="id42fb2704a4ad483c9536407bf004bc3f"><enum>(I)</enum><text display-inline="yes-display-inline">may notify a customer or subscriber of the receipt of the subpoena; and</text></subclause><subclause commented="no" display-inline="no-display-inline" id="idcbf96fcb3f1c44c785dafea864a62163"><enum>(II)</enum><text>may consult with an attorney in order to obtain legal advice or assistance regarding the subpoena; and</text></subclause></clause><clause commented="no" display-inline="no-display-inline" id="idf45efe353b754660b1c1b03668f8daee"><enum>(ii)</enum><text display-inline="yes-display-inline">the government entity shall inform the service provider that it—</text><subclause id="id934d6629a43144a6b3f5b3e37d8d7ecc"><enum>(I)</enum><text>is not being directed to not notify any other person of the existence of the subpoena;</text></subclause><subclause id="idd47d822b2f214a1ea00a0864a1e230c4"><enum>(II)</enum><text>may notify the customer or subscriber of the receipt of the subpoena; and</text></subclause><subclause id="id4671e585a05a4d398652e0aba556d8ae"><enum>(III)</enum><text>may consult with an attorney in order to obtain legal advice or assistance regarding the subpoena.</text></subclause></clause></subparagraph><subparagraph commented="no" display-inline="no-display-inline" id="id6c65d3036dfe4ff4a2ef310854ede66d"><enum>(B)</enum><header>Exception for nondisclosure orders</header><text display-inline="yes-display-inline">If a governmental entity described in subparagraph (A) obtains a preclusion of notice order under section 2705(b)—</text><clause commented="no" display-inline="no-display-inline" id="idc4b9f744da8f4ac0a6063e405444793f"><enum>(i)</enum><text display-inline="yes-display-inline">such order may limit the right of the service provider described in subparagraph (A)(i)(I); and</text></clause><clause commented="no" display-inline="no-display-inline" id="id90fbb6dc1f0742cda5123490bdeba4d5"><enum>(ii)</enum><text display-inline="yes-display-inline">the governmental entity shall modify the required disclosures described in subclauses (I) and (II) of subparagraph (A)(ii) to be consistent with the terms of the order.</text></clause></subparagraph></paragraph><after-quoted-block>.</after-quoted-block></quoted-block></subsection><subsection id="id404e725b7e5d43b5b53830d33c9156b8"><enum>(e)</enum><header>Public reporting of use of administrative subpoenas</header><text>Section 2703(c) of title 18, United States Code, is further amended by adding at the end the following:</text><quoted-block style="OLC" display-inline="no-display-inline" id="id70e92e1df4f840df917013f8a279c7f5"><paragraph id="idcd4498a002494135905c1e5e669a0196"> <enum>(6)</enum> <header>Reporting of Federal use of administrative subpoenas</header> <text>Each Federal governmental entity that uses an administrative subpoena to require the disclosure of information under this subsection shall annually publicly publish a report containing, for the 1-year period preceding the date of the report—</text>
+            <subparagraph id="idc24b3e0a58624fd38115a5b5333296d5">
+              <enum>(A)</enum>
+ <text>the number of administrative subpoenas issued by the governmental entity, disaggregated by the statutory authority under which the administrative subpoenas were issued; and</text>
+            </subparagraph>
+            <subparagraph id="id21c1de311d0c483c81c6a5ce375e25d9">
+              <enum>(B)</enum>
+ <text>the number of accounts for which the governmental entity received information through an administrative subpoena, disaggregated by the statutory authority under which the administrative subpoenas were issued.</text>
+            </subparagraph>
+          </paragraph><after-quoted-block>.</after-quoted-block></quoted-block></subsection></section></legis-body></bill>
+
