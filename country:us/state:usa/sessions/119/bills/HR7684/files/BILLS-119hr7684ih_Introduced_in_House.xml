@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" public-private="public" dms-id="HC37C78BC0496466A8439E3FCE104DCFE">
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 HR 7684 IH: Standardized Calculation of Operational Polluting Emissions Act of 2026</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2026-02-25</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code>
+<congress display="yes">119th CONGRESS</congress><session display="yes">2d Session</session>
+<legis-num display="yes">H. R. 7684</legis-num>
+<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+<action display="yes">
+<action-date date="20260225">February 25, 2026</action-date>
+<action-desc><sponsor name-id="B001292">Mr. Beyer</sponsor> (for himself, <cosponsor name-id="M001225">Mr. Mullin</cosponsor>, and <cosponsor name-id="K000391">Mr. Krishnamoorthi</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HIF00">Committee on Energy and Commerce</committee-name></action-desc>
+</action>
+<legis-type>A BILL</legis-type>
+<official-title display="yes">To direct the Administrator of the Environmental Protection Agency to conduct a study, and publish guidance on, calculating and reporting scope 3 emissions.</official-title>
+</form>
+<legis-body id="H2800BBFD59D046DDB845D62A257C6FA5">
+<section section-type="section-one" id="H4E37B29FDBF34369AD1B452F392E080D"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Standardized Calculation of Operational Polluting Emissions Act of 2026</short-title></quote> or the <quote><short-title>SCOPE Act of 2026</short-title></quote>.</text></section> <section id="H35BAA6EA387C4C96B8128B5813273DAC"><enum>2.</enum><header>Study and guidance on scope 3 emissions</header> <subsection id="H1183959DD456478DB8A87FA541C2E9C7"><enum>(a)</enum><header>Definitions</header><text display-inline="yes-display-inline">In this section:</text>
+<paragraph commented="no" display-inline="no-display-inline" id="HEDD987C14EED4E0D91F4C8AF287EE072"><enum>(1)</enum><header>Administrator</header><text>The term <term>Administrator</term> means the Administrator of the Environmental Protection Agency.</text></paragraph> <paragraph id="H77685BA94F6445A8B2E0E9218A6A7D88"><enum>(2)</enum><header>Direct emitter</header><text>The term <term>direct emitter</term> means—</text>
+<subparagraph id="H46165B8E1D1643439686A7064188E8A5"><enum>(A)</enum><text display-inline="yes-display-inline">a facility—</text> <clause id="H864BEFA9D6B34411B5522195E5D317DE"><enum>(i)</enum><text>that is in 1 of the source categories described in any of subparts C through JJ of part 98 of title 40, Code of Federal Regulations (or successor regulations); and</text></clause>
+<clause id="H920441F39CB846B2972591C940D9C99F"><enum>(ii)</enum><text>with respect to which the greenhouse gas reporting requirements and related monitoring, recordkeeping, and reporting requirements of that part apply; and</text></clause></subparagraph> <subparagraph id="HA549AA391C484C1D9E10AD0433DE48E6"><enum>(B)</enum><text>any other facility the Administrator determines appropriate.</text></subparagraph></paragraph>
+<paragraph id="H1C9678C78FCC40F6AE5DFE2DA3821D53"><enum>(3)</enum><header>Greenhouse gas</header><text display-inline="yes-display-inline">The term <term>greenhouse gas</term> means the air pollutants (as defined in section 302 of the Clean Air Act (<external-xref legal-doc="usc" parsable-cite="usc/42/7602">42 U.S.C. 7602</external-xref>)) carbon dioxide, hydrofluorocarbons, methane, nitrous oxide, perfluorocarbons, and sulfur hexafluoride.</text></paragraph> <paragraph id="HF9239A61D73C477098E70032E587C74B" commented="no" display-inline="no-display-inline"><enum>(4)</enum><header>Scope 3 emissions</header><text display-inline="yes-display-inline">The term <term>scope 3 emissions</term> means indirect greenhouse gas emissions resulting from upstream and downstream value chain activities, as determined by the Administrator.</text></paragraph></subsection>
+<subsection id="H81F38FF925CD47B2BF2629A49E8E26F0"><enum>(b)</enum><header>Study; guidance</header><text display-inline="yes-display-inline">Not later than 1 year after the date of enactment of this Act, the Administrator shall conduct a study on, and publish guidance with respect to, calculating and reporting, for direct emitters, scope 3 emissions above thresholds the Administrator determines appropriate.</text></subsection> <subsection id="HC1F19659200E4DDD8632163763F354A3"><enum>(c)</enum><header>Inclusions</header><text display-inline="yes-display-inline">The guidance published under subsection (b) shall include—</text>
+<paragraph id="H854AFFF1C6634387819E314B6F6D2623"><enum>(1)</enum><text display-inline="yes-display-inline">thresholds of scope 3 emissions above which reporting to the Environmental Protection Agency is recommended;</text></paragraph> <paragraph id="H835BB4570C46435BBBF9E17C38D4B14D"><enum>(2)</enum><text display-inline="yes-display-inline">calculation methodologies for scope 3 emissions based on source categories;</text></paragraph>
+<paragraph id="H208FD489ABCF4FCC94419D672E551269"><enum>(3)</enum><text>recommendations on frequency of monitoring scope 3 emissions;</text></paragraph> <paragraph commented="no" id="H05DBEB56C0294C47A8442DF1C468EADF"><enum>(4)</enum><text>quality assurance and control guidance for scope 3 emissions data;</text></paragraph>
+<paragraph id="H5B369EFA8267469E8DA078BA14E3C0F9"><enum>(5)</enum><text>methodologies for estimating missing scope 3 emissions data; and</text></paragraph> <paragraph id="H74D52818ACD84A53A3E74AC32E57D050"><enum>(6)</enum><text display-inline="yes-display-inline">guidance for recordkeeping for scope 3 emissions data and reporting of those data.</text></paragraph></subsection>
+<subsection id="HFF6A1F63ECB744F996EE8292DCC1D9EA"><enum>(d)</enum><header>Savings provision</header><text display-inline="yes-display-inline">Nothing in this section affects the authority of the President, any Federal agency, or any State under existing law.</text></subsection></section> </legis-body> </bill>
+

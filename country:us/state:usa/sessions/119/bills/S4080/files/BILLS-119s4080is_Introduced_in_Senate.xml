@@ -1,0 +1,143 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-type="olc" bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public" slc-id="S1-GAI26151-SR8-KD-82T"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 S4080 IS: Rental Housing Investment Act</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2026-03-12</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">II</distribution-code><congress>119th CONGRESS</congress><session>2d Session</session><legis-num>S. 4080</legis-num><current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber><action><action-date date="20260312">March 12, 2026</action-date><action-desc><sponsor name-id="S430">Ms. Blunt Rochester</sponsor> introduced the following bill; which was read twice and referred to the <committee-name committee-id="SSFI00">Committee on Finance</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title>To amend the Internal Revenue Code of 1986 to provide bonus depreciation for long-term residential rental housing.</official-title></form><legis-body style="OLC" display-enacting-clause="yes-display-enacting-clause" id="HDFFAFEFE07584E86B49A119311A13E1A"><section section-type="section-one" id="H96EF64F5FBE043B4A00ADC886B1A0755"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Rental Housing Investment Act</short-title></quote>.</text></section><section id="HBC47AED7E5DD4B84ADCAA8CE78A13D42"><enum>2.</enum><header>Tax incentives for long-term residential rental housing</header><subsection id="ID7F8EFBD13C2E4CD9ADD90CCD159A0298"><enum>(a)</enum><header>Special depreciation allowance</header><paragraph commented="no" display-inline="no-display-inline" id="id72ccbbab76414dc48d8483c7dad2f739"><enum>(1)</enum><header>In general</header><text display-inline="yes-display-inline"><external-xref legal-doc="usc" parsable-cite="usc/26/168">Section 168</external-xref> of the Internal Revenue Code of 1986, as amended by section 70307 of <external-xref legal-doc="public-law" parsable-cite="pl/119/21">Public Law 119–21</external-xref>, is amended by adding at the end the following new subsection:</text><quoted-block id="ID5EA7588BAB584386A50689290249F34C" display-inline="no-display-inline" style="OLC"><subsection id="ID74DE5E0CB3934DBCBD0AAB648D183305"> <enum>(o)</enum> <header>Special allowance for long-Term residential rental property</header> <paragraph id="ID2B928F0D7EF34280A2F3881B426C9E2F"> <enum>(1)</enum> <header>In general</header> <text>In the case of any long-term residential rental property of a taxpayer making an election under this subsection—</text>
+                <subparagraph id="IDE9D4E44C68BC4C9D884DEC908CC26314">
+                  <enum>(A)</enum>
+ <text>the depreciation deduction provided by section 167(a) for the taxable year in which such property is placed in service shall include an allowance equal to the lesser of—</text>
+                  <clause commented="no" display-inline="no-display-inline"
+                    id="id2618e0bc3fe74a74a191b8261493248d">
+                    <enum>(i)</enum>
+ <text display-inline="yes-display-inline">an amount equal to the product of—</text>
+                    <subclause commented="no" display-inline="no-display-inline"
+                      id="idcc650cd840104c26bff153ba4302c883">
+                      <enum>(I)</enum>
+ <text display-inline="yes-display-inline">the total number of dwelling units in the long-term residential rental property, multiplied by</text>
+                    </subclause>
+                    <subclause commented="no" display-inline="no-display-inline"
+                      id="id564404687ee24afc9e8a6296ae45b85c">
+                      <enum>(II)</enum>
+ <text>$150,000, or</text> </subclause> </clause> <clause commented="no" display-inline="no-display-inline" id="id77e36a9ac18e4ebbb6c100926aad5857"> <enum>(ii)</enum> <text display-inline="yes-display-inline">100 percent of the adjusted basis of the long-term residential rental property (other than land), and</text>
+                  </clause>
+                </subparagraph>
+                <subparagraph id="ID7C7D8E7E6B11476DA86FAE9A1D4E8B78">
+                  <enum>(B)</enum>
+ <text>the adjusted basis of the long-term residential rental property shall be reduced by the amount of such deduction before computing the amount otherwise allowable as a depreciation deduction under this chapter for such taxable year and any subsequent taxable year.</text>
+                </subparagraph>
+              </paragraph>
+              <paragraph id="IDB5B86888D17C40C7976EAC9EDFCDB795">
+                <enum>(2)</enum>
+                <header>Long-term residential rental property</header>
+ <text>For purposes of this subsection, the term <term>long-term residential rental property</term> means property—</text>
+                <subparagraph id="IDBA0DFA95EEB14BDDADB3BF016D4F2F89">
+                  <enum>(A)</enum>
+ <text>to which this section applies,</text> </subparagraph> <subparagraph id="ID165AAB980B304340BBD29E94B96C0218"> <enum>(B)</enum> <text>which is placed in service in the United States after the date of enactment of this subsection,</text>
+                </subparagraph>
+                <subparagraph commented="no" display-inline="no-display-inline"
+                  id="idb484fb02fee64eb3907ad810d5634dfa">
+                  <enum>(C)</enum>
+ <text>which—</text> <clause commented="no" display-inline="no-display-inline" id="id4de34b7a4938414a84bc7ac5a53e1453"> <enum>(i)</enum> <text display-inline="yes-display-inline">is used as residential rental property (as defined in subsection (e)(2)(A)), and</text>
+                  </clause>
+                  <clause commented="no" display-inline="no-display-inline"
+                    id="id00c4e5cd36704cec97b870bf50798319">
+                    <enum>(ii)</enum>
+ <text display-inline="yes-display-inline">consists of not less than 2 dwelling units,</text>
+                  </clause>
+                </subparagraph>
+                <subparagraph id="ID9BB9A430D9AE43B9BFB688893C6BC6B9">
+                  <enum>(D)</enum>
+ <text>the original use of which commences with the taxpayer, and</text> </subparagraph> <subparagraph id="ID9A08494A806E4129B4CA3A82E026B008"> <enum>(E)</enum> <text>which is designated by the taxpayer in the election made under this subsection.</text>
+                </subparagraph>
+              </paragraph>
+              <paragraph id="IDD94652674854459EAB65844E2B9A6C8C">
+                <enum>(3)</enum>
+                <header>Deduction allowed in computing minimum tax</header>
+ <text>For purposes of determining alternative minimum taxable income under section 55, the deduction under section 167 for long-term residential rental property shall be determined under this section without regard to any adjustment under section 56.</text>
+              </paragraph>
+              <paragraph id="IDAA9C0BB899C449208542FF5648410157">
+                <enum>(4)</enum>
+                <header>Recapture</header>
+ <text>If, at any time during the 10-year period beginning on the date that any long-term residential rental property is placed in service by the taxpayer, such property ceases to be used as described in paragraph (2)(C)—</text>
+                <subparagraph id="ID98C311CEC917476391FB2EC9B1EFAD7A">
+                  <enum>(A)</enum>
+ <text>section 1245 shall be applied—</text> <clause id="IDEF2B160243864482AFE04B0A58AA0924"> <enum>(i)</enum> <text>by treating such property as having been disposed of by the taxpayer as of the first time such property is so used, and</text>
+                  </clause>
+                  <clause id="ID4D4C7DE1448F49A4B162D5768CA50C0A">
+                    <enum>(ii)</enum>
+ <text>by treating the amount described in subparagraph (B) of section 1245(a)(1) with respect to such disposition as being not less than the amount described in subparagraph (A) of such section, and</text>
+                  </clause>
+                </subparagraph>
+                <subparagraph id="ID667D0A177F994603920ABDADF7D660BD">
+                  <enum>(B)</enum>
+ <text>the basis of the taxpayer in such property, and the taxpayer's allowance for depreciation with respect to such property, shall be appropriately adjusted to take into account amounts recognized by reason of subparagraph (A).</text>
+                </subparagraph>
+              </paragraph>
+              <paragraph commented="no" display-inline="no-display-inline"
+                id="idaa07bf2be42247358540b7a52cd9dd15">
+                <enum>(5)</enum>
+                <header>Additional amount for affordable housing</header>
+                <subparagraph commented="no" display-inline="no-display-inline"
+                  id="idb9b9576555d8421b8f4d5e527a32baaf">
+                  <enum>(A)</enum>
+                  <header display-inline="yes-display-inline">In general</header>
+ <text>In the case of any long-term residential rental property which is part of a project which meets any of the requirements described in subparagraph (A), (B), or (C) of section 42(g)(1), as elected by the taxpayer, paragraph (1)(A)(i)(II) shall be applied with respect to such property by substituting <quote>$250,000</quote> for <quote>$150,000</quote>.</text>
+                </subparagraph>
+                <subparagraph commented="no" display-inline="no-display-inline"
+                  id="id9e35445bd0074266acae2d3a3227d7ce">
+                  <enum>(B)</enum>
+                  <header>Extended recapture period</header>
+ <text>In the case of any long-term residential rental property described in subparagraph (A), if, at any time during the 15-year period beginning on the date that such property is placed in service by the taxpayer, such property ceases to satisfy the requirements described in such subparagraph, subparagraphs (A) and (B) of paragraph (4) shall apply.</text>
+                </subparagraph>
+              </paragraph>
+              <paragraph commented="no" display-inline="no-display-inline"
+                id="id411b6ce8e718477bbbbe0e14a349e6cf">
+                <enum>(6)</enum>
+                <header display-inline="yes-display-inline">Election</header>
+                <subparagraph commented="no" display-inline="no-display-inline"
+                  id="id79bfbe43ac07442db31e8a7f05ded04f">
+                  <enum>(A)</enum>
+                  <header>In general</header>
+ <text>An election under this subsection for any taxable year shall—</text> <clause id="id45f3297768da45cb99fd55d4ffa8eaba"> <enum>(i)</enum> <text>specify the property subject to the election, and</text>
+                  </clause>
+                  <clause id="id574de30acd0748ca9326a3efedcdf2d5">
+                    <enum>(ii)</enum>
+ <text>except as otherwise provided by the Secretary, be made on the taxpayer's return of the tax imposed by this chapter for the taxable year.</text>
+                  </clause>
+                  <continuation-text continuation-text-level="subparagraph">Such election shall be
+                    made in such manner as the Secretary may prescribe by regulations or other
+                    guidance.</continuation-text>
+                </subparagraph>
+                <subparagraph id="id48154b8f6fbe4f4ab4839a7dcd3a1f6f">
+                  <enum>(B)</enum>
+                  <header>Election</header>
+ <text>Any election made under this subsection, and any specification contained in any such election, may not be revoked except with the consent of the Secretary (and the Secretary shall provide such consent only in extraordinary circumstances).</text>
+                </subparagraph>
+              </paragraph>
+              <paragraph id="ID5736C71092FE405E9E40B709593BC7B2">
+                <enum>(7)</enum>
+                <header>Regulations</header>
+ <text>The Secretary shall issue such regulations or other guidance as may be necessary or appropriate to carry out the purposes of this subsection, including regulations or other guidance regarding—</text>
+                <subparagraph commented="no" display-inline="no-display-inline"
+                  id="idc8beb1cce5e64c95868f3947da15a67b">
+                  <enum>(A)</enum>
+ <text display-inline="yes-display-inline">the application of paragraph (5) in a manner which is consistent with the application of section 42(g), and</text>
+                </subparagraph>
+                <subparagraph commented="no" display-inline="no-display-inline"
+                  id="ida856657ccc964a67929e843079b657dc">
+                  <enum>(B)</enum>
+ <text display-inline="yes-display-inline">certification of compliance with the requirements under such paragraph.</text>
+                </subparagraph>
+              </paragraph>
+ </subsection><after-quoted-block>.</after-quoted-block></quoted-block></paragraph><paragraph id="IDAB09D4AE3F6848308BA986F433289A01"><enum>(2)</enum><header>Treatment of long-term residential rental property as section 1245 property</header><text><external-xref legal-doc="usc" parsable-cite="usc/26/1245">Section 1245(a)(3)</external-xref> of the Internal Revenue Code of 1986 is amended by striking <quote>or</quote> at the end of subparagraph (F), by striking the period at the end of subparagraph (G) and inserting <quote>, or</quote>, and by adding at the end the following new subparagraph:</text><quoted-block id="ID010F23B0A70A466CAB741FF485D632B5" display-inline="no-display-inline" style="OLC"><subparagraph id="ID33781F4916BF4A3086745447FA4CD78E"><enum>(H)</enum><text>any long-term residential rental property (as defined in section 168(o)(2)).</text></subparagraph><after-quoted-block>.</after-quoted-block></quoted-block></paragraph></subsection><subsection id="ID879115FD6D304AE5A346439C0CA391F1"><enum>(b)</enum><header>Effective date</header><text>The amendments made by this section shall apply to property placed in service after the date which is 12 months after the date of the enactment of this Act.</text></subsection></section></legis-body></bill>
+

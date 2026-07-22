@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public" slc-id="S1-BON25534-SVW-DX-WDC">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 S3124 IS: Protection on the Picket Line Act</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2025-11-06</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+        <distribution-code>II</distribution-code>
+        <congress>119th CONGRESS</congress>
+        <session>1st Session</session>
+        <legis-num>S. 3124</legis-num>
+        <current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+        <action>
+            <action-date date="20251106">November 6, 2025</action-date>
+            <action-desc><sponsor name-id="S412">Mr. Tuberville</sponsor> (for himself and
+                    <cosponsor name-id="S373">Mr. Cassidy</cosponsor>) introduced the following
+                bill; which was read twice and referred to the <committee-name committee-id="SSHR00">Committee on Health, Education, Labor, and
+                Pensions</committee-name></action-desc>
+        </action>
+        <legis-type>A BILL</legis-type>
+        <official-title>To amend the National Labor Relations Act to protect employees from
+            harassment and abuse, and for other purposes.</official-title>
+    </form>
+    <legis-body>
+        <section id="S1" section-type="section-one">
+            <enum>1.</enum>
+            <header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Protection on the Picket Line Act</short-title></quote>.</text>
+        </section>
+        <section commented="no" display-inline="no-display-inline" id="id0422d21d649e4252b1ddd2152688c2b0">
+            <enum>2.</enum>
+            <header>Protecting employees from harassment and abuse</header>
+ <text display-inline="no-display-inline">Section 8 of the National Labor Relations Act (<external-xref legal-doc="usc" parsable-cite="usc/29/158">29 U.S.C. 158</external-xref>) is amended by adding at the end the following:</text>
+            <quoted-block style="OLC" display-inline="no-display-inline" id="idcbd9b12153614a258fac6cabc94f90c0">
+                <subsection commented="no" display-inline="no-display-inline" id="idc4cf60ec8c894ee3a38116f23d9b3f4e">
+                    <enum>(h)</enum>
+ <text>In any case in which an employer takes disciplinary action against an employee for harassment or abuse that occurs in the course of activity protected under section 7, it shall not be an unfair labor practice under this section for the employer to take such disciplinary action unless—</text>
+                    <paragraph commented="no" display-inline="no-display-inline" id="ida27dfe35063d457c8c2335bf83452cd6">
+                        <enum>(1)</enum>
+ <text display-inline="yes-display-inline">the General Counsel makes an initial showing that—</text>
+                        <subparagraph commented="no" display-inline="no-display-inline" id="id053db287c24d4c8684ccde2d656212e4">
+                            <enum>(A)</enum>
+ <text>the employee engaged in activity protected under section 7;</text> </subparagraph> <subparagraph commented="no" display-inline="no-display-inline" id="id9c46ddf642dd46449c43800c42fce261"> <enum>(B)</enum> <text display-inline="yes-display-inline">the employer knew of that activity; and</text>
+                        </subparagraph>
+                        <subparagraph commented="no" display-inline="no-display-inline" id="iddfcaa553dfa84fd9a86c67534ad5e352">
+                            <enum>(C)</enum>
+ <text display-inline="yes-display-inline">the employer had animus against that activity, as proven with evidence sufficient to establish a causal relationship between the disciplinary action and the activity protected under section 7; and</text>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph commented="no" display-inline="no-display-inline" id="id4dd5eb873f40474fac83b38cd4ce2c95">
+                        <enum>(2)</enum>
+ <text>the employer has not met the burden of persuasion to prove that the employer would have taken the same disciplinary action in the absence of the activity protected under section 7.</text>
+                    </paragraph>
+                </subsection>
+                <after-quoted-block>.</after-quoted-block>
+            </quoted-block>
+        </section>
+    </legis-body>
+</bill>
+
