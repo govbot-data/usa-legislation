@@ -1,0 +1,125 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="HD143C3D5363A43979038136B3B53C82E" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 HR 7462 IH: Farmers’ Assistance and Immediate Disaster Relief Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2026-02-10</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">119th CONGRESS</congress><session display="yes">2d Session</session><legis-num display="yes">H. R. 7462</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20260210">February 10, 2026</action-date><action-desc><sponsor name-id="C001103">Mr. Carter of Georgia</sponsor> (for himself, <cosponsor name-id="B000490">Mr. Bishop</cosponsor>, and <cosponsor name-id="A000372">Mr. Allen</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HAG00">Committee on Agriculture</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To amend the Federal Crop Insurance Act to direct the Secretary of Agriculture to use certain data sets when determining eligibility related to indemnity payments under the Hurricane Insurance Protection-Wind Index endorsement, and for other purposes.</official-title></form><legis-body id="HA6904A3EA8CA40F3B573E514BDADD241" style="OLC"> 
+<section id="HE017708FEA904331BB2C0A9C2C1F07D6" section-type="section-one"><enum>1.</enum><header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Farmers’ Assistance and Immediate Disaster Relief Act</short-title></quote> or the <quote><short-title>Farmers’ AID Relief Act</short-title></quote>.</text></section> 
+<section id="H0DE70403D03B44E588EA8DA4514AD5EE">
+      <enum>2.</enum>
+      <header>Hurricane Insurance Protection-Wind Index endorsement</header>
+      <subsection id="H0EAFC81F0ED1461D8AC9B92D38D5F1CD">
+        <enum>(a)</enum>
+        <header>In general</header>
+ <text display-inline="yes-display-inline">Section 508 of the Federal Crop Insurance Act (<external-xref legal-doc="usc" parsable-cite="usc/7/1508">7 U.S.C. 1508</external-xref>) is amended by adding at the end the following:</text>
+        <quoted-block style="OLC" id="H563FB034F2ED4B539EED638502D2C4B3"
+          display-inline="no-display-inline">
+          <subsection id="HB4EDFD1CB1374261A7B8BEF22ACD29BC">
+            <enum>(q)</enum>
+            <header>Hurricane Insurance Protection-Wind Index endorsement</header>
+            <paragraph id="HF95C7BD882014C8C907FD7DDEF5F0829">
+              <enum>(1)</enum>
+              <header>Determination of payment eligibility</header>
+              <subparagraph id="H8DBD744BE52A41899A3BA3A60BF9EB8D" commented="no">
+                <enum>(A)</enum>
+                <header>In general</header>
+ <text>Beginning with crop year 2027, in determining whether a county is eligible with respect to a hurricane weather event for an indemnity payment under HIP–WI, the Secretary shall—</text>
+                <clause id="H22EE64D8A3CA41CEAC468CD409B6AE5B" commented="no">
+                  <enum>(i)</enum>
+ <text display-inline="yes-display-inline">use the IBTrACS data set; or</text> </clause> <clause id="H3F28AFAF42AD4F268E0D2269DA4550F3" commented="no"> <enum>(ii)</enum> <text>subject to subparagraph (B), use the alternative data set compiled pursuant to paragraph (2).</text>
+                </clause>
+              </subparagraph>
+              <subparagraph id="H1C32FDC231AA48EF9D907A18540CFEC4">
+                <enum>(B)</enum>
+                <header>Condition for use of alternative data set</header>
+ <text>For purposes of subparagraph (A)(ii), the Secretary may only use the alternative data set compiled pursuant to paragraph (2) if—</text>
+                <clause id="HFAFE659B2E344268B95EBAF1E2117D93">
+                  <enum>(i)</enum>
+ <text display-inline="yes-display-inline">the data set specified in subparagraph (A)(i) is incomplete, as determined by the Secretary; and</text>
+                </clause>
+                <clause id="HFF9632596D7C44BEB2C70D54F8F5501F">
+                  <enum>(ii)</enum>
+ <text>one of the following conditions is met:</text> <subclause id="HDEE3A5B16DBB49E688B83A976842B65E"> <enum>(I)</enum> <text display-inline="yes-display-inline">A weather station operated by National Weather Service in the county subject to the determination of eligibility in subparagraph (A), or an adjacent county, was damaged.</text>
+                  </subclause>
+                  <subclause id="HEED9FC8FC348454BBB2CD3DAF86D88A2">
+                    <enum>(II)</enum>
+ <text display-inline="yes-display-inline">Any other source of data for making such determination in such county or an adjacent county was damaged.</text>
+                  </subclause>
+                  <subclause id="H5937D3DC587444A5BE18704F9C06D1B9">
+                    <enum>(III)</enum>
+ <text>Any such station or other source provided incomplete data, as determined by the Secretary.</text>
+                  </subclause>
+                </clause>
+              </subparagraph>
+            </paragraph>
+            <paragraph id="H23EA1307D9F4497781B1C37DED324E52">
+              <enum>(2)</enum>
+              <header>Compilation of alternative data set</header>
+ <text display-inline="yes-display-inline">For purposes of determining eligibility under paragraph (1)(A)(ii), the Secretary shall compile, and make available to the public on the website of the Department related to HIP–WI, an alternative data set for the hurricane weather event prompting such determination using data that—</text>
+              <subparagraph id="H5F264B5D771646F4BA6BADF5CF2E609D">
+                <enum>(A)</enum>
+ <text>is collected for a specified time period during such weather event, as determined by the Secretary;</text>
+              </subparagraph>
+              <subparagraph id="H54A3B8B8A7604098A1C395C5FFD5C205">
+                <enum>(B)</enum>
+ <text display-inline="yes-display-inline">contains the same types of data contained in the IBTrACS data set; and</text>
+              </subparagraph>
+              <subparagraph id="H2C1E88BA1D094A068B311459C571A65B">
+                <enum>(C)</enum>
+ <text>is consistent with the form of such types of data, as determined by the Secretary.</text>
+              </subparagraph>
+            </paragraph>
+            <paragraph id="H17A78B1948644F53BDA113CDF512A9CD">
+              <enum>(3)</enum>
+              <header>Definitions</header>
+ <text display-inline="yes-display-inline">In this subsection:</text> <subparagraph id="HAAFEDC87E1154670BEDD7E943F5ADEE6"> <enum>(A)</enum> <header>HIP–WI</header> <text display-inline="yes-display-inline">The term <term>HIP–WI</term> means the Hurricane Insurance Protection-Wind Index endorsement established in 2020 by the Risk Management Agency of the Department.</text>
+              </subparagraph>
+              <subparagraph id="HCDFF8AD9A38C43BFA0C526A88173D974">
+                <enum>(B)</enum>
+                <header>IBTrACS data set</header>
+ <text display-inline="yes-display-inline">The term <term>IBTrACS data set</term> means the International Best Track Archive for Climate Stewardship data set from the National Oceanic and Atmospheric Administration, including the season, name, time, location in latitude and longitude, maximum sustained winds, hurricane category, and wind extents data associated with a hurricane weather event.</text>
+              </subparagraph>
+              <subparagraph id="HF0E32950B5984C2080CFCDBE8B5811FB">
+                <enum>(C)</enum>
+                <header>Alternative data set</header>
+ <text>The term <term>alternative data set</term> means data collected by a weather station that is—</text>
+                <clause id="H569EA1609E8A457A8C1E415CBBA86BA6">
+                  <enum>(i)</enum>
+ <text display-inline="yes-display-inline">operated by a land-grant college or university (as defined in section 1404 of the National Agricultural Research, Extension, and Teaching Policy Act of 1977 (<external-xref legal-doc="usc" parsable-cite="usc/7/3103">7 U.S.C. 3103</external-xref>)); and</text>
+                </clause>
+                <clause id="H17F5B80B78E64C6F9AE4327185BDB78D">
+                  <enum>(ii)</enum>
+ <text>certified, at the time data is collected for purposes of paragraph (2), as compliant with standards issued by the National Weather Service, including the standards described in the directive issued on November 9, 2023, entitled <quote>National Weather Service Instruction 10–1302</quote> (or successor directives).</text>
+                </clause>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <after-quoted-block>.</after-quoted-block>
+        </quoted-block>
+      </subsection>
+      <subsection id="H100ED04857A6477E8708FEEC2B63D26F">
+        <enum>(b)</enum>
+        <header>Regulations</header>
+ <text display-inline="yes-display-inline">Not later than 180 days after the date of enactment of this Act, the Secretary of Agriculture shall—</text>
+        <paragraph id="HB801DB0BD36B4586963CEF525CF32E49">
+          <enum>(1)</enum>
+ <text>issue such rules as may be necessary to implement the amendment made by this section; and</text>
+        </paragraph>
+        <paragraph id="H96BEA60E4298497A81A88DBAD7E120F8">
+          <enum>(2)</enum>
+ <text display-inline="yes-display-inline">revise any guidance relating to the Hurricane Insurance Protection-Wind Index endorsement established in 2020 by the Risk Management Agency of the Department of Agriculture.</text>
+        </paragraph>
+      </subsection>
+    </section> 
+</legis-body></bill>
+

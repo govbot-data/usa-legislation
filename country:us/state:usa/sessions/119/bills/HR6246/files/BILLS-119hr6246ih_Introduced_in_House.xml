@@ -1,0 +1,60 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H18BE9653D394498698187881A8EF733A" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 HR 6246 IH: Save American Healthcare Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2025-11-21</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">119th CONGRESS</congress><session display="yes">1st Session</session><legis-num display="yes">H. R. 6246</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20251121">November 21, 2025</action-date><action-desc><sponsor name-id="T000488">Mr. Thanedar</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HWM00">Committee on Ways and Means</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To amend the Internal Revenue Code of 1986 to extend certain provisions of the health insurance premium tax credit using tariff revenue.</official-title></form><legis-body id="H3005D1296EEB4D93B00AC5A4D059C38F" style="OLC"><section id="H7A41C21355B04A9DAC87F0DE69582877" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Save American Healthcare Act</short-title></quote>.</text></section><section id="HF6C8676E5C264143B51B73B4E777CD0F"><enum>2.</enum><header>Extension of health insurance premium tax credit provisions</header><subsection id="HFBD502E769F14CAABF26160AEE38D346"> <enum>(a)</enum> <header>Extension of rule To allow credit to taxpayers whose household income exceeds <enum-in-header>400</enum-in-header> percent of poverty line</header> <text>Subparagraph (E) of <external-xref legal-doc="usc" parsable-cite="usc/26/36B">section 36B(c)(1)</external-xref> of the Internal Revenue Code of 1986 is amended to read as follows:</text>
+        <quoted-block style="OLC" display-inline="no-display-inline"
+          id="HF0C317DAF80D427BA76FA42E0BF5DBAD">
+          <subparagraph id="H3211A37B850B401386FF53439DCDB08D">
+            <enum>(E)</enum>
+            <header>Temporary rule</header>
+            <clause id="H98FCA81612814123B136E5310F36006F">
+              <enum>(i)</enum>
+              <header>In general</header>
+ <text display-inline="yes-display-inline">In the case of a taxable year beginning before the applicable date, subparagraph (A) shall be applied without regard to <quote>but does not exceed 400 percent</quote>.</text>
+            </clause>
+            <clause id="H01BC18BAB18141708FABC37E1A59C104">
+              <enum>(ii)</enum>
+              <header>Applicable date</header>
+ <text>For purposes of clause (i), the term <quote>applicable date</quote> means the latest date which the Secretary estimates will result in—</text>
+              <subclause id="H48B68C4914C34478AF24A3DC83D3AB3F">
+                <enum>(I)</enum>
+ <text>the sum of the increase in outlays, and the reduction in revenues, of the Federal Government by reason of this subparagraph and subsection (b)(3)(A)(iii), not exceeding</text>
+              </subclause>
+              <subclause id="H4840D2C7C5C3465789FE5E88FB9FE8F7">
+                <enum>(II)</enum>
+ <text display-inline="yes-display-inline">the decrease in outlays of the Federal Government by reason of amounts collected from tariffs that were imposed or increased after January 19, 2025.</text>
+              </subclause>
+            </clause>
+            <clause id="H20827E95E055490BA17CEBDA89ECE22A">
+              <enum>(iii)</enum>
+              <header>Method of estimation</header>
+ <text>To the maximum extent practicable, the estimates of the Secretary under clause (ii) shall be made in the same manner as such estimates are made by the Congressional Budget Office and the Joint Committee on Taxation with respect to proposed legislation.</text>
+            </clause>
+          </subparagraph>
+          <after-quoted-block>.</after-quoted-block>
+        </quoted-block>
+      </subsection><subsection id="H0635BA3766D043A59C31B9AD0BCF44A1">
+        <enum>(b)</enum>
+        <header>Extension of rules To increase premium assistance amounts</header>
+ <text display-inline="yes-display-inline">Clause (iii) of section 36B(b)(3)(A) of such Code is amended—</text>
+        <paragraph id="HCE95820EE4154DF1A97AB0B3CAA543CB">
+          <enum>(1)</enum>
+ <text>in the heading, by striking <quote><header-in-text level="clause" style="OLC">for 2021 through 2025</header-in-text></quote>, and</text>
+        </paragraph>
+        <paragraph id="H895475E5D37F4EB1813211B2CC51D0E3">
+          <enum>(2)</enum>
+ <text>in the matter preceding subclause (I), by striking <quote>January 1, 2026</quote> and inserting <quote>the applicable date (as defined in subsection (c)(1)(E))</quote>.</text>
+        </paragraph>
+ </subsection><subsection id="H74D85AF81A874EE2B2D1B427A47DE51D"><enum>(c)</enum><header>Effective date</header><text>The amendments made by this section shall apply to taxable years beginning after December 31, 2025.</text></subsection></section></legis-body></bill>
+
