@@ -1,0 +1,113 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public" slc-id="S1-BAI25422-GPX-XN-TCK">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 S3069 IS: Protecting Americans from Harmful CCP Products Act</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2025-10-29</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+        <distribution-code>II</distribution-code>
+        <congress>119th CONGRESS</congress>
+        <session>1st Session</session>
+        <legis-num>S. 3069</legis-num>
+        <current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+        <action>
+            <action-date date="20251029">October 29, 2025</action-date>
+            <action-desc><sponsor name-id="S404">Mr. Scott of Florida</sponsor> introduced the
+                following bill; which was read twice and referred to the <committee-name committee-id="SSCM00">Committee on Commerce, Science, and
+                    Transportation</committee-name></action-desc>
+        </action>
+        <legis-type>A BILL</legis-type>
+        <official-title>To amend the Consumer Product Safety Act to protect Americans from harmful
+            CCP products.</official-title>
+    </form>
+    <legis-body>
+        <section id="S1" section-type="section-one">
+            <enum>1.</enum>
+            <header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Protecting Americans from Harmful CCP Products Act</short-title></quote>.</text>
+        </section>
+        <section id="idb47a004a3d2549c2bac3df279b8b893e">
+            <enum>2.</enum>
+            <header>Amendments to the Consumer Product Safety Act</header>
+            <subsection commented="no" display-inline="no-display-inline" id="id75b3a39b94964c438ce513716d09f29b">
+                <enum>(a)</enum>
+                <header display-inline="yes-display-inline">Recall of Chinese products</header>
+ <text display-inline="yes-display-inline">Section 15 of the Consumer Product Safety Act (<external-xref legal-doc="usc" parsable-cite="usc/15/2064">15 U.S.C. 2064</external-xref>) is amended by adding at the end the following:</text>
+                <quoted-block style="OLC" display-inline="no-display-inline" id="idef2198b9d2854316a06b08dab37cedf3">
+                    <subsection id="id0d25ee0a3a5e43b69c36c257b5012845">
+                        <enum>(k)</enum>
+                        <header>Recall of Chinese Products</header>
+                        <paragraph id="idecdc6a270f42469ba62925bc37bc24a5">
+                            <enum>(1)</enum>
+                            <header>In general</header>
+ <text>Notwithstanding subsection (f), the Commission may issue an order under subsection (c) or (d), including a mandatory recall, without the consent of the manufacturer or retailer of a consumer product distributed in commerce that presents a substantial product hazard if—</text>
+                            <subparagraph id="ida668c8af877646919b1b87e2d8c1356f">
+                                <enum>(A)</enum>
+ <text>the manufacturer or retailer of the product is located in the People’s Republic of China, including in any of its Special Administrative Regions such as Hong Kong and Macao;</text>
+                            </subparagraph>
+                            <subparagraph id="id6120a323012e4a2cb90274fc452fe9b5">
+                                <enum>(B)</enum>
+ <text>the product is offered for sale directly to United States consumers, including via online platforms;</text>
+                            </subparagraph>
+                            <subparagraph id="id65ba6fb467f843c190ed9490145584b5">
+                                <enum>(C)</enum>
+ <text>the Commission has requested information or action related to the potential hazard from the manufacturer or retailer and has not received a timely or adequate response; and</text>
+                            </subparagraph>
+                            <subparagraph id="id7d4fd1758ff741eb83699cb72fe54b09">
+                                <enum>(D)</enum>
+ <text>if the Commission determines that a product distributed in commerce presents a substantial product hazard.</text>
+                            </subparagraph>
+                        </paragraph>
+                        <paragraph id="id7090e271de874dd992450ad3923cb68e">
+                            <enum>(2)</enum>
+                            <header>Rebuttable presumption</header>
+ <text>There shall be a rebuttable presumption in favor of the Commission’s claim that a product poses a substantial product hazard under this subsection.</text>
+                        </paragraph>
+                        <paragraph id="id4d1de7022e1e4772a3e25efca8eccb8c">
+                            <enum>(3)</enum>
+                            <header>Notice</header>
+ <text>The Commission shall publish notice of any mandatory recall order under this subsection, not later than 30 days before the order shall take effect, on its website and transmit such notice to all known distributors, importers, and platforms offering the product for sale within the United States.</text>
+                        </paragraph>
+                    </subsection>
+                    <after-quoted-block>.</after-quoted-block>
+                </quoted-block>
+            </subsection>
+            <subsection id="idc4820bac011848c0a9950db48ae9b44f">
+                <enum>(b)</enum>
+                <header>Definition</header>
+ <text>Section 3(a) of the Consumer Product Safety Act (<external-xref legal-doc="usc" parsable-cite="usc/15/2052">15 U.S.C. 2052(a)</external-xref>) is amended by striking paragraph (8) and inserting the following:</text>
+                <quoted-block style="OLC" display-inline="no-display-inline" id="id9e0dd277be954b32b011bd9afe067427">
+                    <paragraph id="id3daab4b5f310446bad77fb98307b59df">
+                        <enum>(8)</enum>
+                        <header>Distributor</header>
+                        <subparagraph id="id090bff5685214fc4831a29bfcb68b830">
+                            <enum>(A)</enum>
+                            <header>In general</header>
+ <text>The term <term>distributor</term> means a person to whom a consumer product is delivered or sold for purposes of distribution in commerce, except that such term shall not include a manufacturer or retailer of the product.</text>
+                        </subparagraph>
+                        <subparagraph id="id95170440c88f4d8db7bf6910e39fb215">
+                            <enum>(B)</enum>
+                            <header>Certain e-commerce platforms</header>
+ <text>Notwithstanding any limitation described in subparagraph (A), an operator of an e-commerce platform that is headquartered in or primarily operates from the People’s Republic of China, including any of its Special Administrative regions such as Hong Kong and Macao, and that facilitates the sale of consumer products to United States consumers, shall be considered a distributor under this Act.</text>
+                        </subparagraph>
+                        <subparagraph id="id336b7b73301f442b9eb5edd99fe607c9">
+                            <enum>(C)</enum>
+                            <header>Rule of construction</header>
+ <text>Nothing in this paragraph shall be construed as having any bearing on whether any non-Chinese persons or entities are distributors for purposes of this Act.</text>
+                        </subparagraph>
+                    </paragraph>
+                    <after-quoted-block>.</after-quoted-block>
+                </quoted-block>
+            </subsection>
+        </section>
+    </legis-body>
+</bill>
+

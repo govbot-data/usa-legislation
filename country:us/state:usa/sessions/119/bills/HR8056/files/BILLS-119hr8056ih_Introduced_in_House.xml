@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="HF467BBC4C4DC4948B18505DAC2549527" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 HR 8056 IH: Military Financial Literacy Act of 2026</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2026-03-24</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">119th CONGRESS</congress><session display="yes">2d Session</session><legis-num display="yes">H. R. 8056</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20260324">March 24, 2026</action-date><action-desc><sponsor name-id="M001237">Ms. McDonald Rivet</sponsor> (for herself and <cosponsor name-id="H001101">Mr. Harrigan</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HAS00">Committee on Armed Services</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To expand credentialed, personalized financial and housing counseling to members of the Armed Forces serving on active duty or transitioning from service, and for other purposes.</official-title></form><legis-body id="H6678A54DF3064C61BC12B01461AFA4BE" style="OLC"> 
+<section id="H0B81760EB59346B4A4D7FD14C87C734D" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Military Financial Literacy Act of 2026</short-title></quote>.</text></section>
+<section id="HCEF42AE7BB67477196B621204CC35F0F"><enum>2.</enum><header>Expansion of personalized financial and housing counseling for members of the Armed Forces</header>
+<subsection commented="no" display-inline="no-display-inline" id="H69564A57F69F41CF8DE7562EF8867522"><enum>(a)</enum><header display-inline="yes-display-inline">In general</header><text display-inline="yes-display-inline">Section 992 of title 10, United States Code, is amended—</text> <paragraph id="H0341F9544FBC4FD3877F43F81F682B9F"><enum>(1)</enum><text>in subsection (a)(1)—</text>
+<subparagraph id="HEE156459ADD7484481B95AA0DE462ACD"><enum>(A)</enum><text>by redesignating subparagraphs (D) and (E) as subparagraphs (E) and (F), respectively; and</text></subparagraph> <subparagraph id="H38A099F62FA444CA9501E67E50AD9B7C"><enum>(B)</enum><text>by inserting after subparagraph (C) the following new subparagraph:</text>
+<quoted-block style="OLC" display-inline="no-display-inline" id="HB6CCE3695C50435A91B23326549579C7">
+<subparagraph id="HE357426E8EBC4FE2B1473B2502AE2E3C" indent="up1"><enum>(D)</enum><text>practices relating to financial management, home buying and selling, renting during changing permanent station, rental planning, home loans available through the programs of the Department of Veterans Affairs, and other financial services that are routinely offered to private sector home loans;</text></subparagraph><after-quoted-block>;</after-quoted-block></quoted-block></subparagraph></paragraph> <paragraph id="HD3D4F0527F5A4E78A96630482D40206E"><enum>(2)</enum><text>by redesignating subsection (d) through (f) as subsections (e) through (g), respectively; and</text></paragraph>
+<paragraph id="H158395E9F36C4FF5860B6EDAE68C783F"><enum>(3)</enum><text>by inserting after subsection (c) the following new subsection:</text> <quoted-block style="OLC" display-inline="no-display-inline" id="HB6965BC75E624608AD40B71C39128AB7"> <subsection id="HAD722CD10C04474FADF924EC22990058"><enum>(d)</enum><header>Individualized financial and housing counseling</header> <paragraph commented="no" display-inline="yes-display-inline" id="HFE8197888B6B41D3844357FD4F5931EF"> <enum>(1)</enum> <text>Not later than one year after the date of the enactment of this subsection, the Secretary of Defense shall establish a program in accordance with this section and Department of Defense Instruction 1322.34, or any successor guidance, to provide one-on-one counseling tailored to the needs of each member of the armed forces on the following topics:</text>
+                <subparagraph commented="no" display-inline="no-display-inline"
+                  id="H92FA4BF8E6B1470091170D49D849EE6C" indent="up1">
+                  <enum>(A)</enum>
+ <text display-inline="yes-display-inline">Credit management.</text> </subparagraph> <subparagraph commented="no" display-inline="no-display-inline" id="H884DE8E08FB14EE1B792D0526CB44C2D" indent="up1"> <enum>(B)</enum> <text>Budgeting.</text>
+                </subparagraph>
+                <subparagraph commented="no" display-inline="no-display-inline"
+                  id="HDE7095C8CEC54BD0B1A90BA911E9F818" indent="up1">
+                  <enum>(C)</enum>
+ <text>Anti-predatory lending practices.</text> </subparagraph> <subparagraph commented="no" display-inline="no-display-inline" id="H10BF4E3761C94E1482261CBE88F8D835" indent="up1"> <enum>(D)</enum> <text>Changes of permanent station and rental planning.</text>
+                </subparagraph>
+                <subparagraph commented="no" display-inline="no-display-inline"
+                  id="H0C415653951C4BBE8DBA78298CD13140" indent="up1">
+                  <enum>(E)</enum>
+ <text>Home loans available through the programs of the Department of Veterans Affairs.</text>
+                </subparagraph>
+                <subparagraph commented="no" display-inline="no-display-inline"
+                  id="HE99BAD8FFF374CCEB85792EC432B60D6" indent="up1">
+                  <enum>(F)</enum>
+ <text display-inline="yes-display-inline">Protections under the Servicemembers Civil Relief Act (<external-xref legal-doc="usc" parsable-cite="usc/50/3901">50 U.S.C. 3901 et seq.</external-xref>) and section 987 of this title.</text>
+                </subparagraph>
+              </paragraph>
+<paragraph id="H1C519DF5BBB64FC4982850625EA10FFE" indent="up1"><enum>(2)</enum><text>For the purposes of carrying out paragraph (1), the Secretary shall seek to enter an agreement with a counseling service organization that—</text> <subparagraph id="H665A27C93CD44AACA904BF4B672F461C"> <enum>(A)</enum> <text>is a HUD-approved counseling agency (as defined in section 106(h) of the House and Urban Development Act of 1968 (<external-xref legal-doc="usc" parsable-cite="usc/12/1701x">12 U.S.C. 1701x(h)</external-xref>));</text>
+                                </subparagraph>
+<subparagraph id="H926E710D2A9047DB90A0C4F65DCB611D"><enum>(B)</enum><text>is organized as a tax-exempt entity under <external-xref legal-doc="usc" parsable-cite="usc/26/501">section 501(c)(19)</external-xref> of the Internal Revenue Code of 1986, defined by the Internal Revenue Service as a Veteran Service Organization serving the military-connected community;</text></subparagraph> <subparagraph id="HA85B73E87A5F4777A26ADF6AD8DF6B90"><enum>(C)</enum><text>has expertise in financial literacy, housing stability, and home loan benefits for veterans; and</text></subparagraph>
+<subparagraph id="H222E06F850F64CF7BAAD18AC63FA9DA7">
+                  <enum>(D)</enum>
+ <text>is capable of developing, administering, maintaining, and providing specialized training and certification for HUD-Certified Housing Counselors serving members of the armed forces, veterans, and their families.</text>
+                </subparagraph></paragraph></subsection><after-quoted-block>.</after-quoted-block></quoted-block></paragraph></subsection>
+<subsection id="HF97EEF4AD17D4EC6BD55AB5F77BA94B6"><enum>(b)</enum><header>Regulations</header><text>The Secretary of Defense may prescribe such regulations as are necessary to carry out the amendments made by subsection (a).</text></subsection> <subsection id="HB5106C20FFDC4B30BD8A01A614582781"><enum>(c)</enum><header>Report</header><text>Not later than 2 years after the date on which the services required under subsection (d) of section section 992 of title 10, United States Code, as added by subsection (a), are established, the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report on the implementation of such services, including—</text>
+<paragraph id="H446C373749ED44879C9D0FFCA54189B2"><enum>(1)</enum><text>the number of members of the Armed Forces who received counseling for housing stability, home loan benefits for veterans, or rental planning;</text></paragraph> <paragraph id="H6453546D25A14B10B0CFF1AB676A0B73"><enum>(2)</enum><text>the rate of completion of the counseling services offered under the pilot program; and</text></paragraph>
+<paragraph id="HBBD334EC37C343CFA719FC29B461727C"><enum>(3)</enum><text>indicators of financial stress and housing instability for members of the Armed Forces participating in the pilot program and any metrics for mitigating risks to the members participating.</text></paragraph></subsection></section> </legis-body></bill>
+

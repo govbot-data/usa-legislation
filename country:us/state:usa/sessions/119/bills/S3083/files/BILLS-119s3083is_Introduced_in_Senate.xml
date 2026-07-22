@@ -1,0 +1,135 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-type="olc" bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public" slc-id="S1-TAM25A73-K5F-7C-6CM">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 S3083 IS: Providing Complete Information to Retirement Investors Act</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2025-10-30</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+        <distribution-code>II</distribution-code>
+        <congress>119th CONGRESS</congress>
+        <session>1st Session</session>
+        <legis-num>S. 3083</legis-num>
+        <current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+        <action>
+            <action-date date="20251030">October 30, 2025</action-date>
+            <action-desc><sponsor name-id="S429">Mr. Banks</sponsor> (for himself and <cosponsor name-id="S373">Mr. Cassidy</cosponsor>) introduced the following bill; which was
+                read twice and referred to the <committee-name committee-id="SSHR00">Committee on
+                    Health, Education, Labor, and Pensions</committee-name></action-desc>
+        </action>
+        <legis-type>A BILL</legis-type>
+        <official-title>To amend the Employee Retirement Income Security Act of 1974 to ensure that
+            pension plans provide notice to participants and beneficiaries on risks associated with
+            certain investments, and for other purposes.</official-title>
+    </form>
+    <legis-body style="OLC" display-enacting-clause="yes-display-enacting-clause" changed="not-changed" id="H036022D4C60D46CAA97D09799E5E2357">
+        <section section-type="section-one" id="H4D157702E0D84CD59ED0DBCD5303E020" changed="not-changed">
+            <enum>1.</enum>
+            <header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Providing Complete Information to Retirement Investors Act</short-title></quote>.</text>
+        </section>
+        <section section-type="subsequent-section" id="HC9008BD51D414A7E9382C3D3B3874241" changed="not-changed">
+            <enum>2.</enum>
+            <header>Brokerage window disclosures</header>
+            <subsection id="HC0AC5157B6A24150AB944E5816BF24B2" changed="not-changed">
+                <enum>(a)</enum>
+                <header>In general</header>
+ <text>Section 404(c) of the Employee Retirement Income Security Act of 1974 (<external-xref legal-doc="usc" parsable-cite="usc/29/1104">29 U.S.C. 1104(c)</external-xref>) is amended by adding at the end the following new paragraph:</text>
+                <quoted-block style="OLC" id="HFE9BAD1F1EA04BA9966F4233CC2F9F72" changed="not-changed">
+                    <paragraph id="H7EDAB0A082264E83B0EA79B25BB0B7DB" changed="not-changed">
+                        <enum>(7)</enum>
+                        <header>Notice requirements for brokerage windows</header>
+                        <subparagraph id="H71A800C5E04940A98CB476AFAAAF3776" changed="not-changed">
+                            <enum>(A)</enum>
+                            <header>In general</header>
+ <text display-inline="yes-display-inline">In the case of a pension plan which provides for individual accounts and which provides a participant or beneficiary the opportunity to choose from designated investment alternatives, a participant or beneficiary shall not be treated as exercising control over assets in the account of the participant or beneficiary unless, with respect to any investment arrangement that is not a designated investment alternative, each time before such a participant or beneficiary directs an investment into, out of, or within such investment arrangement, such participant is notified of, and acknowledges, each element of the notice described under paragraph (B).</text>
+                        </subparagraph>
+                        <subparagraph id="HA3C70FD2E74041F09C3918256D195507" changed="not-changed">
+                            <enum>(B)</enum>
+                            <header>Notice</header>
+ <text>The notice described under this paragraph is a 4-part information that is substantially similar to the following information:</text>
+                            <table blank-lines-before="1" table-type="" table-template-name="Generic: 1 text" align-to-level="section" frame="none" colsep="0" rowsep="0" line-rules="no-gen" rule-weights="0.0.0.0.0.0">
+                                <tgroup cols="1" grid-typeface="1.1" rowsep="0" thead-tbody-ldg-size="0.10.12">
+                                    <colspec coldef="txt-no-ldr" colname="column1" colsep="0" min-data-value="300" rowsep="0" colwidth="668.25pt"/>
+                                    <tbody>
+                                        <row>
+                                            <entry align="left" leader-modify="clr-ldr" rowsep="0" stub-definition="txt-ldr" stub-hierarchy="1" colname="column1">1. Your retirement plan offers
+                                                designated investment alternatives prudently
+                                                selected and monitored by fiduciaries for the
+                                                purpose of enabling you to construct an appropriate
+                                                retirement savings portfolio. In selecting and
+                                                monitoring designated investment alternatives, your
+                                                plan’s fiduciary considers the risk of loss and the
+                                                opportunity for gain (or other return) compared with
+                                                reasonably available investment
+                                                alternatives.</entry>
+                                        </row>
+                                        <row>
+                                            <entry align="left" leader-modify="clr-ldr" rowsep="0" stub-definition="txt-ldr" stub-hierarchy="1" colname="column1">2. The investments available
+                                                through this investment arrangement are not
+                                                designated investment alternatives, and have not
+                                                been prudently selected and are not monitored by a
+                                                plan fiduciary.</entry>
+                                        </row>
+                                        <row>
+                                            <entry align="left" leader-modify="clr-ldr" rowsep="0" stub-definition="txt-ldr" stub-hierarchy="1" colname="column1">3. Depending on the investments
+                                                you select through this investment arrangement, you
+                                                may experience diminished returns, higher fees, and
+                                                higher risk than if you select from the plan’s
+                                                designated investment alternatives.</entry>
+                                        </row>
+                                        <row>
+                                            <entry align="left" leader-modify="clr-ldr" rowsep="0" stub-definition="txt-ldr" stub-hierarchy="1" colname="column1">4. The following is a hypothetical
+                                                illustration of the impact of return at 4 percent, 6
+                                                percent, and 8 percent on your account balance
+                                                projected to age 67.</entry>
+                                        </row>
+                                    </tbody>
+                                </tgroup>
+                            </table>
+                        </subparagraph>
+                        <subparagraph id="HBACFF4C22F4C4BC6B1AC64078A7F6462" changed="not-changed">
+                            <enum>(C)</enum>
+                            <header>Illustration</header>
+ <text>The notice described under paragraph (B) shall also include a graph displaying the projected retirement balances of such participant or beneficiary at age 67 if the account of such individual were to achieve an annual return equal to each of the following:</text>
+                            <clause id="H0F8399D09DF24026A1FE287AAB98F115" changed="not-changed">
+                                <enum>(i)</enum>
+ <text>4 percent.</text> </clause> <clause id="HA531FBA1EA7E4832A67049FF5FAB492F" changed="not-changed"> <enum>(ii)</enum> <text>6 percent.</text>
+                            </clause>
+                            <clause id="H9EEBC3F60DFA4C7DA7DC77903B70EE1A" changed="not-changed">
+                                <enum>(iii)</enum>
+ <text>8 percent.</text> </clause> </subparagraph> </paragraph> <after-quoted-block>.</after-quoted-block> </quoted-block> </subsection> <subsection id="H7B044FDF2D5448719D82220441AFD428" changed="not-changed"> <enum>(b)</enum> <header>Designated investment alternative defined</header> <text>Section 3 of the Employee Retirement Income Security Act of 1974 (<external-xref legal-doc="usc" parsable-cite="usc/29/1002">29 U.S.C. 1002</external-xref>) is amended by adding at the end the following new paragraph:</text>
+                <quoted-block style="OLC" id="H21EBD82967A441B48329ED86C2F8B57D" changed="not-changed">
+                    <paragraph id="HDB691BF7AF9A493FA353533BE918477A" changed="not-changed">
+                        <enum>(46)</enum>
+                        <header>Designated investment alternative</header>
+                        <subparagraph id="HFD31A041CC8F4F538704AB76DB0404D9" changed="not-changed">
+                            <enum>(A)</enum>
+                            <header>In general</header>
+ <text>The term <term>designated investment alternative</term> means any investment alternative designated by a responsible fiduciary of an individual account plan described in subsection 404(c) into which participants and beneficiaries may direct the investment of assets held in, or contributed to, their individual accounts.</text>
+                        </subparagraph>
+                        <subparagraph id="H1C0A3E0B7A70468B99960F3ACC8D32B0" changed="not-changed">
+                            <enum>(B)</enum>
+                            <header>Exception</header>
+ <text>The term <term>designated investment alternative</term> does not include brokerage windows, self-directed brokerage accounts, or similar plan arrangements that enable participants and beneficiaries to select investments beyond those designated by a responsible plan fiduciary.</text>
+                        </subparagraph>
+                    </paragraph>
+                    <after-quoted-block>.</after-quoted-block>
+                </quoted-block>
+            </subsection>
+            <subsection id="HC2B898EA19EE4A6F92F92EDDBC7C8DC7" changed="not-changed">
+                <enum>(c)</enum>
+                <header>Effective date</header>
+ <text>The amendment made by subsection (a) shall take effect on January 1, 2026.</text>
+            </subsection>
+        </section>
+    </legis-body>
+</bill>
+
