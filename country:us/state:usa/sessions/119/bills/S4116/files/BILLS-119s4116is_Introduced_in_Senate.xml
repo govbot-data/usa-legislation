@@ -1,0 +1,82 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public" slc-id="S1-NEW26093-T7P-3R-TN5"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 S4116 IS: Geothermal Power Opportunity With Expanded Regions Act</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2026-03-17</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">II</distribution-code><congress>119th CONGRESS</congress><session>2d Session</session><legis-num>S. 4116</legis-num><current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber><action><action-date date="20260317">March 17, 2026</action-date><action-desc><sponsor name-id="S408">Mr. Hickenlooper</sponsor> (for himself, <cosponsor name-id="S375">Mr. Daines</cosponsor>, <cosponsor name-id="S413">Mr. Padilla</cosponsor>, and <cosponsor name-id="S431">Mr. Curtis</cosponsor>) introduced the following bill; which was read twice and referred to the <committee-name committee-id="SSEG00">Committee on Energy and Natural Resources</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title>To advance next-generation geothermal electricity generation demonstration projects in new regions, and for other purposes.</official-title></form><legis-body><section id="S1" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Geothermal Power Opportunity With Expanded Regions Act</short-title></quote> or the <quote><short-title>Geo POWER Act</short-title></quote>.</text></section><section commented="no" display-inline="no-display-inline" id="idf3fc76a4ebe5400e9590388dfe3b23df"><enum>2.</enum><header>Purpose</header><text display-inline="no-display-inline">The purpose of this Act is to advance next-generation geothermal demonstration projects—</text><paragraph commented="no" display-inline="no-display-inline" id="idfb0f83f657c543008bd679a44eff5dff"><enum>(1)</enum><text>to accelerate the commercialization of next-generation geothermal technologies in diverse geologies and regions across the United States;</text></paragraph><paragraph commented="no" display-inline="no-display-inline" id="idbf5fed4b1203470fb641d253ff903543"><enum>(2)</enum><text>to overcome high upfront capital costs for geothermal exploration and drilling;</text></paragraph><paragraph commented="no" display-inline="no-display-inline" id="id34d47cacbf894ce0902e9f5b2dbd919b"><enum>(3)</enum><text>to generate public data to de-risk future geothermal projects in new geologies and regions; and</text></paragraph><paragraph commented="no" display-inline="no-display-inline" id="id9de56839bc60425fb885a11864f088b8"><enum>(4)</enum><text>to catalyze geothermal demonstration projects and innovation through milestone-based financing to de-risk future geothermal projects.</text></paragraph></section><section commented="no" display-inline="no-display-inline" id="id494b56406d2d426c9a20cc1e24fae37e"><enum>3.</enum><header>Innovative financing for geothermal demonstration projects</header><text display-inline="no-display-inline">Section 615 of the Energy Independence and Security Act of 2007 (<external-xref legal-doc="usc" parsable-cite="usc/42/17194">42 U.S.C. 17194</external-xref>) is amended—</text><paragraph id="id91efaab7a4724174aab5cd5f169a4bad"><enum>(1)</enum><text>in subsection (a), by inserting <quote>the milestone-based geothermal demonstration program for projects in low permeability and impermeable reservoirs described in subsection (e) and</quote> after <quote>including</quote>;</text></paragraph><paragraph id="id4fa5679d620f47eda41ff3a22dc45911"><enum>(2)</enum><text>in subsection (d), by striking paragraph (3); and</text></paragraph><paragraph commented="no" display-inline="no-display-inline" id="idd119241aafcc42ea86a8b574b7d4f528"><enum>(3)</enum><text>by adding at the end the following:</text><quoted-block style="OLC" display-inline="no-display-inline" id="id66eb124776a6486382f59c09a191aafb"><subsection commented="no" display-inline="no-display-inline" id="id836102209ac94696b8f192b03e8930b0"> <enum>(e)</enum> <header>Milestone-Based geothermal demonstration program</header> <paragraph commented="no" display-inline="no-display-inline" id="idc9bb176746d145838ecc25445941f132"> <enum>(1)</enum> <header display-inline="yes-display-inline">Definitions</header> <text>In this subsection:</text>
+              <subparagraph commented="no" display-inline="no-display-inline"
+                id="id682e74b391a1462a8de7649f016cd739">
+                <enum>(A)</enum>
+                <header>Innovative financing</header>
+ <text>The term <term>innovative financing</term> means financial instruments used to support geothermal energy project development, including transactions that the Secretary may enter into under section 646 of the Department of Energy Organization Act (<external-xref legal-doc="usc" parsable-cite="usc/42/7256">42 U.S.C. 7256</external-xref>).</text>
+              </subparagraph>
+              <subparagraph commented="no" display-inline="no-display-inline"
+                id="idd323cc98b83f4de0b95ab7963a7bc511">
+                <enum>(B)</enum>
+                <header>Program</header>
+ <text>The term <term>Program</term> means the Milestone-Based Geothermal Demonstration Program established under paragraph (2).</text>
+              </subparagraph>
+            </paragraph>
+            <paragraph commented="no" display-inline="no-display-inline"
+              id="idec757fc57c4b4891a7ea854e907d33b2">
+              <enum>(2)</enum>
+              <header>Establishment</header>
+ <text>Not later than 180 days after the date of enactment of this subsection, the Secretary shall establish a program, to be known as the <quote>Milestone-Based Geothermal Demonstration Program</quote>, to award innovative financing to geothermal projects in low-permeability and impermeable reservoirs through a competitive process based on the achievement of technical and financial milestones, prioritizing—</text>
+              <subparagraph id="id32bd39fdaa1c4bb484ba3b8782147ce3" commented="no"
+                display-inline="no-display-inline">
+                <enum>(A)</enum>
+ <text>geothermal projects in regions and geologies that have limited or no geothermal electricity generation as of the date of enactment of this paragraph, including on or near Indian land (as defined in section 2601 of the Energy Policy Act of 1992 (<external-xref legal-doc="usc" parsable-cite="usc/25/3501">25 U.S.C. 3501</external-xref>));</text>
+              </subparagraph>
+              <subparagraph id="ida7e3bd73f4f6456f8e55ddeacab5c163">
+                <enum>(B)</enum>
+ <text>geothermal projects that support the collection and dissemination of data to characterize new geothermal resources and technologies to catalyze future private investment;</text>
+              </subparagraph>
+              <subparagraph commented="no" display-inline="no-display-inline"
+                id="idc11344fe476d446da46e1e2cf55afef9">
+                <enum>(C)</enum>
+ <text>new geothermal electricity production facilities with aggregate electricity generation capacity potential of not less than 30 megawatts or geothermal projects that advance innovative drilling or other innovations that enable the viability of commercial-scale geothermal electricity generation of not less than 30 megawatts; and</text>
+              </subparagraph>
+              <subparagraph commented="no" display-inline="no-display-inline"
+                id="id5d3d3274f44644c288991b09d9b4e1ef">
+                <enum>(D)</enum>
+ <text>projects with the potential for attracting significant private sector investment.</text>
+              </subparagraph>
+            </paragraph>
+            <paragraph commented="no" display-inline="no-display-inline"
+              id="id04898e3e193049719013888679514345">
+              <enum>(3)</enum>
+              <header>Requirements</header>
+              <subparagraph commented="no" display-inline="no-display-inline"
+                id="id99e5f4adf3b446daabf03b958c54725f">
+                <enum>(A)</enum>
+                <header>Proposals</header>
+ <text>In carrying out the Program, the Secretary shall request proposals for projects from project sponsors that meet the criteria described in paragraph (2).</text>
+              </subparagraph>
+              <subparagraph commented="no" display-inline="no-display-inline"
+                id="id777fac22ce2d4ce2bea7cbe8e26955db">
+                <enum>(B)</enum>
+                <header>Differentiation</header>
+ <text>The Secretary shall award innovative financing under paragraph (2)—</text> <clause commented="no" display-inline="no-display-inline" id="idba73cd55b6b64c71b9977771e74f5656"> <enum>(i)</enum> <text>to not less than 3 different proposals in at least 3 different States; and</text>
+                </clause>
+                <clause id="id4ab6eb51383d49db907d6b48f41a0a0b">
+                  <enum>(ii)</enum>
+ <text>to not less than 3 different project sponsors.</text> </clause> </subparagraph> <subparagraph commented="no" display-inline="no-display-inline" id="id2756aaf0d13f498d815affe7e7a5e407"> <enum>(C)</enum> <header>Staffing</header> <text>The Secretary shall maintain staffing levels sufficient to administer innovative financing under paragraph (2).</text>
+              </subparagraph>
+            </paragraph>
+            <paragraph commented="no" display-inline="no-display-inline"
+              id="id0f0a2e0daf314ce8a170e74c8af65961">
+              <enum>(4)</enum>
+              <header>Authority</header>
+ <text>The Secretary shall carry out a project under this subsection as a milestone-based demonstration project under section 9005 of the Energy Act of 2020 (<external-xref legal-doc="usc" parsable-cite="usc/42/7256c">42 U.S.C. 7256c</external-xref>).</text>
+            </paragraph>
+ </subsection><subsection commented="no" display-inline="no-display-inline" id="id5aa9f02060f64579af6da9dfd6b069e9"><enum>(f)</enum><header>Authorization of appropriations</header><text>There are authorized to be appropriated to the Secretary such sums as are necessary to carry out subsections (d) and (e).</text></subsection><after-quoted-block>.</after-quoted-block></quoted-block></paragraph></section></legis-body></bill>
+
