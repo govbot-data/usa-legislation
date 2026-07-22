@@ -1,0 +1,106 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="HF8300CB649D5485780FF51B3B614D6D1"
+    public-private="public" key="H" bill-type="olc">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 HR 8246 IH: Overcoming Higher Education Hunger Through the Supplemental Nutrition Assistance Program Act of 2026</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2026-04-09</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+        <distribution-code display="yes">I</distribution-code>
+        <congress display="yes">119th CONGRESS</congress>
+        <session display="yes">2d Session</session>
+        <legis-num display="yes">H. R. 8246</legis-num>
+        <current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+        <action display="yes">
+            <action-date date="20260409">April 9, 2026</action-date>
+            <action-desc><sponsor name-id="W000788">Ms. Williams of Georgia</sponsor> (for herself,
+                    <cosponsor name-id="H001081">Mrs. Hayes</cosponsor>, <cosponsor
+                    name-id="C001080">Ms. Chu</cosponsor>, <cosponsor name-id="C001068">Mr.
+                    Cohen</cosponsor>, <cosponsor name-id="C001125">Mr. Carter of
+                    Louisiana</cosponsor>, <cosponsor name-id="C001130">Ms. Crockett</cosponsor>,
+                    <cosponsor name-id="G000586">Mr. García of Illinois</cosponsor>, <cosponsor
+                    name-id="J000309">Mr. Jackson of Illinois</cosponsor>, <cosponsor
+                    name-id="L000602">Ms. Lee of Pennsylvania</cosponsor>, <cosponsor
+                    name-id="N000147">Ms. Norton</cosponsor>, <cosponsor name-id="S001226">Ms.
+                    Salinas</cosponsor>, <cosponsor name-id="T000488">Mr. Thanedar</cosponsor>,
+                    <cosponsor name-id="B001281">Mrs. Beatty</cosponsor>, <cosponsor
+                    name-id="V000081">Ms. Velázquez</cosponsor>, <cosponsor name-id="C001112">Mr.
+                    Carbajal</cosponsor>, and <cosponsor name-id="T000481">Ms. Tlaib</cosponsor>)
+                introduced the following bill; which was referred to the <committee-name
+                    committee-id="HAG00">Committee on Agriculture</committee-name></action-desc>
+        </action>
+        <legis-type>A BILL</legis-type>
+        <official-title display="yes">To allow certain students, including those who have a student
+            aid index equal to or less than zero, to qualify for supplemental nutrition assistance
+            program benefits under the Food and Nutrition Act of 2008.</official-title>
+    </form>
+    <legis-body id="HFD1A9EBF02D24F5D96D8FB96D214966B" style="OLC">
+        <section id="HFB054AC5360F4F999CD85DF3E3744D0F" section-type="section-one">
+            <enum>1.</enum>
+            <header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Overcoming Higher Education Hunger Through the Supplemental Nutrition Assistance Program Act of 2026</short-title></quote> or the <quote><short-title>OHH SNAP Act of 2026</short-title></quote>.</text>
+        </section>
+        <section id="H4BEB08FD15214EAA9C0059A3D3A08A0E">
+            <enum>2.</enum>
+            <header>SNAP treatment of educational loans</header>
+ <text display-inline="no-display-inline">Section 5(k) of the Food and Nutrition Act of 2008 (<external-xref legal-doc="usc" parsable-cite="usc/7/2014">7 U.S.C. 2014(k)</external-xref>) is amended—</text>
+            <paragraph id="H897300D765DB4D2C999AF57B55A864EF">
+                <enum>(1)</enum>
+ <text>by striking paragraph (3); and</text> </paragraph> <paragraph id="HC4038079E3F94103875C8D26D8C5AE4A"> <enum>(2)</enum> <text>by redesignating paragraph (4) as paragraph (3).</text>
+            </paragraph>
+        </section>
+        <section id="H4A7173438E10400F940D7749A27BF324">
+            <enum>3.</enum>
+            <header>Eligibility of students to participate in the supplemental nutrition assistance
+                program</header>
+ <text display-inline="no-display-inline">Section 6 of the Food and Nutrition Act of 2008 (<external-xref legal-doc="usc" parsable-cite="usc/7/2015">7 U.S.C. 2015</external-xref>) is amended—</text>
+            <paragraph id="H05A72F5DEB0D4FB7BF268AE58AAACFF3">
+                <enum>(1)</enum>
+ <text>in subsection (e)—</text> <subparagraph id="H3886643784DA40058A182B00352BB304"> <enum>(A)</enum> <text>in paragraph (7), by striking <quote>or</quote> at the end;</text>
+                </subparagraph>
+                <subparagraph id="HDD9758BA1C114EB0B7B2E1B88FFBE3FD">
+                    <enum>(B)</enum>
+ <text>in paragraph (8), by striking the period at the end and inserting a semicolon; and</text>
+                </subparagraph>
+                <subparagraph id="HA5DB5CC8260C44AAB8DE096517D98D53">
+                    <enum>(C)</enum>
+ <text>by adding at the end the following:</text> <quoted-block id="H1DADD4B3D80549EB92BB24E53AA15AAA" style="OLC"> <paragraph id="H6BD3C736D07140F5B32B7B0BDAE7D181"> <enum>(9) </enum> <text display-inline="yes-display-inline"> has a student aid index that is equal to or less than $0, as determined by the procedures established in part F of title IV of the Higher Education Act of 1965 (<external-xref legal-doc="usc" parsable-cite="usc/20/1087kk-1087vv">20 U.S.C. 1087kk–1087vv</external-xref>); or</text>
+                        </paragraph>
+                        <paragraph id="H53285325D4C04613A43C1BE867600325">
+                            <enum>(10)</enum>
+ <text>is determined to be <quote>independent</quote> based on one of the criteria specified in subparagraphs (B), (C), (D), (G), and (H) of section 480(d)(1) of the Higher Education Act (<external-xref legal-doc="usc" parsable-cite="usc/20/1087vv">20 U.S.C. 1087vv</external-xref>).</text>
+                        </paragraph>
+                        <after-quoted-block>; and</after-quoted-block>
+                    </quoted-block>
+                </subparagraph>
+            </paragraph>
+            <paragraph id="HADFB919A3CBB47CE9E1E96BB6084A778">
+                <enum>(2)</enum>
+ <text display-inline="yes-display-inline">in subsection (o)(2)(A), by striking <quote>work</quote> and inserting <quote>attending an institution of higher education (as defined in section 102 of the Higher Education Act of 1965 (<external-xref legal-doc="usc" parsable-cite="usc/20/1002">20 U.S.C. 1002</external-xref>)) or work, in the aggregate,</quote>.</text>
+            </paragraph>
+        </section>
+        <section id="HF791528E49584EE1B8D032C259B7AADE">
+            <enum>4.</enum>
+            <header>Effective date; application of amendments</header>
+            <subsection id="H2BE2A18823F0405994C04ECB3BA3315C">
+                <enum>(a)</enum>
+                <header> Effective date</header>
+ <text display-inline="yes-display-inline">Except as provided in subsection (b), this Act and the amendments made by this Act shall take effect 180 days after the date of the enactment of this Act.</text>
+            </subsection>
+            <subsection id="HFDA835B58E984C738F3AF8097D487498">
+                <enum>(b)</enum>
+                <header>Application of amendments</header>
+ <text display-inline="yes-display-inline">The amendments made by this Act shall not apply with respect to certification periods that begin before the effective date of this Act.</text>
+            </subsection>
+        </section>
+    </legis-body>
+</bill>
+

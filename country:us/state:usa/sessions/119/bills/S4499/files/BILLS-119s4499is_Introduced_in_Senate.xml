@@ -1,0 +1,110 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public" slc-id="S1-KEN26211-7T2-23-YV7"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 S4499 IS: Advanced Long-term care Early Response Technology Act of 2026</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2026-05-12</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">II</distribution-code><congress>119th CONGRESS</congress><session>2d Session</session><legis-num>S. 4499</legis-num><current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber><action><action-date date="20260512">May 12, 2026</action-date><action-desc><sponsor name-id="S384">Mr. Tillis</sponsor> (for himself and <cosponsor name-id="S408">Mr. Hickenlooper</cosponsor>) introduced the following bill; which was read twice and referred to the <committee-name committee-id="SSHR00">Committee on Health, Education, Labor, and Pensions</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title>To amend the Public Health Service Act to require the Secretary of Health and Human Services to expand and enhance the National Healthcare Safety Network to establish real-time infectious disease and public health surveillance capabilities across nursing homes in the United States, and for other purposes.</official-title></form><legis-body display-enacting-clause="yes-display-enacting-clause"><section section-type="section-one" id="S1"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Advanced Long-term care Early Response Technology Act of 2026</short-title></quote> or the <quote><short-title>ALERT Act of 2026</short-title></quote>.</text></section><section id="id8aa6c6d6ea2b4890b82c3de5846b06ff"><enum>2.</enum><header>National network of real-time infectious disease and public health surveillance in nursing homes</header><text display-inline="no-display-inline">Part B of title III of the Public Health Service Act is amended by inserting after section 319M (42 U.S.C. 247d–f) the following:</text><quoted-block style="OLC" display-inline="no-display-inline" id="id33020E03042544D1918D32328BDF0684"><section id="id30b33df1893541ea9d4804016e52e278"> <enum>319N.</enum> <header>Enhancement of National Healthcare Safety Network for real-time surveillance in nursing homes</header> <subsection id="id2d8fc6c3feb848e4b5430d74cd83a62b"> <enum>(a)</enum> <header>In general</header> <text>Not later than 180 days after the date of enactment of the <short-title>Advanced Long-term care Early Response Technology Act of 2026</short-title>, the Secretary, acting through the Director of the Centers for Disease Control and Prevention (referred to in this section as the <term>Secretary</term>), shall carry out a 5-year program to expand and enhance the National Healthcare Safety Network (referred to in this section as the <term>NHSN</term>) to establish real-time infectious disease and public health surveillance capabilities across nursing homes in the United States.</text>
+                    </subsection>
+                    <subsection id="id2f14b3ada60241dcb9b1772b7b69ec2e">
+                        <enum>(b)</enum>
+                        <header>Contracting authority</header>
+                        <paragraph id="id86cd8b584e464ed9b0ec1429b61a9376">
+                            <enum>(1)</enum>
+                            <header>In general</header>
+ <text>The Secretary may enter into one or more contracts with an eligible entity to develop, implement, and operate the technological and analytic infrastructure necessary to provide real-time surveillance and rapid notification capabilities under the NHSN.</text>
+                        </paragraph>
+                        <paragraph commented="no" display-inline="no-display-inline" id="idb838dddc458746a7a1c9da9ede365183">
+                            <enum>(2)</enum>
+                            <header>Eligibility</header>
+ <text>To be eligible to enter into a contract with the Secretary under paragraph (1), an entity—</text>
+                            <subparagraph commented="no" display-inline="no-display-inline" id="idcecd4067ff4445178947a4aa55ef5fd5">
+                                <enum>(A)</enum>
+ <text display-inline="yes-display-inline">shall be located in, or shall be a subsidiary of an entity that is located in, the United States;</text>
+                            </subparagraph>
+                            <subparagraph commented="no" display-inline="no-display-inline" id="id9dc24ab511dc4057b8a50d26df71d19f">
+                                <enum>(B)</enum>
+ <text>shall have, and shall maintain for the period of the contract, HITRUST r2 certification (or a successor certification);</text>
+                            </subparagraph>
+                            <subparagraph commented="no" display-inline="no-display-inline" id="idb1e872227f784b808f736efa9b5be40f">
+                                <enum>(C)</enum>
+ <text>shall not be an electronic medical records company; and</text> </subparagraph> <subparagraph commented="no" display-inline="no-display-inline" id="idd8d05e98e3d14b488d154da93c89d56d"> <enum>(D)</enum> <text>shall demonstrate experience in establishing and operating a public health surveillance network that monitors infectious diseases or other public health threats at the State or local level.</text>
+                            </subparagraph>
+                        </paragraph>
+                    </subsection>
+                    <subsection commented="no" display-inline="no-display-inline" id="id3bb0f34a915e400b83c9b809260ae99c">
+                        <enum>(c)</enum>
+                        <header>Required capabilities</header>
+ <text>Any contract entered into under subsection (b) shall—</text> <paragraph commented="no" display-inline="no-display-inline" id="id7d00f9b8cc884e3d8a1fdaae6078e6ad"> <enum>(1)</enum> <text display-inline="yes-display-inline">ensure that the infrastructure developed pursuant to the contract is capable of—</text>
+                            <subparagraph id="id394f6d22d9924662a5c19c3044b70db0">
+                                <enum>(A)</enum>
+ <text>providing real-time monitoring of emerging infectious diseases and other public health threats among nursing homes nationwide;</text>
+                            </subparagraph>
+                            <subparagraph commented="no" display-inline="no-display-inline" id="ided80af9ecd6642428e057a9a0b04f13c">
+                                <enum>(B)</enum>
+ <text>integrating with, and enhancing, the reporting systems of the NHSN;</text>
+                            </subparagraph>
+                            <subparagraph commented="no" display-inline="no-display-inline" id="idf85e3e50cb2542759b0585edd7bb6641">
+                                <enum>(C)</enum>
+ <text display-inline="yes-display-inline">establishing a central hub of epidemiologists and other public health professionals to support rapid identification of outbreaks;</text>
+                            </subparagraph>
+                            <subparagraph commented="no" display-inline="no-display-inline" id="id31d7470b730f40a194a00c58abaca325">
+                                <enum>(D)</enum>
+ <text>providing for immediate notification to appropriate Federal, State, and local health authorities; and</text>
+                            </subparagraph>
+                            <subparagraph id="idaf8315e971094751945deff83f60c4e2">
+                                <enum>(E)</enum>
+ <text>supporting the implementation of a staffed care management program that skilled nursing facilities may opt into;</text>
+                            </subparagraph>
+                        </paragraph>
+                        <paragraph id="idb41ae48a35bf4b82bdf72c77c2e2acb0">
+                            <enum>(2)</enum>
+ <text>ensure appropriate privacy protections for individual patient data; and</text>
+                        </paragraph>
+                        <paragraph id="idd5d98b4f517742d5b6ff87951eba08de">
+                            <enum>(3)</enum>
+ <text>prohibit the use of data collected or generated under the contract for regulatory compliance or enforcement purposes unless expressly authorized by law.</text>
+                        </paragraph>
+                    </subsection>
+                    <subsection commented="no" display-inline="no-display-inline" id="id4d77f76e611f4a05ad563df522ea2455">
+                        <enum>(d)</enum>
+                        <header>HIPAA and data protections</header>
+ <text>The entity awarded a contract under subsection (b)—</text> <paragraph commented="no" display-inline="no-display-inline" id="id308c2b36c3544786a30cd91b101a1a74"> <enum>(1)</enum> <text display-inline="yes-display-inline">shall be treated as a covered entity (as defined in section 160.103 of title 45, Code of Federal Regulations (or successor regulations)) for purposes of the privacy regulations promulgated under section 264(c) of the Health Insurance Portability and Accountability Act of 1996; and</text>
+                        </paragraph>
+                        <paragraph commented="no" display-inline="no-display-inline" id="idffc24ceb85414abf8c8b8848abcb2c70">
+                            <enum>(2)</enum>
+ <text>shall comply with all applicable Federal privacy and security requirements.</text>
+                        </paragraph>
+                    </subsection>
+                    <subsection id="id348818a049bd48ca8c893bb1cced3a23">
+                        <enum>(e)</enum>
+                        <header>Study and report</header>
+ <text display-inline="yes-display-inline">At the end of the period of the program described in subsection (a), the Secretary shall conduct, and submit to Congress a report that describes the results of, a study on—</text>
+                        <paragraph id="id720393ffef554a779fab42286cf08d63">
+                            <enum>(1)</enum>
+ <text>the effectiveness of the enhanced NHSN system in monitoring infectious diseases and public health threats in nursing homes;</text>
+                        </paragraph>
+                        <paragraph id="ida34a5bde33f14897ae1eb396e4e93d29">
+                            <enum>(2)</enum>
+ <text>the impact of the enhanced NHSN system on hospitalization rates and patient outcomes; and</text>
+                        </paragraph>
+                        <paragraph id="id84f81e9e71a44e8d88cb867221b5c5c5">
+                            <enum>(3)</enum>
+ <text>recommendations regarding continuation or expansion of the program under this section.</text>
+                        </paragraph>
+                    </subsection>
+                    <subsection id="id7ae9943e5c02406a9c0070bef33d261b">
+                        <enum>(f)</enum>
+                        <header>Authorization of appropriations</header>
+ <text>To carry out this section, there is authorized to be appropriated such sums as may be necessary for each of fiscal years 2027 through 2031.</text>
+                    </subsection>
+ </section><after-quoted-block>.</after-quoted-block></quoted-block></section><section id="id7805967abb514634a22d27040c6bd0f0"><enum>3.</enum><header>Supporting of real-time infections disease and public health surveillance network for nursing homes</header><text display-inline="no-display-inline">Section 1115A(b)(2)(B) of the Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/1315a">42 U.S.C. 1315a(b)(2)(B)</external-xref>) is amended by adding at the end the following new clause:</text><quoted-block style="OLC" display-inline="no-display-inline" id="idA721AE6DB39C44AA9C9E1692D35AE352"><clause id="id930d822060d14d5a82e3ab42b87f6e3b"><enum>(xxviii)</enum><text>Supporting the adoption by the National Healthcare Safety Network of technology to improve infectious disease surveillance in nursing homes that—</text><subclause commented="no" display-inline="no-display-inline" id="idfc40952d80204bbdb5d8b921e0afc358"><enum>(I)</enum><text display-inline="yes-display-inline">has capabilities for immediate detection and reporting of infectious disease outbreaks;</text></subclause><subclause commented="no" display-inline="no-display-inline" id="id0c7e1f001a4e4327a39f0fd2baba0c00"><enum>(II)</enum><text display-inline="yes-display-inline">facilitates coordinated responses with local, State, and Federal public health authorities; and</text></subclause><subclause commented="no" display-inline="no-display-inline" id="ideefbff0f81ec4d81bbe209bb5853a262"><enum>(III)</enum><text display-inline="yes-display-inline">enables nursing homes to participate in a staffed care management program to improve resident health outcomes.</text></subclause></clause><after-quoted-block>.</after-quoted-block></quoted-block></section></legis-body></bill>
+

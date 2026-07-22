@@ -1,0 +1,85 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H5E7394CDB128475EB87D1AF65CDB3D96" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 HR 7874 IH: Mail Ballot Integrity Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2026-03-09</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">119th CONGRESS</congress><session display="yes">2d Session</session><legis-num display="yes">H. R. 7874</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20260309">March 9, 2026</action-date><action-desc><sponsor name-id="H001077">Mr. Higgins of Louisiana</sponsor> (for himself, <cosponsor name-id="S001188">Mr. Stutzman</cosponsor>, <cosponsor name-id="G000565">Mr. Gosar</cosponsor>, <cosponsor name-id="T000480">Mr. Timmons</cosponsor>, <cosponsor name-id="F000484">Mr. Fine</cosponsor>, <cosponsor name-id="B001325">Mrs. Biggs of South Carolina</cosponsor>, and <cosponsor name-id="L000596">Mrs. Luna</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HHA00">Committee on House Administration</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To prohibit a State from distributing unsolicited ballots for voting by mail in any election for Federal office, and for other purposes.</official-title></form><legis-body id="H898BCE91914149439ED8F750C6C1ED28" style="OLC"><section id="H46C25B718DCD43539D8AB2E30D134D75" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Mail Ballot Integrity Act</short-title></quote>.</text></section><section id="H7E374192291847C3B2993C94A685A37B"><enum>2.</enum><header>Prohibition on unsolicited mail-in ballots and limitation on eligible requests</header><subsection id="H392650D776FB4D1EA9029E957EE639C3"> <enum>(a)</enum> <header>Prohibition on unsolicited mail-In ballots</header> <text display-inline="yes-display-inline">No State or political subdivision of a State may send, distribute, or otherwise provide a ballot to vote by mail in an election for Federal office to any individual who does not request the State or political subdivision of such State to provide the ballot.</text>
+      </subsection><subsection id="H1FB2BEFC5CC5469E93644914B8B6EF36">
+        <enum>(b)</enum>
+        <header>Requirements for mail-In voting in Federal elections</header>
+ <text display-inline="yes-display-inline">Notwithstanding any other provision of law, a State shall not issue or transmit a ballot for voting by mail to any individual in the State in an election for Federal office held in the State unless each of the following conditions are met:</text>
+        <paragraph id="H9349259BB30D45D6A5F91022CE727C49">
+          <enum>(1)</enum>
+          <header>Request required</header>
+ <text>The individual submits (in person, by mail, or electronically) a written or electronic request for the ballot that includes an affirmation, under penalty of perjury, that the individual meets one or more of the eligibility criteria under <internal-xref idref="HDCD73D40F2EC42CDB26B2B9817D399D3" legis-path="2.(b)(2)" >paragraph (2)</internal-xref>.</text>
+        </paragraph>
+        <paragraph id="HDCD73D40F2EC42CDB26B2B9817D399D3">
+          <enum>(2)</enum>
+          <header>Eligibility criteria</header>
+ <text>An individual who is on the official list of eligible voters in an election for Federal office in a State is eligible to request and receive a mail-in ballot for a Federal election in the State only if the individual—</text>
+          <subparagraph id="H1AEA8827F333407E91BF45D49841D850">
+            <enum>(A)</enum>
+ <text>is a member of the uniformed services (as defined in section 101(a) of title 10, United States Code) on active duty, or the spouse or dependent of such a member;</text>
+          </subparagraph>
+          <subparagraph id="HDD0AC0D5E90A4141A3D66B8E3CAD9B1C">
+            <enum>(B)</enum>
+ <text>is a student, instructor, or professor at an institution of higher education located outside the county in which the voter is registered to vote and resides outside that county by reason thereof, or is the spouse or dependent accompanying and residing with such individual;</text>
+          </subparagraph>
+          <subparagraph id="HBB675B55B2A74F1ABCC7AF9F638B85BD">
+            <enum>(C)</enum>
+ <text>is a minister, priest, rabbi, or other member of the clergy assigned to a religious post outside the county of registration, or is the spouse or dependent accompanying and residing with such individual;</text>
+          </subparagraph>
+          <subparagraph id="HC4F4526BFB934EC6B7579FEA90347C92">
+            <enum>(D)</enum>
+ <text>expects to be temporarily absent from the county in which the voter is registered to vote during the early voting period and on election day;</text>
+          </subparagraph>
+          <subparagraph id="H736B900715A24615A361F1132639AC07">
+            <enum>(E)</enum>
+ <text>after the close of voter registration, has moved residence to another county more than 100 miles from the county seat of the former residence;</text>
+          </subparagraph>
+          <subparagraph id="HE08048AEAC1A4FDD955079D27E5F2573">
+            <enum>(F)</enum>
+ <text>is involuntarily confined in an institution for mental treatment outside the county of registration and is not interdicted or judicially declared incompetent;</text>
+          </subparagraph>
+          <subparagraph id="H35ED9A09F5F04219AA142C20363CBAA3">
+            <enum>(G)</enum>
+ <text>resides outside the United States;</text> </subparagraph> <subparagraph id="H9B60301D9FF24AFCB6CEA0CC332A8D4F"> <enum>(H)</enum> <text>expects to be hospitalized on election day and did not have knowledge of the hospitalization until after the time for early voting expired (or was hospitalized during early voting, or is restricted to bed by a physician during early voting and on election day);</text>
+          </subparagraph>
+          <subparagraph id="H45C5ABD6496F4C459D238A7B8D610F70">
+            <enum>(I)</enum>
+ <text>meets the criteria for participation in a former State program for voters with disabilities in any State that has such a program;</text>
+          </subparagraph>
+          <subparagraph id="HCD418E88691E41D7965672DB9A80AE8F">
+            <enum>(J)</enum>
+ <text>is incarcerated in an institution inside or outside the county of registration but is not serving a sentence for a felony conviction;</text>
+          </subparagraph>
+          <subparagraph id="H909753E2338140E7ADACA552ED965666">
+            <enum>(K)</enum>
+ <text>is a participant in a State address confidentiality program;</text> </subparagraph> <subparagraph id="HDEBD148A23A24287ACECD9597B6F4424"> <enum>(L)</enum> <text>has a disability and submits documentation with respect to—</text>
+            <clause id="HFF04B86A91234D35BE079D441FC2408F">
+              <enum>(i)</enum>
+ <text>a current mobility impairment identification card with photograph and international symbol of accessibility;</text>
+            </clause>
+            <clause id="HA128006351AA41E6BEB5BC943B8A4030">
+              <enum>(ii)</enum>
+ <text>current documentation of eligibility for Social Security disability benefits, veterans disability benefits, paratransit services, benefits from a State office for citizens with developmental disabilities, or benefits from State rehabilitation services; or</text>
+            </clause>
+            <clause id="HDD8FAC1ACEE5402C85C555EA81FBADEB">
+              <enum>(iii)</enum>
+ <text>current proof of disability from a physician, optometrist, physician assistant, or nurse practitioner; or</text>
+            </clause>
+          </subparagraph>
+          <subparagraph id="H6841EE1145274722A3523CC2578DEEF2">
+            <enum>(M)</enum>
+ <text>has attained the age of 65 years or older.</text> </subparagraph> </paragraph> </subsection><subsection id="H4287A428EC1347BCB9BC34D43AD71FE6"> <enum>(c)</enum> <header>No permanent or automatic mail-In lists for unqualified voters</header> <text display-inline="yes-display-inline">A State may maintain a list of voters who have previously qualified for and requested mail-in ballots in an election for Federal office in the State, but only with respect to voters who continue to meet one or more of the criteria described under <internal-xref idref="HDCD73D40F2EC42CDB26B2B9817D399D3" legis-path="2.(b)(2)">subsection (b)(2)</internal-xref> as determined under State law.</text>
+ </subsection><subsection id="HCD1C3CF3128E46FDBE70942D7B13193B"><enum>(d)</enum><header>Effective date</header><text>This section shall apply with respect to elections for Federal office occurring on and after the date of the enactment of this Act.</text></subsection></section></legis-body></bill>
+

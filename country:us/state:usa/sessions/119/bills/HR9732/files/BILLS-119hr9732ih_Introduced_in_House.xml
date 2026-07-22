@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H3208799B330D4C48B4D4BF7B523D00FE" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 HR 9732 IH: Multi-Class Stock Company Voting Transparency Act.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2026-07-16</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">119th CONGRESS</congress><session display="yes">2d Session</session><legis-num display="yes">H. R. 9732</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20260716">July 16, 2026</action-date><action-desc><sponsor name-id="C001117">Mr. Casten</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HBA00">Committee on Financial Services</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To amend the Securities Exchange Act of 1934 to require issuers with a multi-class share structure to disclose certain shareholder voting results.</official-title></form><legis-body id="H11B854E272E74E628CAF6404ADE4EB2C" style="OLC"> 
+<section id="H216876026939439FA21A3EE72C917A89" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Multi-Class Stock Company Voting Transparency Act.</short-title></quote></text></section> <section id="HD508E05137184FE288CACFCF199F7A4B"><enum>2.</enum><header>Shareholder voting results disclosure requirement for issuers with multi-class share structures</header><text display-inline="no-display-inline">Section 14 of the Securities Exchange Act of 1934 (<external-xref legal-doc="usc" parsable-cite="usc/15/78n">15 U.S.C. 78n</external-xref>) is amended by adding at the end the following:</text> 
+<quoted-block id="HA17BC8704C734A34A3F1ADADC8C2E9CF" style="OLC"> 
+<subsection id="HB0DA295965464A39BA0DC05C1DFCBBEC">
+                    <enum>(l)</enum>
+                    <header>Shareholder voting results disclosure requirement for issuers with
+                        multi-Class share structures</header>
+ <text>The Commission shall, by rule, require that an issuer with 2 or more classes of voting securities, with respect to each meeting during which the shareholders of the issuer vote as one class, disclose to such shareholders the following with respect to such vote:</text>
+                    <paragraph id="HB8B525BF429F4FBDA5ADB39E8AB07E9B">
+                        <enum>(1)</enum>
+ <text>The total number of votes cast for, against, or withheld, disaggregated by class of voting security held.</text>
+                    </paragraph>
+                    <paragraph id="H144F2E28F6E545FCB09355BC4B967F14">
+                        <enum>(2)</enum>
+ <text>The total number of abstentions and broker non-votes, disaggregated by class of voting security held.</text>
+                    </paragraph>
+                </subsection><after-quoted-block>.</after-quoted-block></quoted-block></section> 
+</legis-body></bill>
+
