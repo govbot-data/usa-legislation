@@ -1,0 +1,321 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public" slc-id="S1-MCG26211-S1F-87-J0J"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 S4026 IS: American Dream Accounts Act of 2026</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2026-03-09</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">II</distribution-code><congress>119th CONGRESS</congress><session>2d Session</session><legis-num>S. 4026</legis-num><current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber><action><action-date date="20260309">March 9, 2026</action-date><action-desc><sponsor name-id="S404">Mr. Scott of Florida</sponsor> introduced the following bill; which was read twice and referred to the <committee-name committee-id="SSFI00">Committee on Finance</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title>To amend the Internal Revenue Code of 1986 to create American dream accounts.</official-title></form><legis-body display-enacting-clause="yes-display-enacting-clause"><section section-type="section-one" id="id95AD0C79A36D4D059129D99ADCD170E2"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>American Dream Accounts Act of 2026</short-title></quote>.</text></section><section section-type="subsequent-section" id="id5C57459635724D34856ED41BD1EEDFD2"><enum>2.</enum><header>American dream accounts</header><subsection id="ID40A315A5F358459A8D7F8F8D06AAE607"><enum>(a)</enum><header>In general</header><text>Subchapter F of <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/26/1">chapter 1</external-xref> of the Internal Revenue Code of 1986 is amended by adding at the end the following new part:</text><quoted-block id="ID877E2D148BBF41C493BE8D13D135BCA8"><part id="ID49EA413D6A7F437B9771A21E31400256"><enum>X</enum><header>American dream accounts</header><toc><toc-entry level="section" idref="ID7B8CA3BCBE5F4757A5CACECF4D61F04D">Sec. 530B. American dream accounts.</toc-entry></toc><section id="ID7B8CA3BCBE5F4757A5CACECF4D61F04D"> <enum>530B.</enum> <header>American dream accounts</header> <subsection id="ID1E77F3CA09FC47B7B59E09335FA9D78C"> <enum>(a)</enum> <header>General rule</header> <text>An American dream account shall be exempt from taxation under this subtitle. Notwithstanding the preceding sentence, such account shall be subject to the taxes imposed by section 511 (relating to imposition of tax on unrelated business income of charitable organizations).</text>
+                            </subsection>
+                            <subsection id="ID83A49DF123C44A8780C350FEE911DFC3">
+                                <enum>(b)</enum>
+                                <header>American dream account</header>
+ <text>For purposes of this section—</text> <paragraph commented="no" display-inline="no-display-inline" id="id89cc88dc0a1c4b58b449c53552421fda"> <enum>(1)</enum> <header>In general</header> <text display-inline="yes-display-inline">The term <term>American dream account</term> means a trust created or organized in the United States for the exclusive benefit of an eligible individual and which is designated (in such manner as the Secretary shall prescribe) at the time of the establishment of the trust as an American dream account, but only if the written governing instrument creating the trust meets the following requirements:</text>
+                                    <subparagraph id="ID8ECE030B0FDE4AC6995B6DDE6358EE3A">
+                                        <enum>(A)</enum>
+ <text>No contribution will be accepted—</text> <clause id="ID4FEAA6A8CAA942FCAB2BDA659FB77C33"> <enum>(i)</enum> <text>unless it is in cash,</text>
+                                        </clause>
+                                        <clause commented="no" display-inline="no-display-inline" id="idaf756570ef7540bba6de246ef650d40c">
+                                            <enum>(ii)</enum>
+ <text display-inline="yes-display-inline">after the date the beneficiary makes a qualified first-time homebuyer distribution or a rollover distribution described in clause (ii) or (iii) of subsection (d)(5)(A), and</text>
+                                        </clause>
+                                        <clause id="IDF6468855211A413993FCEF1296D7D0AC">
+                                            <enum>(iii)</enum>
+ <text>except in the case of a rollover contribution, if such contribution would result in aggregate contributions to all American dream accounts of the beneficiary for the calendar year in excess of the amount determined under subsection (c).</text>
+                                        </clause>
+                                    </subparagraph>
+                                    <subparagraph id="IDAD25F06B76B5457DB1E756862247404D">
+                                        <enum>(B)</enum>
+ <text>The trustee is a bank (as defined in section 408(n)) or another person who demonstrates to the satisfaction of the Secretary that the manner in which that person will administer the trust will be consistent with the requirements of this section or who has so demonstrated with respect to any individual retirement plan.</text>
+                                    </subparagraph>
+                                    <subparagraph commented="no" id="id4ec808f95b0f4266ba15e2e875a777b6">
+                                        <enum>(C)</enum>
+ <text>No part of the trust funds will be invested in life insurance contracts.</text>
+                                    </subparagraph>
+                                    <subparagraph id="ID43E8C8384FCB4002991BFF47593DFDD8">
+                                        <enum>(D)</enum>
+ <text>The assets of the trust shall not be commingled with other property except in a common trust fund or common investment fund.</text>
+                                    </subparagraph>
+                                    <subparagraph id="IDB925B772C74B459ABFC7E18E16C4D7FD">
+                                        <enum>(E)</enum>
+ <text>The interest of an individual in the balance of his account is nonforfeitable.</text>
+                                    </subparagraph>
+                                    <subparagraph commented="no" display-inline="no-display-inline" id="idd840359bf0b7495b93ef8f35ed7c4eea">
+                                        <enum>(F)</enum>
+ <text>The trustee requires the beneficiary to annually attest, to the best of their knowledge, to any contributions made to any other American dream account established for the benefit of the same beneficiary.</text>
+                                    </subparagraph>
+                                </paragraph>
+                                <paragraph commented="no" display-inline="no-display-inline" id="id6e75a2d2c8e94e09a9c3bd467e524015">
+                                    <enum>(2)</enum>
+                                    <header>Eligible individual</header>
+ <text>The term <term>eligible individual</term> means any individual who is a citizen of the United States.</text>
+                                </paragraph>
+                            </subsection>
+                            <subsection commented="no" display-inline="no-display-inline" id="id930dc6c472c6413d9a6ebc9cce9fac37">
+                                <enum>(c)</enum>
+                                <header>Contribution limitation</header>
+                                <paragraph commented="no" display-inline="no-display-inline" id="id79c153f9ffe841efbb268aa38ccd7361">
+                                    <enum>(1)</enum>
+                                    <header>In general</header>
+ <text display-inline="yes-display-inline">The amount determined under this subsection is the lesser of—</text>
+                                    <subparagraph commented="no" display-inline="no-display-inline" id="id7edf656064ec4fdcbda4cf544d773f89">
+                                        <enum>(A)</enum>
+ <text display-inline="yes-display-inline">$7,500, or</text> </subparagraph> <subparagraph commented="no" display-inline="no-display-inline" id="id0a9641f7abd249a38018d40f1ccc25d1"> <enum>(B)</enum> <text>$250,000, reduced by the aggregate amount of contributions made to all American dream accounts of the beneficiary for such taxable year and all prior taxable years.</text>
+                                    </subparagraph>
+                                </paragraph>
+                                <paragraph commented="no" display-inline="no-display-inline" id="id794e4a78cbdc4cba904fb34502e20a73">
+                                    <enum>(2)</enum>
+                                    <header>Catchup contributions</header>
+ <text>In the case of an American dream account the beneficiary of which has attained the age of 35 before the close of the calendar year, paragraph (1)(A) shall be applied by substituting <quote>$10,000</quote> for <quote>$7,500</quote>.</text>
+                                </paragraph>
+                                <paragraph id="id0cf5298321164d4aa93afdc6d0e88071">
+                                    <enum>(3)</enum>
+                                    <header>Treatment of rollover contributions</header>
+ <text>For purposes of this subsection—</text> <subparagraph commented="no" display-inline="no-display-inline" id="id47cb0f8646b744798472a09fe7d74af1"> <enum>(A)</enum> <text display-inline="yes-display-inline">any rollover contribution described in subsection (d)(5) shall not be taken into account for purposes of determining the amount of contribution under paragraph (1)(A), and</text>
+                                    </subparagraph>
+                                    <subparagraph commented="no" display-inline="no-display-inline" id="idf780c1700fc942fdaf330f526efee223">
+                                        <enum>(B)</enum>
+ <text>a rollover contribution described in subsection (d)(5)(A)(i) shall not be taken into account for purposes of determining the amount under paragraph (1)(B).</text>
+                                    </subparagraph>
+                                </paragraph>
+                            </subsection>
+                            <subsection id="ID63BFD76248714D7993DDED380CFB0B4F">
+                                <enum>(d)</enum>
+                                <header>Tax treatment of distributions</header>
+                                <paragraph commented="no" display-inline="no-display-inline" id="id2c5965b3ad634d1a8731594821afa723">
+                                    <enum>(1)</enum>
+                                    <header display-inline="yes-display-inline">In general</header>
+ <text>Except as provided in paragraph (2), any distribution shall be includible in the gross income of the distributee in the manner provided in section 72.</text>
+                                </paragraph>
+                                <paragraph commented="no" display-inline="no-display-inline" id="idf86c7e6aae4b4b09afa3390c656b3691">
+                                    <enum>(2)</enum>
+                                    <header display-inline="yes-display-inline">Qualified first-time
+                                        homebuyer distributions</header>
+                                    <subparagraph commented="no" display-inline="no-display-inline" id="idc627acf0f9044561ac38c4d4b5ede1b8">
+                                        <enum>(A)</enum>
+                                        <header>In general</header>
+ <text display-inline="yes-display-inline">Except as provided in subparagraph (B), any amount paid or distributed out of an American dream account which is a qualified first-time homebuyer distribution shall not be includible in gross income.</text>
+                                    </subparagraph>
+                                    <subparagraph commented="no" display-inline="no-display-inline" id="id88b89b40e5d644f481ef41f8bb26e979">
+                                        <enum>(B)</enum>
+                                        <header>Qualified first-time homebuyer distribution</header>
+ <text>For purposes of this section, the term <term>qualified first-time homebuyer distribution</term> has the meaning given such term under section 72(t)(8), determined without regard to subparagraph (B) thereof and by substituting <quote>3-year period</quote> for <quote>2-year period</quote> in subparagraph (D)(i)(I) thereof.</text>
+                                    </subparagraph>
+                                    <subparagraph commented="no" display-inline="no-display-inline" id="idad78e99874bd4b3fa70e34aff4a17923">
+                                        <enum>(C)</enum>
+                                        <header>Limitations</header>
+                                        <clause commented="no" display-inline="no-display-inline" id="id0ca514a14eab4ec096f9119b556e9070">
+                                            <enum>(i)</enum>
+                                            <header display-inline="yes-display-inline">Dollar
+                                                limitation</header>
+                                            <subclause commented="no" display-inline="no-display-inline" id="idf01ae12a0d3d4c0c8fb1c2460ab08663">
+                                                <enum>(I)</enum>
+                                                <header>In general</header>
+ <text display-inline="yes-display-inline">The amount treated as a qualified first-time homebuyer distribution under subparagraph (A) shall not exceed $500,000.</text>
+                                            </subclause>
+                                            <subclause commented="no" display-inline="no-display-inline" id="ida60ab4d3856147719fbbea3877e5c1cc">
+                                                <enum>(II)</enum>
+                                                <header>Special rule</header>
+ <text>In any case in which there is a distribution with respect to a residence which is acquired by the beneficiary and another person jointly and such other person makes distributions from an American dream account in connection with such acquisition, subclause (I) shall be applied by substituting <quote>$250,000</quote> for <quote>$500,000</quote>.</text>
+                                            </subclause>
+                                        </clause>
+                                        <clause commented="no" display-inline="no-display-inline" id="ide77f2bad401d4f6b9da8fe741bbc247c">
+                                            <enum>(ii)</enum>
+                                            <header display-inline="yes-display-inline">Lifetime
+                                                limitation</header>
+ <text>No amount shall be treated as a qualified first-time homebuyer distribution if the beneficiary has previously made a qualified first-time home buyer distribution from an American dream account in any preceding year.</text>
+                                        </clause>
+                                    </subparagraph>
+                                    <subparagraph commented="no" display-inline="no-display-inline" id="id8c6b6a8a028140a5bad2db0bb9508b20">
+                                        <enum>(D)</enum>
+                                        <header>Amount included in income in year sold before 3
+                                            years</header>
+                                        <clause commented="no" display-inline="no-display-inline" id="idf0dd1d01ac6242ec8ac99198bf461b75">
+                                            <enum>(i)</enum>
+                                            <header>In general</header>
+ <text display-inline="yes-display-inline">If the principal residence acquired by the taxpayer in a distribution described in subparagraph (A) is sold before the date that is 3 years after the date on which such principal residence was acquired, the amount which would have been included in gross income in the year of the distribution shall be included in gross income in the year in which such principal residence is sold.</text>
+                                        </clause>
+                                        <clause commented="no" display-inline="no-display-inline" id="id1ab12afa206a412eb6d2aa758628239b">
+                                            <enum>(ii)</enum>
+                                            <header>Exceptions</header>
+ <text>Clause (i) shall not apply to any sale if, during the period described in such clause, one of the following events occurs:</text>
+                                            <subclause commented="no" display-inline="no-display-inline" id="id29bfc84b1dc34fb891bebce40bd00cea">
+                                                <enum>(I)</enum>
+ <text display-inline="yes-display-inline">The death of the taxpayer or the spouse of the taxpayer.</text>
+                                            </subclause>
+                                            <subclause commented="no" display-inline="no-display-inline" id="id73ed6d7742b64792aa8715aa758039dd">
+                                                <enum>(II)</enum>
+ <text>A change in the legal marital status of the taxpayer.</text>
+                                            </subclause>
+                                            <subclause commented="no" display-inline="no-display-inline" id="idb83cc644185c4ac8a3fff314c6559969">
+                                                <enum>(III)</enum>
+ <text>A change in the number of the dependents of the taxpayer.</text>
+                                            </subclause>
+                                            <subclause commented="no" display-inline="no-display-inline" id="id116ff03472a6462d9934624a3b2a836d">
+                                                <enum>(IV)</enum>
+ <text>The termination of the employment of the taxpayer or the taxpayer's spouse.</text>
+                                            </subclause>
+                                            <subclause commented="no"
+                                                display-inline="no-display-inline"
+                                                id="id089bfaad3b284784893a8da0a4a34c21">
+                                                <enum>(V)</enum>
+ <text display-inline="yes-display-inline">A change in the required location of employment (including in connection with Government orders received by the taxpayer, or the taxpayer's spouse) for qualified official extended duty service (as defined in section 36(f)(4)(E)) to a location of 50 or more miles from the previous location of employment.</text>
+                                            </subclause>
+                                        </clause>
+                                    </subparagraph>
+                                </paragraph>
+                                <paragraph id="id4ab17c92f25041bba171b7b7fce6111d">
+                                    <enum>(3)</enum>
+                                    <header>Special rules for applying estate and gift taxes with
+                                        respect to account</header>
+ <text>Rules similar to the rules of paragraphs (2), (4), and (5) of section 529(c) shall apply for purposes of this section.</text>
+                                </paragraph>
+                                <paragraph id="id399acd9df3c349c992d3ba36ed28d2da">
+                                    <enum>(4)</enum>
+                                    <header>Additional tax for distributions not used for qualified
+                                        expenses</header>
+                                    <subparagraph commented="no" display-inline="no-display-inline" id="id3019f041f38844e89839968f28850132">
+                                        <enum>(A)</enum>
+                                        <header>In general</header>
+ <text display-inline="yes-display-inline">The tax imposed by this chapter for any taxable year on any taxpayer who receives a payment or distribution from an American dream account which is includible in gross income shall be increased by 10 percent of the amount which is so includible.</text>
+                                    </subparagraph>
+                                    <subparagraph id="id7e0f7083ebe342bab970f5b134c3c4b9">
+                                        <enum>(B)</enum>
+                                        <header>Exceptions</header>
+ <text>Subparagraph (A) shall not apply if the payment or distribution is—</text>
+                                        <clause id="idfc25043aaec44b5dbef323bcf4187b91">
+                                            <enum>(i)</enum>
+ <text>made to the beneficiary (or to the estate of the beneficiary) on or after the death of the beneficiary, or</text>
+                                        </clause>
+                                        <clause id="id8cfda168e7e342c6a27254ef2f80d716">
+                                            <enum>(ii)</enum>
+ <text>attributable to the beneficiary's being disabled (within the meaning of section 72(m)(7)),</text>
+                                        </clause>
+                                    </subparagraph>
+                                    <subparagraph id="id5fd886fe37b74e42813bdb7087bc9ed4">
+                                        <enum>(C)</enum>
+                                        <header>Contributions returned before certain date</header>
+ <text>Rules similar to the rules of section 530(d)(4)(C) shall apply for purposes of this paragraph.</text>
+                                    </subparagraph>
+                                </paragraph>
+                                <paragraph id="id3993c9390b1e4401861bb0c0651828d4">
+                                    <enum>(5)</enum>
+                                    <header>Rollover contributions</header>
+                                    <subparagraph commented="no" display-inline="no-display-inline" id="idcc31a88e3f734472969bd3cd953337ee">
+                                        <enum>(A)</enum>
+                                        <header>In general</header>
+ <text display-inline="yes-display-inline">Paragraph (1) shall not apply to any amount paid or distributed from an American dream account to the extent that the amount received is paid, not later than the 60th day after the date of such payment or distribution, into—</text>
+                                        <clause commented="no" display-inline="no-display-inline" id="idc4c57f05f425485a966678d44c2ddca5">
+                                            <enum>(i)</enum>
+ <text display-inline="yes-display-inline">another American dream account for the benefit of the same beneficiary,</text>
+                                        </clause>
+                                        <clause id="id2cc8b2ce1ce7417389e496f4253b73ba">
+                                            <enum>(ii)</enum>
+ <text>another American dream account the beneficiary of which (referred to in this paragraph as a <term>transferee beneficiary</term>) is a member of the family of the beneficiary of the American dream account with respect to which the distribution was made, or</text>
+                                        </clause>
+                                        <clause commented="no" display-inline="no-display-inline" id="id9f7c0dfe72fb45308eb83de8b6da5069">
+                                            <enum>(iii)</enum>
+ <text display-inline="yes-display-inline">a Roth IRA maintained for the benefit of the same beneficiary.</text>
+                                        </clause>
+                                    </subparagraph>
+                                    <subparagraph id="id21292e4b60ba453297a3aecfe5f052a9">
+                                        <enum>(B)</enum>
+                                        <header>Change in designated beneficiaries at death</header>
+ <text>In the case of the death of a beneficiary, a change in the beneficiary of an American dream account shall not be treated as a distribution for purposes of paragraph (1) if the new beneficiary is a member of the family of the old beneficiary. The preceding sentence shall not apply to the extent of any amount in excess of the dollar amount in effect under subsection (c)(1)(B).</text>
+                                    </subparagraph>
+                                    <subparagraph commented="no" display-inline="no-display-inline" id="id968db720f3bd403794de8526c5d3fa3c">
+                                        <enum>(C)</enum>
+                                        <header>Limitations on same-beneficiary rollovers</header>
+ <text display-inline="yes-display-inline">Subparagraph (A)(i) shall not apply to any payment or distribution if it applied to any prior payment or distribution during the 12-month period ending on the date of the payment or distribution.</text>
+                                    </subparagraph>
+                                    <subparagraph id="id2de12b9e181e4065ad8a3657b4b3b63f">
+                                        <enum>(D)</enum>
+                                        <header>Dollar limitations</header>
+                                        <clause id="id9f5175da84144422a991c5362651e0ae">
+                                            <enum>(i)</enum>
+                                            <header>Annual limitation for transfers to other
+                                                beneficiaries</header>
+ <text>Subparagraph (A)(ii) shall only apply to so much of any distribution—</text>
+                                            <subclause commented="no" display-inline="no-display-inline" id="id8df67561dfe049d2b5da66fca5646655">
+                                                <enum>(I)</enum>
+ <text display-inline="yes-display-inline">which is paid in a direct trustee-to-trustee transfer, and</text>
+                                            </subclause>
+                                            <subclause commented="no" display-inline="no-display-inline" id="id6665150a6eec4df9baf646266f2dfc00">
+                                                <enum>(II)</enum>
+ <text display-inline="yes-display-inline">as does not exceed the amount applicable to the transferee beneficiary under subsection (c) for the taxable year (reduced by the amount of aggregate contributions made during the taxable year to all American dream accounts maintained for the benefit of the transferee beneficiary).</text>
+                                            </subclause>
+                                        </clause>
+                                        <clause id="id6a56efa14ec047038c633d89b7b96890">
+                                            <enum>(ii)</enum>
+                                            <header>Annual limitation for Roth IRAs</header>
+ <text>Subparagraph (A)(iii) shall only apply to so much of any distribution—</text>
+                                            <subclause commented="no" display-inline="no-display-inline" id="id35fa9e66d09642fa9f4ac8074c61f11a">
+                                                <enum>(I)</enum>
+ <text display-inline="yes-display-inline">which is paid in a direct trustee-to-trustee transfer, and</text>
+                                            </subclause>
+                                            <subclause commented="no" display-inline="no-display-inline" id="id578d9b21d34b4eaebd1db53f5d5912b2">
+                                                <enum>(II)</enum>
+ <text display-inline="yes-display-inline">as does not exceed the amount applicable to the beneficiary under section 408A(c)(2) for the taxable year (reduced by the amount of aggregate contributions made during the taxable year to all individual retirement plans maintained for the benefit of the beneficiary).</text>
+                                            </subclause>
+                                        </clause>
+                                        <clause id="id28fcfd1eb1d842c1b04f7b2817e9808f">
+                                            <enum>(iii)</enum>
+                                            <header>Lifetime account limitation</header>
+ <text>Clauses (ii) and (iii) of subparagraph (A) shall not apply to any payment or distribution made from an American dream account if the aggregate amount of payments or distributions made from such account during the taxable year and all prior taxable years to which such clauses applied (determined without regard to this subparagraph) exceeds $100,000.</text>
+                                        </clause>
+                                    </subparagraph>
+                                    <subparagraph commented="no" display-inline="no-display-inline" id="idc4d2aab2bbf94adc8a8b95b050197b1b">
+                                        <enum>(E)</enum>
+                                        <header display-inline="yes-display-inline">Member of
+                                            family</header>
+ <text>For purposes of this paragraph, the term <term>member of the family</term> has the same meaning given such term under section 529(e)(2).</text>
+                                    </subparagraph>
+                                </paragraph>
+                                <paragraph id="id8a9ba78f8ffa459081e659a2ba6ad08d">
+                                    <enum>(6)</enum>
+                                    <header>Special rules for death and divorce</header>
+ <text>Rules similar to the rules of paragraphs (7) and (8) of section 220(f) shall apply.</text>
+                                </paragraph>
+                            </subsection>
+                            <subsection commented="no" display-inline="no-display-inline" id="id5f5ad62ce3d145d1b46b16488195c97a">
+                                <enum>(e)</enum>
+                                <header>Tax treatment of accounts</header>
+ <text>Rules similar to the rules of paragraphs (2) and (4) of section 408(e) shall apply to any American dream account.</text>
+                            </subsection>
+                            <subsection id="idc9307c83bc3c427ca74a885946cbce24">
+                                <enum>(f)</enum>
+                                <header>Community property laws</header>
+ <text>This section shall be applied without regard to any community property laws.</text>
+                            </subsection>
+                            <subsection id="ID940DCED8719A405097802EA3E0EEFEF5">
+                                <enum>(g)</enum>
+                                <header>Custodial accounts</header>
+ <text>For purposes of this section, a custodial account shall be treated as a trust under this section if the assets of such account are held by a bank (as defined in section 408(n)) or another person who demonstrates, to the satisfaction of the Secretary, that the manner in which he will administer the account will be consistent with the requirements of this section, and if the custodial account would, except for the fact that it is not a trust, constitute a trust which meets the requirements of subsection (b). For purposes of this title, in the case of a custodial account treated as a trust by reason of the preceding sentence, the custodian of such account shall be treated as the trustee thereof.</text>
+                            </subsection>
+                            <subsection id="ID35F0CAB4CD244738BCE4F20350A314C5">
+                                <enum>(h)</enum>
+                                <header>Reports</header>
+                                <paragraph commented="no" display-inline="no-display-inline" id="id6e85acffc0674437b531e2c835794a08">
+                                    <enum>(1)</enum>
+                                    <header>In general</header>
+ <text display-inline="yes-display-inline">The trustee of an American dream account shall make such reports regarding such account to the Secretary and to the beneficiary with respect to contributions, distributions, and such other matters as the Secretary may require. The reports required by this subsection shall be filed at such time and in such manner and furnished to such individuals at such time and in such manner as may be required.</text>
+                                </paragraph>
+                                <paragraph id="id5ed39745caf1436aa783dbaa8ba58c4d">
+                                    <enum>(2)</enum>
+                                    <header>Rollover distributions</header>
+ <text>In the case of any distribution described in subsection (d)(5)(D), the officer or employee having control of the American dream account (or their designee) shall provide a report to the trustee of the Roth IRA or American dream account to which the distribution is made. Such report shall be filed at such time and in such manner as the Secretary may require and shall include information with respect to the contributions, distributions, and earnings of the American dream account as of the date of the distribution described in subsection (d)(5)(D), together with such other matters as the Secretary may require.</text>
+                                </paragraph>
+                            </subsection>
+ </section></part><after-quoted-block>.</after-quoted-block></quoted-block></subsection><subsection id="idd0d84b0e3d0f408293b6285d3bf9795c"><enum>(b)</enum><header>Tax on excess contributions</header><paragraph id="id213497a97d4842f7a179896ada6b5dc6"><enum>(1)</enum><header>In general</header><text><external-xref legal-doc="usc" parsable-cite="usc/26/4973">Section 4973(a)</external-xref> of the Internal Revenue Code of 1986 is amended by striking <quote>or</quote> at the end of paragraph (5), by inserting <quote>or</quote> at the end of paragraph (6), and by inserting after paragraph (6) the following new paragraph:</text><quoted-block style="OLC" display-inline="no-display-inline" id="id5ee7dcad12bb4432b96cdc415403f388"><paragraph id="id3baec33af16544b08a91d032b4c9bf64"><enum>(7)</enum><text>an American dream account (as defined in section 530B),</text></paragraph><after-quoted-block>.</after-quoted-block></quoted-block></paragraph><paragraph id="id4968730821574660903017af40346b8a"><enum>(2)</enum><header>Excess contribution</header><text>Section 4973 of such Code is amended by adding at the end the following new subsection:</text><quoted-block style="OLC" display-inline="no-display-inline" id="idd66505a15d124e7188a24e6b58eef27f"><subsection id="idc5c6c34927a442a49b5582ba3ef91f9c"><enum>(i)</enum><header>Excess contributions to American dream accounts</header><text>For purposes of this section—</text><paragraph id="id6145461f2fda4aab8c97e28a49f71c00"><enum>(1)</enum><header>In general</header><text>In the case of American dream accounts (within the meaning of section 530B), the term <term>excess contributions</term> means the sum of—</text><subparagraph id="id6c4d6df05bf1460bab6bd45730301059"><enum>(A)</enum><text>the amount (if any) by which the amount contributed for the taxable year to such accounts exceeds the dollar amount in effect under section 530B(c) with respect to the beneficiary, and</text></subparagraph><subparagraph id="id4b815773f998450395e61903a711bea8"><enum>(B)</enum><text>the amount determined under this subsection for the preceding taxable year, reduced by the sum of—</text><clause id="id81ea66b21d284d63a809ed1fd16c9fba"><enum>(i)</enum><text>the distributions out of the accounts for the taxable year (other than rollover distributions), and</text></clause><clause id="idfc8082ef2a7a4ecebc0264aca8d6b175"><enum>(ii)</enum><text>the excess (if any) of the maximum amount which may be contributed to the accounts for the taxable year over the amount contributed to the accounts for the taxable year.</text></clause></subparagraph></paragraph><paragraph id="id57295d22d23c4e5ea4b88808d57e8dda"><enum>(2)</enum><header>Special rule</header><text>For purposes of paragraph (1), the following contributions shall not be taken into account:</text><subparagraph commented="no" display-inline="no-display-inline" id="id5710b3438a21468398268a07b85f405b"><enum>(A)</enum><text display-inline="yes-display-inline">Any contribution which is distributed out of an American dream account in a distribution to which section 530B(d)(4)(C) applies.</text></subparagraph><subparagraph commented="no" display-inline="no-display-inline" id="id12db6d90fdf6470b893338c030eec3f1"><enum>(B)</enum><text display-inline="yes-display-inline">Any rollover contribution.</text></subparagraph></paragraph></subsection><after-quoted-block>.</after-quoted-block></quoted-block></paragraph></subsection><subsection id="idef851433718b4d87a83bcd580a530a51"><enum>(c)</enum><header>Tax on prohibited transactions</header><text><external-xref legal-doc="usc" parsable-cite="usc/26/4975">Section 4975(e)(1)</external-xref> of the Internal Revenue Code of 1986 is amended by striking <quote>or</quote> at the end of subparagraph (F), by striking the period at the end of subparagraph (G) and inserting <quote>, or</quote>, and by adding at the end the following new subparagraph:</text><quoted-block style="OLC" display-inline="no-display-inline" id="id24df07ed078a40299709889a98d57e3f"><subparagraph id="idb74ea95538c3431c8bf0b2ef9e1f67b8"><enum>(H)</enum><text>an American dream account (as defined in section 530B).</text></subparagraph><after-quoted-block>.</after-quoted-block></quoted-block></subsection><subsection id="ID07F25CA983AF4F1EA8C4C0718BBA1090"> <enum>(d)</enum> <header>Failure To provide reports on American dream accounts</header> <text>Paragraph (2) of <external-xref legal-doc="usc" parsable-cite="usc/26/6693">section 6693(a)</external-xref> of the Internal Revenue Code of 1986 is amended by striking <quote>and</quote> at the end of subparagraph (F), by striking the period at the end of subparagraph (G) and inserting <quote>, and</quote>, and by adding at the end the following new subparagraph:</text>
+                <quoted-block id="ID640A953D77354476A0603DCFF36E2290">
+                    <subparagraph id="ID10D71233A58A4B5B92078A6E9D17AD85">
+                        <enum>(H)</enum>
+ <text>section 530B(h) (relating to American dream accounts).</text> </subparagraph> <after-quoted-block>.</after-quoted-block> </quoted-block> </subsection><subsection id="id2de7b3289f504c7dad0617cf8fdcc54d"><enum>(e)</enum><header>Rollovers to Roth IRAs</header><text><external-xref legal-doc="usc" parsable-cite="usc/26/408A">Section 408A(e)</external-xref> of the Internal Revenue Code of 1986 is amended by striking <quote>and</quote> at the end of subparagraph (B)(ii), by striking the period at the end of subparagraph (C) and inserting <quote>, and</quote>, and by adding at the end the following new subparagraph:</text><quoted-block style="OLC" display-inline="no-display-inline" id="idc0f873fbfc424d679b64e769b4fbd3d9"><subparagraph commented="no" display-inline="no-display-inline" id="ida8800dd26147434ba655c9383fc815b6"><enum>(D)</enum><text>from an American dream account to the extent provided in section 530B(d)(5)(A)(iii).</text></subparagraph><after-quoted-block>.</after-quoted-block></quoted-block></subsection><subsection id="ID8E5D3F8F9E964A6094B2519A682373DE"><enum>(f)</enum><header>Clerical amendment</header><text>The table of parts for subchapter F of <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/26/1">chapter 1</external-xref> of the Internal Revenue Code of 1986 is amended by adding at the end the following new item:</text><quoted-block style="OLC" id="id7bcd4b82-ccd7-4470-a15a-2b8426cb32a9"><toc><toc-entry level="part" idref="ID49EA413D6A7F437B9771A21E31400256">PART X—American Dream Accounts</toc-entry></toc><after-quoted-block>.</after-quoted-block></quoted-block></subsection><subsection id="ID9DA5BA7E23F04234A2102E1ADAF1ADAC"><enum>(g)</enum><header>Effective date</header><text>The amendments made by this section shall apply to taxable years beginning after December 31, 2026.</text></subsection></section></legis-body></bill>
+

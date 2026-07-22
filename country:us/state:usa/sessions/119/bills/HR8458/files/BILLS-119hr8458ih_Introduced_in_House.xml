@@ -1,0 +1,318 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="HE4775DCC84404851A3C97EDA4EAB0CEC" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 HR 8458 IH: Stopping Theft and Aerospace Reconnaissance Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2026-04-22</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">119th CONGRESS</congress><session display="yes">2d Session</session><legis-num display="yes">H. R. 8458</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20260422">April 22, 2026</action-date><action-desc><sponsor name-id="S001200">Mr. Soto</sponsor> (for himself and <cosponsor name-id="D000628">Mr. Dunn of Florida</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HSY00">Committee on Science, Space, and Technology</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To amend title 51, United States Code, to authorize certain actions to protect certain facilities and assets from unmanned aircraft, and for other purposes.</official-title></form><legis-body id="HC98E0613A04F40E880151CFEBF9964A3" style="OLC"> 
+<section id="H8490B9C832E5467DBA4BB4C26A0DF1B3" section-type="section-one"><enum>1.</enum><header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Stopping Theft and Aerospace Reconnaissance Act</short-title></quote> or the <quote><short-title>STAR Act</short-title></quote>.</text></section> 
+<section id="HE00D2360F2B44FABB0AD88EBEC8781DE"><enum>2.</enum><header>Protection of certain facilities and assets from unmanned aircraft</header> 
+<subsection id="H82B4E661FFFE40BD944C0B99C319D020">
+        <enum>(a)</enum>
+        <header>Authority To protect certain NASA facilities and assets from unmanned
+          aircraft</header>
+        <paragraph id="H3AC9440B6A534DCFA614BAEFA3198DAE">
+          <enum>(1)</enum>
+          <header>In general</header>
+ <text>Subchapter II of <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/51/201">chapter 201</external-xref> of title 51, United States Code, is amended by adding at the end the following new section:</text>
+          <quoted-block id="HA863DDEAD4DB41FD81F92F2DC5B2FD50" style="USC">
+            <section id="HF36CA5059A664937A2750031677985B5">
+              <enum>20118.</enum>
+              <header>Authority to take actions to protect certain NASA facilities and assets from
+                unmanned aircraft</header>
+              <subsection id="H60CBEF191FB54624B0726A71D56D5F64">
+                <enum>(a)</enum>
+                <header>Authority</header>
+ <text>Notwithstanding any other provision of law, the Administrator may take, and may authorize officers and employees of the Administration to take, such actions as are described in subsection (b) that are necessary to mitigate the threat an unmanned aircraft system or unmanned aircraft poses to the safety or security of a covered facility.</text>
+              </subsection>
+              <subsection id="HB62AD6EFBA1C41CCA258CECC83E5E51A">
+                <enum>(b)</enum>
+                <header>Actions described</header>
+ <text>The actions described in this subsection are the following:</text> <paragraph id="H509671C2353B45A2975DAFDC1A9B8283"> <enum>(1)</enum> <text>Detect, identify, monitor, and track an unmanned aircraft system or unmanned aircraft, without prior consent.</text>
+                </paragraph>
+                <paragraph id="HC5828A7143A1498B9262FCFDCF269E8F">
+                  <enum>(2)</enum>
+ <text>Warn the operator of such unmanned aircraft system or unmanned aircraft, as the case may be.</text>
+                </paragraph>
+                <paragraph id="H16F632F912F54380B72B21CCDAAE0F5A">
+                  <enum>(3)</enum>
+ <text>Disrupt control of such unmanned aircraft system or unmanned aircraft, as the case may be, without prior consent, including by disabling such unmanned aircraft system or unmanned aircraft, as the case may be, by intercepting electronic communications or otherwise interfering with such communications.</text>
+                </paragraph>
+                <paragraph id="H0D1E8E8589714E8A9DF3DEB97495CF69">
+                  <enum>(4)</enum>
+ <text>Seize or exercise control of such unmanned aircraft system or unmanned aircraft, as the case may be.</text>
+                </paragraph>
+                <paragraph id="HE8CABCEEABCC4DF5A9EC56485E5DCCC6">
+                  <enum>(5)</enum>
+ <text>Seize or otherwise confiscate such unmanned aircraft system or unmanned aircraft, as the case may be.</text>
+                </paragraph>
+                <paragraph id="H1D0956594C7E4F81BCB2B7992F58E621">
+                  <enum>(6)</enum>
+ <text>Use reasonable force to disable, damage, or destroy such unmanned aircraft system or unmanned aircraft, as the case may be.</text>
+                </paragraph>
+              </subsection>
+              <subsection id="HB97198BB949847BFBFD42C92743F86E4">
+                <enum>(c)</enum>
+                <header>Forfeiture</header>
+ <text>Any unmanned aircraft system or unmanned aircraft described in subsection (a) and seized by the Administrator is subject to forfeiture to the United States.</text>
+              </subsection>
+              <subsection id="HC984876CA2C141B2AC8667769AD4842A" display-inline="no-display-inline">
+                <enum>(d)</enum>
+                <header>Signage</header>
+ <text>The Administrator shall display on each covered facility a sign that includes information relating to the following:</text>
+                <paragraph id="H27FFF6261E8F4163BCAE71F7E49C3B73">
+                  <enum>(1)</enum>
+ <text>The actions that may be taken pursuant to subsection (a).</text> </paragraph> <paragraph id="H6A2437BDBD03456880FA3F808888185A"> <enum>(2)</enum> <text>Forfeiture under subsection (c).</text>
+                </paragraph>
+              </subsection>
+              <subsection id="H62C1787DE93C4C6B9E20EA03AE7DDDAF">
+                <enum>(e)</enum>
+                <header>Policy development</header>
+ <text>The Administrator, in coordination with relevant offices of the Administration and the Attorney General, the Secretary of Defense, the Secretary of Homeland Security, and the Administrator of the Federal Aviation Administration, shall develop uniform policy for the following:</text>
+                <paragraph id="H93A0E4D09B6041DA98BBB24C765C3CC7">
+                  <enum>(1)</enum>
+ <text display-inline="yes-display-inline">The actions that may be taken pursuant to subsection (a).</text>
+                </paragraph>
+                <paragraph id="HAE1B46E3D47A4E6A8EB1AA3594EC48D5">
+                  <enum>(2)</enum>
+ <text>The actions that may be taken pursuant to subsection (a) of section 50925.</text>
+                </paragraph>
+              </subsection>
+              <subsection id="HA241B94D66BA4AD884CB7AA43A60AAC6" display-inline="no-display-inline">
+                <enum>(f)</enum>
+                <header>Determination</header>
+ <text>Each year, the Administrator shall consult with the local law enforcement agency for each covered facility to determine the most effective and least hazardous means to take actions pursuant to subsection (a).</text>
+              </subsection>
+              <subsection id="H2B9125ED44C34F989E66BFA6592C71EB" commented="no">
+                <enum>(g)</enum>
+                <header>Liability</header>
+ <text>Neither the Administrator nor the officers and employees of the Administration are entitled to assert any form of absolute or qualified immunity as a defense to liability under this section, but if an unmanned aircraft system or unmanned aircraft poses a threat described in subsection (a) and an action is taken pursuant to such subsection to mitigate such threat, the operator of such unmanned aircraft system or unmanned aircraft, as the case may be, is liable for damages caused by such action.</text>
+              </subsection>
+              <subsection id="H61592CA21E5D415598145F99384D4A98">
+                <enum>(h)</enum>
+                <header>Reports</header>
+                <paragraph id="H59FAB495E8F84F57BBB29D2BB1032A4F">
+                  <enum>(1)</enum>
+                  <header>Local law enforcement agencies</header>
+ <text display-inline="yes-display-inline">Not later than 30 days after an instance in which an action described in paragraphs (3) through (6) of subsection (b) is taken pursuant to subsection (a), the Administrator shall submit to the local law enforcement agency for the jurisdiction in which such action was taken a report on such instance, in a form specified by such agency.</text>
+                </paragraph>
+                <paragraph id="HCBA11E323B474F80A73E48AECA58E7E6">
+                  <enum>(2)</enum>
+                  <header>Specified entities</header>
+ <text display-inline="yes-display-inline">Not later than one year after the date of the enactment of this section and annually thereafter, the Administrator shall submit to the specified entities a report that includes for the annual period covered by such report information relating to the following:</text>
+                  <subparagraph id="HD608DE26444E4F7E832DC1AD1645992D">
+                    <enum>(A)</enum>
+ <text>The actions, if any, described in paragraphs (3) through (6) of subsection (b) and taken pursuant to subsection (a), including an identification of each instance in which such an action was so taken and the means through which such action was so taken.</text>
+                  </subparagraph>
+                  <subparagraph id="H4E4B0E130FD64A93A9484BE7D8A2F3F4">
+                    <enum>(B)</enum>
+ <text>The actions, if any, described in paragraphs (3) through (6) of subsection (b) of section 50925 and taken pursuant to subsection (a) of such section, including an identification of each instance in which such an action was so taken and the means through which such action was so taken.</text>
+                  </subparagraph>
+                  <subparagraph id="HD41DC9BF94FC4BFB82B37C596A6AEBAB">
+                    <enum>(C)</enum>
+ <text>For each action referred to in subparagraph (A) or (B), the justification for so taking such action.</text>
+                  </subparagraph>
+                  <subparagraph id="H88636547A5024188ACD2FE8E23DB2046">
+                    <enum>(D)</enum>
+ <text display-inline="yes-display-inline">The efforts by the Administrator to protect privacy and civil liberties with respect to the following:</text>
+                    <clause id="HA487159725664BD2B87EDC226E9AC93D">
+                      <enum>(i)</enum>
+ <text>The actions that may be taken pursuant to subsection (a).</text> </clause> <clause id="HBBB11E2F879E430BAB327C5569719786"> <enum>(ii)</enum> <text>The actions that may be taken pursuant to subsection (a) of section 50925.</text>
+                    </clause>
+                  </subparagraph>
+                </paragraph>
+              </subsection>
+              <subsection id="HCBFB058092C54DED9727397D32E386E9">
+                <enum>(i)</enum>
+                <header>Definitions</header>
+ <text>In this section:</text> <paragraph id="HC4A53B9704B04C7AB312EF87AEA3ACB4"> <enum>(1)</enum> <header>Covered facility</header> <text>The term <term>covered facility</term> means any facility that satisfies the following requirements:</text>
+                  <subparagraph id="H2BCC57C989FC48A694A58377CF3972EB">
+                    <enum>(A)</enum>
+ <text>Is under the jurisdiction of the Administration.</text> </subparagraph> <subparagraph id="HE2ED56BA2F8B4058955EF59348B55DE5"> <enum>(B)</enum> <text display-inline="yes-display-inline">Is identified by the Administrator as a facility critical to a function of the Administration.</text>
+                  </subparagraph>
+                </paragraph>
+                <paragraph id="HD3DF9C095EA742BC922FC1DF5F74E918" display-inline="no-display-inline">
+                  <enum>(2)</enum>
+                  <header>Local law enforcement agency</header>
+ <text>The term <term>local law enforcement agency</term> means the law enforcement agency of a county or county-equivalent entity.</text>
+                </paragraph>
+                <paragraph id="HC86B72C707554A80A176B43B91E8CD8A">
+                  <enum>(3)</enum>
+                  <header>Specified entities</header>
+ <text>The term <term>specified entities</term> means the following:</text> <subparagraph id="HA028B5076D134811868B201D07E7EE4C"> <enum>(A)</enum> <text>The Committee on Energy and Commerce and the Committee on Science, Space, and Technology of the House of Representatives.</text>
+                  </subparagraph>
+                  <subparagraph id="HF65302DDFBFB457A9EEEBBC3A5B5D1A6">
+                    <enum>(B)</enum>
+ <text>The Committee on Commerce, Science, and Transportation of the Senate.</text>
+                  </subparagraph>
+                  <subparagraph id="H4FF261B539EE427582BB9085E2F51A19">
+                    <enum>(C)</enum>
+ <text>The Attorney General.</text> </subparagraph> <subparagraph id="H049C91B869084455A58DD94CD2EDDCFF"> <enum>(D)</enum> <text>The Secretary of Defense.</text>
+                  </subparagraph>
+                  <subparagraph id="H0B953195D9E544B9B2547FF833ABB288">
+                    <enum>(E)</enum>
+ <text>The Secretary of Homeland Security.</text> </subparagraph> <subparagraph id="HDB9F5370111E47CA8BD7C7454EBD567B"> <enum>(F)</enum> <text>The Administrator of the Federal Aviation Administration.</text>
+                  </subparagraph>
+                </paragraph>
+                <paragraph id="H548ACC158C85469493FDF0CDD71903C9">
+                  <enum>(4)</enum>
+                  <header>Unmanned aircraft; unmanned aircraft system</header>
+ <text>The terms <term>unmanned aircraft</term> and <term>unmanned aircraft system</term> have the meanings given such terms in section 44801 of title 49.</text>
+                </paragraph>
+              </subsection>
+            </section>
+            <after-quoted-block>.</after-quoted-block>
+          </quoted-block>
+        </paragraph>
+        <paragraph id="H586105A5875549E5819220B7C676A3DE">
+          <enum>(2)</enum>
+          <header>Clerical amendment</header>
+ <text>The table of sections for <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/51/201">chapter 201</external-xref> of title 51, United States Code, is amended by inserting after the item relating to <external-xref legal-doc="usc" parsable-cite="usc/51/20117">section 20117</external-xref> the following new item:</text>
+          <quoted-block id="H28F43D3278E24716920E6E566AE3FB60" style="USC">
+            <toc regeneration="no-regeneration">
+              <toc-entry level="section">20118. Authority to take actions to protect certain NASA
+                facilities and assets from unmanned aircraft</toc-entry>
+            </toc>
+            <after-quoted-block>.</after-quoted-block>
+          </quoted-block>
+        </paragraph>
+      </subsection> 
+<subsection id="H33842D4F59004BD088242E0A6C550F2A">
+        <enum>(b)</enum>
+        <header>Authority To protect space launch property from unmanned aircraft</header>
+        <paragraph id="HE1286BC8BBE54B5EB6441455D1141969">
+          <enum>(1)</enum>
+          <header>In general</header>
+ <text><external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/51/509">Chapter 509</external-xref> of title 51, United States Code, is amended by adding at the end the following new section:</text>
+          <quoted-block id="H39C30C5422DB4F78A6B97BADA2EEADD9" style="USC">
+            <section id="HE899C274FDF84501A930A6A2D3176FF8">
+              <enum>50925.</enum>
+              <header>Authority to take actions to protect space launch property from unmanned
+                aircraft</header>
+              <subsection id="H0AA27069CD96478D8D7817FD725C23F4">
+                <enum>(a)</enum>
+                <header>Authority</header>
+ <text>Subject to section 20118 and notwithstanding any other provision of law, a covered entity may take, and may authorize officers and employees of such entity to take, such actions as are described in subsection (b) that are necessary to mitigate the threat an unmanned aircraft system or unmanned aircraft poses to the safety or security of the covered property of such entity.</text>
+              </subsection>
+              <subsection id="H39A37FEDCAC6482E8BC750DAA8C0A88A">
+                <enum>(b)</enum>
+                <header>Actions described</header>
+ <text>The actions described in this subsection are the following:</text> <paragraph id="H91BDA07A6FB0407C8D1197FE38E613CD"> <enum>(1)</enum> <text>Detect, identify, monitor, and track an unmanned aircraft system or unmanned aircraft, without prior consent.</text>
+                </paragraph>
+                <paragraph id="H3B2AF8FBA05B4C6398973F68B3080563">
+                  <enum>(2)</enum>
+ <text>Warn the operator of such unmanned aircraft system or unmanned aircraft, as the case may be.</text>
+                </paragraph>
+                <paragraph id="H04D9A3EE7E1F408A8438675BCA12D6A3">
+                  <enum>(3)</enum>
+ <text>Disrupt control of such unmanned aircraft system or unmanned aircraft, as the case may be, without prior consent, including by disabling such unmanned aircraft system or unmanned aircraft, as the case may be, by intercepting electronic communications or otherwise interfering with such communications.</text>
+                </paragraph>
+                <paragraph id="H71B4F6F802C64B6E917437CAC9455BDA">
+                  <enum>(4)</enum>
+ <text>Seize or exercise control of such unmanned aircraft system or unmanned aircraft, as the case may be.</text>
+                </paragraph>
+                <paragraph id="H7E69632A43024EA7A00C4D97B4B1AE80">
+                  <enum>(5)</enum>
+ <text>Seize or otherwise confiscate such unmanned aircraft system or unmanned aircraft, as the case may be.</text>
+                </paragraph>
+                <paragraph id="H71E1F486034B46C6B4C9D378F2F67860">
+                  <enum>(6)</enum>
+ <text>Use reasonable force to disable, damage, or destroy such unmanned aircraft system or unmanned aircraft, as the case may be.</text>
+                </paragraph>
+              </subsection>
+              <subsection id="H045C1BD91AA34C5CA622259F72F06BD8">
+                <enum>(c)</enum>
+                <header>Forfeiture</header>
+ <text display-inline="yes-display-inline">Any unmanned aircraft system or unmanned aircraft described in subsection (a) and seized by a covered entity is subject to forfeiture to the local law enforcement agency for the jurisdiction in which such unmanned aircraft system or unmanned aircraft, as the case may be, was so seized.</text>
+              </subsection>
+              <subsection id="HAAE52778746D463592BE7631CB552B93">
+                <enum>(d)</enum>
+                <header>Signage</header>
+ <text>A covered entity shall display on each covered property of such entity a sign that includes information relating to the following:</text>
+                <paragraph id="H1FC9FE41AB6D40B48CA42DE64DA63242">
+                  <enum>(1)</enum>
+ <text display-inline="yes-display-inline">The actions that may be taken pursuant to subsection (a).</text>
+                </paragraph>
+                <paragraph id="H3F10D474C17448E0896DCDFF84A05201">
+                  <enum>(2)</enum>
+ <text>Forfeiture under subsection (c).</text> </paragraph> </subsection> <subsection id="H8AC569EC41D940CE95E4889385CA898A"> <enum>(e)</enum> <header>Determination</header> <text>Each year, a covered entity shall consult with each local law enforcement agency for the covered property of such entity to determine the most effective and least hazardous means to take actions pursuant to subsection (a).</text>
+              </subsection>
+              <subsection id="H5D9635C0A27F4E7484D51A6DB3A957B5">
+                <enum>(f)</enum>
+                <header>Liability</header>
+ <text display-inline="yes-display-inline">If an unmanned aircraft system or unmanned aircraft poses a threat described in subsection (a) and an action is taken pursuant to such subsection to mitigate such threat, the operator of such unmanned aircraft system or unmanned aircraft, as the case may be, is liable for damages caused by such action.</text>
+              </subsection>
+              <subsection id="H100FD3AAC9694BD295CE3685E6F4A656">
+                <enum>(g)</enum>
+                <header>Reports</header>
+ <text display-inline="yes-display-inline">Not later than 30 days after an instance in which an action described in paragraphs (3) through (6) of subsection (b) is taken pursuant to subsection (a), the covered entity through which such action was so taken shall carry out the following:</text>
+                <paragraph id="HBD2D2B9F2C7F42ECA6BC85EE7F09E875">
+                  <enum>(1)</enum>
+ <text>Submit to the local law enforcement agency for the jurisdiction in which such action was so taken a report on such instance that satisfies the following requirements:</text>
+                  <subparagraph id="H8C421698157145FF98F607491485B8B1">
+                    <enum>(A)</enum>
+ <text>Is in a form specified by such agency.</text> </subparagraph> <subparagraph id="H28DCB2D322D543D785420B68609BA460"> <enum>(B)</enum> <text>Includes information relating to the justification for so taking such action.</text>
+                  </subparagraph>
+                </paragraph>
+                <paragraph id="H674F7FAC77E54E54B48560A27BBE750C">
+                  <enum>(2)</enum>
+ <text>Submit to the Administrator a report on such instance that satisfies the following requirements:</text>
+                  <subparagraph id="HCA2227F7B78D49B8B1B774A4661C262D">
+                    <enum>(A)</enum>
+ <text>Is in a form specified by the Administrator.</text> </subparagraph> <subparagraph id="H80DDB779254E4B448363EA080AEFE8CE"> <enum>(B)</enum> <text>Includes information relating to such justification.</text>
+                  </subparagraph>
+                  <subparagraph id="H9F1F287E6B954DF296A918A0C38E513B">
+                    <enum>(C)</enum>
+ <text>Includes an identification of the means through which such action was so taken.</text>
+                  </subparagraph>
+                </paragraph>
+              </subsection>
+              <subsection id="H0BC92FEBC4DB4EB5BC6D7FE7F4E302E5">
+                <enum>(h)</enum>
+                <header>Definitions</header>
+ <text>In this section:</text> <paragraph id="HAAE0C3BE89534633BBD982D8BBE23C5B"> <enum>(1)</enum> <header>Covered entity</header> <text>The term <term>covered entity</term> means a person or entity licensed under this chapter to conduct launch, reentry, testing, or manufacturing activities.</text>
+                </paragraph>
+                <paragraph id="H26BCD8FA46FC4D12B2C2F8CA6F52CEBB" commented="no">
+                  <enum>(2)</enum>
+                  <header>Covered property</header>
+ <text>The term <term>covered property</term> means any real property, including airspace over such property, that is owned, leased, or under the control of a covered entity and is a site where launch, reentry, testing, or manufacturing activities occur.</text>
+                </paragraph>
+                <paragraph id="H395756A56342484FBA85795E5259FE0C">
+                  <enum>(3)</enum>
+                  <header>Local law enforcement agency</header>
+ <text>The term <term>local law enforcement agency</term> means the law enforcement agency of a county or county-equivalent entity.</text>
+                </paragraph>
+                <paragraph id="HBF7ED92B67114C2A91153789ED500EF8">
+                  <enum>(4)</enum>
+                  <header>Unmanned aircraft; unmanned aircraft system</header>
+ <text>The terms <term>unmanned aircraft</term> and <term>unmanned aircraft system</term> have the meanings given such terms in section 44801 of title 49.</text>
+                </paragraph>
+              </subsection>
+            </section>
+            <after-quoted-block>.</after-quoted-block>
+          </quoted-block>
+        </paragraph>
+        <paragraph id="H129703AE15EF4B3AA86FF79EF88F6AB7">
+          <enum>(2)</enum>
+          <header>Clerical amendment</header>
+ <text>The table of sections for <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/51/509">chapter 509</external-xref> of title 51, United States Code, is amended by adding at the end the following new item:</text>
+          <quoted-block id="HF045F3B40C1441B6AF741EE2A3046B3A" style="USC">
+            <toc regeneration="no-regeneration">
+              <toc-entry level="section">50925. Authority to take actions to protect space launch
+                property from unmanned aircraft</toc-entry>
+            </toc>
+            <after-quoted-block>.</after-quoted-block>
+          </quoted-block>
+        </paragraph>
+      </subsection> </section> 
+</legis-body></bill>
+

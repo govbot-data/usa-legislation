@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="HCCDCAE7D906C47D6A029E67017D73BAC" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 HR 5872 IH: Medical License Verification Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2025-10-31</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">119th CONGRESS</congress><session display="yes">1st Session</session><legis-num display="yes">H. R. 5872</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20251031">October 31, 2025</action-date><action-desc><sponsor name-id="B001314">Mr. Bean of Florida</sponsor> (for himself and <cosponsor name-id="H001099">Mr. Haridopolos</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HIF00">Committee on Energy and Commerce</committee-name>, and in addition to the Committee on <committee-name committee-id="HWM00">Ways and Means</committee-name>, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned</action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To amend title XI of the Social Security Act to require the Secretary of Health and Human Services to verify whether a health care provider is licensed in good standing before issuing the provider a unique health identifier, and for other purposes.</official-title></form><legis-body id="HABBE135333A246378627779D1C4E1320" style="OLC"> 
+<section section-type="section-one" id="HCB8440A2632A4337B21A2433A6B09CC8"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Medical License Verification Act</short-title></quote>.</text></section> <section id="H7ECCF4D83C5E49D8A25509B359177534"><enum>2.</enum><header>Requirement to verify that a health care provider is licensed in good standing before issuing a unique health identifier</header><text display-inline="no-display-inline">Section 1173(b) of the Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/1320d-2">42 U.S.C. 1320d–2(b)</external-xref>) is amended by adding at the end the following new paragraph:</text> 
+<quoted-block style="OLC" display-inline="no-display-inline" id="HCB1F95D2207647E8A0A1F8D266B282F0"> 
+<paragraph id="H733F3780AF7E44E68E694B0FFBF02AF3"><enum>(3)</enum><header>Verification of license in good standing</header><text>Not later than 30 days after the date of enactment of this paragraph, the Secretary shall establish and implement an automated system that enables the Secretary to verify whether a person described in section 1172(a)(3) who is an applicant for a unique health identifier and who claims in the application to be licensed in a State is actually licensed in that State and that such license is in good standing. Such verification shall be done before providing the applicant with such an identifier.</text></paragraph><after-quoted-block>.</after-quoted-block></quoted-block></section> </legis-body></bill>
+
