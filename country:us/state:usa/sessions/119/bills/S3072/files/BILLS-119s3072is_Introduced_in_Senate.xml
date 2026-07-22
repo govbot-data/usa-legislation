@@ -1,0 +1,62 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public" slc-id="S1-HEY25G06-881-HM-KNK">
+    <form>
+        <distribution-code>II</distribution-code>
+        <congress>119th CONGRESS</congress>
+        <session>1st Session</session>
+        <legis-num>S. 3072</legis-num>
+        <current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+        <action>
+            <action-date date="20251029">October 29, 2025</action-date>
+            <action-desc><sponsor name-id="S385">Ms. Cortez Masto</sponsor> (for herself and
+                    <cosponsor name-id="S348">Mr. Paul</cosponsor>) introduced the following bill;
+                which was read twice and referred to the <committee-name committee-id="SSFI00">Committee on Finance</committee-name></action-desc>
+        </action>
+        <legis-type>A BILL</legis-type>
+        <official-title>To prohibit the imposition of additional tariffs on coffee imported from
+            countries to which the United States has extended normal trade relations, and for other
+            purposes.</official-title>
+    </form>
+    <legis-body>
+        <section id="S1" section-type="section-one">
+            <enum>1.</enum>
+            <header>Short title</header>
+            <text display-inline="no-display-inline">This Act may be cited as the
+                        <quote><short-title>No Coffee Tax Act</short-title></quote>.</text>
+        </section>
+        <section id="id2a482a2246b54b4387106b378603a659">
+            <enum>2.</enum>
+            <header>Prohibition on additional tariffs on coffee products from countries with which
+                the United States has normal trade relations</header>
+            <subsection id="id90117295bb0e4c25b2ac9ae7cbf13ff1">
+                <enum>(a)</enum>
+                <header>Maintenance of tariff rate for coffee products</header>
+                <text>Notwithstanding any other provision of law or regulation imposing tariffs on a
+                    country-by-country basis, including any authority with respect to the imposition
+                    of tariffs under emergency situations, no tariff or other duty may be imposed in
+                    excess of the rate assessed as of January 19, 2025, with respect to any article
+                    described in subsection (b) that is imported to the United States from a country
+                    to which the United States has extended normal trade relations.</text>
+            </subsection>
+            <subsection id="idbdfd4b3cc7954830b75cc91d5ffca526">
+                <enum>(b)</enum>
+                <header>Article described</header>
+                <text>An article described in this subsection is any of the following:</text>
+                <paragraph id="idace9ac73ba4b4403aeaf357c40ce92c6">
+                    <enum>(1)</enum>
+                    <text>Coffee, whether or not roasted or decaffeinated.</text>
+                </paragraph>
+                <paragraph id="id2ae6670b506f478babc53662940d8d53">
+                    <enum>(2)</enum>
+                    <text>Coffee husks and skins.</text>
+                </paragraph>
+                <paragraph id="id85c99fadf7744d1b9220952dc72fa97a">
+                    <enum>(3)</enum>
+                    <text>Coffee substitutes containing coffee in any proportion.</text>
+                </paragraph>
+            </subsection>
+        </section>
+    </legis-body>
+</bill>

@@ -1,0 +1,89 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-type="olc" bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public" slc-id="S1-BAG25I42-1LL-PF-VN3">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 S3040 IS: Edith Nourse Rogers STEM Scholarship Opportunity Act of 2025</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2025-10-23</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+        <distribution-code>II</distribution-code>
+        <congress>119th CONGRESS</congress>
+        <session>1st Session</session>
+        <legis-num>S. 3040</legis-num>
+        <current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+        <action>
+            <action-date date="20251023">October 23, 2025</action-date>
+            <action-desc><sponsor name-id="S311">Ms. Klobuchar</sponsor> (for herself and <cosponsor name-id="S429">Mr. Banks</cosponsor>) introduced the following bill; which was
+                read twice and referred to the <committee-name committee-id="SSVA00">Committee on
+                    Veterans’ Affairs</committee-name></action-desc>
+        </action>
+        <legis-type>A BILL</legis-type>
+        <official-title>To amend title 38, United States Code, to modify the requirements of the
+            Edith Nourse Rogers STEM Scholarship, and for other purposes.</official-title>
+    </form>
+    <legis-body style="OLC" display-enacting-clause="yes-display-enacting-clause" id="HEDB312A73D3445F2B84A5484D44E2587">
+        <section section-type="section-one" id="H8F88D5C54E7F40F19778C21E67DAEC52">
+            <enum>1.</enum>
+            <header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Edith Nourse Rogers STEM Scholarship Opportunity Act of 2025</short-title></quote>.</text>
+        </section>
+        <section section-type="subsequent-section" id="HA215CBCD8F654A87A66741D155C483B8">
+            <enum>2.</enum>
+            <header>Modifications to Edith Nourse Rogers STEM Scholarship</header>
+ <text display-inline="no-display-inline">Section 3320 of title 38, United States Code, is amended—</text>
+            <paragraph display-inline="no-display-inline" id="HBCB7113C5F1F4A5C85A1268E05E32A94">
+                <enum>(1)</enum>
+ <text>in subsection (b)—</text> <subparagraph id="HB0B30156935E4C19B50519B58B600BC6"> <enum>(A)</enum> <text>by striking paragraph (2);</text>
+                </subparagraph>
+                <subparagraph id="H368696A8A04449EE857CAAB97262506D">
+                    <enum>(B)</enum>
+ <text>by redesignating paragraphs (3) and (4) as paragraphs (2) and (3), respectively; and</text>
+                </subparagraph>
+                <subparagraph id="H90154DE37F9545C88838F00A77F334EC">
+                    <enum>(C)</enum>
+ <text>in paragraph (3), as so redesignated, in subparagraph (A)(ii)—</text> <clause display-inline="no-display-inline" id="HB9D68EBE8FD94F77AF810F92224A4C82"> <enum>(i)</enum> <text>by striking <quote>60</quote> and inserting <quote>45</quote>; and</text>
+                    </clause>
+                    <clause id="H606A5E57541F4174A34C8C976CEA1208">
+                        <enum>(ii)</enum>
+ <text>by striking <quote>90</quote> and inserting <quote>67.5</quote>;</text>
+                    </clause>
+                </subparagraph>
+            </paragraph>
+            <paragraph id="H13DB261969EF4C958616B4086F3F61BD">
+                <enum>(2)</enum>
+ <text>in subsection (c)(1)—</text> <subparagraph id="H299263BFF9384E92A344DA7BB608F386"> <enum>(A)</enum> <text>by redesignating subparagraphs (A) and (B) as subparagraphs (C) and (D), respectively; and</text>
+                </subparagraph>
+                <subparagraph id="H727B665F46864D55B5C448114613330A">
+                    <enum>(B)</enum>
+ <text>by inserting before subparagraph (C), as so redesignated, the following new subparagraphs:</text>
+                    <quoted-block style="USC" display-inline="no-display-inline" id="HD00F8EE3B8A748D0A4193A35A2B1D031">
+                        <subparagraph id="HF1EB6C902FBB4EDFB660BA94BEF09552" indent="up1">
+                            <enum>(A)</enum>
+ <text display-inline="yes-display-inline">Individuals who have used the most number of months of the educational assistance to which they are entitled under this chapter.</text>
+                        </subparagraph>
+                        <subparagraph id="H28D827B8144A42D9877D59A0EA74713E" indent="up1">
+                            <enum>(B)</enum>
+ <text>Individuals who are using their entitlement under this chapter to pursue a program of post-secondary education and who have declared a major in a field referred to in subsection (b)(3)(A)(i).</text>
+                        </subparagraph>
+                        <after-quoted-block>; and</after-quoted-block>
+                    </quoted-block>
+                </subparagraph>
+            </paragraph>
+            <paragraph id="HB6B7758BC96F4B9C83CC4A29150DF058">
+                <enum>(3)</enum>
+ <text>in subsection (d), by adding at the end the following new paragraph:</text> <quoted-block style="USC" display-inline="no-display-inline" id="HA1502EBDD8A94BCCA6D971B0956F82C8"> <paragraph id="HBEA92AAEB5CF448992D9C4077B390202" indent="up1"> <enum>(5)</enum> <text display-inline="yes-display-inline">An individual who receives a benefit under this section may only use such benefit after the individual has used all of the educational assistance to which the individual is entitled under this chapter.</text>
+                    </paragraph>
+                    <after-quoted-block>.</after-quoted-block>
+                </quoted-block>
+            </paragraph>
+        </section>
+    </legis-body>
+</bill>
+

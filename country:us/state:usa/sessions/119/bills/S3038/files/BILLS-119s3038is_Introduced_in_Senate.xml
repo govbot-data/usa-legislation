@@ -1,0 +1,189 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public" slc-id="S1-TAM25A30-M5V-HS-SCK">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 S3038 IS: Health Care Workforce Real-Time Data Dashboard Act</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2025-10-23</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+        <distribution-code>II</distribution-code>
+        <congress>119th CONGRESS</congress>
+        <session>1st Session</session>
+        <legis-num>S. 3038</legis-num>
+        <current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+        <action>
+            <action-date date="20251023">October 23, 2025</action-date>
+            <action-desc><sponsor name-id="S396">Mrs. Blackburn</sponsor> introduced the following
+                bill; which was read twice and referred to the <committee-name committee-id="SSHR00">Committee on Health, Education, Labor, and
+                Pensions</committee-name></action-desc>
+        </action>
+        <legis-type>A BILL</legis-type>
+        <official-title>To establish a real-time data dashboard for graduate medical education
+            training positions to improve health care workforce planning and distribution for the
+            purposes of alleviating physician shortages in medically underserved
+            communities.</official-title>
+    </form>
+    <legis-body>
+        <section id="S1" section-type="section-one">
+            <enum>1.</enum>
+            <header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Health Care Workforce Real-Time Data Dashboard Act</short-title></quote>.</text>
+        </section>
+        <section id="id3e99e21b6b4b40d6b89b86197e184f75">
+            <enum>2.</enum>
+            <header>Findings</header>
+ <text display-inline="no-display-inline">Congress finds the following:</text> <paragraph id="ideea444aeecd94e63b21d2a6853955438"> <enum>(1)</enum> <text>The National Center for Health Workforce Analysis has projected shortages across a wide range of health care occupations, particularly in rural and medically underserved communities.</text>
+            </paragraph>
+            <paragraph id="idffc8efcb0b8c4c98ae1d7d9fffbd7c59">
+                <enum>(2)</enum>
+ <text>The Health Resources and Services Administration has increased its focus on rural residency training through programs such as the Rural Residency Planning and Development Program.</text>
+            </paragraph>
+            <paragraph id="ida69e470adddf4bd39dd0fc9105193613">
+                <enum>(3)</enum>
+ <text>Real-time information on graduate medical education training positions, applications, and residency match fulfillment rates would enhance the ability to assess whether Federal programs are effectively addressing physician shortages in medically underserved communities.</text>
+            </paragraph>
+            <paragraph id="id32fb0c4755794324b69d1ca4d801ac4c">
+                <enum>(4)</enum>
+ <text>Improved data collection and analysis regarding graduate medical education training positions would support evidence-based health care workforce planning and policy development.</text>
+            </paragraph>
+        </section>
+        <section id="id8d081b3dbd1c4b41b20b677848367f37">
+            <enum>3.</enum>
+            <header>Graduate medical education real-time data dashboard</header>
+            <subsection id="id39c2b7fbb42e40b2899c8d37d5ac1dab">
+                <enum>(a)</enum>
+                <header>Establishment</header>
+ <text>The Secretary of Health and Human Services, acting through the Administrator of the Health Resources and Services Administration, (referred to in this section as the <quote>Secretary</quote>) shall develop and maintain a real-time data dashboard for graduate medical education residency training position participants.</text>
+            </subsection>
+            <subsection id="id460fa5bd7d9145bc9a9295a6ac644b34">
+                <enum>(b)</enum>
+                <header>Dashboard components</header>
+ <text>The dashboard established under subsection (a) shall include—</text> <paragraph id="id119fcccd4b024250ba635ac3b7650e78"> <enum>(1)</enum> <text>real-time information on residency applications and match rates, including—</text>
+                    <subparagraph commented="no" display-inline="no-display-inline" id="id118e15c5b2f948e6affe582f7fdb2f38">
+                        <enum>(A)</enum>
+ <text display-inline="yes-display-inline">information on the number of applications received per residency program;</text>
+                    </subparagraph>
+                    <subparagraph commented="no" display-inline="no-display-inline" id="idcc85c0a86cda4282acd7b009b01c18e4">
+                        <enum>(B)</enum>
+ <text display-inline="yes-display-inline">the geographic distribution of applicants to each such program; and</text>
+                    </subparagraph>
+                    <subparagraph commented="no" display-inline="no-display-inline" id="id8539c4b4641147389a7a04c1808c8fd3">
+                        <enum>(C)</enum>
+ <text display-inline="yes-display-inline">the number of interviews conducted with applicants to each such program;</text>
+                    </subparagraph>
+                </paragraph>
+                <paragraph id="id81726888b3f74c59a2fb7f3f46a5f8d6">
+                    <enum>(2)</enum>
+ <text>aggregate statistical data on the characteristics of applicants to residency programs, presented in a manner that—</text>
+                    <subparagraph id="id65817de546384a1b95d4e19c21527431">
+                        <enum>(A)</enum>
+ <text>provides useful workforce planning information; and</text> </subparagraph> <subparagraph id="idd568d31292de414a8c420c6f46434613"> <enum>(B)</enum> <text>protects individual privacy and does not include personally identifiable information;</text>
+                    </subparagraph>
+                </paragraph>
+                <paragraph id="id362e0edad4ff470398a8264782499195">
+                    <enum>(3)</enum>
+ <text>residency position fulfillment rates by specialty and geographic region;</text> </paragraph> <paragraph id="idac8b19e28e5e4276a32485580457a605"> <enum>(4)</enum> <text>data on training program completion rates and graduate practice location patterns; and</text>
+                </paragraph>
+                <paragraph commented="no" display-inline="no-display-inline" id="ida277866c9fdb4aa498394a0a03130b27">
+                    <enum>(5)</enum>
+ <text display-inline="yes-display-inline">an analysis of trends in physician placement in rural and medically underserved communities.</text>
+                </paragraph>
+            </subsection>
+            <subsection id="idd037a50865eb4e24bf95714ded610057">
+                <enum>(c)</enum>
+                <header>Interagency collaboration</header>
+                <paragraph id="idb5a60898bf7a408f9c869aa11e82a4ff">
+                    <enum>(1)</enum>
+                    <header>Required collaboration</header>
+ <text>In developing and maintaining the dashboard under this section, the Secretary shall collaborate with—</text>
+                    <subparagraph id="idc6c52f30506c4ed08b2f627f92d4b0bc">
+                        <enum>(A)</enum>
+ <text>the Administrator of the Centers for Medicare &amp; Medicaid Services;</text>
+                    </subparagraph>
+                    <subparagraph id="id72b968bce2864a03bff0fa49bbb6f262">
+                        <enum>(B)</enum>
+ <text>the Secretary of Veterans Affairs; and</text> </subparagraph> <subparagraph id="idcda546af87b646ccbf48b57b980ef001"> <enum>(C)</enum> <text>the heads of other relevant Federal agencies, as the Secretary determines appropriate.</text>
+                    </subparagraph>
+                </paragraph>
+                <paragraph id="idd520f0970ad5489ebb3f93738b1a2597">
+                    <enum>(2)</enum>
+                    <header>Data sharing agreements</header>
+ <text>The Secretary shall enter into appropriate data sharing agreements with Federal agencies, including the Centers for Medicare &amp; Medicaid Services, to access relevant graduate medical education data maintained by such agencies, including data maintained by or through the Association of American Medical Colleges.</text>
+                </paragraph>
+                <paragraph id="ida4514a20b96544b3a559182e12c46ae0">
+                    <enum>(3)</enum>
+                    <header>Coordination with existing systems</header>
+ <text>The dashboard shall be designed to complement and integrate with existing data collection and reporting systems to avoid duplication and maximize efficiency.</text>
+                </paragraph>
+            </subsection>
+            <subsection id="idd85b4f272cae436d87c68e18cefabd67">
+                <enum>(d)</enum>
+                <header>Data privacy and security</header>
+                <paragraph id="id12ee971fe54c4e09be49828ed4a22b82">
+                    <enum>(1)</enum>
+                    <header>Privacy protection</header>
+ <text>The dashboard shall be designed and operated in compliance with all applicable Federal privacy law, including the privacy regulations promulgated pursuant to section 264(c) of the Health Insurance Portability and Accountability Act of 1996 (<external-xref legal-doc="usc" parsable-cite="usc/42/1320d-2">42 U.S.C. 1320d–2</external-xref> note) and section 552a of title 5, United States Code.</text>
+                </paragraph>
+                <paragraph id="idd2c4f077f14241f09d7dcbc07c1248e4">
+                    <enum>(2)</enum>
+                    <header>De-identification</header>
+ <text>All individual-level data included in or used to generate dashboard information shall be de-identified in accordance with applicable Federal regulations.</text>
+                </paragraph>
+                <paragraph id="id1a34897609d14acbb33364d37d9caa8a">
+                    <enum>(3)</enum>
+                    <header>Security measures</header>
+ <text>The Secretary shall implement appropriate administrative, technical, and physical safeguards to protect the confidentiality, integrity, and availability of data used in connection with the dashboard.</text>
+                </paragraph>
+                <paragraph id="id2c9a34c7012a43abb95b3d77f25c6b90">
+                    <enum>(4)</enum>
+                    <header>Access limitations</header>
+                    <subparagraph id="id3424b201345240f19747605f7a7b5511">
+                        <enum>(A)</enum>
+                        <header>Non-public data</header>
+ <text>The Secretary shall limit access to non-public dashboard data to authorized personnel with a legitimate need for such information in connection with health care workforce planning and program evaluation activities.</text>
+                    </subparagraph>
+                    <subparagraph id="idd1d98fed1cd14fafbd532476706a70b3">
+                        <enum>(B)</enum>
+                        <header>Public data</header>
+ <text>The Secretary shall make aggregate, de-identified information from the dashboard publicly available through an accessible online interface, subject to appropriate privacy and security protections.</text>
+                    </subparagraph>
+                </paragraph>
+            </subsection>
+        </section>
+        <section id="id83857817bdbc4206a5c10f354bd1e13e">
+            <enum>4.</enum>
+            <header>Reporting</header>
+ <text display-inline="no-display-inline">Not later than 2 years after the date of enactment of this Act, and annually thereafter, the Secretary shall submit to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives a report on—</text>
+            <paragraph id="id384089bf731542fb90ec494cf220543b">
+                <enum>(1)</enum>
+ <text>the implementation and operation of the dashboard;</text> </paragraph> <paragraph id="id9006e00548ad42c3a192620bed981ef7"> <enum>(2)</enum> <text>key findings regarding health care workforce trends and distribution;</text>
+            </paragraph>
+            <paragraph id="idb9505db460964381bf39107db3d08624">
+                <enum>(3)</enum>
+ <text>the effectiveness of Federal programs in addressing physician shortages in medically underserved communities; and</text>
+            </paragraph>
+            <paragraph id="ideb46ebf447d5453e8515b454cc1cbd63">
+                <enum>(4)</enum>
+ <text>recommendations for improving health care workforce planning and distribution.</text>
+            </paragraph>
+        </section>
+        <section id="idbc1f238ba07e4eaf98d99e9164243b28">
+            <enum>5.</enum>
+            <header>Definition</header>
+ <text display-inline="no-display-inline">In this Act, the term <term>medically underserved community</term> has the meaning given such term in section 799B of the Public Health Service Act (<external-xref legal-doc="usc" parsable-cite="usc/42/295p">42 U.S.C. 295p</external-xref>).</text>
+        </section>
+        <section id="id0915696a4a864c93b7831abb9f1eab89">
+            <enum>6.</enum>
+            <header>Authorization of appropriations</header>
+ <text display-inline="no-display-inline">There is authorized to be appropriated $1,500,000 for fiscal year 2026 to carry out this Act.</text>
+        </section>
+    </legis-body>
+</bill>
+

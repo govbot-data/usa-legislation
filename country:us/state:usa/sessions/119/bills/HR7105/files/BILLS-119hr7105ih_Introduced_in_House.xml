@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="HB3CEEA818C7B4D74939B27AEA5221ABC" public-private="public" key="H" bill-type="olc">
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 HR 7105 IH: Guaranteeing the States Protection Against Invasion Act of 2026</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2026-01-15</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code>
+<congress display="yes">119th CONGRESS</congress><session display="yes">2d Session</session>
+<legis-num display="yes">H. R. 7105</legis-num>
+<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+<action display="yes">
+<action-date date="20260115">January 15, 2026</action-date>
+<action-desc><sponsor name-id="H001095">Mr. Hunt</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HJU00">Committee on the Judiciary</committee-name></action-desc>
+</action>
+<legis-type>A BILL</legis-type>
+<official-title display="yes">To amend the Immigration and Nationality Act to provide authority to suspend entry and immigration benefits during a declared invasion at the southern border of the United States, and for other purposes.</official-title>
+</form>
+<legis-body id="H7AC6CF853B0A428D94647DF230C3819E" style="OLC">
+<section id="H87DF83F5CF7A470B9E673C00DB9BDE40" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Guaranteeing the States Protection Against Invasion Act of 2026</short-title></quote>.</text></section> <section id="H5D70CEF98F964ACD9A3873F6E800F18F" section-type="subsequent-section"><enum>2.</enum><header>Declaration of invasion at southern border</header><text display-inline="no-display-inline">Chapter 2 of title II of the Immigration and Nationality Act (<external-xref legal-doc="usc" parsable-cite="usc/8/1181">8 U.S.C. 1181 et seq.</external-xref>) is amended by inserting after section 212 the following:</text>
+<quoted-block style="USC" id="HB9C364E5A4494CFD8486AD28BF2451C0" display-inline="no-display-inline">
+<section id="H2EBD7B22119044E7960A88C37346FF06"> <enum>212A.</enum> <header>Declaration of invasion at southern border</header> 
+<subsection id="H8A0D6BD9088F40ACB865CEF2E0018BAD"> <enum>(a)</enum> <header>Authority</header> <text>The President may determine and proclaim that an invasion exists at the southern border of the United States for purposes of article IV, section 4 of the Constitution.</text> </subsection> <subsection id="H8426368573A54BC8BDB0E62E24DDB1CA"> <enum>(b)</enum> <header>Southern border defined</header> <text>In this section, the term <quote>southern border</quote> means the international land border between the United States and Mexico.</text> </subsection> 
+<subsection id="H0BD073F6D9DF48BAB553295883D17124"> <enum>(c)</enum> <header>Notification</header> <text>Not later than 7 days after issuing or terminating a proclamation under subsection (a), the President shall transmit notice of such action to the Congress.</text> </subsection> </section><after-quoted-block>.</after-quoted-block></quoted-block></section> <section id="HEE318023E9984D27B6322475F9F8B24D"><enum>3.</enum><header>Suspension of entry during declared invasion</header><text display-inline="no-display-inline">Section 212(f) of the Immigration and Nationality Act (<external-xref legal-doc="usc" parsable-cite="usc/8/1182">8 U.S.C. 1182(f)</external-xref>) is amended—</text>
+<paragraph id="H44551FBAF6694F6BBFEFDE67AE1E3CD0"><enum>(1)</enum><text>by striking <quote>Whenever the President finds</quote> and inserting <quote>(1) Whenever the President finds</quote>; and</text></paragraph> <paragraph id="H0FF2AE01F4434C74893035E41E272846"><enum>(2)</enum><text>by adding at the end the following:</text>
+<quoted-block style="USC" id="HA7BEC866C7AB45EEB6549A25D7EC2A33" display-inline="no-display-inline">
+<paragraph id="HCB8716A80CC844CCAF23FB1DF5241E51"><enum>(2)</enum><text display-inline="yes-display-inline">Notwithstanding any other provision of law, during a period in which the President has proclaimed the existence of an invasion under section 212A, the President shall suspend the entry, including the physical entry, of any alien who unlawfully enters or attempts to enter the United States across the southern border.</text></paragraph><after-quoted-block>.</after-quoted-block></quoted-block></paragraph></section> <section id="H3EA3E32974B44BD483716E63C1D67FF4"><enum>4.</enum><header>Ineligibility for immigration relief during invasion</header><text display-inline="no-display-inline">Chapter 4 of title II of the Immigration and Nationality Act (<external-xref legal-doc="usc" parsable-cite="usc/8/1151">8 U.S.C. 1151 et seq.</external-xref>) is amended by inserting after section 208 the following:</text>
+<quoted-block style="USC" id="H5608539F2BE84790A35843CE4DC4BB24" display-inline="no-display-inline">
+<section id="HF66FEADFCDED41269DC81864581F8494"> <enum>208A.</enum> <header>Ineligibility for relief during declared invasion</header> 
+<subsection id="HEB0492D30C5B4C7BB042117AD99129DE"> <enum>(a)</enum> <header>Ineligibility</header> <text>Notwithstanding any other provision of this Act, an alien who unlawfully enters or attempts to enter the United States across the southern border during a period in which an invasion is proclaimed under section 212A shall be ineligible for any relief, protection, or benefit under this Act that would permit the alien to remain in the United States.</text> </subsection> <subsection id="HF6FE33B966574CE6BC5CC38CC6E7375D"> <enum>(b)</enum> <header>Covered relief</header> <text>Subsection (a) applies to relief or protection under—</text> 
+<paragraph id="HE144221CCA84429BA8B5A02681388FCB"> <enum>(1)</enum> <text>section 208;</text> </paragraph> <paragraph id="H4701964631E44D16937E6ECD570F652A"> <enum>(2)</enum> <text>section 241(b)(3);</text> </paragraph> 
+<paragraph id="H75DA1B4461FF4C039552764F01E9BD94"> <enum>(3)</enum> <text>section 212(d)(5); and</text> </paragraph> <paragraph id="H2A64A7777DD04B4CB4F4B749B7DF0EBC"> <enum>(4)</enum> <text>any other provision specified by the Secretary of Homeland Security.</text> </paragraph> </subsection> 
+<subsection id="HFE012A3BBDDF444BBEFEAC04B9281DE0"> <enum>(c)</enum> <header>No jurisdiction</header> <text>No court shall have jurisdiction to review any determination, action, or claim arising under this section, except for a claim that the alien is a national of the United States.</text> </subsection> </section><after-quoted-block>.</after-quoted-block></quoted-block></section> <section id="HCE459A5DD96D456893A63EE3975349A7"><enum>5.</enum><header>Public health and security information requirement</header> <subsection id="H4B71D14A67BB4464AC50702022181EAE"><enum>(a)</enum><header>Requirement</header><text>Section 212(a) of the Immigration and Nationality Act (<external-xref legal-doc="usc" parsable-cite="usc/8/1182">8 U.S.C. 1182(a)</external-xref>) is amended by adding at the end the following:</text>
+<quoted-block id="H1F0178D3F1E541538DAD59F311CCCF9D" style="OLC">
+<paragraph id="HD91D357C2E3C42AFBCDC8E16F7C2D069"><enum>(10)</enum><header>Failure to provide required information during invasion</header><text>Any alien who, during a period in which an invasion is proclaimed under section 212A, fails prior to entry to provide information sufficient to permit a determination under paragraphs (1), (2), and (3) shall be inadmissible.</text></paragraph><after-quoted-block>.</after-quoted-block></quoted-block></subsection> <subsection id="H968357FF81B54B859D1517914AFF7338"><enum>(b)</enum><header>Consequence</header><text>An alien described in section 212(a)(10) shall be subject to immediate removal, repatriation, or transfer.</text></subsection></section>
+<section id="H3A25C29D88B34141BAD28C3DA09432D4"><enum>6.</enum><header>Authority to repel and remove</header>
+<subsection id="H77C7809DE9494C1EAAB0081C523A52E8"> <enum>(a)</enum> <header>In general</header> <text>During a period in which an invasion is proclaimed under section 212A, the Secretary of Homeland Security, in coordination with the Secretary of State and the Attorney General, shall take such actions as are necessary to—</text> <paragraph id="H77C7809DE9494C1EAAB0081C523A52E2"><enum>(1)</enum><text>repel the invasion;</text></paragraph>
+<paragraph id="H77C7809DE9494C1EAAB0081C523A52E4"><enum>(2)</enum><text>detain, expel, or remove aliens involved in the invasion; and</text></paragraph> <paragraph id="H77C7809DE9494C1EAAB0081C523A52E6"><enum>(3)</enum><text>prevent the further entry of such persons into the United States.</text></paragraph></subsection>
+<subsection id="H61FC7C90F1A245989560AC59599F60A9"><enum>(b)</enum><header>Use of resources</header><text>The President may direct the use of Federal personnel and assets to carry out subsection (a).</text></subsection></section> <section id="H69BF0AA1C9B94822AB4DD45DE564D56E"><enum>7.</enum><header>Termination</header><text display-inline="no-display-inline">The authorities under sections 212A, 212(f)(2), and 208A of the Immigration and Nationality Act shall cease to apply upon a presidential proclamation that the invasion has ended.</text></section>
+</legis-body>
+</bill> 
+
+

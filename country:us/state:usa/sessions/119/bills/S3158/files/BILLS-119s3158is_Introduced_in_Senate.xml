@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public" slc-id="S1-ROS25H64-P2P-R7-CTW">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 S3158 IS: National Defense Supply Chain Integrity Act of 2025</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2025-11-07</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+        <distribution-code>II</distribution-code>
+        <congress>119th CONGRESS</congress>
+        <session>1st Session</session>
+        <legis-num>S. 3158</legis-num>
+        <current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+        <action>
+            <action-date date="20251107">November 7, 2025</action-date>
+            <action-desc><sponsor name-id="S404">Mr. Scott of Florida</sponsor> introduced the
+                following bill; which was read twice and referred to the <committee-name committee-id="SSGA00">Committee on Homeland Security and Governmental
+                    Affairs</committee-name></action-desc>
+        </action>
+        <legis-type>A BILL</legis-type>
+        <official-title>To amend section 1260H of the William M. (Mac) Thornberry National Defense
+            Authorization Act for Fiscal Year 2021 to clarify that the identification of Chinese
+            military companies is not covered by the Administrative Procedure Act.</official-title>
+    </form>
+    <legis-body>
+        <section id="S1" section-type="section-one">
+            <enum>1.</enum>
+            <header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>National Defense Supply Chain Integrity Act of 2025</short-title></quote>.</text>
+        </section>
+        <section id="id82e583f4f9134d1e89aec7aed1e531a1">
+            <enum>2.</enum>
+            <header>Treatment of identification of Chinese military companies for purposes of
+                Administrative Procedure Act</header>
+ <text display-inline="no-display-inline">Section 1260H of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021 (<external-xref legal-doc="public-law" parsable-cite="pl/116/283">Public Law 116–283</external-xref>; <external-xref legal-doc="usc" parsable-cite="usc/10/113">10 U.S.C. 113</external-xref> note) is amended—</text>
+            <paragraph commented="no" display-inline="no-display-inline" id="ida192164763654cbb981cf5675d35aa00">
+                <enum>(1)</enum>
+ <text>by redesignating subsection (g) as subsection (h); and</text> </paragraph> <paragraph commented="no" display-inline="no-display-inline" id="id1e1c8653d25a4ff8bc926829e72bd74c"> <enum>(2)</enum> <text display-inline="yes-display-inline">by inserting after subsection (f) the following new subsection (g):</text>
+                <quoted-block style="OLC" display-inline="no-display-inline" id="id0029431127c644059fa925add80774e7">
+                    <subsection id="idc4213c17b4d5463f8b07a5f27c142f72">
+                        <enum>(g)</enum>
+                        <header>Administrative procedure</header>
+ <text>A determination made by the Secretary of Defense under subsection (a) shall be considered a military or foreign affairs function for purposes of section 554 of title 5, United States Code, and shall not be subject to sections 551, 553 through 559, and 701 through 706 of that title (commonly referred to as the <quote>Administrative Procedure Act</quote>).</text>
+                    </subsection>
+                    <after-quoted-block>.</after-quoted-block>
+                </quoted-block>
+            </paragraph>
+        </section>
+    </legis-body>
+</bill>
+

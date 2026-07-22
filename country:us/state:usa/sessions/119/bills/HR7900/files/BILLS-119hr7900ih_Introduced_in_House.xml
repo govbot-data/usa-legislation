@@ -1,0 +1,95 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="HC823931330F44D9C8C483C29E666A998" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 HR 7900 IH: Protecting Access to American Products Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2026-03-12</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">119th CONGRESS</congress><session display="yes">2d Session</session><legis-num display="yes">H. R. 7900</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20260312">March 12, 2026</action-date><action-desc><sponsor name-id="C001118">Mr. Cline</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HPW00">Committee on Transportation and Infrastructure</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To establish a process for waiver of coastwise endorsement requirements.</official-title></form><legis-body id="HF819E4CC53B7442286AA62509DB8AF27" style="OLC"> 
+<section section-type="section-one" id="HA03402F6426547218BC9345F5BB81F1A"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Protecting Access to American Products Act</short-title></quote>.</text></section> <section section-type="subsequent-section" id="HF64CB322DC7142C88BF0842E2BA12C54"><enum>2.</enum><header>Waiver of coastwise endorsement requirements</header><text display-inline="no-display-inline">Section 12112 of title 46, United States Code, is amended by adding at the end the following:</text> 
+<quoted-block style="OLC" display-inline="no-display-inline" id="HB27BEA2583754BB9867FCDEABD6A28B2"> 
+<subsection id="H080AC094938B474084B58B57AC6AD4F6">
+                    <enum>(c)</enum>
+                    <header>Waivers in Cases of Product Carrier Scarcity or Unavailability</header>
+                    <paragraph id="H4F19BC087A274EB79DDC5272839070E2">
+                        <enum>(1)</enum>
+                        <header>In General</header>
+ <text>The head of an agency shall, upon request, temporarily waive the requirements of subsection (a), including the requirement to satisfy section 12103, if the person requesting that waiver reasonably demonstrates to the head of an agency that—</text>
+                        <subparagraph id="H9D72647BB9114B2989D5BA174E5C8729">
+                            <enum>(A)</enum>
+ <text>there is no product carrier, with respect to a specified good, that meets such requirements and is available to carry such good; and</text>
+                        </subparagraph>
+                        <subparagraph id="HBF740EF0B30648D8BE126883EDE8EA8D">
+                            <enum>(B)</enum>
+ <text>the person made a good faith effort to locate a product carrier described in subparagraph (A).</text>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph commented="no" id="H02C91DA215D049B0A91349907B187048">
+                        <enum>(2)</enum>
+                        <header>Duration</header>
+ <text>Any waiver issued under paragraph (1) shall be limited in duration, and shall expire by a specified date that is not less than 30 days after the date on which the waiver is issued.</text>
+                    </paragraph>
+                    <paragraph id="HB60103AD5D0845B9988C3053A0A5A0B5">
+                        <enum>(3)</enum>
+                        <header>Extension</header>
+ <text>Upon request, if the circumstances under which a waiver was issued under paragraph (1) have not substantially changed, the head of an agency shall, without delay, grant one or more extensions to a waiver issued under paragraph (1), for periods of not less than 15 days each.</text>
+                    </paragraph>
+                    <paragraph id="H08A7CE651C89475CBB9DA856A2CD69DA">
+                        <enum>(4)</enum>
+                        <header>Deadline for waiver response</header>
+                        <subparagraph id="H8C97C9F1AED041E1A0D3FE1E198D9F13">
+                            <enum>(A)</enum>
+                            <header>Response deadline</header>
+ <text>Not later than 60 days after receiving a request for a waiver under paragraph (1), the head of an agency shall approve or deny such request.</text>
+                        </subparagraph>
+                        <subparagraph id="HBE07E2B1AE114FDA85D3788E28D668A9">
+                            <enum>(B)</enum>
+                            <header>Findings in support of denied waiver</header>
+ <text>If the head of an agency denies such a request, the head of an agency shall, not later than 14 days after denying the request, submit to the requester a report that includes the findings that served as the basis for denying the request.</text>
+                        </subparagraph>
+                        <subparagraph id="H8347D8647D6C4131889856994FA0E079">
+                            <enum>(C)</enum>
+                            <header>Request deemed granted</header>
+ <text>If the head of an agency has neither granted nor denied the request before the response deadline described in subparagraph (A), the request shall be deemed granted on the date that is 61 days after the date on which the head of an agency received the request. A waiver that is deemed granted under this subparagraph shall be valid for a period of 30 days.</text>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph id="HCEDDB48AD9A34BF3890243EE255F1323">
+                        <enum>(5)</enum>
+                        <header>Notice to Congress</header>
+                        <subparagraph id="HB5BC2163D46244238ACA79F64A16DB67">
+                            <enum>(A)</enum>
+                            <header>In General</header>
+ <text>The head of an agency shall notify Congress—</text> <clause id="HF24841B0A00349228AA536C3F93781E8"> <enum>(i)</enum> <text>of any request for a temporary waiver under this subsection, not later than 48 hours after receiving such request; and</text>
+                            </clause>
+                            <clause id="H9472B49154E14143965D23CA16119655">
+                                <enum>(ii)</enum>
+ <text>of the issuance of any such waiver, not later than 48 hours after such issuance.</text>
+                            </clause>
+                        </subparagraph>
+                        <subparagraph id="H14514913140A4D7CAAD73D1E6DEEF7C8">
+                            <enum>(B)</enum>
+                            <header>Contents</header>
+ <text>The head of an agency shall include in each notification under subparagraph (A)(ii) a detailed explanation of the reasons the waiver is necessary.</text>
+                        </subparagraph>
+                    </paragraph>
+                    <paragraph id="H505DDC47CAC94C30BE2A4131E257AD8C">
+                        <enum>(6)</enum>
+                        <header>Definitions</header>
+ <text>In this subsection:</text> <subparagraph id="H19F0FB8C5C3F44F29F8135832B70DFC6"> <enum>(A)</enum> <header>Product carrier</header> <text>The term <term>product carrier</term>, with respect to a good, means a vessel constructed or adapted primarily to carry such good in bulk in the cargo spaces.</text>
+                        </subparagraph>
+                        <subparagraph id="H2ED620FA59564CCBBE39D5C5692992EC">
+                            <enum>(B)</enum>
+                            <header>Head of an agency</header>
+ <text>The term <term>head of an agency</term> means the head of an agency responsible for the administration of the navigation or vessel inspection laws, or an individual of such an agency delegated such responsibility.</text>
+                        </subparagraph>
+                    </paragraph>
+                </subsection><after-quoted-block>.</after-quoted-block></quoted-block></section> 
+</legis-body></bill>
+
