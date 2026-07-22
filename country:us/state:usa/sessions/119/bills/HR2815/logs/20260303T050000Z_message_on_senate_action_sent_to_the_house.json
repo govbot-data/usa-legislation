@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "Message on Senate action sent to the House.",
+    "occurred_at": "2026-03-03T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "119",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr2815.xml",
+        "note": ""
+      },
+      {
+        "url": "https://congress.gov/bill/119th-congress/house-bill/2815",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HR 2815"
+}

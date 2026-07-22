@@ -1,0 +1,24 @@
+{
+  "action": {
+    "description": "Referred to the House Committee on Energy and Commerce.",
+    "occurred_at": "2026-04-23T04:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "119",
+    "entity_type": "bill",
+    "classifications": [
+      "referral-committee"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hres/BILLSTATUS-119hres1214.xml",
+        "note": ""
+      },
+      {
+        "url": "https://congress.gov/bill/119th-congress/house-resolution/1214",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HRES 1214"
+}

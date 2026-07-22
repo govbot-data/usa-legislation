@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "Message on Senate action sent to the House.",
+    "occurred_at": "2026-02-12T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "119",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hconres/BILLSTATUS-119hconres74.xml",
+        "note": ""
+      },
+      {
+        "url": "https://congress.gov/bill/119th-congress/house-resolution/74",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HCONRES 74"
+}

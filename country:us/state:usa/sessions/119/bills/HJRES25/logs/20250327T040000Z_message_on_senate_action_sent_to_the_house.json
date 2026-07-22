@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "Message on Senate action sent to the House.",
+    "occurred_at": "2025-03-27T04:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "119",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hjres/BILLSTATUS-119hjres25.xml",
+        "note": ""
+      },
+      {
+        "url": "https://congress.gov/bill/119th-congress/house-joint-resolution/25",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HJRES 25"
+}

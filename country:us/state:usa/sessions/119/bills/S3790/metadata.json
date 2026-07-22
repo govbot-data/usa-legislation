@@ -1,0 +1,135 @@
+{
+  "legislative_session": "119",
+  "identifier": "S 3790",
+  "title": "Protect America Act",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "A bill to condition certain Federal funds for States and local governments on cooperation with Federal immigration enforcement authorities, to deter illegal entry and reentry into the United States, to increase criminal penalties for crimes committed after illegal reentry into the United States, to protect Federal officers and employees from agitators using loud noises to interfere with the performance of their official duties, and to exclude organizations that promote, incite, or provide material support for criminal violence from the tax benefits available under section 501(c)(3) of the Internal Revenue Code of 1986."
+    },
+    {
+      "note": "",
+      "title": "No Rogue Nonprofits Act"
+    },
+    {
+      "note": "",
+      "title": "No Sanctuary Cities Act"
+    },
+    {
+      "note": "",
+      "title": "No Student Visas for Sanctuary Cities Act of 2026"
+    },
+    {
+      "note": "",
+      "title": "Federal Officer Protection Act"
+    },
+    {
+      "note": "",
+      "title": "Shielding Heroes In Enforcement from Loud Disruptions Act"
+    },
+    {
+      "note": "",
+      "title": "Stopping Invaders Act"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-us-119-s3790"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Read twice and referred to the Committee on Finance.",
+      "date": "2026-02-05T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-22T08:35:19Z"
+      }
+    },
+    {
+      "description": "Introduced in Senate",
+      "date": "2026-02-05T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-22T08:35:19Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Ted Budd",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Ted Budd\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Eric S. Schmitt",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Eric S. Schmitt\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced in Senate",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119s3790is/xml/BILLS-119s3790is.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119s3790is/pdf/BILLS-119s3790is.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-02-05",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s3790.xml",
+      "note": ""
+    },
+    {
+      "url": "https://congress.gov/bill/119th-congress/senate-bill/3790",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "cosponsor_bioguides": [
+      "B001305"
+    ],
+    "sponsor_bioguides": [
+      "S001227"
+    ]
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/government",
+    "name": "United States",
+    "classification": "country",
+    "division_id": "ocd-division/country:us"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-22T08:35:19Z"
+  }
+}

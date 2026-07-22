@@ -1,0 +1,183 @@
+{
+  "legislative_session": "119",
+  "identifier": "HRES 939",
+  "title": "Impeaching Donald John Trump, President of the United States for high crimes and misdemeanors.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "resolution"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-us-119-hres939"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Motion to reconsider laid on the table Agreed to without objection.",
+      "date": "2025-12-11T19:08:37+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-22T08:35:07Z"
+      }
+    },
+    {
+      "description": "On motion to table the measure Agreed to by the Yeas and Nays: 237 - 140, 47 Present (Roll no. 322).",
+      "date": "2025-12-11T19:08:35+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-22T08:35:07Z"
+      }
+    },
+    {
+      "description": "Mr. Scalise moved to table the measure.",
+      "date": "2025-12-11T18:38:23+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-22T08:35:07Z"
+      }
+    },
+    {
+      "description": "Considered as privileged matter. (consideration: CR H5787-5789; text: CR H5787-5788)",
+      "date": "2025-12-11T18:37:46+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-22T08:35:07Z"
+      }
+    },
+    {
+      "description": "QUESTION OF THE PRIVILEGES OF THE HOUSE - Mr. Green (TX) rose to a question of the privileges of the House and offered the resolution. The Chair directed the Clerk to report the resolution. Upon examination of the resolution, the Chair determined that the resolution did constitute a question of the privileges of the House.",
+      "date": "2025-12-11T18:37:30+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-22T08:35:07Z"
+      }
+    },
+    {
+      "description": "NOTIFICATION OF INTENT TO OFFER RESOLUTION - Mr. Green (TX) notified the House of his intent to offer a privileged resolution pursuant to clause 2(a)(1) of rule IX. The Chair announced that a determination will be made at the time designated for consideration of the resolution.",
+      "date": "2025-12-11T02:25:28+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-22T08:35:07Z"
+      }
+    },
+    {
+      "description": "Referred to the House Committee on the Judiciary.",
+      "date": "2025-12-10T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-22T08:35:07Z"
+      }
+    },
+    {
+      "description": "Submitted in House",
+      "date": "2025-12-10T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-22T08:35:07Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Andr\u00e9 Carson",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Andr\\u00e9 Carson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Nikema Williams",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Nikema Williams\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Al Green",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Al Green\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [
+    {
+      "identifier": "HRES 537",
+      "legislative_session": "119",
+      "relation_type": "companion"
+    }
+  ],
+  "versions": [
+    {
+      "note": "Introduced in House",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hres939ih/xml/BILLS-119hres939ih.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hres939ih/pdf/BILLS-119hres939ih.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-12-10",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hres/BILLSTATUS-119hres939.xml",
+      "note": ""
+    },
+    {
+      "url": "https://congress.gov/bill/119th-congress/house-resolution/939",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "cosponsor_bioguides": [
+      "C001072",
+      "W000788"
+    ],
+    "sponsor_bioguides": [
+      "G000553"
+    ]
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/government",
+    "name": "United States",
+    "classification": "country",
+    "division_id": "ocd-division/country:us"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-22T08:35:07Z"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "action": {
+    "description": "Received in the House.",
+    "occurred_at": "2025-05-05T18:08:47+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "119",
+    "entity_type": "bill",
+    "classifications": [
+      "receipt"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/sjres/BILLSTATUS-119sjres31.xml",
+        "note": ""
+      },
+      {
+        "url": "https://congress.gov/bill/119th-congress/senate-joint-resolution/31",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SJRES 31"
+}

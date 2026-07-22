@@ -1,0 +1,24 @@
+{
+  "action": {
+    "description": "Referred to the House Committee on House Administration.",
+    "occurred_at": "2025-08-01T04:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "119",
+    "entity_type": "bill",
+    "classifications": [
+      "referral-committee"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr4851.xml",
+        "note": ""
+      },
+      {
+        "url": "https://congress.gov/bill/119th-congress/house-bill/4851",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HR 4851"
+}

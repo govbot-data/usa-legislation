@@ -1,0 +1,24 @@
+{
+  "action": {
+    "description": "Introduced in House",
+    "occurred_at": "2025-03-03T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "119",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hjres/BILLSTATUS-119hjres69.xml",
+        "note": ""
+      },
+      {
+        "url": "https://congress.gov/bill/119th-congress/house-joint-resolution/69",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HJRES 69"
+}

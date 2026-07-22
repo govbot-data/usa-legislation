@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "Held at the desk.",
+    "occurred_at": "2025-10-31T17:15:18+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "119",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/sjres/BILLSTATUS-119sjres80.xml",
+        "note": ""
+      },
+      {
+        "url": "https://congress.gov/bill/119th-congress/senate-joint-resolution/80",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SJRES 80"
+}

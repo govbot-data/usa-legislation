@@ -1,0 +1,127 @@
+{
+  "legislative_session": "119",
+  "identifier": "HR 8495",
+  "title": "Financial Services and General Government Appropriations Act, 2027",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Department of the Treasury Appropriations Act, 2027"
+    },
+    {
+      "note": "",
+      "title": "Making appropriations for financial services and general government for the fiscal year ending September 30, 2027, and for other purposes."
+    },
+    {
+      "note": "",
+      "title": "Executive Office of the President Appropriations Act, 2027"
+    },
+    {
+      "note": "",
+      "title": "Judiciary Appropriations Act, 2027"
+    },
+    {
+      "note": "",
+      "title": "District of Columbia Appropriations Act, 2027"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-us-119-hr8495"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Placed on the Union Calendar, Calendar No. 540.",
+      "date": "2026-04-24T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-22T08:34:59Z"
+      }
+    },
+    {
+      "description": "The House Committee on Appropriations reported an original measure, H. Rept. 119-623, by Mr. Joyce (OH).",
+      "date": "2026-04-24T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-22T08:34:59Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "David P. Joyce",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"David P. Joyce\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Reported in House",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr8495rh/xml/BILLS-119hr8495rh.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr8495rh/pdf/BILLS-119hr8495rh.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-04-24",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "H. Rept. 119-623",
+      "links": [
+        {
+          "url": "https://www.congress.gov/119/crpt/hrpt623/CRPT-119hrpt623.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr8495.xml",
+      "note": ""
+    },
+    {
+      "url": "https://congress.gov/bill/119th-congress/house-bill/8495",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "cosponsor_bioguides": [],
+    "sponsor_bioguides": [
+      "J000295"
+    ]
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/government",
+    "name": "United States",
+    "classification": "country",
+    "division_id": "ocd-division/country:us"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-22T08:34:59Z"
+  }
+}
