@@ -1,0 +1,107 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" public-private="public" dms-id="H2869CB5DE85F4FEC9AC44199AC2CCB6A">
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 HR 8424 IH: Promoting Access to Local Agriculture Act of 2026</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2026-04-21</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code>
+<congress display="yes">119th CONGRESS</congress><session display="yes">2d Session</session>
+<legis-num display="yes">H. R. 8424</legis-num>
+<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+<action display="yes">
+<action-date date="20260421">April 21, 2026</action-date>
+<action-desc><sponsor name-id="S001221">Ms. Scholten</sponsor> (for herself and <cosponsor name-id="V000129">Mr. Valadao</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HAG00">Committee on Agriculture</committee-name>, and in addition to the Committee on <committee-name committee-id="HED00">Education and Workforce</committee-name>, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned</action-desc>
+</action>
+<legis-type>A BILL</legis-type>
+<official-title display="yes">To require the Secretary of Agriculture to streamline applications from farmers to be vendors under certain nutrition programs, and for other purposes.</official-title>
+</form>
+<legis-body id="HC1F0D8A598B243039C6EAA2E78516778">
+<section id="HA97D9B253652484F81A949019FB5745D" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Promoting Access to Local Agriculture Act of 2026</short-title></quote>.</text></section> <section id="H363542FDEED74D04A8722347A1DBCC29"> <enum>2.</enum> <header>Streamlining applications for farmers</header> <subsection id="H5A10B95976614F35AD48F4BA0383B5FD"> <enum>(a)</enum> <header>Definitions</header> <text>In this section:</text>
+                <paragraph id="HED4C394289D9447C96A833D62EEE491A">
+                    <enum>(1)</enum>
+                    <header>Covered nutrition program</header>
+ <text>The term <quote>covered nutrition program</quote> means—</text> <subparagraph id="HDC50704F58F542EAB1BF1935410C4356"> <enum>(A)</enum> <text>the supplemental nutrition assistance program established under the Food and Nutrition Act of 2008 (<external-xref legal-doc="usc" parsable-cite="usc/7/2011">7 U.S.C. 2011 et seq.</external-xref>);</text>
+                    </subparagraph>
+                    <subparagraph id="HD66E576FAB544428BF55A3739DA8FE81">
+                        <enum>(B)</enum>
+ <text>the senior farmers’ market nutrition program established under section 4402 of the Farm Security and Rural Investment Act of 2002 (<external-xref legal-doc="usc" parsable-cite="usc/7/3007">7 U.S.C. 3007</external-xref>);</text>
+                    </subparagraph>
+                    <subparagraph id="H5ACC777AB14344F681A08C4225941E32">
+                        <enum>(C)</enum>
+ <text>the special supplemental nutrition program for women, infants, and children established by section 17 of the Child Nutrition Act of 1966 (<external-xref legal-doc="usc" parsable-cite="usc/42/1786">42 U.S.C. 1786</external-xref>), including the farmers’ market nutrition program under that program; and</text>
+                    </subparagraph>
+                    <subparagraph id="H0A76140C9ACA491FA577968E715ADA1D">
+                        <enum>(D)</enum>
+ <text>the Gus Schumacher Nutrition Incentive Program established under section 4405 of the Food, Conservation, and Energy Act of 2008 (<external-xref legal-doc="usc" parsable-cite="usc/7/7517">7 U.S.C. 7517</external-xref>), as practicable with respect to the activities carried out by the Secretary under subsections (b) and (c).</text>
+                    </subparagraph>
+                </paragraph>
+                <paragraph id="H43172E0DC56B4D91BD5EFE9ED5EC83E2">
+                    <enum>(2)</enum>
+                    <header>Secretary</header>
+ <text>The term <quote>Secretary</quote> means the Secretary of Agriculture.</text>
+                </paragraph>
+            </subsection>
+            <subsection id="H309AAD91377540B39939345982997699">
+                <enum>(b)</enum>
+                <header>Streamlined application process</header>
+                <paragraph id="HD5CA64C0FE904C4C835EC9FEC1FF41D4">
+                    <enum>(1)</enum>
+                    <header>In general</header>
+ <text>The Secretary shall establish a streamlined application process—</text> <subparagraph id="H8E5324D99D3547519731F60C7D2F9990"> <enum>(A)</enum> <text>for direct marketing farmers and ranchers to apply to be vendors under each of the covered nutrition programs; and</text>
+                    </subparagraph>
+                    <subparagraph id="HDA3488F5E7FD4595BDCCD2B3330902BC">
+                        <enum>(B)</enum>
+ <text>by—</text> <clause id="H063F042F5EC349D08E0D577C3B8A4462"> <enum>(i)</enum> <text>developing a single application that a direct marketing farmer or rancher may use to apply to each of the covered nutrition programs; or</text>
+                        </clause>
+                        <clause id="H692EE5997DA04974918540DF91E76844">
+                            <enum>(ii)</enum>
+ <text>developing an information sharing system that—</text> <subclause id="H467D2A77A8A6458BA56EFC9C483BE296"> <enum>(I)</enum> <text>shares the information of a direct marketing farmer or rancher who is approved as an authorized vendor under a covered nutrition program with each of the other covered nutrition programs; and</text>
+                            </subclause>
+                            <subclause id="H1B437F7CB0B748E586FA9E575089956E">
+                                <enum>(II)</enum>
+ <text>deems that direct marketing farmer or rancher as a prequalified eligible vendor for those other covered nutrition programs.</text>
+                            </subclause>
+                        </clause>
+                    </subparagraph>
+                </paragraph>
+                <paragraph id="H386415A9804447558C748C298CB1B8F0">
+                    <enum>(2)</enum>
+                    <header>Report</header>
+ <text>Not later than 1 year after the date of enactment of this Act, the Secretary shall submit to the Committee on Agriculture, Nutrition, and Forestry of the Senate and the Committee on Agriculture of the House of Representatives a report describing progress made in carrying out paragraph (1).</text>
+                </paragraph>
+            </subsection>
+            <subsection id="HE32043B74D904BA0A862EC18162D9013">
+                <enum>(c)</enum>
+                <header>Streamlined processing of benefits</header>
+ <text>The Secretary shall establish a streamlined process for direct marketing farmers and ranchers that are vendors under any of the covered nutrition programs to process benefits under those programs through the use of standardized technology, such as a single piece of equipment or a mobile application.</text>
+            </subsection>
+        </section>
+<section id="H10DCC926F802452B8A4652E0E6114EC6">
+            <enum>3.</enum>
+            <header>Support for wireless and mobile equipment for certain entities</header>
+ <text display-inline="no-display-inline">Section 7(f)(2) of the Food and Nutrition Act of 2008 (<external-xref legal-doc="usc" parsable-cite="usc/7/2016">7 U.S.C. 2016(f)(2)</external-xref>) is amended—</text>
+            <paragraph id="H2F5E0164F51042B4BEB142999F236F97">
+                <enum>(1)</enum>
+ <text>by redesignating subparagraph (C) as subparagraph (D); and</text> </paragraph> <paragraph id="H8D3509FB182D4B3DBD756FF1E8DD25D1"> <enum>(2)</enum> <text>by inserting after subparagraph (B) the following:</text>
+                <quoted-block id="HBCB7FDC3DFD64AACB2D47C760419CFA9" style="OLC">
+                    <subparagraph id="H66BEB251EFA8479AB39E70D4235D3CAC">
+                        <enum>(C)</enum>
+                        <header>Requirement</header>
+ <text>The Secretary shall ensure that equipment or systems made available to entities described in clauses (i) and (ii) of subparagraph (B) by a State agency or an implementing partner of a State agency is appropriate for the entity, including, with respect to farmers markets and other direct-to-consumer markets, wireless or mobile processing equipment and technology systems.</text>
+                    </subparagraph>
+                    <after-quoted-block>.</after-quoted-block>
+                </quoted-block>
+            </paragraph>
+        </section>
+</legis-body>
+</bill>
+

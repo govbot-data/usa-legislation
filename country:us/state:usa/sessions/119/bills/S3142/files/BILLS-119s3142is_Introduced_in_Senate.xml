@@ -1,0 +1,79 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-type="olc" bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public" slc-id="S1-MCC25E21-FST-WV-D86">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 S3142 IS: Immigrant Veterans Eligibility Tracking System Act</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2025-11-06</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+        <distribution-code>II</distribution-code>
+        <congress>119th CONGRESS</congress>
+        <session>1st Session</session>
+        <legis-num>S. 3142</legis-num>
+        <current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+        <action>
+            <action-date date="20251106">November 6, 2025</action-date>
+            <action-desc><sponsor name-id="S386">Ms. Duckworth</sponsor> (for herself, <cosponsor name-id="S432">Mr. Gallego</cosponsor>, <cosponsor name-id="S341">Mr.
+                    Blumenthal</cosponsor>, <cosponsor name-id="S247">Mr. Wyden</cosponsor>,
+                    <cosponsor name-id="S385">Ms. Cortez Masto</cosponsor>, <cosponsor name-id="S402">Ms. Rosen</cosponsor>, <cosponsor name-id="S361">Ms.
+                    Hirono</cosponsor>, and <cosponsor name-id="S426">Mr. Kim</cosponsor>)
+                introduced the following bill; which was read twice and referred to the
+                    <committee-name committee-id="SSJU00">Committee on the
+                    Judiciary</committee-name></action-desc>
+        </action>
+        <legis-type>A BILL</legis-type>
+        <official-title>To require the Secretary of Homeland Security to identify each alien who is
+            serving, or has served, in the Armed Forces of the United States on the application of
+            any such alien for an immigration benefit or the placement of any such alien in an
+            immigration enforcement proceeding, and for other purposes.</official-title>
+    </form>
+    <legis-body style="OLC" display-enacting-clause="yes-display-enacting-clause" id="H7EEAB9B4D0924E48AD120D7B7BF51958">
+        <section section-type="section-one" id="H87CC35BD9FC54D098EEE3426AC4CF183">
+            <enum>1.</enum>
+            <header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Immigrant Veterans Eligibility Tracking System Act</short-title></quote> or the <quote><short-title>I–VETS Act</short-title></quote>.</text>
+        </section>
+        <section id="H2438F55B37FF4742AD653A9EEC557689">
+            <enum>2.</enum>
+            <header>Identifying aliens connected to the Armed Forces</header>
+            <subsection id="idE4972372907B43B7BDF5C6C048ACE7A8">
+                <enum>(a)</enum>
+                <header>In general</header>
+ <text display-inline="yes-display-inline">Upon the application by an alien for an immigration benefit or the placement of an alien in an immigration enforcement proceeding, the Secretary of Homeland Security shall—</text>
+                <paragraph id="H6BD7288E932947FC867F15391B5E8BEF">
+                    <enum>(1)</enum>
+ <text display-inline="yes-display-inline">determine whether the alien is serving, or has served, as a member of—</text>
+                    <subparagraph id="id45232A67F31748319681EA76E2F92F4D">
+                        <enum>(A)</enum>
+ <text display-inline="yes-display-inline">a regular or reserve component of the Armed Forces of the United States on active duty; or</text>
+                    </subparagraph>
+                    <subparagraph id="idBAC5DE4C20BD402099C9C0C41D08FB2F">
+                        <enum>(B)</enum>
+ <text display-inline="yes-display-inline">a reserve component of the Armed Forces in an active status; and</text>
+                    </subparagraph>
+                </paragraph>
+                <paragraph id="HF22760076BDF4885BDDC53C1D7EEBCDD">
+                    <enum>(2)</enum>
+ <text>with respect to the immigration and naturalization records of the Department of Homeland Security relating to an alien who is serving, or has served, as a member of the Armed Forces described in paragraph (1), annotate such records—</text>
+                    <subparagraph id="id762A406B7DC24267A3F41423121138C1">
+                        <enum>(A)</enum>
+ <text>to reflect that membership; and</text> </subparagraph> <subparagraph id="id91179CEA0DC9412F8C5ACEC1F68F757C"> <enum>(B)</enum> <text>to afford an opportunity to track the outcomes for each such alien.</text>
+                    </subparagraph>
+                </paragraph>
+            </subsection>
+            <subsection id="idCD832DFBD0094B3FBC1DF9090B74942B">
+                <enum>(b)</enum>
+                <header>Prohibition on use of information for removal</header>
+ <text>Information gathered under subsection (a) may not be used for the purpose of removing an alien from the United States.</text>
+            </subsection>
+        </section>
+    </legis-body>
+</bill>
+

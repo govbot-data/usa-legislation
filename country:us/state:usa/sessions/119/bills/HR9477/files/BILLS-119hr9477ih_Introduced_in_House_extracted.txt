@@ -1,0 +1,90 @@
+Title: 
+Official Title: To require certain artificial intelligence model developers to submit reports to the Secretary of Commerce, and for other purposes.
+Source: versions - Introduced in House
+Media Type: text/xml
+
+================================================================================
+
+119 HR 9477 IH: AI Incident Reporting Act
+U.S. House of Representatives
+2026-06-25
+text/xml
+EN
+Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.
+
+
+
+I119th CONGRESS2d SessionH. R. 9477IN THE HOUSE OF REPRESENTATIVESJune 25, 2026Mr. Moran introduced the following bill; which was referred to the Committee on Energy and CommerceA BILLTo require certain artificial intelligence model developers to submit reports to the Secretary of Commerce, and for other purposes. 
+1.Short titleThis Act may be cited as the AI Incident Reporting Act. 2.Requirement to report AI incidents (a)Designation of covered models; guidelines and regulations (1)Designation of covered models and entitiesNot later than 180 days after the date of the enactment of this section, the Secretary, in consultation with, as appropriate, the heads of relevant agencies as determined by the Secretary, artificial intelligence model developers, other relevant private-sector entities, academic, technical, cybersecurity, national security, and public safety experts, and such other outside experts as the Secretary determines to be appropriate, shall promulgate regulations that— 
+(A)establish capability or other thresholds that determine which artificial intelligence models and model developers could pose significant risks to the national security of the United States or to public safety; and (B)designate such developers as covered model developers and such models as covered models for purposes of this section. 
+(2)CoordinationThe Secretary may coordinate with the heads of other agencies, as determined appropriate by the Secretary, to identify reportable activity and to receive, analyze, and act upon reports submitted under this section. (3)Guidelines and regulations (A)In generalNot later than 180 days after the date of the enactment of this Act, the Secretary shall issue guidelines for covered model developers to be in compliance with the requirements of this Act and may promulgate regulations as are necessary to carry out this Act. 
+(B)Requirements for regulationsIn establishing regulations and requirements under this subsection, the Secretary shall ensure, to the maximum extent practicable, that the regulations and requirements— (i)clearly describe the categories of information that must be reported under this section; 
+(ii)minimize unnecessary ambiguity, duplication, and undue reporting burden; and (iii)establish clear, secure, and straightforward mechanisms for submission of reports. 
+(C)ThresholdsIn establishing thresholds under paragraph (1), the Secretary shall give particular weight to whether a model has the capability to engage in, or presents a significant risk of, reportable activity described in subsection (b)(2).   (b) Reporting requirement  (1) In general Not later than 7 days after the date on which a covered model developer knows, or reasonably believes, that reportable activity described in paragraph (2) has occurred related to a covered model, the developer shall submit to the Secretary a report that contains a detailed description of the activity.
+                
+                
+                    (2)
+                    Reportable activity
+ For purposes of this section, reportable activity is any of the following:
+                    
+                        (A)
+ Behavior expressing that the model is attempting to evade human oversight, deceive evaluators or operators, circumvent safeguards, resist shutdown or modification, obtain unauthorized access to tools, systems, or privileges, or otherwise undermine the ability of human operators to reliably control the model, but does not include behavior elicited solely through an evaluation designed to elicit such behavior, in which the model is not in production deployment and the behavior is not indicative of analogous behavior in deployment.
+                    
+                    
+                        (B)
+ Unauthorized access to, theft of, or attempted theft of model weights that the developer reasonably assesses had a credible prospect of obtaining, evidence that model weights have been exfiltrated or materially compromised, or behavior suggesting that a model is autonomously attempting to exfiltrate model weights without authorization or otherwise facilitate unauthorized transfer of model weights or related model artifacts outside of a testing environment.
+                    
+                    
+                        (C)
+ Capabilities that could materially enable or accelerate offensive cyber operations against important software, widely used digital infrastructure, industrial systems, or critical infrastructure, including through the discovery, exploitation, chaining, weaponization, or operationalization of vulnerabilities at a scale, speed, or level of sophistication that could pose serious risks to the national security of the United States or to public safety.
+                    
+                    
+                        (D)
+ Evidence that a covered model, when unprompted, has demonstrated the ability to materially accelerate or automate the research, development, evaluation, engineering, or improvement of advanced artificial intelligence systems, including in ways that could significantly compress timelines for the development or deployment of more capable systems, where the model developer knows, or reasonably believes, that such developments could have serious implications for the national security of the United States or for public safety.
+                    
+                    
+                        (E)
+ Capabilities that could materially enable or accelerate the development, acquisition, or use of chemical, biological, radiological, nuclear, or explosive weapons by providing uplift to actors that would not otherwise possess such capabilities at a scale, speed, or level of sophistication that could pose serious risks to the national security of the United States or to public safety.
+                    
+                    
+                        (F)
+ Any circumstance in which an incident or harm of a type described in subparagraph (A), (B), (C), (D), or (E) was reasonably likely to occur and would have posed a serious risk to the national security of the United States or to public safety, but was prevented only because of circumstances unrelated to the safeguards, controls, or mitigations of the developer, such as the conduct of a third party, the absence of capability or intent on the part of a user, or other fortuity.
+                    
+                    
+                        (G)
+ Any other capability, incident, or combination of circumstances that the Secretary determines, by rulemaking, appropriate relating to serious harm to the national security of the United States or to public safety.
+                    
+                
+             
+(c)Timing, form, and contents of reports 
+(1)Initial reportThe Secretary shall require— (A)a covered model developer to submit an initial report within such period as the Secretary determines appropriate and not later than the 7-day period described in subsection (b)(1); and 
+(B)expedited reporting for any reportable activity described in subsection (b)(2) that presents any imminent or ongoing risk of serious harm. (2)Supplemental reportsThe Secretary shall require a covered model developer to submit supplemental reports as additional material information, relating to the reportable activity and steps that are being taken to mitigate the risks of the incident, becomes available. 
+(3)Required contentsEach report submitted under this subsection shall include, as applicable and to the extent known at the time of submission, the following: (A)A description of the relevant incident, behavior, or capability. 
+(B)The date on which, or approximate period during which, the covered model developer discovered the relevant information. (C)Any known or suspected threat actor, attack vector, system vulnerability, safeguard failure, or other relevant causal or contextual information. 
+(D)Any known or reasonably suspected implication for the national security of the United States or for public safety. (E)Such other information as the Secretary determines appropriate. 
+(4)Congressional ReportingNot later than 48 hours after receipt of any report submitted under subsection (b) that presents an imminent or ongoing risk of serious harm, and not later than 30 days after receiving any report submitted under paragraph (2), the Secretary shall inform the following individuals of each such report: (A)The Speaker of the House of Representatives. 
+(B)The Minority Leader of the House of Representatives. (C)The Chair of the Committee on Science, Space, and Technology of the House of Representatives. 
+(D)The Chair of the Committee on Energy and Commerce of the House of Representatives. (E)The Chair of the Permanent Select Committee on Intelligence of the House of Representatives. 
+(F)The Majority Leader of the Senate. (G)The Minority Leader of the Senate. 
+(H)The Chair of the Committee on Commerce, Science, and Transportation of the Senate. (I)The Chair of the Committee on Energy and Natural Resources of the Senate. 
+(J)The Chair of the Select Committee on Intelligence of the Senate. (d)Protection and use of information (1)Protection of sensitive informationNot later than 180 days after the date of the enactment of this section, the Secretary shall establish procedures to appropriately protect from unauthorized disclosure any sensitive, classified, controlled, or security-relevant information submitted under this section, consistent with applicable law. 
+(2)Exemption from disclosureInformation submitted to the Secretary under this section is exempt from disclosure under paragraph (3)(B) of section 552(b) of title 5, United States Code, and may not be disclosed under any State or local law that requires disclosure of information or records. (3)No waiver of privilege or protectionThe submission of information under this section is not a waiver of any applicable privilege or legal protection, including trade secret protection and any attorney-client and work product privilege. 
+(4)Restrictions on use 
+(A)Civil actions and administrative proceedingsA report submitted under this section, and any communication or material created for the sole purpose of preparing or submitting such a report, may not be received in evidence, subjected to discovery, or otherwise used in any civil or criminal action or administrative proceeding against the covered model developer that submitted the report, communications, or material. (B)Federal, State, or local governmentInformation submitted under this section may not be used by any Federal, State, or local government to regulate, or to bring an enforcement action against, the covered model developer. 
+(C)Rule of constructionNothing in this paragraph may— (i)limit the use of such information by the Secretary or any other agency to respond to, mitigate, or prevent a risk to the national security of the United States or to public safety; 
+(ii)limit use of a report, or information in the report, to determine compliance with or enforce the requirements of this section; or (iii)affect the liability of any person for the underlying incident, conduct, or capability described in a report in which such liability can be established on the basis of information obtained independently of the report. 
+(5)Information sharing within GovernmentThe Secretary may share information submitted under this section with other agencies, including an element of the intelligence community and law enforcement agencies, where appropriate and consistent with applicable law. Any information shared under this paragraph is subject to the protections and use restrictions of this subsection for the agency that receives the information.  (e) Good-Faith reporting In issuing guidelines and regulations under this section, the Secretary shall, to the maximum extent practicable, design reporting requirements to facilitate timely reporting of material incidents, including for a case in which relevant facts are incomplete at the time of initial disclosure, and shall permit supplemental reporting as additional material information becomes available.
+             
+(f)Enforcement 
+(1)Authority of the SecretaryTo enforce this section, the Secretary may— (A)issue orders, regulations, and guidance; 
+(B)require, inspect, and obtain books, records, reports, audit materials, and other information that the Secretary determines to be relevant or material to determine compliance with, or violations of, this section, from any developer or other person subject to this section; (C)administer oaths or affirmations and, by subpoena, require any person to appear, testify, and produce books, records, reports, audit materials, and other materials relevant or material to determine compliance with, or violations of, this section, from any developer or other person subject to this section; 
+(D)conduct investigations within the United States and, consistent with applicable law, outside the United States; (E)require corrective action, including the production of omitted records or materials; and 
+(F)refer a matter to the Attorney General for appropriate civil action, including to recover a civil penalty assessed under paragraph (2) that remains unpaid, to enjoin a violation of this section, or to compel compliance with an order or subpoena issued under this subsection. (2)Civil penalties (A)In generalAfter notice and an opportunity for a hearing, the Secretary may assess a civil penalty for a violation of this section in an amount not to exceed $2,000,000. Each day of a continuing violation shall constitute a separate offense. 
+(B)FactorsIn determining the amount of a civil penalty under subparagraph (A), the Secretary shall consider the nature, circumstances, extent, gravity, and duration of the violation, the degree of culpability, any history of prior violation, any good faith effort to comply, any other mitigating factor, and such other matters as justice may require. (g)DefinitionsIn this section: 
+(1)AgencyThe term agency has the meaning given that term in section 551 of title 5, United States Code. (2)Artificial intelligenceThe term artificial intelligence includes the following: 
+(A)Any artificial system that performs tasks under varying and unpredictable circumstances without significant human oversight, or that can learn from experience and improve performance when exposed to data sets. (B)An artificial system developed in computer software, physical hardware, or other context that solves tasks requiring human-like perception, cognition, planning, learning, communication, or physical action. 
+(C)An artificial system designed to think or act like a human, including cognitive architectures and neural networks. (D)A set of techniques, including machine learning, that is designed to approximate a cognitive task. 
+(E)An artificial system designed to act rationally, including an intelligent software agent or embodied robot that achieves goals using perception, planning, reasoning, learning, communicating, decision making, and acting. (3)Covered modelThe term covered model means a model designated by the Secretary under subsection (a)(1). 
+(4)Covered model developerThe term covered model developer means any person or entity that— (A)develops or trains a covered model; or 
+(B)substantially modifies a covered model, including through fine-tuning or other modification of the weights of the model, in a manner that the Secretary determines causes the model to meet a threshold established under subsection (a)(1). (5)Model weightsThe term model weights means the parameters, numerical values, or other internal artifacts of an artificial intelligence model that are sufficient to reproduce, substantially reproduce, or enable the operational use of the model. 
+(6)SecretaryThe term Secretary means the Secretary of Commerce. (7)StateThe term State means each of the several States, the District of Columbia, each commonwealth, territory, or possession of the United States, and each federally recognized Indian Tribe.
