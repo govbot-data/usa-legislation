@@ -1,0 +1,88 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="HFD825F6FC5544F059CE0FA174C7C33D3" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 HR 8785 IH: Medium Transit Intensive Cities Authorization Act of 2026</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2026-05-13</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">119th CONGRESS</congress><session display="yes">2d Session</session><legis-num display="yes">H. R. 8785</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20260513">May 13, 2026</action-date><action-desc><sponsor name-id="C001112">Mr. Carbajal</sponsor> (for himself and <cosponsor name-id="M001213">Mr. Moore of Utah</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HPW00">Committee on Transportation and Infrastructure</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To amend section 5336 of title 49, United States Code, to provide for certain apportionments to medium-sized transit intensive cities, and for other purposes.</official-title></form><legis-body id="HA4D8A58620F24ADE8699B7DC483C9573" style="OLC"> 
+<section id="H7D25F03FBA074465B1656650B51AB7F2" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Medium Transit Intensive Cities Authorization Act of 2026</short-title></quote>.</text></section> <section id="H9543A5A86DE14C85B4653EBE641F3883"><enum>2.</enum><header>Medium-sized transit-intensive cities formula</header> <text display-inline="no-display-inline">Section 5336 of title 49, United States Code, is amended—</text> 
+<paragraph id="HADF16CE09D514B26ABC26B1A600B548D"><enum>(1)</enum><text>in subsection (a) by striking <quote>subsection (h)(5)</quote> and inserting <quote>subsection (h)(6)</quote>;</text></paragraph> <paragraph id="H9FA343353677420C92E677C7C42E7378"><enum>(2)</enum><text>in subsection (h)—</text> 
+<subparagraph id="HC6796B25DC30440C8DD46BD001F4B7AC">
+                    <enum>(A)</enum>
+ <text>by redesignating paragraphs (4) and (5) as paragraphs (5) and (6), respectively;</text>
+                </subparagraph> 
+<subparagraph id="H55B10C1CB78D4EBFB27EFAB8BC6A5B36"><enum>(B)</enum><text>by inserting after paragraph (3) the following:</text> <quoted-block style="USC" id="H75E8BF1E2F5E4D9983AB0A2C0BE9B644" display-inline="no-display-inline"> <paragraph id="HA1C0B815027E45538406CCD9A5492F4D"><enum>(4)</enum><text display-inline="yes-display-inline">of amounts not apportioned under paragraphs (1), (2), and (3), 1.5 percent shall be apportioned to urbanized areas with populations of at least 200,000 but not more than 999,999 in accordance with subsection (k);</text></paragraph><after-quoted-block>; and</after-quoted-block></quoted-block></subparagraph> 
+<subparagraph id="HCB6814B3B1FD45C3AF7943FACB577FE9"><enum>(C)</enum><text>in paragraph (6), as so redesignated, by striking <quote>and (4)</quote> and inserting <quote>(4), and (5)</quote>; and</text></subparagraph></paragraph> <paragraph id="H78EF49D25C6E4F3893A5E37B24B1CF13"><enum>(3)</enum><text>by adding at the end the following:</text> 
+<quoted-block style="USC" id="H73626A97DAFA407D99B57E9D27399D6D" display-inline="no-display-inline"> 
+<subsection id="HD339A1DBD3A445798165735DBBC47FC8">
+            <enum>(k)</enum>
+            <header>Medium-Sized transit-Intensive cities formula</header>
+            <paragraph id="H6EC5E29800D34BB7B10F7DBECE97C172">
+              <enum>(1)</enum>
+              <header>Apportionment</header>
+              <subparagraph id="H2643AAC4599943BF8E48CA685194CBCD">
+                <enum>(A)</enum>
+                <header>Formula</header>
+ <text display-inline="yes-display-inline">The amount to be apportioned under subsection (h)(4) shall be apportioned among eligible areas in the ratio that—</text>
+                <clause id="HA1BC50462A5E42229D03640CB03815AC">
+                  <enum>(i)</enum>
+ <text>the number of performance categories for which each eligible area meets or exceeds the industry average in urbanized areas with a population of at least 1,000,000; bears to</text>
+                </clause>
+                <clause id="H5BCF9E9A9CE94EF5BF576C71B6CFA893">
+                  <enum>(ii)</enum>
+ <text>the aggregate number of performance categories for which all eligible areas meet or exceed the industry average in urbanized areas with a population of at least 1,000,000. </text>
+                </clause>
+              </subparagraph>
+              <subparagraph id="HA6CC84E26E8D44B8A65D1076AF085CDD" commented="no">
+                <enum>(B)</enum>
+                <header>Industry average</header>
+ <text display-inline="yes-display-inline">The average in urbanized areas with a population of at least 1,000,000 shall—</text>
+                <clause id="H399C34CE50824D98906CDAA39605F91E" commented="no">
+                  <enum>(i)</enum>
+ <text>be calculated separately for each such urbanized area for each performance category; and</text>
+                </clause>
+                <clause id="HB21461F45C4548198C490AB718A416D3" commented="no">
+                  <enum>(ii)</enum>
+ <text display-inline="yes-display-inline">for each performance category, be the average of each individual performance category calculated as described in clause (i). </text>
+                </clause>
+              </subparagraph>
+              <subparagraph id="HC8583F321BCE45E897EEF48377552922">
+                <enum>(C)</enum>
+                <header>Data used</header>
+ <text display-inline="yes-display-inline">The Secretary shall calculate apportionments under this subsection for a fiscal year using data from the national transit database used to calculate apportionments for that fiscal year under this section.</text>
+              </subparagraph>
+            </paragraph>
+            <paragraph id="H29511560089A4DEEA6E49B110D40CAAC">
+              <enum>(2)</enum>
+              <header>Definitions</header>
+ <text>In this subsection:</text> <subparagraph id="H1F7877CA651546859B92848AA8784F0F"> <enum>(A)</enum> <header>Eligible area</header> <text display-inline="yes-display-inline">The term “eligible area” means an urbanized area with a population of at least 200,000 but not more than 999,999 that meets or exceeds in 1 or more performance categories the industry average for all urbanized areas with a population of at least 1,000,000, as determined by the Secretary in accordance with subsection (c)(1).</text>
+              </subparagraph>
+              <subparagraph id="HA3E377726E654F7F8CF1C611780D2A0F">
+                <enum>(B)</enum>
+                <header>Performance category</header>
+ <text display-inline="yes-display-inline">The term “performance category” means each of the following:</text>
+                <clause id="H9D93342D38DB42689E9F5FA3FF6E2292">
+                  <enum>(i)</enum>
+ <text>Passenger miles traveled per vehicle revenue mile.</text> </clause> <clause id="H806E8FB89C41472CB725453B5DFFFAF0"> <enum>(ii)</enum> <text>Passenger miles traveled per vehicle revenue hour.</text>
+                </clause>
+                <clause id="HA31BDF09B6E142D5ACAD852E6772020D">
+                  <enum>(iii)</enum>
+ <text>Vehicle revenue miles per capita.</text> </clause> <clause id="HBE3AD9BC70534460B9D103A2EF6E1500"> <enum>(iv)</enum> <text>Vehicle revenue hours per capita.</text>
+                </clause>
+                <clause id="HF57452663E524E6F984F7EE614A243EA">
+                  <enum>(v)</enum>
+ <text>Passenger miles traveled per capita.</text> </clause> <clause id="H46AF0A1BB96D456D8BF4888BB4782C3C"> <enum>(vi)</enum> <text>Passengers per capita.</text>
+                </clause>
+              </subparagraph>
+            </paragraph>
+          </subsection><after-quoted-block>.</after-quoted-block></quoted-block> </paragraph></section> 
+</legis-body></bill>
+

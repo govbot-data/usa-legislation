@@ -1,0 +1,87 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" public-private="public" dms-id="HC484543FE31A4544B6FEE2E697897740" key="H"> 
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 HR 8143 IH: Ensuring Access to Lower-Cost Medicines for Seniors Act of 2026.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2026-03-27</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code> 
+<congress display="yes">119th CONGRESS</congress><session display="yes">2d Session</session> 
+<legis-num display="yes">H. R. 8143</legis-num> 
+<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber> 
+<action display="yes"> 
+<action-date date="20260327">March 27, 2026</action-date> 
+<action-desc><sponsor name-id="M001163">Ms. Matsui</sponsor> (for herself, <cosponsor name-id="M001215">Mrs. Miller-Meeks</cosponsor>, and <cosponsor name-id="A000148">Mr. Auchincloss</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HIF00">Committee on Energy and Commerce</committee-name>, and in addition to the Committee on <committee-name committee-id="HWM00">Ways and Means</committee-name>, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned</action-desc> 
+</action> 
+<legis-type>A BILL</legis-type> 
+<official-title display="yes">To amend title XVIII of the Social Security Act to require PDP sponsors of a prescription drug plan under part D of the Medicare program that use a formulary to include certain generic drugs and biosimilar biological products on such formulary, and for other purposes.</official-title> 
+</form> 
+<legis-body id="H3159D7826D6E4FCA9A33D2B8FB636EA5"> 
+<section id="H603EF63846544E5D8F2535E4A6CC9CE7" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Ensuring Access to Lower-Cost Medicines for Seniors Act of 2026.</short-title></quote></text></section> <section id="HA6A1768824DD4C0ABFD9AFDC3EECD5EA"><enum>2.</enum><header>Requirements for pdp sponsors of prescription drug plans under part d of the medicare program that use formularies</header><text display-inline="no-display-inline">Section 1860D–4(b)(3) of the Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/1395w-104">42 U.S.C. 1395w–104(b)(3)</external-xref>) is amended by adding at the end the following new subparagraph:</text> 
+<quoted-block id="H41237D983FA346F792729255DCE27E34" style="OLC"> 
+<subparagraph id="H9C21E1CBA48943108C7B88831D1EC813">
+                    <enum>(J)</enum>
+                    <header>Required inclusion of certain generic drugs and biosimilar biological
+                        products</header>
+                    <clause id="H58F656538BDD4554B39B442042C1EFC7">
+                        <enum>(i)</enum>
+                        <header>In general</header>
+ <text>With respect to a plan year beginning on or after January 1, 2027, the formulary shall include in a preferred position relative to the reference drug—</text>
+                        <subclause id="HCDE28E8891F74E3FA9BF79F03E6CE008">
+                            <enum>(I)</enum>
+ <text>each covered generic drug for which the wholesale acquisition cost is less than the wholesale acquisition cost of the reference drug of such covered generic drug; and</text>
+                        </subclause>
+                        <subclause id="H941F4E6AF1A345A5B808C6558487FE1B">
+                            <enum>(II)</enum>
+ <text>at least two covered bio-similar biological products for which the wholesale acquisition cost is less than the wholesale acquisition cost of the reference biological product of such covered biosimilar biological product.</text>
+                        </subclause>
+                    </clause>
+                    <clause id="HEDC79192DE954CC28E2ECE556062E196">
+                        <enum>(ii)</enum>
+                        <header>Prohibition on certain lim-its on access</header>
+ <text>The PDP sponsor offering the prescription drug plan may not impose limits on access to a covered generic drug required to be included on the formulary under clause (i)(I) or a covered biosimilar biological product required to be included on the formulary under clause (i)(II), including through utilization management techniques such as prior authorization, or step therapy, that are more restrictive than any such limits imposed on access to the reference drug of such covered generic drug or reference biological product of such covered biosimilar biological product, respectively, or that otherwise have the effect of limiting the availability to enrollees of such covered generic drug or covered biosimilar biological product relative to such reference drug or reference biological product over such covered generic drug or covered biosimilar biological product, respectively.</text>
+                    </clause>
+                    <clause id="H4B1A25A89AEF426C9A91235D3E53BAAD">
+                        <enum>(iii)</enum>
+                        <header>Definitions</header>
+ <text>In this subparagraph and subparagraph (J):</text> <subclause id="H7A24C2B81F5E4097B4F90C1A738B205F"> <enum>(I)</enum> <header>Covered biosimilar biological product</header> <text>The term <quote>covered biosimilar biological product</quote> means a covered part D drug that is a biosimilar biological product (as defined in section 1847A(c)(6)(H)).</text>
+                        </subclause>
+                        <subclause id="H328E02CBEDB342529635ECCB4CD9CA43">
+                            <enum>(II)</enum>
+                            <header>Covered generic drug</header>
+ <text>The term <quote>covered generic drug</quote> means a covered part D drug that is a drug described in section 1860D–2(e)(1)(A) and approved under section 505(j) of the Federal Food, Drug, and Cosmetic Act.</text>
+                        </subclause>
+                        <subclause id="HE57D5B936FC04E989711BC75BC8C7EAE">
+                            <enum>(III)</enum>
+                            <header>Preferred position</header>
+ <text>The term <quote>preferred position</quote> means a product is placed on a more favorable formulary tier and has lower patient out-of-pocket costs than the corresponding reference drug or reference biological product.</text>
+                        </subclause>
+                        <subclause id="HC92020280FBA49A39EA20187159472CA">
+                            <enum>(IV)</enum>
+                            <header>Reference biological product</header>
+ <text>The term <quote>reference biological product</quote> has the meaning given such term in section 1847A(c)(6)(I).</text>
+                        </subclause>
+                        <subclause id="HB04D085A6F8D48A7B3CC943F4C581870">
+                            <enum>(V)</enum>
+                            <header>Reference drug</header>
+ <text>The term <quote>reference drug</quote> means, with respect to a covered generic drug, the listed drug (as described in clause (i) of section 505(j)(2)(A) of the Federal Food, Drug, and Cosmetic Act) that is referred to in the abbreviated application for such covered generic drug under such section.</text>
+                        </subclause>
+                        <subclause id="HF9D7453245AD451B965399A3C1EEE52D">
+                            <enum>(VI)</enum>
+                            <header>Wholesale acquisition cost</header>
+ <text>The term <quote>wholesale acquisition cost</quote> has the meaning given such term in section 1847A(c)(6)(B).</text>
+                        </subclause>
+                    </clause>
+                </subparagraph><after-quoted-block>.</after-quoted-block></quoted-block></section> 
+</legis-body> 
+</bill> 
+
+

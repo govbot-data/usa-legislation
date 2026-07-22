@@ -1,0 +1,92 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public" slc-id="S1-NEW25948-MDH-96-5T4">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 S3035 IS: Natural Gas Export Expansion Act</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2025-10-23</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+        <distribution-code>II</distribution-code>
+        <congress>119th CONGRESS</congress>
+        <session>1st Session</session>
+        <legis-num>S. 3035</legis-num>
+        <current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+        <action>
+            <action-date date="20251023">October 23, 2025</action-date>
+            <action-desc><sponsor name-id="S355">Mr. Cruz</sponsor> (for himself, <cosponsor name-id="S398">Mr. Cramer</cosponsor>, and <cosponsor name-id="S372">Mrs.
+                    Capito</cosponsor>) introduced the following bill; which was read twice and
+                referred to the <committee-name committee-id="SSEG00">Committee on Energy and
+                    Natural Resources</committee-name></action-desc>
+        </action>
+        <legis-type>A BILL</legis-type>
+        <official-title>To amend the Natural Gas Act to provide for expanded natural gas exports,
+            and for other purposes.</official-title>
+    </form>
+    <legis-body display-enacting-clause="yes-display-enacting-clause">
+        <section section-type="section-one" id="S1">
+            <enum>1.</enum>
+            <header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Natural Gas Export Expansion Act</short-title></quote>.</text>
+        </section>
+        <section id="id0178C74C07C94112B8D3C8645CBA5453">
+            <enum>2.</enum>
+            <header>Natural gas exports</header>
+            <subsection id="id50B305EB3E294E4CA60A762C6132A629">
+                <enum>(a)</enum>
+                <header>Finding</header>
+ <text>Congress finds that expanding natural gas exports will lead to increased investment and development of domestic supplies of natural gas that will contribute to job growth and economic development.</text>
+            </subsection>
+            <subsection id="id7D153AC07E2346A48459AEC2F985E657">
+                <enum>(b)</enum>
+                <header>Natural gas exports</header>
+ <text display-inline="yes-display-inline">Section 3(c) of the Natural Gas Act (<external-xref legal-doc="usc" parsable-cite="usc/15/717b">15 U.S.C. 717b(c)</external-xref>) is amended—</text>
+                <paragraph id="id63521CB242F3472BA5AB64F9B5910250">
+                    <enum>(1)</enum>
+ <text>by inserting <quote>or any other nation not excluded by this section</quote> after <quote>trade in natural gas</quote>;</text>
+                </paragraph>
+                <paragraph id="idA1F8097CD5A24F7D95B182AB5DD0EC99">
+                    <enum>(2)</enum>
+ <text>by striking <quote>(c) For purposes</quote> and inserting the following:</text>
+                    <quoted-block style="OLC" display-inline="no-display-inline" id="idF02A50E9FB004D698BB0F17BD359122D">
+                        <subsection id="id6897D6E19B674C0C9A9A990284BE50C8">
+                            <enum>(c)</enum>
+                            <header>Expedited application and approval process</header>
+                            <paragraph id="idA6201668E0E741488738870F506D131F">
+                                <enum>(1)</enum>
+                                <header>In general</header>
+ <text>For purposes</text> </paragraph> </subsection> <after-quoted-block>; and</after-quoted-block> </quoted-block> </paragraph> <paragraph id="id897DE57B0AE24F32873AB08C604AE14B"> <enum>(3)</enum> <text>by adding at the end the following:</text>
+                    <quoted-block style="OLC" display-inline="no-display-inline" id="id5CE4C02853B048FA8742C3C3785A5879">
+                        <paragraph id="id31491EC578A4455AA28E2472C4A9469E">
+                            <enum>(2)</enum>
+                            <header>Exclusions</header>
+                            <subparagraph id="idB1C5A5F4F28642E39E49CC60010E2915">
+                                <enum>(A)</enum>
+                                <header>In general</header>
+ <text>Any nation subject to sanctions imposed by the United States is excluded from expedited approval under paragraph (1).</text>
+                            </subparagraph>
+                            <subparagraph id="idA029CF3C32184E8080DA6D7B41A03D96">
+                                <enum>(B)</enum>
+                                <header>Designation by President or Congress</header>
+ <text>The President or Congress may designate nations that may be excluded from expedited approval under paragraph (1) for reasons of national security.</text>
+                            </subparagraph>
+                        </paragraph>
+                        <paragraph id="idD34A39C6EBE94186BAE353E931BDF2A2">
+                            <enum>(3)</enum>
+                            <header>Order not required</header>
+ <text>No order is required under subsection (a) to authorize the export or import of any natural gas to or from Canada or Mexico.</text>
+                        </paragraph>
+                        <after-quoted-block>.</after-quoted-block>
+                    </quoted-block>
+                </paragraph>
+            </subsection>
+        </section>
+    </legis-body>
+</bill>
+

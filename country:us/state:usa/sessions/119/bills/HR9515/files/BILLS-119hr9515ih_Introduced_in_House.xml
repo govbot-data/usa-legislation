@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="HC6A43352259F48B58131878818D80D1E" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 HR 9515 IH: Marketplace Fraud Accountability Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2026-06-29</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">119th CONGRESS</congress><session display="yes">2d Session</session><legis-num display="yes">H. R. 9515</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20260629">June 29, 2026</action-date><action-desc><sponsor name-id="G000576">Mr. Grothman</sponsor> (for himself, <cosponsor name-id="F000484">Mr. Fine</cosponsor>, and <cosponsor name-id="A000375">Mr. Arrington</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HIF00">Committee on Energy and Commerce</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To amend the Patient Protection and Affordable Care Act to require the use of multi-factor authentication to access certain information through healthcare.gov.</official-title></form><legis-body id="HC8F123D85A93442A9694391C5B5C65C0" style="OLC"> 
+<section id="HA1AFBFEB76024739A221B0846E98BBE6" section-type="section-one" commented="no"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Marketplace Fraud Accountability Act</short-title></quote> or the <quote><short-title>MFA Act</short-title></quote>.</text></section> <section id="HF3EFDC84D01448D08B56F25715CF0000"><enum>2.</enum><header>Requiring the use of multi-factor authentication to access certain information through healthcare.gov</header> <subsection id="H5692C80D6E9C406B8D417F4888E99E53"> <enum>(a)</enum> <header>In general</header> <text display-inline="yes-display-inline">Section 1311(c) of the Patient Protection and Affordable Care Act (<external-xref legal-doc="usc" parsable-cite="usc/42/18031">42 U.S.C. 18031(c)</external-xref>) is amended by adding at the end the following new paragraph:</text>
+                <quoted-block style="OLC" id="H7E46C84288B549928146121B47026415" display-inline="no-display-inline">
+                    <paragraph id="H45910F4E899641AA81CB2E6A98C2E753">
+                        <enum>(8)</enum>
+                        <header>Multi-factor authentication</header>
+                        <subparagraph id="H2767CED3E2554735ABDD53B572C67636">
+                            <enum>(A)</enum>
+                            <header>In general</header>
+ <text display-inline="yes-display-inline">Subject to <internal-xref idref="HCCF654971A9B4EFE9E6862247FB94A86" legis-path="(8)(B)">subparagraph (B)</internal-xref>, not later than the date that is 1 year after the date of enactment of this paragraph, the Secretary shall require the use of multi-factor authentication to verify the identity of any individual attempting to access the healthcare.gov website (or any successor website) for purposes of—</text>
+                            <clause id="H453435D67EAF452F8A78821C6822AB82">
+                                <enum>(i)</enum>
+ <text>enrolling in a qualified health plan offered through an Exchange; or</text>
+                            </clause>
+                            <clause id="HC7253710622B4693B2A8710B29287BAF">
+                                <enum>(ii)</enum>
+ <text>accessing any personalized information with respect to such enrollment.</text>
+                            </clause>
+                        </subparagraph>
+                        <subparagraph id="HCCF654971A9B4EFE9E6862247FB94A86">
+                            <enum>(B)</enum>
+                            <header>Exceptions</header>
+ <text display-inline="yes-display-inline"><internal-xref idref="H2767CED3E2554735ABDD53B572C67636" legis-path="(8)(A)">Subparagraph (A)</internal-xref> shall not apply in the case of an individual that does not have access to broadband service or cellular service, or is otherwise unable to use multi-factor authentication for reasons specified by the Secretary.</text>
+                        </subparagraph>
+                        <subparagraph id="HB6DC131BF03F48079BFC44CDC6B70EC2">
+                            <enum>(C)</enum>
+                            <header>Multi-factor authentication defined</header>
+ <text>For purposes of this paragraph, the term <term>multi-factor authentication</term> means authentication through the verification of 2 or more of the following types of authentication factors: </text>
+                            <clause id="HAF7D083812F14BA3BC6A9C15AC4D5239">
+                                <enum>(i)</enum>
+ <text>Knowledge factors, such as a password.</text> </clause> <clause id="H8859E40F947E4464A73F9BE13336FBAC"> <enum>(ii)</enum> <text>Possession factors, such as a token.</text>
+                            </clause>
+                            <clause id="H383BA43AE7B2442981C94E80D3D5EF6C">
+                                <enum>(iii)</enum>
+ <text>Inherence factors, such as biometric characteristics.</text> </clause> </subparagraph> </paragraph> <after-quoted-block>.</after-quoted-block> </quoted-block> </subsection> <subsection id="H6147C570B2794E80904C462C067145D0"><enum>(b)</enum><header>Effective date</header><text>The amendments made by this subsection shall apply with respect to plan years beginning on or after the date that is 1 year after the date of enactment of this subsection.</text></subsection></section> 
+</legis-body></bill>
+

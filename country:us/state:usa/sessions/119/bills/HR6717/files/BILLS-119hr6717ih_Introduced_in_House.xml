@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="HF31C9451E0E34A13A758CBB72CF49B60" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 HR 6717 IH: Military Financial Literacy Accountability Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2025-12-15</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">119th CONGRESS</congress><session display="yes">1st Session</session><legis-num display="yes">H. R. 6717</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20251215">December 15, 2025</action-date><action-desc><sponsor name-id="J000310">Ms. Johnson of Texas</sponsor> (for herself and <cosponsor name-id="K000399">Mrs. Kiggans of Virginia</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HAS00">Committee on Armed Services</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To improve financial literacy training for members of the Armed Forces, and for other purposes.</official-title></form><legis-body id="HFF264D0F51DF49979A526EECE25C6E31" style="OLC"> 
+<section id="H14D7729B64E4418BB799F10741D69FD6" section-type="section-one"><enum>1.</enum><header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Military Financial Literacy Accountability Act</short-title></quote>.</text></section> 
+<section id="H1D0020CEA11F4E6A8A959801EE488926"><enum>2.</enum><header>Improvements to financial literacy training for members of the Armed Forces</header> 
+<subsection id="HC76BD52B8A114DBD951CB6179FEAAB68"><enum>(a)</enum><header>Modifications to financial literacy and preparedness survey</header><text>Section 992(e) of title 10, United States Code, is amended—</text> <paragraph id="HEBB25C9E3BF6421E84BC02EB954993E7"><enum>(1)</enum><text>in paragraph (1)—</text> 
+<subparagraph id="HF20562A7308141EBBFDE445E1D92DCCE"><enum>(A)</enum><text>by striking <quote>The Director of the Defense Manpower Data Center</quote> and inserting <quote>The Secretary of Defense</quote>; and</text></subparagraph> <subparagraph id="HA3A72948E5004B91BA9161447FC5FF6E"><enum>(B)</enum><text>by striking <quote>armed forces.</quote> and inserting the following:</text> 
+<quoted-block style="USC" id="H8CC97F03AC744514BFC5387EDF42B267" display-inline="yes-display-inline"><text display-inline="yes-display-inline">armed forces that includes prompts intended to identify the following:</text> <subparagraph id="HA21A7D5B8F094984B45C94D80005C699" indent="up1"> <enum>(A)</enum> <text display-inline="yes-display-inline">The current level of financial literacy among members of the Armed Forces who are enlisted members in a pay grade of E–7 or below or commissioned officers in a pay grade of O–4 or below.</text>
+              </subparagraph> 
+<subparagraph id="HAF75AD251406473393C68C43CE813343" indent="up1">
+                <enum>(B)</enum>
+ <text>The preferred methods of financial education delivery for members of the Armed Forces, including whether members prefer—</text>
+                <clause id="H322765413D3E472CAB0CB15844DABE88">
+                  <enum>(i)</enum>
+ <text>in-person instruction;</text> </clause> <clause id="H45CDEFF1E2504E8C99A8703ECA42F6D8"> <enum>(ii)</enum> <text>online training modules;</text>
+                </clause>
+                <clause id="H02FBF6DC4A0A4438BA9AF12EAA7579D0">
+                  <enum>(iii)</enum>
+ <text>mobile applications;</text> </clause> <clause id="H4206DD8FFB284F54B73AC6341FF94B63"> <enum>(iv)</enum> <text>peer-to-peer learning programs;</text>
+                </clause>
+                <clause id="H2F4873200EE54B97B417089F0DC27830">
+                  <enum>(v)</enum>
+ <text>financial counseling sessions; or</text> </clause> <clause id="HDCA93026273241249FECB6F81E798443"> <enum>(vi)</enum> <text>any other delivery methods identified by such members.</text>
+                </clause>
+              </subparagraph> 
+<subparagraph id="HF046B392050E4B45A5EBB358B0BED581" indent="up1"><enum>(C)</enum><text>The specific financial topics of greatest interest and need to the members, including whether members are interested in—</text> <clause id="H3810463A373D4C629442297280E0CEED"><enum>(i)</enum><text>income management;</text></clause> 
+<clause id="H581C03214F624B00AAE614EFE2ADA326"><enum>(ii)</enum><text>debt management and credit repair;</text></clause> <clause id="H06264C899AB44A608560703F10067696"><enum>(iii)</enum><text>saving and investing strategies;</text></clause> 
+<clause id="H228F976135C740A7A8576D173CB2F6BA"><enum>(iv)</enum><text>home buying and mortgage financing;</text></clause> <clause id="H072CB935D887486A9978DA2B13E2DE61"><enum>(v)</enum><text>transition financial planning;</text></clause> 
+<clause id="HE4CF8D2B768349B79F36FCF12BE2EAD2"><enum>(vi)</enum><text>insurance needs and options;</text></clause> <clause id="H22D0A38E77454CC5AAEF88C64E29BA83"><enum>(vii)</enum><text>tuition assistance and education financing; or</text></clause> 
+<clause id="H9BF4481A578B43F58EE0EB14F2B55A4D"><enum>(viii)</enum><text>deployment and relocation financial planning.</text></clause></subparagraph> <subparagraph id="H628A59729B114909B2B7D31ED15F29EC" indent="up1"><enum>(D)</enum><text>Any barriers to participation in existing financial literacy training programs.</text></subparagraph> 
+<subparagraph id="H1C7DBD2952C14C738EAC16C93EEB4A6D" indent="up1">
+                <enum>(E)</enum>
+ <text>Recommendations from members of the Armed Forces for improving financial literacy training programs.</text>
+              </subparagraph><after-quoted-block>; and</after-quoted-block></quoted-block></subparagraph></paragraph> 
+<paragraph id="H9EBF748C73EE494B80E6ED0E83501965"><enum>(2)</enum><text>in paragraph (2)—</text> <subparagraph id="H4D917CB8726545B0A8F329AB8E3BFCF3"><enum>(A)</enum><text>by redesignating subparagraphs (A) and (B) as subparagraphs (B) and (C), respectively; and</text></subparagraph> 
+<subparagraph id="H33807320621B48D2A7882BE8B908F85A"><enum>(B)</enum><text>by inserting before subparagraph (B), as so redesignated, the following new subparagraph:</text> <quoted-block style="USC" id="H77A16C4239E846ABB6B65CCB45AB8276" display-inline="no-display-inline"> <subparagraph id="H2591563105F745ACA5540A7B18930EC7" indent="up1"><enum>(A)</enum><text display-inline="yes-display-inline">shall be compiled by the Director in such a way as to protect the privacy of the respondents to such survey;</text></subparagraph><after-quoted-block>.</after-quoted-block></quoted-block></subparagraph></paragraph></subsection> 
+<subsection id="H12859A86F78140A494BDF3C63EE5FFD8"><enum>(b)</enum><header>Additional improvements</header><text display-inline="yes-display-inline">The Secretary of Defense shall—</text> <paragraph id="H8BD2691AB19145ECA98A9480844A5586"><enum>(1)</enum><text display-inline="yes-display-inline">ensure the Secretaries concerned modify the appropriate administrative systems to increase the accuracy of tracking completion of the financial readiness common military training by members of the Armed Forces;</text></paragraph> 
+<paragraph id="H4AFEEF89DCFB41FF82A1E6064A2A6D2D"><enum>(2)</enum><text display-inline="yes-display-inline">ensure the Secretaries concerned identify and address causes of non-completion of financial readiness common military training by members of the Armed Forces;</text></paragraph> <paragraph id="H1255FDA3B9DC4E3D99A54CDA7E7CCB02"><enum>(3)</enum><text display-inline="yes-display-inline">establish a timeline for—</text> 
+<subparagraph id="H1CFFB35622FB40E9B396858F173F19D9"><enum>(A)</enum><text>determining which standardized performance measures, if any, are needed to measure the effectiveness of the financial education efforts of the Department of Defense; and</text></subparagraph> <subparagraph id="H7E3C00A729054CAC8CC1DB4565E870B2"><enum>(B)</enum><text>the implementation of such performance measures; and</text></subparagraph></paragraph> 
+<paragraph id="H5F730747C7334DB68B29D65BD34035B4"><enum>(4)</enum><text>submit to Congress an implementation timeline and strategy for carrying out the amendments made by subsection (a).</text> </paragraph></subsection></section> </legis-body></bill>
+

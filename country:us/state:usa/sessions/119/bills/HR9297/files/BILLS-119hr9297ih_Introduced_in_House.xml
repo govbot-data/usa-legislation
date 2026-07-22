@@ -1,0 +1,98 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="HB86E918FFF8240DA835563EFCFE5F75F" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 HR 9297 IH: Pedestrian Protection Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2026-06-11</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">119th CONGRESS</congress><session display="yes">2d Session</session><legis-num display="yes">H. R. 9297</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20260611">June 11, 2026</action-date><action-desc><sponsor name-id="S001205">Ms. Scanlon</sponsor> (for herself, <cosponsor name-id="T000460">Mr. Thompson of California</cosponsor>, and <cosponsor name-id="F000483">Ms. Friedman</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HIF00">Committee on Energy and Commerce</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To amend title 49, United States Code, to establish certain safety standards and disclose certain information relating to pedestrians and motor vehicles, and for other purposes.</official-title></form><legis-body id="H97B9F8B7F7774858BBB5AEA336A83C71" style="OLC"> 
+<section id="H666AB8FC4E1A412EAEFE4D62BAF9FCDC" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Pedestrian Protection Act</short-title></quote>.</text></section> <section id="H38BFE431CA9C4E21BBF6DABEA3D263F6"><enum>2.</enum><header>Pedestrian safety standards</header> <subsection id="H13CA949E98514DFDBAFCFE02E4F7AD7D"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">Subchapter II of <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/49/301">chapter 301</external-xref> of title 49, United States Code, is amended by adding at the end the following:</text>
+<quoted-block style="USC" id="HE92D347FD7F44EE099EF7285A906A8F8" display-inline="no-display-inline">
+<section id="H94E3C8EFAC0144468C355852BC973154">
+                        <enum>Sec. 30130.</enum>
+                        <header>Pedestrian safety standards.</header>
+                        <subsection id="H165FE7A89D8444489BE84FF785E87123">
+                            <enum>(a)</enum>
+                            <header>General motor vehicle safety standards</header>
+                            <paragraph id="H5D0E680DC11040C79BF8D21410A4CF88">
+                                <enum>(1)</enum>
+                                <header>Rulemaking proceeding</header>
+ <text display-inline="yes-display-inline">Not later than 3 years after the date of enactment of this section, the Secretary shall initiate a rulemaking proceeding to establish or modify, as applicable, safety standards for motor vehicles to reduce the likelihood of, and the number of deaths and injuries associated with, collisions by considering certain features of motor vehicles designed to protect covered road users, including—</text>
+                                <subparagraph id="H4C3365D6E51647C8951A4E08C7FFA219">
+                                    <enum>(A)</enum>
+ <text>hood design;</text> </subparagraph> <subparagraph id="H69BB005728F5409A9D071896AD4011EA"> <enum>(B)</enum> <text>bumper design;</text>
+                                </subparagraph>
+                                <subparagraph id="HD0CB3CD390F44A7DB99992C2EC9A0BC1">
+                                    <enum>(C)</enum>
+ <text>windshield design;</text> </subparagraph> <subparagraph id="H782BC2CE798B40CF99E2D0222FC146C2"> <enum>(D)</enum> <text>vehicle height; and</text>
+                                </subparagraph>
+                                <subparagraph id="H9CE0C1626E83481F8B3883DCF05CDC38">
+                                    <enum>(E)</enum>
+ <text>vehicle weight.</text> </subparagraph> </paragraph> <paragraph id="HFB0A492035964FFCAFB2606730DADE96"> <enum>(2)</enum> <header>Final rule</header> <subparagraph id="HAB5C9324640A47E4A16D43055A0646ED"> <enum>(A)</enum> <header>In general</header> <text>Not later than 2 years after the date of initiating such rulemaking proceeding, the Secretary shall issue a final rule pursuant to paragraph (1).</text>
+                                </subparagraph>
+                                <subparagraph id="H7618A5498B4F40A39D8E1CA55C2C40C6">
+                                    <enum>(B)</enum>
+                                    <header>Effective date</header>
+ <text display-inline="yes-display-inline">The final rule described in subparagraph (A) shall require full compliance with each safety standard for motor vehicles established or modified, as applicable, pursuant to the final rule not later than 2 years after the date on which the final rule is issued.</text>
+                                </subparagraph>
+                            </paragraph>
+                        </subsection>
+                        <subsection id="HFC37D58A9AE9415B8D78BBB45692132C">
+                            <enum>(b)</enum>
+                            <header>Motor vehicle minimum visibility safety standards</header>
+                            <paragraph id="H8D9DDC95B429473080BEA5510F329DFA">
+                                <enum>(1)</enum>
+                                <header>Rulemaking proceeding</header>
+ <text>Not later than 4 years after the date of enactment of this section, the Secretary shall initiate a rulemaking proceeding to establish minimum visibility standards for motor vehicles to reduce the likelihood of collisions.</text>
+                            </paragraph>
+                            <paragraph id="H88E070B44ECA49258F0F2CA923919EB0">
+                                <enum>(2)</enum>
+                                <header>Final rule</header>
+                                <subparagraph id="H574B67F9BB9F440FAA6A9BA08DDB70DC">
+                                    <enum>(A)</enum>
+                                    <header>In general</header>
+ <text>Not later than 2 years after the date of initiating such rulemaking proceeding, the Secretary shall issue a final rule pursuant to paragraph (1).</text>
+                                </subparagraph>
+                                <subparagraph id="HDE920DA77B0746A9ABAB0C77B7E3613C">
+                                    <enum>(B)</enum>
+                                    <header>Effective date</header>
+ <text display-inline="yes-display-inline">The final rule described in subparagraph (A) shall require full compliance with each minimum visibility standard for motor vehicles established pursuant to the final rule not later than 2 years after the date on which the final rule is issued.</text>
+                                </subparagraph>
+                            </paragraph>
+                        </subsection>
+                        <subsection id="H1017EED6B5EA479F9630E3912DD78419">
+                            <enum>(c)</enum>
+                            <header>Definitions</header>
+ <text>In this section:</text> <paragraph id="H57AED8EF90014B0480442CCC7407C59B"> <enum>(1)</enum> <header>Collision</header> <text display-inline="yes-display-inline">The term <quote>collision</quote> means a crash between a motor vehicle and a covered road user, including such a crash—</text>
+                                <subparagraph id="HFB5BC15B4F664FAEB74C030F193FF14A">
+                                    <enum>(A)</enum>
+ <text>that occurs at a low speed; and</text> </subparagraph> <subparagraph id="H0D2AC2CF30504739851DF34D26B2B07A"> <enum>(B)</enum> <text>that occurs in a driveway, parking lot, or private road.</text>
+                                </subparagraph>
+                            </paragraph>
+                            <paragraph id="H2D4649E80D5D4B8D84ACB44CC7E5C5F2">
+                                <enum>(2)</enum>
+                                <header>Covered road user</header>
+ <text display-inline="yes-display-inline">The term <quote>covered road user</quote> means a pedestrian, bicyclist, or other vulnerable road user.</text>
+                            </paragraph>
+                        </subsection>
+                    </section><after-quoted-block>.</after-quoted-block></quoted-block></subsection>
+<subsection id="H752088DC8E0E493CA0FAB49906CB2A21"><enum>(b)</enum><header>Clerical amendment</header><text display-inline="yes-display-inline">The table of sections for subchapter II of <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/49/301">chapter 301</external-xref> of title 49, United States Code, is amended by adding at the end the following:</text> <quoted-block style="USC" id="HBD15164FBCE243DDBCFAAC63D89D7519" display-inline="no-display-inline"> <toc regeneration="no-regeneration"> <toc-entry level="section">Sec. 30130. Pedestrian safety standards.</toc-entry></toc><after-quoted-block>.</after-quoted-block></quoted-block></subsection></section> <section id="H3B304FDAF13A41589A6205316D9E2F98"><enum>3.</enum><header>Passenger motor vehicle information</header><text display-inline="no-display-inline">Section 32302 of title 49, United States Code, is amended—</text>
+<paragraph id="HCEC6F4F038FA4225813E8C4C2D2EF792"><enum>(1)</enum><text>in subsection (f)—</text> <subparagraph id="HF2AA4F5C7114446A968F68ADD456CCCA"><enum>(A)</enum><text>by redesignating paragraph (3) as paragraph (4); and</text></subparagraph>
+<subparagraph id="HCAEA751F8E5E4069A1F179E481B65179"><enum>(B)</enum><text>by inserting before paragraph (4), as so redesignated, the following:</text> <quoted-block style="OLC" id="H0A73C0F2DD17452E9F848AF6C0549353" display-inline="no-display-inline"> <paragraph id="HF5988D02292F4881BE25FDCBAB184DD9" commented="no"> <enum>(3)</enum> <header>Comparative ratings</header> <text display-inline="yes-display-inline">The Secretary shall publish comparative ratings of the vulnerable road user safety technology ratings described in paragraph (2)(A)(iv).</text>
+                        </paragraph>
+                        <after-quoted-block>; and</after-quoted-block>
+                    </quoted-block></subparagraph></paragraph>
+<paragraph id="H4CB59D87ED6A444FB6EEE0F960C702EA"><enum>(2)</enum><text>by adding at the end the following:</text> <quoted-block style="OLC" id="H694089FD39324A77A48FCD01C715502B" display-inline="no-display-inline"> <subsection id="H05867B6991E34BF1B34788CF96EE36DC"><enum>(g)</enum><header>Driver visibility</header> <paragraph id="HFA673709B7C840EA8F950BDA23311113"><enum>(1)</enum><header>Notice</header><text display-inline="yes-display-inline">Not later than 4 years after the date of enactment of this subsection, the Secretary shall publish a notice, for purposes of public review and comment, to establish a means for providing to consumers information relating to driver visibility of pedestrians, bicyclists, and other vulnerable road users, in accordance with subsection (a).</text></paragraph>
+<paragraph id="HA438F29245D2493B8E933968A26E396D"><enum>(2)</enum><header>Inclusions</header><text display-inline="yes-display-inline">The notice under paragraph (1) shall include—</text> <subparagraph id="HAF2AC178943647D99737DFDBF56EB4E9"><enum>(A)</enum><text display-inline="yes-display-inline">an appropriate methodology for—</text>
+<clause id="HF310181B23F740E7ABE2B5131824C1E4"><enum>(i)</enum><text>determining which technologies and design features shall be included in the information;</text></clause> <clause id="H5C2EF7891AD14731A39BCBDF4452D7ED"><enum>(ii)</enum><text>developing performance test criteria for use by manufacturers in evaluating technologies and design features;</text></clause>
+<clause id="HB24205001909481786839CE62B25D10F"><enum>(iii)</enum><text>determining a distinct rating of driver visibility; and</text></clause> <clause id="HAF0DBBF8673946C0BC0559EF19DDFA85"><enum>(iv)</enum><text>updating overall vehicle ratings to incorporate driver visibility ratings; and</text></clause></subparagraph>
+<subparagraph id="H58145B597527492A95C69D0A7BB83029"><enum>(B)</enum><text>such other information and analyses as the Secretary determines to be necessary to implement the rating of driver visibility.</text></subparagraph></paragraph> <paragraph id="H6FC28E11FEA44541B88E51BB543EB606" commented="no"><enum>(3)</enum><header>Comparative ratings</header><text display-inline="yes-display-inline">The Secretary shall publish comparative ratings of the driver visibility ratings described in paragraph (2)(A)(iv).</text></paragraph>
+<paragraph id="HAC56F34A78A94FBE9A5764AB56A49F3C"><enum>(4)</enum><header>Report</header><text display-inline="yes-display-inline">Not later than 5 years after the date of enactment of this subsection, the Secretary shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Energy and Commerce of the House of Representatives a report that describes a plan for implementing an information and rating system for driver visibility, in accordance with subsection (a).</text></paragraph></subsection><after-quoted-block>.</after-quoted-block></quoted-block></paragraph></section> </legis-body></bill>
+

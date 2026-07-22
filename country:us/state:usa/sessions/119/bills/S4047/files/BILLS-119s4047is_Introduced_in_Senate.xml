@@ -1,0 +1,120 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-type="olc" bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public" slc-id="S1-BOM26058-MS8-TP-MKK"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 S4047 IS: Kids in Classes Act</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2026-03-11</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">II</distribution-code><congress>119th CONGRESS</congress><session>2d Session</session><legis-num>S. 4047</legis-num><current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber><action><action-date date="20260311">March 11, 2026</action-date><action-desc><sponsor name-id="S365">Mr. Scott of South Carolina</sponsor> introduced the following bill; which was read twice and referred to the <committee-name committee-id="SSHR00">Committee on Health, Education, Labor, and Pensions</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title>To establish an alternative use of certain Federal education funds when in-person instruction is not available.</official-title></form><legis-body style="OLC" display-enacting-clause="yes-display-enacting-clause" id="H0716735DB65D4FEC81426A9E9528EEA9"><section section-type="section-one" id="HB6B18D91357045CDB1F7826A62E1C21A"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Kids in Classes Act</short-title></quote>.</text></section><section id="H994480ECEF23426C9E8DAAE446FD82D2"><enum>2.</enum><header>Findings</header><text display-inline="no-display-inline">Congress finds the following:</text><paragraph id="H6168EC36D2C84A55BBBD94C8DF8EBE1E"><enum>(1)</enum><text>Research indicates that children living in the poorest 20 percent of neighborhoods in the United States will experience the most negative and long-lasting effects of school closures.</text></paragraph><paragraph id="HFAAEAC7A05AF40579A785173B150DFA3"><enum>(2)</enum><text>Researchers predict that 1 year of school closures will cost ninth graders in the poorest communities a 25-percent decrease in their post-educational earning potential, even if that year of closure is followed by 3 years of normal schooling. By contrast, the same researchers predict no substantial losses for students from the richest 20 percent of neighborhoods.</text></paragraph><paragraph id="H16EEE9650D654C92808570828CEF9907"><enum>(3)</enum><text>Long periods of school closures during the COVID–19 pandemic deprive low-income students and students of color the equalizing force of education.</text></paragraph><paragraph id="H99CFADDB336C447DA79E071542E53A4D"><enum>(4)</enum><text>School closures will widen educational inequality and the learning gaps created by these closures will persist as students progress through high school, putting their future prospects at risk.</text></paragraph><paragraph id="H53038DC6FB7A4921BC5E095FC5975C29"><enum>(5)</enum><text>Data shows that closed classrooms were disproportionately composed of disadvantaged students, as well as students with low mathematics scores, students with limited English proficiency, or students who qualify for a free or reduced priced lunch.</text></paragraph><paragraph id="HFAB3D2B42A2045529A48A7228B1D189D"><enum>(6)</enum><text>School shutdowns contribute to disproportionate learning loss for disadvantaged students, compounding existing gaps.</text></paragraph></section><section id="HBD4723E36B1A4DCE8B8BABF4A46A0485"><enum>3.</enum><header>Use of title I funds if in-person instruction is not available</header><text display-inline="no-display-inline">Section 1112 of the Elementary and Secondary Education Act of 1965 (<external-xref legal-doc="usc" parsable-cite="usc/20/6312">20 U.S.C. 6312</external-xref>) is amended—</text><paragraph commented="no" display-inline="no-display-inline" id="idfb9ec93dffc145f498c92cf28ddbd8c1"><enum>(1)</enum><text>in subsection (c)—</text><subparagraph commented="no" display-inline="no-display-inline" id="id1d6df247eee54e5384faaf0811246ca3"><enum>(A)</enum><text display-inline="yes-display-inline">in paragraph (6), by striking <quote>and</quote> after the semicolon;</text></subparagraph><subparagraph commented="no" display-inline="no-display-inline" id="id840d444233f94fba91eaedb4309b5139"><enum>(B)</enum><text>in paragraph (7), by striking the period at the end and inserting <quote>; and</quote>; and</text></subparagraph><subparagraph commented="no" display-inline="no-display-inline" id="id2e3d1a52d37c4e56967c5b7637484c2f"><enum>(C)</enum><text>by adding at the end the following:</text><quoted-block style="OLC" display-inline="no-display-inline" id="idd32af3fb79374913867b158b9cb40e5e"><paragraph commented="no" display-inline="no-display-inline" id="id5f37424ce56b4cf995f28de5ca418847"><enum>(8)</enum><text>comply with the in-person instruction requirements described in subsection (f).</text></paragraph> <after-quoted-block>; and</after-quoted-block></quoted-block></subparagraph></paragraph><paragraph commented="no" display-inline="no-display-inline" id="id518c56b9fe664184b0b8706312736c1c"><enum>(2)</enum><text>by adding at the end the following:</text><quoted-block style="OLC" display-inline="no-display-inline" id="id70baf171c12f4e67a0d2d485124f598a"><subsection commented="no" display-inline="no-display-inline"
+                        id="id20c969d2db77479b917f689e2dcc30aa">
+                        <enum>(f)</enum>
+                        <header>In-Person instruction requirements</header>
+                        <paragraph commented="no" display-inline="no-display-inline"
+                            id="id3ca9515b526d44879473270123bad329">
+                            <enum>(1)</enum>
+                            <header>Definitions</header>
+ <text display-inline="yes-display-inline">In this subsection: </text> <subparagraph commented="no" display-inline="no-display-inline" id="id67060935923e473ea4f7e69f3c2a0f04"> <enum>(A)</enum> <header display-inline="yes-display-inline">Covered funding amount</header> <text>The term <term>covered funding amount</term> means the quotient of—</text>
+                                <clause commented="no" display-inline="no-display-inline"
+                                    id="idcb72f5d986544d74afa595003b967ab9">
+                                    <enum>(i)</enum>
+ <text display-inline="yes-display-inline">an amount equal to—</text>
+                                    <subclause commented="no" display-inline="no-display-inline"
+                                        id="idda293405a9f648b8812aa6bdc7eceac3">
+                                        <enum>(I)</enum>
+ <text display-inline="yes-display-inline">the funds provided under this part to a particular elementary school or secondary school; divided by</text>
+                                    </subclause>
+                                    <subclause commented="no" display-inline="no-display-inline"
+                                        id="id820f8794a0dd4d0499764eeca7a0724c">
+                                        <enum>(II)</enum>
+ <text>the number of students who attend that school; divided by</text>
+                                    </subclause>
+                                </clause>
+                                <clause commented="no" display-inline="no-display-inline"
+                                    id="idb1a3804622c74932bc8f85078edfb5cd">
+                                    <enum>(ii)</enum>
+ <text>the number of school days for which such funds have been provided.</text>
+                                </clause>
+                            </subparagraph>
+                            <subparagraph commented="no" display-inline="no-display-inline"
+                                id="idfeee367d98c840c3bdfb767b4ebb1559">
+                                <enum>(B)</enum>
+                                <header>Covered school</header>
+ <text>The term <term>covered school</term> means a public elementary school or secondary school that receives funds provided under this part.</text>
+                            </subparagraph>
+                            <subparagraph commented="no" display-inline="no-display-inline"
+                                id="id9d429e6f92ba442484a0c5c72a058aed">
+                                <enum>(C)</enum>
+                                <header>Qualified educational expenses</header>
+ <text>The term <term>qualified educational expenses</term> means curriculum and curricular materials, books or instructional materials, technological educational materials, online educational materials, tutoring or educational classes outside the home, private school tuition, testing fees, diagnostic tools, and educational therapies for students with disabilities. </text>
+                            </subparagraph>
+                        </paragraph>
+                        <paragraph commented="no" display-inline="no-display-inline"
+                            id="id3294955c8aff499892e2fd907d44e248">
+                            <enum>(2)</enum>
+                            <header>Distribution of covered funding</header>
+ <text display-inline="yes-display-inline">Not later than the beginning of the first school year that begins after the date of enactment of the <short-title>Kids in Classes Act</short-title>, and notwithstanding any other provision of law, in order to be eligible to receive funds under this part, each local educational agency shall—</text>
+                            <subparagraph commented="no" display-inline="no-display-inline"
+                                id="id0da6a4ee0d6a42899afc8fe320e73ca7">
+                                <enum>(A)</enum>
+ <text display-inline="yes-display-inline">establish a failure to open direct payment plan in accordance with paragraph (3); and</text>
+                            </subparagraph>
+                            <subparagraph commented="no" display-inline="no-display-inline"
+                                id="id349f60fddebe491bb24dc1b6824afe05">
+                                <enum>(B)</enum>
+ <text>agree to carry out such plan in the event that a covered school served by the local educational agency fails for more than 3 days during a school year, for reasons related to public health emergency or collective bargaining action, to make available in-person instruction for all students who wish to attend.</text>
+                            </subparagraph>
+                        </paragraph>
+                        <paragraph commented="no" display-inline="no-display-inline"
+                            id="ida2ead3fd63444b0cb09fba1c4abd7866">
+                            <enum>(3)</enum>
+                            <header>Failure to open direct payment plan</header>
+                            <subparagraph commented="no" display-inline="no-display-inline"
+                                id="id60a3e4a4d9ef45f0b6928d85c5debab9">
+                                <enum>(A)</enum>
+                                <header>In general</header>
+ <text display-inline="yes-display-inline">Each local educational agency shall establish a failure to open direct payment plan that establishes and explains how a parent of each child who attends a covered school served by the local educational agency will be directly paid, for use on qualified educational expenses, the amount described in subparagraph (B), if that covered school fails for more than 3 days during a school year, for reasons related to public health emergency or collective bargaining action, to make available in-person instruction for all students who wish to attend.</text>
+                            </subparagraph>
+                            <subparagraph commented="no" display-inline="no-display-inline"
+                                id="id8bfe7778d87a412691bbae28771340a0">
+                                <enum>(B)</enum>
+                                <header>Amount of payment</header>
+ <text>The amount of payment shall be an amount equal to—</text> <clause commented="no" display-inline="no-display-inline" id="idf5b0f08941ae47f1a55ec3c63cb82c12"> <enum>(i)</enum> <text display-inline="yes-display-inline">the covered funding amount; multiplied by</text>
+                                </clause>
+                                <clause commented="no" display-inline="no-display-inline"
+                                    id="id78873fd6e8b74d4eb0d45ee93e8f8737">
+                                    <enum>(ii)</enum>
+ <text>the number of days in which such school fails, for reasons related to public health emergency or collective bargaining action, to make available in-person instruction for all students who wish to attend.</text>
+                                </clause>
+                            </subparagraph>
+                            <subparagraph commented="no" display-inline="no-display-inline"
+                                id="id230323172659483abf4e29fb67662720">
+                                <enum>(C)</enum>
+                                <header>Timing of payment</header>
+ <text>To the greatest extent practicable, direct payments made to parents under this subsection shall be made to parents on each day that a covered school fails to open as described in subparagraph (A).</text>
+                            </subparagraph>
+                            <subparagraph commented="no" display-inline="no-display-inline"
+                                id="ideaecbafa202241a9911eb9a103281ac4">
+                                <enum>(D)</enum>
+                                <header>Receipts</header>
+ <text>As part of the failure to open direct payment plan, each local educational agency shall require that parents receiving direct payments under this subsection—</text>
+                                <clause commented="no" display-inline="no-display-inline"
+                                    id="idbf633e74c93f423a8a0f19cd7f75e0d4">
+                                    <enum>(i)</enum>
+ <text display-inline="yes-display-inline">submit receipts to the local educational agency to demonstrate that such direct payments have been spent on qualified educational expenses; or</text>
+                                </clause>
+                                <clause commented="no" display-inline="no-display-inline"
+                                    id="id0eac23c534734da8849ead902c0e3e86">
+                                    <enum>(ii)</enum>
+ <text>return any amounts of such direct payments that are not used for qualified educational expenses to the local educational agency not later than 30 days after the covered school has resumed in-person instruction.</text>
+                                </clause>
+                            </subparagraph>
+                        </paragraph>
+                    </subsection><after-quoted-block>.</after-quoted-block></quoted-block></paragraph></section></legis-body></bill>
+
