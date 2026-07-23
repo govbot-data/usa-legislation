@@ -1,0 +1,64 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H43E45C332F02405982FA27D26332584D" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 HR 9754 IH: Health Claim Denial Transparency Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2026-07-16</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">119th CONGRESS</congress><session display="yes">2d Session</session><legis-num display="yes">H. R. 9754</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20260716">July 16, 2026</action-date><action-desc><sponsor name-id="M001208">Mrs. McBath</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HED00">Committee on Education and Workforce</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To direct the Secretary of Labor to require group health plans include certain information on claim denials in annual reports, and for other purposes.</official-title></form><legis-body id="H1696330318514B5E808E1B25CCD174B3" style="OLC"> 
+<section id="H53D484CFF29042F596A07FCB96D6B023" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Health Claim Denial Transparency Act</short-title></quote>.</text></section> <section id="H9BBAC855EE60433DA75ECD2DA3E5505C"><enum>2.</enum><header>Claim denial transparency regulation</header> <subsection id="HD641C659C9E54A6F975CE2F952C44D76"><enum>(a)</enum><header>Regulation</header> <paragraph id="HFE136E92ECF64457B6C3D6669AB9B325"><enum>(1)</enum><header>In general</header><text>Not later than 1 year after the date of enactment of this Act and subject to paragraph (2), the Secretary of Labor shall promulgate a regulation requiring all group health plans, as part of the annual report required under section 104(a)(1) of the Employee Retirement Income Security Act of 1974 (<external-xref legal-doc="usc" parsable-cite="usc/29/1024">29 U.S.C. 1024(a)(1)</external-xref>), to include, with respect to the plan year of the annual report, the following:</text> 
+<subparagraph id="H196994FC642A4C56BFFBCB84042DD73D"><enum>(A)</enum><text>The total number of claims for benefits—</text> <clause id="H1B2F66D2ABDB4E81873AD43A94767AE7"><enum>(i)</enum><text>submitted during the plan year;</text></clause> 
+<clause id="HDEF6E7D9CC3643C98206AD1EAF072E46"><enum>(ii)</enum><text>approved during the plan year;</text></clause> <clause id="HA29D4B4AA8E04ACBA2C91D3AE8D9AB11"><enum>(iii)</enum><text>denied during the plan year;</text></clause> 
+<clause id="HF7393D6EA76B4F5A84FDDAD7A3DB3DBE"><enum>(iv)</enum><text>appealed during the plan year; and</text></clause> <clause id="HD23A576B19B24CD986E17599F743B593"><enum>(v)</enum><text>of the claims described in clause (iv), the number of claim denials reversed in whole or in part during the appeals process.</text></clause></subparagraph> 
+<subparagraph id="HEC1E3E3A54634E10912DC9DFB722C3F9"><enum>(B)</enum><text>The number of pre-service, post-service, and urgent care claims—</text> <clause id="H00AD8EB52A3844C2BEB2CF2B71F7A839"><enum>(i)</enum><text>submitted during the plan year;</text></clause> 
+<clause id="HEBB7EE97D83843979873ABF1D8A03966"><enum>(ii)</enum><text>approved during the plan year;</text></clause> <clause id="H99BF911D642249939F4EE858D803DC3E"><enum>(iii)</enum><text>denied during the plan year; and</text></clause> 
+<clause id="H1B63BDC6BD9B4B50BA5224255FA77F7B"><enum>(iv)</enum><text>appealed during the plan year.</text></clause></subparagraph> <subparagraph id="H0A4E74BC228840F0A97BE96E2E43DB4D"><enum>(C)</enum><text display-inline="yes-display-inline">The number of in-patient and out-patient claims—</text> 
+<clause id="H2F741394B8F14CF3BD6FDE16C02ABA7E"><enum>(i)</enum><text>submitted during the plan year;</text></clause> <clause id="H3159A0ECD89E497ABD9416881623E40C"><enum>(ii)</enum><text>approved during the plan year;</text></clause> 
+<clause id="H6C99CA1F5AAC4B5A8A3CE1DD68C6E123"><enum>(iii)</enum><text>denied during the plan year; and</text></clause> <clause id="H05A96F4FB6704AF583C8167B9C2AFDA5"><enum>(iv)</enum><text>appealed during the plan year.</text></clause></subparagraph>
+<subparagraph id="H8D22CB49E8464527BAB48D0A1F725F6E"><enum>(D)</enum><text>Subject to paragraph (2), the number of claims for prescription drugs—</text> <clause id="H12B39FAD74CF4014AA30527AAF597E35" commented="no"><enum>(i)</enum><text>submitted during the plan year;</text></clause> 
+<clause id="HF659D10F244E4796A5287A8B56F5D342" commented="no"><enum>(ii)</enum><text>denied during the plan year;</text></clause> <clause id="H4AA93987F46A4277A3E09BDF0C496ADE" commented="no"><enum>(iii)</enum><text>approved during the plan year; and</text></clause> 
+<clause id="H6E8EA609B7D8451D955148A6BA137182" commented="no"><enum>(iv)</enum><text>appealed during the plan year.</text></clause></subparagraph> <subparagraph id="HA7F6498D1187411DBBCB6CE09B838C7C" commented="no"><enum>(E)</enum><text display-inline="yes-display-inline">Subject to paragraph (2), the number of claims for mental health and substance use disorder benefits—</text> 
+<clause id="H2C18B6C4501F4DE2B68EDF3626B46E6C" commented="no"><enum>(i)</enum><text>submitted during the plan year;</text></clause> <clause id="H516B55B56F7A4C3E850EAF8986AB8478" commented="no"><enum>(ii)</enum><text>denied during the plan year;</text></clause> 
+<clause id="H85FC444555BC416D86B887AE953FECE9" commented="no"><enum>(iii)</enum><text>approved during the plan year; and</text></clause> <clause id="H4760D31B430549729D703D728F47464A" commented="no"><enum>(iv)</enum><text>appealed during the plan year.</text></clause></subparagraph> 
+<subparagraph id="H4FFE9AEF301944FE856F2D506408F161" commented="no"><enum>(F)</enum><text display-inline="yes-display-inline">Subject to paragraph (2), the number of claims for medical and surgical benefits relating to the diagnosis or treatment of cancer—</text> <clause id="HB5922FF52C57483CA2FF9D32C5D72E72" commented="no"><enum>(i)</enum><text>submitted during the plan year;</text></clause> 
+<clause id="H5A82535FCDBD4AF7BD470D15E47400FF" commented="no"><enum>(ii)</enum><text>denied during the plan year;</text></clause> <clause id="HCC105B5EB1614DBD88030CE04C738047" commented="no"><enum>(iii)</enum><text>approved during the plan year; and</text></clause> 
+<clause id="H230B564BBD814D3CAFABF58356FA936B" commented="no"><enum>(iv)</enum><text>appealed during the plan year.</text></clause></subparagraph> <subparagraph id="HB33F55FEC893436B9016C8B8B2A8574B"><enum>(G)</enum><text>The total dollar amount of—</text> 
+<clause id="H5C7CE352AB624976A55C9EA823FCF864"><enum>(i)</enum><text>claims paid during the plan year; and</text></clause> <clause id="HB376F4F2447B4EE19D90611BFE981743"><enum>(ii)</enum><text>claims denied during the plan year.</text></clause></subparagraph> 
+<subparagraph id="H96F3FFA863154619B35FB4B85E226053"><enum>(H)</enum><text>The total number of claims that were not adjudicated within the time frame required by the claims procedure process of the plan, established pursuant to section 503 of the Employee Retirement Income Security Act of 1974 (<external-xref legal-doc="usc" parsable-cite="usc/29/1133">29 U.S.C. 1133</external-xref>).</text></subparagraph> <subparagraph id="HE0BEDDB1ED034706B050F08E404CC84A"><enum>(I)</enum><text display-inline="yes-display-inline">The basis for denials, including the total number of claims denied due to—</text> 
+<clause id="HAEF5BF5087E540E5B042497628B003EF"><enum>(i)</enum><text display-inline="yes-display-inline">medical necessity requirements;</text></clause> <clause id="H4506D738C41541848E84BABF42A31E04"><enum>(ii)</enum><text>lack of referral;</text></clause> 
+<clause id="H08CBA2847A654C4EAE2B4AB7EEF80E0D"><enum>(iii)</enum><text>lack of prior authorization;</text></clause> <clause id="H6287C7BD9AEE40AEBBFD304B5FF756C2"><enum>(iv)</enum><text>services excluded;</text></clause> 
+<clause id="H7711F80DEC6B43CCBECE130C68F3A322"><enum>(v)</enum><text>administrative reasons; and</text></clause> <clause id="H4603C32EFEDA47A3AFFD2793A4DCEF19"><enum>(vi)</enum><text>other reasons determined by the Secretary.</text></clause></subparagraph> 
+<subparagraph id="H80C5AEE2DD514FB9949D4FA9B3E02774"><enum>(J)</enum><text display-inline="yes-display-inline">The number of claims processed in which artificial intelligence or other automated decision-making tools are utilized, including the number of such claims—</text> <clause id="HC968FDD580A9482DA2747245A4F6FBE7"><enum>(i)</enum><text>paid during the plan year; and</text></clause> 
+<clause id="HD01E3EA837554E80AEBB64D5A1CBD88C"><enum>(ii)</enum><text>denied during the plan year.</text></clause></subparagraph></paragraph> <paragraph id="HF56B553E3F2C4D36B8216622CFE93A90"><enum>(2)</enum><header>Exception for certain data from small plans</header><text display-inline="yes-display-inline">The Secretary may not require that the annual report include, and a group health plan may not include in such report, the number of claims as described under subparagraph (D), (E), or (F) of paragraph (1) if the plan has received 20 or fewer unique claims described under the applicable paragraph during the plan year.</text></paragraph> </subsection> 
+<subsection id="H388099FA148548309986933DBFFCBCC1">
+        <enum>(b)</enum>
+        <header>Amending regulations</header>
+ <text display-inline="yes-display-inline">As part of the promulgation described in subsection (a), the Secretary shall amend section 2520.104–46(b)(2) of title 29, Code of Federal Regulations, to require a group health plan with fewer than 100 participants to comply with the reporting requirements of subsection (a).</text>
+      </subsection> 
+<subsection id="H2F069747E14D4FC89BDF62B99D9C6D14"><enum>(c)</enum><header>Waiver of minimum requirements</header><text>In the case that the Secretary allows a group health plan to file a simplified report pursuant to section 104(a)(3) of the Employee Retirement Income Security Act (<external-xref legal-doc="usc" parsable-cite="usc/29/1024">29 U.S.C. 1024(a)(3)</external-xref>), the Secretary shall, at a minimum, require the group health plan to include all of the information in subsection (a) in such simplified report.</text></subsection> <subsection id="H1301C0BEAF2F4F9DB9D4DF3FF4908EB9"><enum>(d)</enum><header>Definitions</header><text>In this section:</text> 
+<paragraph id="HDE9F798BED274FF98E6A0247B3DF9C57">
+          <enum>(1)</enum>
+          <header>Denial</header>
+ <text>The term <term>denial</term> has the meaning given the term <term>adverse benefit determination</term> in section 2560.503–1(m)(4) of title 29, Code of Federal Regulations.</text>
+        </paragraph> 
+<paragraph id="H1606F1A2C2A94072A624B13CFEE750C9"><enum>(2)</enum><header>Group health plan</header><text>The term <term>group health plan</term> has the meaning given the term in section 733(a)(1) of the Employee Retirement Income Security Act of 1974 (<external-xref legal-doc="usc" parsable-cite="usc/29/1191b">29 U.S.C. 1191b(a)(1)</external-xref>).</text></paragraph> <paragraph id="HF7471AE705D443E7A6638B6E82CC892D"> <enum>(3)</enum> <header>Post-service claim</header> <text display-inline="yes-display-inline">The term <term>post-service claim</term> has the meaning given the term in section 2560.503–1(m) of title 29, Code of Federal Regulations.</text>
+        </paragraph> 
+<paragraph id="H4030FD4930A241DD8A69F4031B40D3EB">
+          <enum>(4)</enum>
+          <header>Pre-service claim</header>
+ <text display-inline="yes-display-inline">The term <term>pre-service claim</term> has the meaning given the term in section 2560.503–1(m) of title 29, Code of Federal Regulations.</text>
+        </paragraph> 
+<paragraph id="HBA626F0E3C844B3897CDCDBE2BDC96D5">
+          <enum>(5)</enum>
+          <header>Urgent care claim</header>
+ <text display-inline="yes-display-inline">The term <term>urgent care claim</term> has the meaning given the term <term>claim involving urgent care</term> in section 2560.503–1(m)(1) of title 29, Code of Federal Regulations.</text>
+        </paragraph></subsection></section> 
+</legis-body></bill>
+

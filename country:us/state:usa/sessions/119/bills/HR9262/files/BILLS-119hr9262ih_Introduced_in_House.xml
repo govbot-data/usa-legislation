@@ -1,0 +1,60 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="HC965B10AB1084B1F8A7C89D955052EE1" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 HR 9262 IH: Local Control Protection Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2026-06-11</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">119th CONGRESS</congress><session display="yes">2d Session</session><legis-num display="yes">H. R. 9262</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20260611">June 11, 2026</action-date><action-desc><sponsor name-id="B001327">Mr. Bresnahan</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HWM00">Committee on Ways and Means</committee-name>, and in addition to the Committee on <committee-name committee-id="HJU00">the Judiciary</committee-name>, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned</action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To protect the authority of local governments to make zoning decisions regarding data center development, and to require community benefit agreements as a condition for Federal tax incentives.</official-title></form><legis-body id="HD57E3E433E114D1CB182EEA9B216E20E" style="OLC"> 
+<section id="H38616FD8786B48F5983D077BD138C13D" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Local Control Protection Act</short-title></quote>.</text> </section> <section id="HB00BFFBAF972420FBFEFAA817C919E79"><enum>2.</enum><header>Protection of local governments</header><text display-inline="no-display-inline">A court of the United States shall not have jurisdiction to hear any challenge to the determination of a unit of local government to preclude the development of a covered data center, if the determination was made by a recorded vote along with documented findings.</text></section> 
+<section id="H2552531EDC1A4AB69D55A9E1701744F6"><enum>3.</enum><header>Federal agency action prohibition</header><text display-inline="no-display-inline">No Federal agency may approve permits related to the construction or operation of a covered data center if the owner, operator, or developer of such covered data center has initiated or is maintaining a legal action in any court seeking to challenge, overturn, or otherwise override a zoning denial issued by a unit of local government with respect to that covered data center, if the determination was made by a recorded vote along with documented findings.</text></section> <section id="HF71D373AF32945DD9D3061FB28EE87CA"><enum>4.</enum><header>Community benefit requirement for tax credit eligibility</header> <subsection id="HC3BF96226FAC4B148C20FE31BB312EF4"><enum>(a)</enum><header>In general</header><text>Part IV of subchapter A of chapter 1 of subtitle A of the Internal Revenue Code of 1986 is amended by adding at the end the following new subpart:</text> 
+<quoted-block style="OLC" id="H72E3EDC3E13E46858E436CB8967ED6E6" display-inline="no-display-inline"> 
+<subpart id="HD6026EE9ED9447518EB11A2CCD89AC71">
+                        <enum>H</enum>
+                        <header>Community Benefit Requirement for Credits for Data Centers</header>
+                        <section id="HC0C766FA6EC84D91845CE7812012AFAE">
+                            <enum>54.</enum>
+                            <header>Community benefit requirement for credits for data
+                                centers</header>
+                            <subsection id="HEC4128BA162E48DE878186FF8938CFA8">
+                                <enum>(a)</enum>
+                                <header>In general</header>
+ <text>No credit against the tax imposed by this chapter for any taxable year shall be allowed under this part to a taxpayer developing a covered data center (as defined in section 5 of the Local Control Protection Act) during such taxable year if such taxpayer does not include on their return of tax for such taxable year and make publicly available an executed legally enforceable agreement with the chief executive of the unit of local government in which the covered data center will be developed that includes terms related to local tax liabilities, infrastructure mitigation measures addressing road, water, stormwater, and utility impacts, environmental and noise monitoring protocols, and that is accompanied by a Local Workforce Utilization Plan that—</text>
+                                <paragraph id="HB1EBA9F9D1EB426E9264859FD147F475">
+                                    <enum>(1)</enum>
+ <text>documents the good-faith efforts of the developer to recruit and hire workers from the region in which the covered data center is located before sourcing labor from outside the region;</text>
+                                </paragraph>
+                                <paragraph id="H258D1D1BCC4F45198F2604A3E6E7274D">
+                                    <enum>(2)</enum>
+ <text>identifies partnerships with registered apprenticeship programs, career and technical education centers, community colleges, and local workforce development organizations serving the region; and</text>
+                                </paragraph>
+                                <paragraph id="H22E6056ACDEE4F0DA38BFDC33D57F82D">
+                                    <enum>(3)</enum>
+ <text>demonstrates a preference for local contractors and subcontractors whenever qualified local firms are available.</text>
+                                </paragraph>
+                                <continuation-text continuation-text-level="subsection">The Local
+                                    Workforce Utilization Plan shall be publicly filed as part of
+                                    the agreement required under this subsection and shall be
+                                    updated annually for the duration of the construction
+                                    period.</continuation-text>
+                            </subsection>
+                            <subsection id="H7695D82A30594E4EBB2E6C7F0B42F478">
+                                <enum>(b)</enum>
+                                <header>Related party</header>
+ <text>All persons which are treated as a single employer under subsections (a) and (b) of section 52 shall be treated as a single taxpayer for purposes of this section.</text>
+                            </subsection>
+                        </section>
+                    </subpart><after-quoted-block>.</after-quoted-block></quoted-block></subsection> 
+<subsection id="H18C866838B0D4FD094620527F2232AC0"><enum>(b)</enum><header>Clerical amendment</header><text>The table of subparts for part IV of subchapter A of chapter 1 of subtitle A of such Code is amended by adding at the end the following new item:</text> <toc regeneration="no-regeneration"> <toc-entry level="subpart">Subpart H. Community Benefit Requirement for Credits for Data Centers.</toc-entry></toc></subsection> <subsection id="H42AAB0A0222C4894BCF2E46CCA5A33E7"><enum>(c)</enum><header>Effective date</header><text>The amendment made by this section shall apply to taxable years beginning after the date of the enactment of this Act.</text></subsection></section> 
+<section id="H7D1265E01225461796231E2EE30C5F3E"><enum>5.</enum><header>Definition</header><text display-inline="no-display-inline">In this Act, the term <quote>covered data center</quote> means—</text> <paragraph id="HF838B5F487284B349E606D12956AAA84"><enum>(1)</enum><text>a data center (as defined in section 453(a) of the Energy Independence and Security Act of 2007 (<external-xref legal-doc="usc" parsable-cite="usc/42/17112">42 U.S.C. 17112(a)</external-xref>)) with a power demand of 20 megawatts or more; or</text></paragraph> 
+<paragraph id="H72844E7EEDEF498BBE1DB2EFE070AC47"><enum>(2)</enum><text>any group of facilities—</text> <subparagraph id="H458CA54B626B42268727D6C20E3DBB5D"><enum>(A)</enum><text>under common ownership or control;</text></subparagraph> 
+<subparagraph id="H4DE7F941A2B840ADAA661C8AFE540734"><enum>(B)</enum><text>the majority of which primarily contain electronic equipment used to process, store, and transmit digital information;</text></subparagraph> <subparagraph id="HB718726F8CF14AD0BA2F8564123CFB70"><enum>(C)</enum><text>located on a contiguous or proximate site within the same municipality or county; and</text></subparagraph> 
+<subparagraph id="HE73550249E0C47A892263E1911BFB7E8"><enum>(D)</enum><text>that, in the aggregate, have a power demand of 20 or more megawatts.</text></subparagraph></paragraph></section> </legis-body></bill>
+

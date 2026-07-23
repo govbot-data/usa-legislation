@@ -1,0 +1,341 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="HD015361E11734A90AB496068284048E3" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 HR 8064 IH: Career Criminal Accountability Act of 2026</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2026-03-24</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">119th CONGRESS</congress><session display="yes">2d Session</session><legis-num display="yes">H. R. 8064</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20260324">March 24, 2026</action-date><action-desc><sponsor name-id="R000614">Mr. Roy</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HJU00">Committee on the Judiciary</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To amend title 18, United States Code, to provide for sentencing of three strikes offenders.</official-title></form><legis-body id="H3ED4245290FE470F8FFD392B11D54F07" style="OLC"> 
+<section id="HA48C4A31911A42AF8C2A3C58919CA384" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Career Criminal Accountability Act of 2026</short-title></quote>.</text></section> <section id="H057F38AC5C9948628B3451E7149B2245"><enum>2.</enum><header>Imposition of a sentence</header><text display-inline="no-display-inline">Section 3553(a) of title 18, United States Code, is amended by striking <quote>The court shall impose</quote> and inserting <quote>Except as otherwise provided in section 3559A, the court shall impose</quote>.</text></section> 
+<section id="H091616F6BCC34DA09F0AA80D56C07268"><enum>3.</enum><header>Three strikes offenders</header><text display-inline="no-display-inline">Subchapter A of <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/18/227">chapter 227</external-xref> of title 18, United States Code, is amended—</text> <paragraph id="HD599ACCAE5D74B7688172F712489A1B9"><enum>(1)</enum><text>by adding at the end the following:</text> 
+<quoted-block style="USC" id="HAA0592CF1CA84E50A828ECC24277AD39" display-inline="no-display-inline"> 
+<section id="H3909ADFA7AB84FB7BC360DAB101C7B27">
+                        <enum>3559A.</enum>
+                        <header>Three strikes offenders</header>
+                        <subsection id="H00FC332B663A408582FE6C69328F19C1">
+                            <enum>(a)</enum>
+                            <header>In general</header>
+ <text display-inline="yes-display-inline">In determining the appropriate sentence for a defendant, the sentencing judge shall determine whether the defendant is required to be sentenced as a three-strikes offender, as defined in subsection (b), and shall sentence said defendant in accordance with this section.</text>
+                        </subsection>
+                        <subsection id="HBF8830E4BA044F538CAD6F0F000F53E7">
+                            <enum>(b)</enum>
+                            <header>Strike counts</header>
+ <text display-inline="yes-display-inline">In determining whether the defendant is required to be sentenced as a three-strikes offender, the court shall determine the number of strikes accrued by the defendant according to the following:</text>
+                            <paragraph id="HF902BDA67EDE4D54B2B9CF8853A772AA">
+                                <enum>(1)</enum>
+ <text display-inline="yes-display-inline">Any conviction for a strike-eligible misdemeanor, set forth in subparagraphs (A) through (C) of subsection (e)(2), shall count as one-quarter (¼) strike.</text>
+                            </paragraph>
+                            <paragraph id="HF22977C6F2C5429CBAF90DFFD59B58E1">
+                                <enum>(2)</enum>
+ <text display-inline="yes-display-inline">Any conviction for a strike-eligible nonviolent felony, set forth in subparagraphs (D) through (T) of subsection (e)(2), shall count as one-half (½) strike.</text>
+                            </paragraph>
+                            <paragraph id="HD54AE7084E2249C8982627453752073D">
+                                <enum>(3)</enum>
+ <text display-inline="yes-display-inline">Any conviction for a strike-eligible firearm-related felony, set forth in subparagraphs (U) through (FF) of subsection (e)(2), shall count as one (1) strike.</text>
+                            </paragraph>
+                            <paragraph id="HA108B2F295514D0AA342F5C59425F8A6">
+                                <enum>(4)</enum>
+ <text display-inline="yes-display-inline">Any conviction for a strike-eligible violent felony, set forth in subparagraphs (GG) through (JJJ) of subsection (e)(2), shall count as one (1) strike.</text>
+                            </paragraph>
+                            <paragraph id="H38800C5A86FA4AFC86ABE2C9F2F7767D">
+                                <enum>(5)</enum>
+ <text>A defendant shall not accrue any strikes for any misdemeanor convictions for offenses committed while the defendant was a juvenile.</text>
+                            </paragraph>
+                            <paragraph id="H61B34340EDA74EE79AB599F2414C7177">
+                                <enum>(6)</enum>
+ <text>Any convictions for strike-eligible nonviolent or firearm-related felony offenses in cases in which the defendant was a juvenile shall result in the accrual of only one-quarter (¼) strike.</text>
+                            </paragraph>
+                            <paragraph id="H131C24898E19463096CD96D5BEEDB07A">
+                                <enum>(7)</enum>
+ <text>Any convictions for strike-eligible violent felony offenses in cases in which the defendant was a juvenile shall result in the accrual of only one-half (½) strike.</text>
+                            </paragraph>
+                        </subsection>
+                        <subsection id="H080F5BCEF4B14F26A6F736B9CE12F421">
+                            <enum>(c)</enum>
+                            <header>Enhanced sentences</header>
+ <text display-inline="yes-display-inline">A three-strikes offender shall—</text>
+                            <paragraph id="H61FB324ADC6D4EDB8C109FAF419310FB">
+                                <enum>(1)</enum>
+ <text>have a consecutive sentence of 10 years imprisonment added to the sentence for the offenses of which the defendant was convicted if the most serious underlying offense in the instant case is a nonviolent felony set forth in subparagaphs (D) through (T) of subsection (e)(2);</text>
+                            </paragraph>
+                            <paragraph id="HE096CA93DD184E28A7A5681B9EF16053">
+                                <enum>(2)</enum>
+ <text display-inline="yes-display-inline">have a consecutive sentence of 15 years imprisonment added to the sentence for the offenses of which the defendant was convicted if the most serious underlying strike-eligible offense in the instant case is a firearm-related felony set forth in subparagraphs (U) through (FF) of subsection (e)(2); and</text>
+                            </paragraph>
+                            <paragraph id="H1A1A262716914ABAA46D78F6D73D2382">
+                                <enum>(3)</enum>
+ <text>have a consecutive sentence of life imprisonment added to the sentence for the offenses of which the defendant was convicted if—</text>
+                                <subparagraph id="HE35898D1BFC74260B7B90082B37BCAA0">
+                                    <enum>(A)</enum>
+ <text display-inline="yes-display-inline">the most serious underlying offense in the instant case is a violent felony set forth in subparagraphs (GG) through (JJJ) of subsection (e)(2);</text>
+                                </subparagraph>
+                                <subparagraph id="H3D4055FD900340FD900D5401257A6BFD">
+                                    <enum>(B)</enum>
+ <text>the defendant has been convicted of strike-eligible offenses on at least two prior occasions; </text>
+                                </subparagraph>
+                                <subparagraph id="HE8C94BC619F1424183CC8EEC70830571">
+                                    <enum>(C)</enum>
+ <text>at least three of the defendant’s strikes stem from convictions for strike-eligible felony offenses; and</text>
+                                </subparagraph>
+                                <subparagraph id="H698B01BB26D440939403C66804FF81EB">
+                                    <enum>(D)</enum>
+ <text display-inline="yes-display-inline">a 20-year consecutive sentence added if the most serious underlying offense in the instant case is a violent felony set forth in subparagraphs (X) through (VV) of subsection (e)(2), and the defendant has been convicted of strike-eligible offenses on at least two prior occasions, but fewer than three of the defendant’s strikes stem from convictions for strike-eligible felony offenses.</text>
+                                </subparagraph>
+                            </paragraph>
+                        </subsection>
+                        <subsection id="H04B7EAEBC13B4A7AA29E56C792F6F7CD">
+                            <enum>(d)</enum>
+                            <header>Prohibition on Misdemeanor-Triggered Enhancements</header>
+ <text display-inline="yes-display-inline">A defendant who reaches or surpasses the three-strikes threshold due to an instant conviction of a strike-eligible misdemeanor shall not be eligible for a sentencing enhancement under this section until said defendant is subsequently convicted of a felony, such that no sentencing enhancement shall be applied to sentences for misdemeanor convictions.</text>
+                        </subsection>
+                        <subsection id="HFBC3335A34DF45E1A05BD640EF063D7E">
+                            <enum>(e)</enum>
+                            <header>Definitions</header>
+ <text>For purposes of this section:</text> <paragraph id="H8D11688AE377441F89140F7C68E7532D"> <enum>(1)</enum> <header>Three-Strikes Offender</header> <text display-inline="yes-display-inline">The term <term>three-strikes offender</term> means a defendant if—</text>
+                                <subparagraph id="H17774C78B60F42A0993AB1E370FB6A36">
+                                    <enum>(A)</enum>
+ <text>the instant strike-eligible offense of which the defendant is convicted constitutes an offense set forth in subparagraphs (D) through (JJJ) of paragraph (2); and</text>
+                                </subparagraph>
+                                <subparagraph id="H832054E3DA3E409DB617988DC84BCC99">
+                                    <enum>(B)</enum>
+ <text>the defendant has, inclusive of the conviction for the instant offense and accounting for desistance credits, accrued three (3) or more strikes through prior convictions. </text>
+                                </subparagraph>
+                                <continuation-text continuation-text-level="paragraph">A defendant
+                                    may not be deemed a three-strikes offender if all the
+                                    defendant’s strikes are the result of convictions in one or more
+                                    cases stemming from a single episode of criminal action. If all
+                                    the defendant’s strikes are the result of convictions stemming
+                                    from two episodes of criminal action, each episode must include
+                                    at least one (1) strike-eligible felony conviction for the
+                                    defendant to be deemed a three-strikes
+                                    offender.</continuation-text>
+                            </paragraph>
+                            <paragraph id="H54C4DE0246174475BDDDDB809D06E715">
+                                <enum>(2)</enum>
+                                <header>Strike-Eligible Offenses</header>
+ <text>The term <term>strike eligible offense</term> means any of the following (and includes, with regard to each offense, any attempt or conspiracy to commit the offense):</text>
+                                <subparagraph id="H7A265C2364A7412B95C67C838799EFAC">
+                                    <enum>(A)</enum>
+ <text>Section 404 of the Controlled Substances Act (<external-xref legal-doc="usc" parsable-cite="usc/21/844">21 U.S.C. 844</external-xref>).</text>
+                                </subparagraph>
+                                <subparagraph id="H5A5A236008A44E36A662331A3A028451">
+                                    <enum>(B)</enum>
+ <text>Section 873 of title 18, United States Code.</text> </subparagraph> <subparagraph id="H206D244153264F3893913E5049A37496"> <enum>(C)</enum> <text>Any State-level misdemeanor unlawful possession of a firearm offense.</text>
+                                </subparagraph>
+                                <subparagraph id="HEEC696F9D2004C30937882ACCBDF6274">
+                                    <enum>(D)</enum>
+ <text display-inline="yes-display-inline">Section 521 of title 18, United States Code. </text>
+                                </subparagraph>
+                                <subparagraph id="HDA0D954620954B1CBFE48289ADA12029">
+                                    <enum>(E)</enum>
+ <text>Section 371 of title 18, United States Code.</text> </subparagraph> <subparagraph id="H5070DCE939924FDAAD6704781FB41890"> <enum>(F)</enum> <text display-inline="yes-display-inline">Section 1956 of title 18, United States Code.</text>
+                                </subparagraph>
+                                <subparagraph id="H8F7ECEA6C35347DEABEA28A1CA7D0230">
+                                    <enum>(G)</enum>
+ <text display-inline="yes-display-inline">Section 1341 of title 18, United States Code.</text>
+                                </subparagraph>
+                                <subparagraph id="H29CAE85E0BFE4D429124A44CC9D41F56">
+                                    <enum>(H)</enum>
+ <text display-inline="yes-display-inline">Section 1951 of title 18, United States Code.</text>
+                                </subparagraph>
+                                <subparagraph id="HE79004D543A246CA99BC403BD6A7020B">
+                                    <enum>(I)</enum>
+ <text display-inline="yes-display-inline">Section 1952 of title 18, United States Code.</text>
+                                </subparagraph>
+                                <subparagraph id="H01BA6D01A91A4892A7917EB0224A7249">
+                                    <enum>(J)</enum>
+ <text>Section 401(a)(1) of the Controlled Substances Act (<external-xref legal-doc="usc" parsable-cite="usc/21/841">21 U.S.C. 841(a)(1)</external-xref>).</text>
+                                </subparagraph>
+                                <subparagraph id="H997E6BC55BDD4C8881ACEBA7B4A9BA9A">
+                                    <enum>(K)</enum>
+ <text display-inline="yes-display-inline">Section 406 of the Controlled Substances Act (<external-xref legal-doc="usc" parsable-cite="usc/21/846">21 U.S.C. 846</external-xref>).</text>
+                                </subparagraph>
+                                <subparagraph id="H7DEAEA32D1D04E30965C8E94E586793E">
+                                    <enum>(L)</enum>
+ <text display-inline="yes-display-inline">Section 408 of the Controlled Substances Act (<external-xref legal-doc="usc" parsable-cite="usc/21/848">21 U.S.C. 848</external-xref>).</text>
+                                </subparagraph>
+                                <subparagraph id="H4AEED97CFA5A41EB9B6D740304724305">
+                                    <enum>(M)</enum>
+ <text>Section 2285 of title 18, United States Code.</text> </subparagraph> <subparagraph id="H72EB0C838AD146FFB86A51B5C8BEFA2C"> <enum>(N)</enum> <text display-inline="yes-display-inline">Section 1010(a) of the Controlled Substances Import and Export Act (<external-xref legal-doc="usc" parsable-cite="usc/21/960">21 U.S.C. 960(a)</external-xref>).</text>
+                                </subparagraph>
+                                <subparagraph id="H8A4CBFC9DABB4087A36277029761DA0E">
+                                    <enum>(O)</enum>
+ <text>Section 274 of the Immigration and Nationality Act (<external-xref legal-doc="usc" parsable-cite="usc/8/1324">8 U.S.C. 1324</external-xref>).</text>
+                                </subparagraph>
+                                <subparagraph id="H8B122453E6F94C1784749673FC31D958">
+                                    <enum>(P)</enum>
+ <text display-inline="yes-display-inline">Section 278 of the Immigration and Nationality Act (<external-xref legal-doc="usc" parsable-cite="usc/8/1328">8 U.S.C. 1328</external-xref>).</text>
+                                </subparagraph>
+                                <subparagraph id="HB0004AB1BE744BE6BE3C82CAFAA8C151">
+                                    <enum>(Q)</enum>
+ <text>Any State-level burglary offense.</text> </subparagraph> <subparagraph id="H774E42DEEDCB44FCB66DD4D5BF1920AB"> <enum>(R)</enum> <text>Any State-level extortion charge. </text>
+                                </subparagraph>
+                                <subparagraph id="HA4B6CDB5EF1A405EADCFFB7B7B1BFDA4">
+                                    <enum>(S)</enum>
+ <text>Any State-level drug trafficking/distribution/possession with intent to deliver offense.</text>
+                                </subparagraph>
+                                <subparagraph id="HA449CE2FFDF44736A83BC923B3A0F90D">
+                                    <enum>(T)</enum>
+ <text display-inline="yes-display-inline">Section 922(d) of title 18, United States Code. </text>
+                                </subparagraph>
+                                <subparagraph id="H81EBC8B51EC04B349FA488BFCC7EBB77">
+                                    <enum>(U)</enum>
+ <text display-inline="yes-display-inline">Section 922(g) of title 18, United States Code.</text>
+                                </subparagraph>
+                                <subparagraph id="HE83FDE604F794286A4F128231F550A5B">
+                                    <enum>(V)</enum>
+ <text display-inline="yes-display-inline">Section 922(j) of title 18, United States Code.</text>
+                                </subparagraph>
+                                <subparagraph id="H3E681BC909C540AC84944FFA06B94E5A">
+                                    <enum>(W)</enum>
+ <text display-inline="yes-display-inline">Section 922(k) of title 18, United States Code.</text>
+                                </subparagraph>
+                                <subparagraph id="H7F584C713996469A962434459B4FBB72">
+                                    <enum>(X)</enum>
+ <text display-inline="yes-display-inline">Section 922(n) of title 18, United States Code.</text>
+                                </subparagraph>
+                                <subparagraph id="H3E3A84C138D643FEAD59D122448B44CF">
+                                    <enum>(Y)</enum>
+ <text display-inline="yes-display-inline">Section 922(u) of title 18, United States Code.</text>
+                                </subparagraph>
+                                <subparagraph id="HC68666E912614866B9D9229BF519FA9E">
+                                    <enum>(Z)</enum>
+ <text display-inline="yes-display-inline">Section 922(x) of title 18, United States Code.</text>
+                                </subparagraph>
+                                <subparagraph id="H1094F1E3D894429E88444D6BA876CCD7">
+                                    <enum>(AA)</enum>
+ <text display-inline="yes-display-inline">Section 924(c) of title 18, United States Code.</text>
+                                </subparagraph>
+                                <subparagraph id="HEB8379555CEE4C819C5BEBFE22D93DC8">
+                                    <enum>(BB)</enum>
+ <text display-inline="yes-display-inline">Section 924(n) of title 18, United States Code.</text>
+                                </subparagraph>
+                                <subparagraph id="HFBEDE31C246B4BDB9823898BE0B8DA71">
+                                    <enum>(CC)</enum>
+ <text display-inline="yes-display-inline">Section 933(a) of title 18, United States Code.</text>
+                                </subparagraph>
+                                <subparagraph id="HB362872FB11044528DD490559F68C6C6">
+                                    <enum>(DD)</enum>
+ <text display-inline="yes-display-inline">Section 2118(c)(1) of title 18, United States Code.</text>
+                                </subparagraph>
+                                <subparagraph id="HBB55F6220D484A0E9FC467DCCC20C57B">
+                                    <enum>(EE)</enum>
+ <text>Any State-level felon in possession of a firearm offense. </text>
+                                </subparagraph>
+                                <subparagraph id="H8347A02739BC461E8A5A9B7699C75789">
+                                    <enum>(FF)</enum>
+ <text>Any State-level firearms trafficking offense.</text> </subparagraph> <subparagraph id="H41DBD4090D324B788A888FD81A7D328A"> <enum>(GG)</enum> <text display-inline="yes-display-inline">Section 1111 of title 18, United States Code. </text>
+                                </subparagraph>
+                                <subparagraph id="HF91CF39042A141AE94938E7F2F94C903">
+                                    <enum>(HH)</enum>
+ <text display-inline="yes-display-inline">Section 1961 of title 18, United States Code. </text>
+                                </subparagraph>
+                                <subparagraph id="H535EE26EEBC1400CA04A7B6D5F9F9DBA">
+                                    <enum>(II)</enum>
+ <text display-inline="yes-display-inline">Section 2119 of title 18, United States Code.</text>
+                                </subparagraph>
+                                <subparagraph id="H141928F2B95F41D28720933A2DB3D4EB">
+                                    <enum>(JJ)</enum>
+ <text display-inline="yes-display-inline">Section 11(b) of title 18, United States Code.</text>
+                                </subparagraph>
+                                <subparagraph id="H2B07FE30BAA74BA083BE5C8A4748ED3C">
+                                    <enum>(KK)</enum>
+ <text display-inline="yes-display-inline">Section 36(a) of title 18, United States Code.</text>
+                                </subparagraph>
+                                <subparagraph id="H807623EF01414425804477EE078C4DCA">
+                                    <enum>(LL)</enum>
+ <text display-inline="yes-display-inline">Section 111(a) of title 18, United States Code.</text>
+                                </subparagraph>
+                                <subparagraph id="HC9F2061612DB4B7C9E98D71C7E594D20">
+                                    <enum>(MM)</enum>
+ <text display-inline="yes-display-inline">Section 1958 of title 18, United States Code.</text>
+                                </subparagraph>
+                                <subparagraph id="H0385C30A0CE14DCC8712895FF3758FFB">
+                                    <enum>(NN)</enum>
+ <text display-inline="yes-display-inline">Section 2113(d) of title 18, United States Code.</text>
+                                </subparagraph>
+                                <subparagraph id="H5E201724B789437A9E9E80FFA0D6178A">
+                                    <enum>(OO)</enum>
+ <text display-inline="yes-display-inline">Section 2118 of title 18, United States Code.</text>
+                                </subparagraph>
+                                <subparagraph id="HAE4166F5FD1743E18B39976990F32061">
+                                    <enum>(PP)</enum>
+ <text display-inline="yes-display-inline">Section 1581(a) of title 18, United States Code.</text>
+                                </subparagraph>
+                                <subparagraph id="H75CBD7B57BDD4E9F9437223FE16B573A">
+                                    <enum>(QQ)</enum>
+ <text display-inline="yes-display-inline">Section 1584 of title 18, United States Code.</text>
+                                </subparagraph>
+                                <subparagraph id="H59F120AD78D54997A1FEEE121B34C237">
+                                    <enum>(RR)</enum>
+ <text display-inline="yes-display-inline">Section 1589 of title 18, United States Code.</text>
+                                </subparagraph>
+                                <subparagraph id="HC3DC04CD5A824A44AE4C6CAAB3EB1B6D">
+                                    <enum>(SS)</enum>
+ <text display-inline="yes-display-inline">Section 1590 of title 18, United States Code.</text>
+                                </subparagraph>
+                                <subparagraph id="HA9D1B59684834B14AA6141E076569E20">
+                                    <enum>(TT)</enum>
+ <text display-inline="yes-display-inline">Section 1591 of title 18, United States Code.</text>
+                                </subparagraph>
+                                <subparagraph id="H32AF301F9C9C4B76B347C5500C4A68DC">
+                                    <enum>(UU)</enum>
+ <text>Section 1959 of title 18, United States Code.</text> </subparagraph> <subparagraph id="HC807BFFDD72C476FAC20670D70399510"> <enum>(VV)</enum> <text display-inline="yes-display-inline">Section 2422(b) of title 18, United States Code.</text>
+                                </subparagraph>
+                                <subparagraph id="HC3904F9F50C6446D9EBC7AE70D20AB24">
+                                    <enum>(WW)</enum>
+ <text display-inline="yes-display-inline">Section 2423 of title 18, United States Code.</text>
+                                </subparagraph>
+                                <subparagraph id="HB20FB089D51F40B7927DD7EB6527B60B">
+                                    <enum>(XX)</enum>
+ <text display-inline="yes-display-inline">Section 2251 of title 18, United States Code.</text>
+                                </subparagraph>
+                                <subparagraph id="H2A467CCDFCB446B3A695224AEF4110F3">
+                                    <enum>(YY)</enum>
+ <text display-inline="yes-display-inline">Section 2252A of title 18, United States Code.</text>
+                                </subparagraph>
+                                <subparagraph id="H7BAC5C64C81A411098605A6579B19BE6">
+                                    <enum>(ZZ)</enum>
+ <text display-inline="yes-display-inline">Section 2260 of title 18, United States Code.</text>
+                                </subparagraph>
+                                <subparagraph id="H37876D6BE7C946A6894D3151AC3C1065">
+                                    <enum>(AAA)</enum>
+ <text>Any State-level first- and second-degree murder offenses. </text>
+                                </subparagraph>
+                                <subparagraph id="H52CAAB85420A4CB59761FDC7F8196405">
+                                    <enum>(BBB)</enum>
+ <text>Any State-level sexual assault or rape offenses. </text> </subparagraph> <subparagraph id="HC3E2470138AE49359150922F13CB3F95"> <enum>(CCC)</enum> <text>Any State-level child molestation offense.</text>
+                                </subparagraph>
+                                <subparagraph id="HA13EC2A1463F42DB909B0101C1BA6127">
+                                    <enum>(DDD)</enum>
+ <text>Any State-level robbery and aggravated/armed robbery offense.</text>
+                                </subparagraph>
+                                <subparagraph id="HD4B485DBD2E14981B4E6B043B10BE1E9">
+                                    <enum>(EEE)</enum>
+ <text>Any assault with a deadly weapon offense.</text> </subparagraph> <subparagraph id="H3F5BCC7F36524A8386936E978552E06E"> <enum>(FFF)</enum> <text>Section 1201 of title 18, United States Code.</text>
+                                </subparagraph>
+                                <subparagraph id="H98881EFC16A14CA8AD8018F3E54A088E">
+                                    <enum>(GGG)</enum>
+ <text>Section 1512 of title 18, United States Code.</text> </subparagraph> <subparagraph id="H9FD4A32C78154967902E2E0CF3E9FD96"> <enum>(HHH)</enum> <text>Section 1513 of title 18, United States Code.</text>
+                                </subparagraph>
+                                <subparagraph id="H530CBFB359D94D689CA85AD13BA89D29">
+                                    <enum>(III)</enum>
+ <text>Any State-level carjacking offenses. </text> </subparagraph> <subparagraph id="HB2CD93D611DF4C449DA81B1454014AC5"> <enum>(JJJ)</enum> <text>Any State-level assault on a police officer offense.</text>
+                                </subparagraph>
+                            </paragraph>
+                            <paragraph id="HE534699FACA54EA381ADF45E62109EAD">
+                                <enum>(3)</enum>
+                                <header>Single Episode of Criminal Action</header>
+ <text>The term <term>single episode of criminal action</term> means an event or continuous series of events related to the furtherance of a single criminal act, excluding the defendant’s violent resistance of any law-enforcement officer or citizens acting lawfully in defense of themselves or another that proximately causes death or serious bodily harm to the officer, citizen, or any other person.</text>
+                            </paragraph>
+                        </subsection>
+                    </section><after-quoted-block>; and </after-quoted-block></quoted-block></paragraph> 
+<paragraph id="H13F8F7242E85412299743DEF501BFA97"><enum>(2)</enum><text>in the table of sections, by adding at the end the following:</text> <quoted-block style="USC" id="H1877620FB0F6414DA9741A456958DE0F" display-inline="no-display-inline"> <toc regeneration="no-regeneration"> <toc-entry level="section">3559A. Three strike offenders.</toc-entry></toc><after-quoted-block>.</after-quoted-block></quoted-block> </paragraph></section> </legis-body></bill>
+

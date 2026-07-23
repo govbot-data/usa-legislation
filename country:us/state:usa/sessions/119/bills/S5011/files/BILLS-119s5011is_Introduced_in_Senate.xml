@@ -1,0 +1,175 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public" slc-id="S1-MCG26643-WSW-F3-RRR"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 S5011 IS: Curtailing Executive Overcompensation (CEO) Act</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2026-07-16</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">II</distribution-code><congress>119th CONGRESS</congress><session>2d Session</session><legis-num>S. 5011</legis-num><current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber><action><action-date date="20260716">July 16, 2026</action-date><action-desc><sponsor name-id="S316">Mr. Whitehouse</sponsor> (for himself, <cosponsor name-id="S354">Ms. Baldwin</cosponsor>, <cosponsor name-id="S366">Ms. Warren</cosponsor>, <cosponsor name-id="S322">Mr. Merkley</cosponsor>, <cosponsor name-id="S390">Mr. Van Hollen</cosponsor>, and <cosponsor name-id="S422">Mr. Welch</cosponsor>) introduced the following bill; which was read twice and referred to the <committee-name committee-id="SSFI00">Committee on Finance</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title>To amend the Internal Revenue Code of 1986 to impose an excise tax on excessively disparate wages paid to chief executive officers.</official-title></form><legis-body display-enacting-clause="yes-display-enacting-clause"><section section-type="section-one" id="S1"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Curtailing Executive Overcompensation (CEO) Act</short-title></quote>.</text></section><section commented="no" display-inline="no-display-inline" id="idc5a49b2a4f4e4d98836a2de6a36cbadc"><enum>2.</enum><header>Excise tax on excessive chief executive officer pay disparity</header><subsection commented="no" display-inline="no-display-inline" id="id899d994c7d704e26a51ba9b3579eb30a"><enum>(a)</enum><header>In general</header><text>Subtitle D of the Internal Revenue Code of 1986 is amended by adding at the end the following new chapter:</text><quoted-block style="OLC" display-inline="no-display-inline" id="id78F333B996EA43CE9A7D78EB25A23B83"><chapter id="id55e8db40cec743ddb2594f5193d9af0d" style="OLC"> <enum>50B</enum> <header>Pay disparity</header> <toc> <toc-entry level="section" idref="idb7fdb4f9c9d24389952c99f347ac6afd">Sec. 5000E. Excessive pay disparity.</toc-entry> </toc> <section id="idb7fdb4f9c9d24389952c99f347ac6afd"> <enum>5000E.</enum> <header>Excessive pay disparity</header> <subsection commented="no" display-inline="no-display-inline" id="idbe79bc4731114625b62544e5a26314bf"> <enum>(a)</enum> <header display-inline="yes-display-inline">In general</header> <text display-inline="yes-display-inline">In the case of any employer which is an applicable employer for the calendar year, there is hereby imposed a tax equal to the lesser of—</text>
+                                <paragraph commented="no" display-inline="no-display-inline" id="id80C3FA97109E48778A436B120A4DCA27">
+                                    <enum>(1)</enum>
+ <text display-inline="yes-display-inline">1 percent of the product of—</text>
+                                    <subparagraph commented="no" display-inline="no-display-inline" id="id575D98E612594869AFCDA0138530FE2C">
+                                        <enum>(A)</enum>
+ <text display-inline="yes-display-inline">the pay disparity factor of the applicable employer for the calendar year, and</text>
+                                    </subparagraph>
+                                    <subparagraph commented="no" display-inline="no-display-inline" id="id25616E8005F5430A916969DFA1C540E0">
+                                        <enum>(B)</enum>
+ <text display-inline="yes-display-inline">the excess of—</text>
+                                        <clause commented="no" display-inline="no-display-inline" id="id53321254b3974a2e8460dbb88107d3c8">
+                                            <enum>(i)</enum>
+ <text display-inline="yes-display-inline">amount determined under subsection (c)(2)(A) for such calendar year, over</text>
+                                        </clause>
+                                        <clause commented="no" display-inline="no-display-inline" id="id987134b7d36840bb9b225a5c6d18aea2">
+                                            <enum>(ii)</enum>
+ <text>5,000 percent of the amount determined under subsection (c)(2)(B) for such calendar year, or</text>
+                                        </clause>
+                                    </subparagraph>
+                                </paragraph>
+                                <paragraph commented="no" display-inline="no-display-inline" id="idE79CA250880B470389C3F228FEC41676">
+                                    <enum>(2)</enum>
+ <text display-inline="yes-display-inline">1 percent of the gross receipts (within the meaning of section 448(c)) of such applicable employer.</text>
+                                </paragraph>
+                            </subsection>
+                            <subsection commented="no" display-inline="no-display-inline" id="idf03fc22021234d359f3eec0d660965e1">
+                                <enum>(b)</enum>
+                                <header>Applicable employer</header>
+                                <paragraph commented="no" display-inline="no-display-inline" id="idc3c952efe7e3456b85b01c8554104e07">
+                                    <enum>(1)</enum>
+                                    <header>In general</header>
+ <text display-inline="yes-display-inline">For purposes of this section, the term <term>applicable employer</term> means, with respect to any calendar year, any employer which—</text>
+                                    <subparagraph commented="no" display-inline="no-display-inline" id="idb8f6741fdf554a97ac55026e0ea98978">
+                                        <enum>(A)</enum>
+ <text display-inline="yes-display-inline">has not less than $100,000,000 in gross receipts (within the meaning of section 448(c)) for each of the 3 calendar years preceding such calendar year, and</text>
+                                    </subparagraph>
+                                    <subparagraph commented="no" display-inline="no-display-inline" id="idA776ECA095724264AFFFF79C7D8C3D4D">
+                                        <enum>(B)</enum>
+ <text>has paid wages in excess of $10,000,000 for each calendar year in the 3-calendar-year period taken into account under subparagraph (A).</text>
+                                    </subparagraph>
+                                </paragraph>
+                                <paragraph commented="no" display-inline="no-display-inline" id="id1067ccffdd8048549404b54139b0b1f1">
+                                    <enum>(2)</enum>
+                                    <header>Aggregation rule</header>
+ <text>For purposes of this section, the rules of subsection (a) and (b) of section 52 shall apply.</text>
+                                </paragraph>
+                                <paragraph commented="no" display-inline="no-display-inline" id="id3de76904dd0846e3b16a008b071564f2">
+                                    <enum>(3)</enum>
+                                    <header display-inline="yes-display-inline">Predecessors</header>
+ <text display-inline="yes-display-inline">For purposes of paragraph (1)(A), rules similar to the rules of section 448(c)(3)(D) shall apply.</text>
+                                </paragraph>
+                                <paragraph commented="no" display-inline="no-display-inline" id="idE8DE7015FAE0440590ECB86C6E0592E5">
+                                    <enum>(4)</enum>
+                                    <header>Inflation adjustment</header>
+                                    <subparagraph id="idFD849A2803624A77B71DB26F946EFE79">
+                                        <enum>(A)</enum>
+                                        <header>In general</header>
+ <text>In the case of any calendar year after 2027, the $100,000,000 amount under paragraph (1)(A) and the $10,000,000 amount under paragraph (1)(B) shall each be increased by an amount equal to—</text>
+                                        <clause id="idE07AF5E5DBFE491F9386D2C8B78E9778">
+                                            <enum>(i)</enum>
+ <text>such dollar amount, multiplied by</text> </clause> <clause id="id6DA0E783A2E041E6B86DA8BBBCE3EB55"> <enum>(ii)</enum> <text>the cost-of-living adjustment determined under section 1(f)(3) for such calendar year, determined by substituting <quote>calendar year 2026</quote> for <quote>calendar year 2016</quote> in subparagraph (A)(ii) thereof.</text>
+                                        </clause>
+                                    </subparagraph>
+                                    <subparagraph id="id3EE5170F1F6F4000BA25249A3FBCCE78">
+                                        <enum>(B)</enum>
+                                        <header>Rounding</header>
+ <text>The amount of any increase under clause (i) shall be rounded to the nearest multiple of $100,000.</text>
+                                    </subparagraph>
+                                </paragraph>
+                            </subsection>
+                            <subsection commented="no" display-inline="no-display-inline" id="id05f58c4ee7664f92a3154e0a40a4ceab">
+                                <enum>(c)</enum>
+                                <header>Pay disparity factor</header>
+ <text>For purposes of this section—</text> <paragraph commented="no" display-inline="no-display-inline" id="idcbe1d4bd0c2d4aeb9252dd87ef5fd2b4"> <enum>(1)</enum> <header display-inline="yes-display-inline">In general</header> <text>The term <term>pay disparity factor</term> means, with respect to any applicable employer for calendar year, the excess (if any) of—</text>
+                                    <subparagraph commented="no" display-inline="no-display-inline" id="idc35933356bf94e3fbed6cabe48e58b9f">
+                                        <enum>(A)</enum>
+ <text display-inline="yes-display-inline">the pay disparity ratio of such employer for such calendar year, over</text>
+                                    </subparagraph>
+                                    <subparagraph commented="no" display-inline="no-display-inline" id="id6640ef562dc34210a3c7e0f36f5e65e1">
+                                        <enum>(B)</enum>
+ <text display-inline="yes-display-inline">50.</text> </subparagraph> </paragraph> <paragraph commented="no" display-inline="no-display-inline" id="idc918c45202e847e9b1aa47f05fb5c4f1"> <enum>(2)</enum> <header>Pay disparity ratio</header> <text display-inline="yes-display-inline">The term <term>pay disparity ratio</term> means, with respect to any applicable employer for calendar year, the ratio of—</text>
+                                    <subparagraph commented="no" display-inline="no-display-inline" id="id2618f4e0876a4fda99d4cd305936729c">
+                                        <enum>(A)</enum>
+ <text display-inline="yes-display-inline">the average qualified wages for the 5-calendar year period ending with such calendar year of the individual who is the highest compensated employee of the applicable employer for such calendar year, to</text>
+                                    </subparagraph>
+                                    <subparagraph commented="no" display-inline="no-display-inline" id="id6905e81193a84e89a8a14877fb4b42d6">
+                                        <enum>(B)</enum>
+ <text display-inline="yes-display-inline">the median wages paid to all applicable employees of the applicable employer for such calendar year.</text>
+                                    </subparagraph>
+                                </paragraph>
+                                <paragraph commented="no" display-inline="no-display-inline" id="id3BEDC1A29D42468398BACD6C654F7CF2">
+                                    <enum>(3)</enum>
+                                    <header>Wages; qualified wages</header>
+                                    <subparagraph commented="no" display-inline="no-display-inline" id="id5a24c3a6c930411fbd9c857374eef185">
+                                        <enum>(A)</enum>
+                                        <header>Wages</header>
+ <text display-inline="yes-display-inline">The term <term>wages</term> has the meaning given such term under section 3401(a), determined without regard to paragraph (8) thereof.</text>
+                                    </subparagraph>
+                                    <subparagraph commented="no" display-inline="no-display-inline" id="id0669295a1abe4a5d89dd7f407f4a3c9b">
+                                        <enum>(B)</enum>
+                                        <header>Qualified wages</header>
+                                        <clause commented="no" display-inline="no-display-inline" id="idf08c379567b548dbbb5314a0b1f89086">
+                                            <enum>(i)</enum>
+                                            <header>In general</header>
+ <text display-inline="yes-display-inline">The term <term>qualified wages</term> means wages increased by—</text>
+                                            <subclause commented="no" display-inline="no-display-inline" id="idfb6a50b23daf47f6a4ccd68932afde40">
+                                                <enum>(I)</enum>
+ <text display-inline="yes-display-inline">any elective deferrals (within the meaning of section 402(g)(3)) not included in wages, and</text>
+                                            </subclause>
+                                            <subclause commented="no" display-inline="no-display-inline" id="id489d124b7e594659a39ee1f9e62ed44b">
+                                                <enum>(II)</enum>
+ <text display-inline="yes-display-inline">any amounts described in section 415(c)(3)(D)(ii) which are not included in wages.</text>
+                                            </subclause>
+                                        </clause>
+                                        <clause commented="no" id="idc8c33a3dc6a9441f95ec1a4b3ce28fe3">
+                                            <enum>(ii)</enum>
+                                            <header>Self-employed individuals and
+                                                owner-employees</header>
+ <text>In the case of an employee (within the meaning of section 401(c)(1)), the term <term>qualified wages</term> includes the earned income (as defined in section 401(c)(2) of such employee, but determined without regard to any exclusion under section 911) of such employee.</text>
+                                        </clause>
+                                    </subparagraph>
+                                </paragraph>
+                                <paragraph commented="no" display-inline="no-display-inline" id="id8131fc713e5c478192d50090e0a4dd42">
+                                    <enum>(4)</enum>
+                                    <header>Applicable employee</header>
+ <text>For purposes of this subsection—</text> <subparagraph commented="no" display-inline="no-display-inline" id="id88be039d4c804803b9f1dd98672fdf87"> <enum>(A)</enum> <header>In general</header> <text display-inline="yes-display-inline">The term <term>applicable employee</term> means any individual whose wages in connection with services performed for the applicable employer for the calendar year are equal to or more than $5,000.</text>
+                                    </subparagraph>
+                                    <subparagraph commented="no" display-inline="no-display-inline" id="idadf7bf04773440879c3576809dbc7ba1">
+                                        <enum>(B)</enum>
+                                        <header>Inflation adjustment</header>
+                                        <clause id="id405685c022434cb8b4476ac3579c7ad9">
+                                            <enum>(i)</enum>
+                                            <header>In general</header>
+ <text>In the case of any calendar year after 2027, the $5,000 amount under subparagraph (A)(ii) shall be increased by an amount equal to—</text>
+                                            <subclause id="id1d0c7bd82df54614b77bab5f18c65a27">
+                                                <enum>(I)</enum>
+ <text>such dollar amount, multiplied by</text> </subclause> <subclause id="ideaeeee4e91c74164a6d80f472a458071"> <enum>(II)</enum> <text>the cost-of-living adjustment determined under section 1(f)(3) for such calendar year, determined by substituting <quote>calendar year 2026</quote> for <quote>calendar year 2016</quote> in subparagraph (A)(ii) thereof.</text>
+                                            </subclause>
+                                        </clause>
+                                        <clause id="idb4006b0d9a6040e88cdcba9f3ae86487">
+                                            <enum>(ii)</enum>
+                                            <header>Rounding</header>
+ <text>The amount of any increase under clause (i) shall be rounded to the nearest multiple of $100.</text>
+                                        </clause>
+                                    </subparagraph>
+                                </paragraph>
+                            </subsection>
+                            <subsection commented="no" display-inline="no-display-inline" id="id6B304D1985534F99BBBBF19B2284F11F">
+                                <enum>(d)</enum>
+                                <header>Joint and several liability</header>
+ <text>If more than one taxpayer is treated as a single employer under this section by reason of subsection (b)(2), then each such taxpayer shall be jointly and severally liable for the tax imposed by subsection (a).</text>
+                            </subsection>
+                            <subsection commented="no" id="id5404173125db4a3e962475c82a8e774a">
+                                <enum>(e)</enum>
+                                <header>Regulations</header>
+ <text>The Secretary shall issue regulations as necessary to prevent avoidance of the purposes of this section, including regulations to prevent the manipulation of the pay disparity factor by changes to the composition of the workforce (including by using the services of contractors rather than employees).</text>
+                            </subsection>
+                        </section>
+ </chapter><after-quoted-block>.</after-quoted-block></quoted-block></subsection><subsection commented="no" display-inline="no-display-inline" id="idd828f2f9376a471d89a34f810b8bfd52"><enum>(b)</enum><header>No deduction from income taxes</header><text>Section 275(a)(6) of the Internal Revenue Code of is amended by inserting <quote>50B,</quote> after <quote>50A,</quote>.</text></subsection><subsection id="id4e2d1eb4f5a446a59c44dfd372a942ec"><enum>(c)</enum><header>Clerical amendment</header><text>The table of chapters for subtitle D of the Internal Revenue Code of 1986 is amended by adding at the end the following new item:</text><quoted-block style="OLC" id="id2ea0be21-dd14-42bc-85b8-156e73e9f20f"><toc><toc-entry level="chapter" idref="id55e8db40cec743ddb2594f5193d9af0d">Chapter 50B—Pay disparity</toc-entry></toc><after-quoted-block>.</after-quoted-block></quoted-block></subsection><subsection commented="no" display-inline="no-display-inline" id="ide05b4c48beff4d3ebe88e21f478f02c2"><enum>(d)</enum><header>Effective date</header><text>The amendments made by this section shall apply to taxable years beginning after the date of the enactment of this Act.</text></subsection></section></legis-body></bill>
+
