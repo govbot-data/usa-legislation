@@ -1,0 +1,69 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public" slc-id="S1-ELT25A11-HH0-YM-CFP">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 S3157 IS: School Meals for Healthy Kids Act of 2025</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2025-11-07</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+        <distribution-code>II</distribution-code>
+        <congress>119th CONGRESS</congress>
+        <session>1st Session</session>
+        <legis-num>S. 3157</legis-num>
+        <current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+        <action>
+            <action-date date="20251107">November 7, 2025</action-date>
+            <action-desc><sponsor name-id="S409">Mr. Luján</sponsor> (for himself and <cosponsor name-id="S411">Mr. Marshall</cosponsor>) introduced the following bill; which
+                was read twice and referred to the <committee-name committee-id="SSAF00">Committee
+                    on Agriculture, Nutrition, and Forestry</committee-name></action-desc>
+        </action>
+        <legis-type>A BILL</legis-type>
+        <official-title>To amend the Richard B. Russell National School Lunch Act to improve direct
+            certification, and for other purposes.</official-title>
+    </form>
+    <legis-body>
+        <section id="S1" section-type="section-one">
+            <enum>1.</enum>
+            <header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>School Meals for Healthy Kids Act of 2025</short-title></quote>.</text>
+        </section>
+        <section commented="no" display-inline="no-display-inline" id="idb88add08b95f49858d6406410add4774">
+            <enum>2.</enum>
+            <header>Codification of existing use of data for direct certification</header>
+ <text display-inline="no-display-inline">Section 9(b)(15) of the Richard B. Russell National School Lunch Act (<external-xref legal-doc="usc" parsable-cite="usc/42/1758">42 U.S.C. 1758(b)(15)</external-xref>) is amended by adding at the end the following:</text>
+            <quoted-block style="OLC" display-inline="no-display-inline" id="id8ee65fad7cf842ac9a3ed346f3339e8e">
+                <subparagraph id="id35b2012fcb874be2bf3f4d0011776bc9">
+                    <enum>(I)</enum>
+                    <header>Use of Medicaid data</header>
+ <text>Any State agency that uses Medicaid program data to directly certify children for free or reduced price lunches under this Act and free or reduced price breakfasts under section 4 of the Child Nutrition Act of 1966 (<external-xref legal-doc="usc" parsable-cite="usc/42/1773">42 U.S.C. 1773</external-xref>) for the school year beginning on July 1, 2024, through the demonstration projects carried out pursuant to this Act may continue using Medicaid program data for subsequent school years in accordance with the conditions in effect at the start of the school year beginning on July 1, 2024.</text>
+                </subparagraph>
+                <after-quoted-block>.</after-quoted-block>
+            </quoted-block>
+        </section>
+        <section id="idac838ba615d446ff9812aabab88027a2">
+            <enum>3.</enum>
+            <header>Codification of existing methodology for community eligibility provision
+                schools</header>
+ <text display-inline="no-display-inline">Section 11(a)(1)(F) of the Richard B. Russell National School Lunch Act (<external-xref legal-doc="usc" parsable-cite="usc/42/1759a">42 U.S.C. 1759a(a)(1)(F)</external-xref>) is amended—</text>
+            <paragraph id="idc3a3316d02a2461fb97cbcf9024af7b7">
+                <enum>(1)</enum>
+ <text>in clause (i), by striking <quote>or successor regulations</quote> and inserting <quote>as in effect on the date of enactment of the <short-title>School Meals for Healthy Kids Act of 2025</short-title></quote>;</text>
+            </paragraph>
+            <paragraph id="id7a517fc30cb34bb4b6bf2d71694a61f9">
+                <enum>(2)</enum>
+ <text>by striking clause (vii) and inserting the following:</text> <quoted-block style="OLC" display-inline="no-display-inline" id="idf2782d6af5c24381b336d4b3d8a2cc49"> <clause id="id41502388c7bf412cadbdcbc5acfcb8ac"> <enum>(vii)</enum> <header>Multiplier</header> <text>For each school year, the multiplier shall be 1.6.</text>
+                    </clause>
+                    <after-quoted-block>; and</after-quoted-block>
+                </quoted-block>
+            </paragraph>
+            <paragraph id="id675d43891f0c4f8898c8786227f9fa07">
+                <enum>(3)</enum>
+ <text>in clause (xi), by striking subclause (III).</text> </paragraph> </section> </legis-body> </bill>
+
