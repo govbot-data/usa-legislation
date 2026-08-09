@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public" slc-id="S1-OTT26122-K47-01-K93"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 S5204 IS: Simplifying Modern Access to Retirement Tools for Savings Act of 2026</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2026-07-30</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">II</distribution-code><congress>119th CONGRESS</congress><session>2d Session</session><legis-num>S. 5204</legis-num><current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber><action><action-date date="20260730">July 30, 2026</action-date><action-desc><sponsor name-id="S317">Mr. Barrasso</sponsor> (for himself and <cosponsor name-id="S396">Mrs. Blackburn</cosponsor>) introduced the following bill; which was read twice and referred to the <committee-name committee-id="SSFI00">Committee on Finance</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title>To amend the Internal Revenue Code of 1986 to exempt individual account plans from certain prohibited transaction rules.</official-title></form><legis-body><section id="id2273c0195b4a4fb0ae00ba2c670dc3cb" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Simplifying Modern Access to Retirement Tools for Savings Act of 2026</short-title></quote> or the <quote><short-title>SMART Savings Act of 2026</short-title></quote>.</text></section><section id="id0c4c4d1c1685498c866247bc2430c458" section-type="subsequent-section"><enum>2.</enum><header>Exemption from prohibited transaction rules</header><subsection id="ideeb848c615f045019ce9553d940c2d78"><enum>(a)</enum><header>In general</header><text>Paragraph (1) of <external-xref legal-doc="usc" parsable-cite="usc/26/4975">section 4975(e)</external-xref> of the Internal Revenue Code of 1986 is amended to read as follows:</text><quoted-block style="OLC" display-inline="no-display-inline" id="id365faedf1f054325aabb274e010a9db3"><paragraph id="id9d13a34fc3e24476abfa50faff1f1eb1"><enum>(1)</enum><header>Plan</header><text>For purposes of this section, the term <term>plan</term> means a trust described in section 401(a) which forms a part of a plan, or a plan described in section 403(a), which trust or plan is exempt from tax under section 501(a).</text></paragraph><after-quoted-block>.</after-quoted-block></quoted-block></subsection><subsection id="idca07d8ec8cb14e548ffe1aef4a78d01f"><enum>(b)</enum><header>Conforming amendments</header><paragraph commented="no" display-inline="no-display-inline" id="id044f490aa4f441f7bd4f520bcac88391"><enum>(1)</enum><text display-inline="yes-display-inline"><external-xref legal-doc="usc" parsable-cite="usc/26/4975">Section 4975(c)</external-xref> of the Internal Revenue Code of 1986 is amended—</text><subparagraph id="idfc3682f75dab47b0a408da2bbe741b05"><enum>(A)</enum><text>by striking paragraphs (3), (4), (5), and (6), and</text></subparagraph><subparagraph id="id81d98f187edc416eaff2fc252c2ea99b"><enum>(B)</enum><text>by redesignating paragraph (7) as paragraph (3).</text></subparagraph></paragraph><paragraph commented="no" display-inline="no-display-inline" id="id05938dfed45b4b429dd2caec5508f4de"><enum>(2)</enum><text>Section 4975(f)(8)(E) of such Code is amended by striking clause (ii) and by redesignating clause (iii) as clause (ii).</text></paragraph></subsection><subsection id="id4a869030d98e4ab5aee69bfb50524e1a"> <enum>(c)</enum> <header>Preservation of self-Dealing prohibitions</header> <text><external-xref legal-doc="usc" parsable-cite="usc/26/408">Section 408(e)(2)(A)</external-xref> of the Internal Revenue Code of 1986 is amended to read as follows:</text>
+        <quoted-block style="OLC" display-inline="no-display-inline"
+          id="id435592521f764bd7bd848fcaebfef3c1">
+          <subparagraph id="id071c11f600d74ccdb6b5a150ecd0a664">
+            <enum>(A)</enum>
+            <header>In general</header>
+            <clause commented="no" display-inline="no-display-inline"
+              id="ida0ef416896f54ff987b9d2ba4ab8af6d">
+              <enum>(i)</enum>
+              <header>Self-dealing</header>
+ <text display-inline="yes-display-inline">If, during any taxable year of the individual for whose benefit any individual retirement account is established, that individual or the individual's beneficiary deals with the income or assets of a plan in the individual's own interest or for the individual's own account or receives consideration for the individual's own personal account from any party dealing with the plan in connection with a transaction involving the income or assets of the plan, other than the receipt of any relationship benefits, such account ceases to be an individual retirement account as of the first day of such taxable year. For purposes of this paragraph—</text>
+              <subclause id="idcab8f7a4763d4d81ab42f2a6df6319d0">
+                <enum>(I)</enum>
+ <text>the individual for whose benefit any account was established is treated as the creator of such account,</text>
+              </subclause>
+              <subclause id="id96f95758b7744128b8cb78718efec2d1">
+                <enum>(II)</enum>
+ <text>the separate account for any individual within an individual retirement account maintained by an employer or association of employees is treated as a separate individual retirement account, and</text>
+              </subclause>
+              <subclause id="ide1c919dedb684dfca795bc5937badf50">
+                <enum>(III)</enum>
+ <text>each individual retirement plan of the individual shall be treated as a separate contract.</text>
+              </subclause>
+            </clause>
+            <clause id="id65964ec0a1794e51868a04bb1f95da38">
+              <enum>(ii)</enum>
+              <header>Relationship benefits</header>
+ <text>For purposes of clause (i), the term <term>relationship benefits</term> means reduced cost or no-cost products or services or enhanced or improved products or services or other benefits received by a person pursuant to an arrangement in which the account value of, or the fees incurred for services provided to, an individual retirement account are taken into account for purposes of determining eligibility to receive such benefit.</text>
+            </clause>
+          </subparagraph>
+          <after-quoted-block>.</after-quoted-block>
+        </quoted-block>
+ </subsection><subsection id="id3b780febd7d44345b336b2beec0012fd"><enum>(d)</enum><header>Effective date</header><text>The amendments made by this section shall apply to transactions occurring after the date of the enactment of this Act.</text></subsection></section></legis-body></bill>
+

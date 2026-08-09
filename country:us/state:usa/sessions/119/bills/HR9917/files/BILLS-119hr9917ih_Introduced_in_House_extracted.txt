@@ -1,0 +1,74 @@
+Title: 
+Official Title: To amend the Homeland Security Act of 2002 to require certain entities to maintain a technical capability with respect to shutting down certain technology, and for other purposes.
+Source: versions - Introduced in House
+Media Type: text/xml
+
+================================================================================
+
+119 HR 9917 IH: AI Kill Switch Act
+U.S. House of Representatives
+2026-07-23
+text/xml
+EN
+Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.
+
+
+
+I119th CONGRESS2d SessionH. R. 9917IN THE HOUSE OF REPRESENTATIVESJuly 23, 2026Mr. Lieu (for himself and Mr. Moran) introduced the following bill; which was referred to the Committee on Homeland SecurityA BILLTo amend the Homeland Security Act of 2002 to require certain entities to maintain a technical capability with respect to shutting down certain technology, and for other purposes. 
+1.Short title
+ This Act may be cited as the AI Kill Switch Act. 
+2.Shutdown-capability standard and graduated deployment-corrections framework with respect to certain technology 
+(a)In generalSubtitle A of title XXII of the Homeland Security Act of 2002 (6 U.S.C. 651 et seq.) is amended by adding at the end the following new section:  2220F.Shutdown-capability standard and graduated deployment-corrections framework with respect to certain technology (a)Rulemaking (1)In generalExcept as provided in paragraph (3), not later than 90 days after the date of the enactment of this section and annually thereafter, the Secretary, acting through the Director, shall update by rule the definitions for the terms covered entity and covered technology in this section. 
+(2)FactorsIn making a determination under paragraph (1), the Secretary shall consider the following factors: (A)The extent to which the costs to comply with this section might unduly burden a small business concern. 
+(B)The need to cover entities the activities of which have the potential to advance artificial intelligence capabilities in national security, including with respect to cybersecurity and chemical, biological, radiological, or nuclear capabilities. (C)The capabilities of covered technology, the deployment of such technology, and the manner in which the model weights of such technology are made available. 
+(D)Such other factors as the Secretary determines relevant. (3)ExemptionAn entity is not a covered entity if such entity operates or makes available to a third party a covered technology for personal, academic, or non-commercial utilization only. 
+(b)Shutdown capability 
+(1)In generalNot later than 90 days after the date of the enactment of this section and annually thereafter, the Secretary, acting through the Director, shall by rule require a covered entity to carry out the following: (A)Maintain a technical capability to carry out the following actions: 
+(i)Stop inference of a covered technology of such covered entity. (ii)Terminate user access to such technology. 
+(iii)Suspend access to such technology with respect to an account, user, or use pattern identified by such covered entity or the Secretary as posing a risk of any of the following: (I)A covered incident. 
+(II)A violation of law or the terms of service of such technology. (iv)Shut down such technology. 
+(B)Not later than 15 days after such covered entity becomes aware of a covered incident relating to such technology, submit to the Secretary a report regarding such incident. (2)ConsiderationIn carrying out paragraph (1), the Secretary shall consider the following: 
+(A)Requiring a technical capability based on a graduated deployment-corrections framework that applies when there is evidence of a credible risk of a covered incident and includes measures that are calibrated to the severity and immediacy of such risk, including the following measures: (i)Throttling or otherwise altering any of the following: 
+(I)The inference rate of a covered technology. (II)User access to such technology. 
+(III)Compute allocation with respect to such technology. (ii)Disabling or restricting a capability of such technology. 
+(iii)Suspending such technology. (iv)Shutting down such technology. 
+(v)Transitioning an operation dependent on such technology to a backup system or an earlier version of such technology.  (B)The risk that such a measure could disrupt critical infrastructure. 
+(3)Voluntary standardsNot later than 180 days after the date of the enactment of this section, the Secretary, acting through the Director, shall publish on a publicly available website of the Agency voluntary standards for shutting down a covered technology.  (c)Emergency authority (1)OrderIf the Secretary, acting through the Director and in consultation with the Secretary of Commerce and the Director of National Intelligence, determines that a covered incident has occurred, the Secretary may order the covered entity at issue to take action proportionate to the nature and immediacy of such incident, which may include any of the actions described in subsection (b)(1)(A). 
+(2)Covered entityUpon an order under paragraph (1), the covered entity subject to such order shall as soon as practicable carry out the following: (A)Preserve the model weights and telemetry of such technology. 
+(B)Notify to the extent practicable each operator or user of such technology, of the following: (i)Such order. 
+(ii)The extent to which such operator or user, as the case may be, might be affected by such order. (C)Confirm to the Secretary that such order has been carried out. 
+(3)AuditUpon a confirmation under paragraph (2)(C), the Secretary, acting through the Director, shall through audit, telemetry, on-site inspection, or other forensic review verify compliance with the order that prompted such confirmation. (4)Congressional reportUpon an order under paragraph (1), the Secretary shall submit to Congress a report regarding the covered incident at issue that includes information relating to the following: 
+(A)The determination under such paragraph that prompted such order. (B)Each action so ordered. 
+(C)The covered entity subject to such order. (5)Appeal (A)In generalNot later than 48 hours after an order under paragraph (1), the covered entity subject to such order may petition the Secretary for reconsideration of such order, but such petition does not stay such order. 
+(B)DeterminationNot later than five days after a covered entity petitions pursuant to subparagraph (A), the Secretary, acting through the Director, shall make a determination with respect to such petition, but if the Secretary fails to so make such determination, such failure is deemed to be a determination in the negative. (C)Judicial reviewA covered entity for which there is an order under paragraph (1) may request review of such order in the United States Court of Appeals for the District of Columbia Circuit on petition filed not later than 60 days after such order. 
+(d)Authority 
+(1)In generalWith respect to this section, the Secretary, acting through the Director, may carry out any of the following: (A)Administer oaths and, by subpoena, require testimony and the production of documents. 
+(B)Conduct an investigation within the United States and, consistent with applicable law, outside the United States.  (2)Civil penalties (A)In generalExcept as provided in subparagraph (B), if the Secretary, acting through the Director, determines after reasonable notice and opportunity for a hearing that a covered entity has violated this section, the Secretary may assess on such covered entity a civil penalty of not more than $2,000,000 for each day on which such violation occurs. 
+(B)OrderIf the Secretary, acting through the Director, determines after reasonable notice and opportunity for a hearing that a covered entity has violated subsection (c), the Secretary may assess on such covered entity a civil penalty of not more than $20,000,000 for each day on which such violation occurs. (C)FactorsIn determining the amount of a civil penalty to be assessed under subparagraph (A) or (B), the Secretary shall consider the following factors: 
+(i)The nature, circumstances, extent, gravity, and duration of the violation at issue. (ii)The degree of culpability of the covered entity at issue. 
+(iii)Previous violations, if any, of this section by such covered entity. (iv)Good-faith efforts, if any, by such covered entity to comply with this section. 
+(v)Whether such covered entity voluntarily disclosed to the Secretary such violation. (vi)Any other factor that justice may require. 
+(3)Civil actionIf the Secretary, acting through the Director, believes that a violation of this section has occurred, is occurring, or is about to occur, the Secretary may refer the matter to the Attorney General to bring in an appropriate district court of the United States a civil action for appropriate relief.  (e)ComplianceA de minimis violation of this section, or a technical defect that results in a violation of this section, that is corrected not later than 30 days after discovery of such violation or defect, as the case may be, is not considered a violation of this section. 
+
+              (f)
+              Non-Disclosure
+ Nonpublic information submitted under this section to the Secretary by a covered entity is exempt from disclosure under section 552(b)(3) of title 5, United States Code, and from any provision of State, local, or Tribal freedom of information law, open government law, open records law, or similar law relating to the disclosure of information or records.
+             
+(g)DefinitionsIn this section: (1)AffiliateThe term affiliate means an entity that controls, is controlled by, or is under common control with, another entity. 
+(2)Artificial intelligenceThe term artificial intelligence has the meaning given such term in section 5002 of the National Artificial Intelligence Initiative Act of 2020 (15 U.S.C. 9401). (3)Artificial intelligence systemThe term artificial intelligence system means any of the following: 
+(A)Artificial intelligence. (B)A system, software, hardware, tool, or other utility that operates autonomously through the utilization of such artificial intelligence. 
+(4)Covered entityExcept as otherwise provided in this section, the term covered entity means an entity that satisfies the following requirements: (A)Operates a covered technology or operates a system that incorporates such technology. 
+(B)Makes such technology available to a third party through a programmatic interface, hosted service, or other similar mechanism. (C)Derives together with the affiliates, if any, of such person not less than $500,000,000 in gross revenue from such technology in the calendar year preceding the calendar year at issue.  
+(5)Covered incidentThe term covered incident means an occurrence of any of the following outside of red-teaming or other structured testing: (A)Sabotage of, or interference with, a lawful instruction to shut down a covered technology. 
+(B)Conduct of such technology that is unintended by a developer or operator of such technology and causes the death of not fewer than 10 individuals or economic damages of not less than $100,000,000. (C)Concealment of a capability, intention, or action of such technology, by such technology, from a monitoring or shutdown mechanism. 
+(D)A loss-of-control scenario. (6)Covered technologyExcept as otherwise provided in this section, the term covered technology means an artificial intelligence system developed utilizing a quantity of computing power the cost of which would exceed $100,000,000 at the prevailing market price of cloud computing in the United States, as determined by the Secretary.  
+(7)Loss-of-control scenarioThe term loss-of-control scenario means a scenario in which a covered technology pursues outside of red-teaming or other structured testing a goal that is not a goal intended by the developer or operator of such technology, including with respect to any of the following: (A)Such technology behaving contrary to the instruction of such developer or operator, as the case may be, in a context relating to critical infrastructure or another high-stakes context. 
+(B)Such technology altering operational rules or safety restrictions without the authorization of such developer or operator, as the case may be. (C)Such technology subverting a monitoring or shutdown mechanism. 
+(D)Such technology attaining without such authorization access to the model weights of such technology. (8)Red-teamingThe term red-teaming means structured testing that satisfies the following requirements: 
+(A)Is in a controlled environment. (B)Simulates real-world conditions. 
+(C)Utilizes an adversarial method to identify limitations, risks, flaws and vulnerabilities with respect to an artificial intelligence system, such as any of the following: (i)A harmful output of such system. 
+(ii)An unforeseen or undesirable behavior of such system. (iii)A risk associated with the misutilization of such system. 
+(9)Small business concernThe term small business concern has the meaning given such term in section 3 of the Small Business Act (15 U.S.C. 632). . (b)Clerical amendmentThe table of contents in section 1(b) of the Homeland Security Act of 2002 is amended by inserting after the item relating to section 2220E the following new item: 
+ 
+ 
+Sec. 2220F. Shutdown-capability standard and graduated deployment-corrections framework with respect to certain technology..

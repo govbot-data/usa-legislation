@@ -1,0 +1,128 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H5596786CCD364CC1B8010FC481A7D881" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 HR 9915 IH: Stealth Bot Prohibition Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2026-07-23</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">119th CONGRESS</congress><session display="yes">2d Session</session><legis-num display="yes">H. R. 9915</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20260723">July 23, 2026</action-date><action-desc><sponsor name-id="L000597">Ms. Lee of Florida</sponsor> (for herself, <cosponsor name-id="F000477">Mrs. Foushee</cosponsor>, and <cosponsor name-id="B001257">Mr. Bilirakis</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HIF00">Committee on Energy and Commerce</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To prohibit stealth bots, and for other purposes.</official-title></form><legis-body id="H729B9239BE964CFA8A18E9EE77FC65F3" style="OLC"> 
+<section id="H5250C3E1345B4B68ABFBACA652AD5B89" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Stealth Bot Prohibition Act</short-title></quote>.</text></section> <section id="HCCED67B4558F4D6E9F20BF8EA9E38230"><enum>2.</enum><header>Prohibition of stealth bots</header> <subsection id="HFF6A85898AA7422CB155015873953E69"><enum>(a)</enum><header>Prohibition</header><text>A person may not—</text> 
+<paragraph id="H221B354E0A5B4D9995E78AC4A636C67B"><enum>(1)</enum><text>deploy, direct, or cause to be deployed, a stealth bot to access a website, digital platform, or online service in a manner that is reasonably likely to damage, impair, or burden the technical or commercial operation of a website or other internet service; or</text></paragraph> <paragraph id="H625D1CC01D674C15A1270319ECB4C253"><enum>(2)</enum><text>intentionally misrepresent, conceal, or obscure the nature of the bot to appear as a human user for use in connection with a generative AI model or service.</text></paragraph></subsection> 
+<subsection id="H913837CFFB8D4BC59C63C6088EB014FF" commented="no"><enum>(b)</enum><header>Enforcement</header> 
+<paragraph id="H6BA0E85560A349CAA0FC88676F2282C3" commented="no"><enum>(1)</enum><header>Civil action</header><text>The Federal Trade Commission may commence a civil action in any district court of the United States to recover a civil penalty for a violation of subsection (a) or to enjoin any person from committing a violation of subsection (a).</text></paragraph> <paragraph id="H09E9062FF21249A89EE78619DB677D04" commented="no"><enum>(2)</enum><header>Penalty</header><text>The penalty for each violation of subsection (a) may not exceed $53,000 (as adjusted on January 1 each year by the percentage increase (if any), during the preceding 12-month period, in the Consumer Price Index for All Urban Consumers published by the Bureau of Labor Statistics).</text></paragraph> 
+<paragraph id="H618A6FEC663B42D99550FD5A42176657" commented="no"><enum>(3)</enum><header>Powers of Commission</header><text>Notwithstanding paragraphs (1) and (2), the Commission shall have the same jurisdiction, powers, and duties to enforce this section as though the applicable terms and conditions of the Federal Trade Commission Act were incorporated and made part of this section.</text></paragraph> <paragraph id="H8ECCFC28456949D6B7D2D3AA0164B534" commented="no"><enum>(4)</enum><header>Rules of construction</header><text>Nothing in this section may be construed to—</text>
+<subparagraph id="HB6EBA4D986C240BF8953D25B665FB146"><enum>(A)</enum><text>limit the authority of the Commission under any other provision of law; or</text></subparagraph> <subparagraph id="H0AB846FFF396411F943171122B828DE1"><enum>(B)</enum><text display-inline="yes-display-inline">authorize the Commission to issue regulations.</text></subparagraph></paragraph></subsection> 
+<subsection id="H63374885FCBF4FBE80712796FF4D544D" commented="no">
+                <enum>(c)</enum>
+                <header>Actions by States</header>
+                <paragraph id="H5A31135BA20244A1AA57B9A3AE5FC72F" commented="no">
+                    <enum>(1)</enum>
+                    <header>In general</header>
+ <text display-inline="yes-display-inline">In any case in which the attorney general of a State, or an official or agency of a State, has reason to believe that an interest of the residents of such State has been or is threatened or adversely affected by an act or practice in violation of subsection (a) or a regulation promulgated under such subsection, the State, as parens patriae, may bring a civil action on behalf of the residents of the State in an appropriate district court of the United States to—</text>
+                    <subparagraph id="H5C343353B0424172BD7C2EE9B99402C2" commented="no">
+                        <enum>(A)</enum>
+ <text>enjoin such act or practice;</text> </subparagraph> <subparagraph id="HD1C9AC097A0B44369DBD35DF020055F8" commented="no"> <enum>(B)</enum> <text>enforce compliance with such subsection or such regulation;</text>
+                    </subparagraph>
+                    <subparagraph id="H71740EAE9D614EB1BDAFF99E0755257E" commented="no">
+                        <enum>(C)</enum>
+ <text>obtain damages, restitution, or other compensation on behalf of residents of the State; or</text>
+                    </subparagraph>
+                    <subparagraph id="HAD761BF9205B40CEA083BEE525750780" commented="no">
+                        <enum>(D)</enum>
+ <text>obtain such other legal and equitable relief as the court may consider to be appropriate.</text>
+                    </subparagraph>
+                </paragraph>
+                <paragraph id="HBE774AF99C464574B0E52FC6A94E1AD3" commented="no">
+                    <enum>(2)</enum>
+                    <header>Notice</header>
+ <text>Before filing an action under this subsection, the attorney general, official, or agency of the State involved shall provide to the Federal Trade Commission a written notice of such action and a copy of the complaint for such action. If the attorney general, official, or agency determines that it is not feasible to provide the notice described in this paragraph before the filing of the action, the attorney general, official, or agency shall provide written notice of the action and a copy of the complaint to the Federal Trade Commission immediately upon the filing of the action.</text>
+                </paragraph>
+                <paragraph id="HCC1C9DEFC0A142DBB230BAC1F4E5C3CE" commented="no">
+                    <enum>(3)</enum>
+                    <header>Authority of Federal Trade Commission</header>
+                    <subparagraph id="H52609F1AC8C24E6D98194416DA476E7E">
+                        <enum>(A)</enum>
+                        <header>In general</header>
+ <text>On receiving notice under paragraph (2) of an action under this subsection, the Federal Trade Commission shall have the right—</text>
+                        <clause id="H0C119A81E1F44B419D56A12EF5C09CB6" commented="no">
+                            <enum>(i)</enum>
+ <text>to intervene in the action;</text> </clause> <clause id="HB1B89B16952847E8B9F390A69E17FFAF"> <enum>(ii)</enum> <text>upon so intervening, to be heard on all matters arising therein; and</text>
+                        </clause>
+                        <clause id="H5FA3E9BA69774BF7A86E39435A809F1B" commented="no">
+                            <enum>(iii)</enum>
+ <text>to file petitions for appeal.</text> </clause> </subparagraph> <subparagraph id="H84806C7A6C284143A0B6F4019544C115" commented="no"> <enum>(B)</enum> <header>Limitation on State action while Federal action is pending</header> <text display-inline="yes-display-inline">If the Federal Trade Commission or the Attorney General of the United States has instituted a civil action for violation of subsection (a) or a regulation promulgated under such subsection (referred to in this subparagraph as the <quote>Federal action</quote>), no State attorney general, official, or agency may bring an action under this subsection during the pendency of the Federal action against any defendant named in the complaint in the Federal action for any violation of such subsection or regulation alleged in such complaint.</text>
+                    </subparagraph>
+                </paragraph>
+                <paragraph id="HC22D19FFC6144D0C92C1A004C4829B57" commented="no">
+                    <enum>(4)</enum>
+                    <header>Rule of construction</header>
+ <text>For purposes of bringing a civil action under this subsection, nothing in this Act may be construed to prevent an attorney general, official, or agency of a State from exercising the powers conferred on the attorney general, official, or agency by the laws of such State to conduct investigations, administer oaths and affirmations, or compel the attendance of witnesses or the production of documentary and other evidence.</text>
+                </paragraph>
+            </subsection> 
+<subsection id="H56BB537FBFB145E5B24DF1DB08982ADF">
+                <enum>(d)</enum>
+                <header>Definitions</header>
+ <text>In this section:</text> <paragraph id="H378E676A690D419686C5589C409498BE"> <enum>(1)</enum> <header>Artificial intelligence; AI</header> <text>The terms <term>artificial intelligence</term> and <term>AI</term> have the meaning given the term <term>artificial intelligence</term> in section 5002 of the National Artificial Intelligence Initiative Act of 2020 (<external-xref legal-doc="usc" parsable-cite="usc/15/9401">15 U.S.C. 9401</external-xref>) as of the date of the enactment of this section.</text>
+                </paragraph>
+                <paragraph id="HC460A3E10CF041A1BFD611961EB460A1">
+                    <enum>(2)</enum>
+                    <header>Bot</header>
+ <text>The term <term>bot</term> means software that retrieves, scans, indexes, scrapes, or otherwise accesses a website or other internet source, including but not limited to an online crawler, spider, fetcher, client, user agent, AI agent, or equivalent tool.</text>
+                </paragraph>
+                <paragraph id="HFE023336E93B4A1AAEF984AEA6D5563A">
+                    <enum>(3)</enum>
+                    <header>Commission</header>
+ <text>The term <term>Commission</term> means the Federal Trade Commission.</text>
+                </paragraph>
+                <paragraph id="H30F6AFFCBD2D4690B5798C5A627E1DCC">
+                    <enum>(4)</enum>
+                    <header>Generative AI</header>
+ <text>The term <term>generative AI</term> means artificial intelligence that is capable of generating content such as code, images, music, text, simulations, 3D renderings of objects, or videos.</text>
+                </paragraph>
+                <paragraph id="H4868FE33D7E349AE84D2AC29BA26EEFC" commented="no">
+                    <enum>(5)</enum>
+                    <header>State</header>
+ <text display-inline="yes-display-inline">The term <term>State</term> means each of the several States, the District of Columbia, each commonwealth, territory, or possession of the United States, and each federally recognized Indian Tribe.</text>
+                </paragraph>
+                <paragraph id="HA3FC97B69E714B27B373C193A2693AEF">
+                    <enum>(6)</enum>
+                    <header>Stealth bot</header>
+ <text>The term <term>stealth bot</term> means a bot that accesses, retrieves, scans, indexes, scrapes, or otherwise interacts with a website, digital platform, or online service without prior disclosure of its identity and purpose, in particular by—</text>
+                    <subparagraph id="H615A54475BB24E639C1457894AEC1018">
+                        <enum>(A)</enum>
+ <text display-inline="yes-display-inline">failing to identify itself including through a valid and accurate user-agent string; or</text>
+                    </subparagraph>
+                    <subparagraph id="H1ACAF1A164F442709F57A86328124E4C">
+                        <enum>(B)</enum>
+ <text>failing to disclose the specific nature and purpose of the bot, including any proposed use and purpose of page content (including text and data mining, search indexing, inferencing, artificial intelligence development, support, or operations (such as training, fine tuning, retrieval augmented generation)) or other automated processing at the time access is requested and in a format that the website operator can access.</text>
+                    </subparagraph>
+                </paragraph>
+            </subsection> 
+<subsection id="H59AB048E818E41E9B68297CAFF442180">
+                <enum>(e)</enum>
+                <header>Limitations period, relationship to other laws, and severability</header>
+                <paragraph id="H7FBBA422B21C4BEDBEAEC4719AAADB54">
+                    <enum>(1)</enum>
+                    <header>Limitations period</header>
+ <text>A civil action may not be filed under this section unless the action is commenced within six years after the date on which the violation occurred.</text>
+                </paragraph>
+                <paragraph id="H022E31BEF70945E4B84118114C804B93" commented="no">
+                    <enum>(2)</enum>
+                    <header>Relationship to other laws</header>
+ <text>Nothing in this section shall affect any right, limitation, or remedy available under any other Federal or State law or the United States Constitution.</text>
+                </paragraph>
+            </subsection> 
+<subsection id="HDA91EEE95D32457C9D0EFA09D0C4B859">
+                <enum>(f)</enum>
+                <header>Effective date</header>
+ <text>This section shall take effect 180 days after the date of the enactment of this Act.</text>
+            </subsection></section> 
+</legis-body></bill>
+

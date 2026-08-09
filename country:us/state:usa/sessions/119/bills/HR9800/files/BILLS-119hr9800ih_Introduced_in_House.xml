@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="HAD1A57F4D23C42F68691A7F672D9DD30" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 HR 9800 IH: Protection Against Mass Surveillance Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2026-07-21</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">119th CONGRESS</congress><session display="yes">2d Session</session><legis-num display="yes">H. R. 9800</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20260721">July 21, 2026</action-date><action-desc><sponsor name-id="B001309">Mr. Burchett</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HGO00">Committee on Oversight and Government Reform</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To prohibit Federal agencies from purchasing or accessing automated surveillance systems that identify, track, or record individuals, and for other purposes.</official-title></form><legis-body id="HB58FA431398B43C394917C50EB856D50" style="OLC"> 
+<section id="H9FD29D6FAD29406192C47AAC7D65D02F" section-type="section-one"><enum>1.</enum><header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Protection Against Mass Surveillance Act</short-title></quote>.</text></section> 
+<section id="H27CCAAEB234846C4B863724122760A06"><enum>2.</enum><header>Prohibition</header> 
+<subsection id="H225DEB77E5784D53BD2B7B51D8F8028A"><enum>(a)</enum><header>Federal agencies</header><text display-inline="yes-display-inline">No Federal agency may purchase, deploy, operate, access, or contract for any automated surveillance system that identifies, tracks, or records individuals through any of the following:</text> <paragraph id="H2A42F4B1A5EE44AFA655BF7B78A8E897"><enum>(1)</enum><text>An automated license plate recognition system, including a Flock Safety camera.</text></paragraph> 
+<paragraph id="HEC22F99DE26A4BD6AD8C6334C2C9B86E"><enum>(2)</enum><text>Facial recognition technology.</text></paragraph> <paragraph id="H1E7B44E4979844C084EAE9CFD06F349C"><enum>(3)</enum><text>Technology that uses biometric identification, including fingerprint, iris, retinal, voice, gait, or other personally identifiable biological characteristics.</text></paragraph> 
+<paragraph id="HCACAA2C457794817B1F41E1F8AEE9DC0"><enum>(4)</enum><text>Any technology that captures, analyzes, or retains a person's image, likeness, or other personally identifiable information for the purpose of conducting persistent or mass surveillance.</text></paragraph></subsection> <subsection id="H8C8B56D9CE2446429BB8DCC32104688E"><enum>(b)</enum><header>State and local governments</header><text display-inline="yes-display-inline">A State, local, or Tribal government may not use Federal funds to purchase, deploy, operate, access, or contract for any automated surveillance system that identifies, tracks, or records individuals through any of the systems or technologies described in paragraphs (1) through (4) of subsection (a). </text></subsection></section> 
+<section id="H377C0ED4E84947DB8210854568AF9C61"><enum>3.</enum><header>Collected data</header> 
+<subsection id="H13229839223B44758E8B41AE466DEDB0"><enum>(a)</enum><header>Deletion</header><text display-inline="yes-display-inline">The head of any Federal agency that obtains data in violation of section 2(a) shall delete such data not later than 30 days after it is obtained. </text></subsection> <subsection id="HA2AA4F490F86423480BC0412BC647E55"><enum>(b)</enum><header>Inadmissibility</header><text>Any data obtained by the Federal Government in violation of section 2(a) may not be admitted into evidence in any court or administrative proceeding. </text></subsection></section> 
+</legis-body></bill>
+

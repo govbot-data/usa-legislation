@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H0D7766F7FE5D45E98A1A54D9487B8E35" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 HR 9957 IH: Time for Completion Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2026-07-27</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">119th CONGRESS</congress><session display="yes">2d Session</session><legis-num display="yes">H. R. 9957</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20260727">July 27, 2026</action-date><action-desc><sponsor name-id="H001081">Mrs. Hayes</sponsor> (for herself and <cosponsor name-id="K000403">Mr. Kennedy of Utah</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HED00">Committee on Education and Workforce</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To amend the Higher Education Act of 1965 to provide for comprehensive student achievement information.</official-title></form><legis-body id="HAFA1CA31FE684F2291D7CB0A16103AA2" style="OLC"> 
+<section id="HF648732B1DE149B783B949048058AE0D" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Time for Completion Act</short-title></quote>.</text></section> <section id="H501BE8AA77EC481DBB27C5B2CAD24556"><enum>2.</enum><header>Consumer information about completion or graduation times</header> <subsection id="H85696C649A2D4CD28E60547CFBC1F489"><enum>(a)</enum><header>Transparency in college tuition for consumers</header><text>Section 132(i)(1)(J) of the Higher Education Act of 1965 (<external-xref legal-doc="usc" parsable-cite="usc/20/1015a">20 U.S.C. 1015a(i)(1)(J)</external-xref>) is amended to read as follows:</text> 
+<quoted-block display-inline="no-display-inline" id="HD82ED4DAE8194BF38D49D1F4BB1AE2CD" style="OLC"> 
+<subparagraph id="HDC438759521E4C91A37449CF23546E46"><enum>(J)</enum> 
+<clause commented="no" display-inline="yes-display-inline" id="H849B1F4EE82F4427B3A9B94ACC488A35"><enum>(i)</enum><text>For programs of study that are at least 4 academic years in length (as determined under section 481)—</text> <subclause id="H7280963A0C7A42009B0A8B711FCA43F9" indent="up1"><enum>(I)</enum><text>the percentages of first-time, full-time, degree- or certificate-seeking undergraduate students enrolled at the institution who obtain a degree or certificate within each of the times for completion or graduation described in subclauses (I) through (III) of clause (iii);</text></subclause> 
+<subclause id="H9F0E639ABAAB455DAD9B5FF0A99F5EBB" indent="up1"><enum>(II)</enum><text>the percentages of first-time, part-time, degree- or certificate-seeking undergraduate students enrolled at the institution who obtain a degree or certificate within each of the times for completion or graduation described in subclauses (I) through (III) of clause (iii);</text></subclause> <subclause id="H536FF0AFAF8E4A8BA50D9801CC9BA51F" indent="up1"> <enum>(III)</enum> <text>the percentages of non-first-time, full-time, degree- or certificate-seeking undergraduate students enrolled at the institution who obtain a degree or certificate within each of the times for completion or graduation described in subclauses (I) through (III) of clause (iii); and</text>
+                            </subclause> 
+<subclause id="HE2C54CFDD2964A87BCDD10023A709DED" indent="up1"><enum>(IV)</enum><text>the percentages of non-first-time, part-time, degree- or certificate-seeking undergraduate students enrolled at the institution who obtain a degree or certificate within each of the times for completion or graduation described in subclauses (I) through (III) of clause (iii).</text></subclause></clause> <clause id="H885937431D4C4A73BC0BF4DAAFF75ABD" indent="up1"> <enum>(ii)</enum> <text display-inline="yes-display-inline">For programs of study that are less than 4 academic years in length (as determined under section 481)—</text>
+                            <subclause id="H2FF3C4E0CF0748608B9575644E90AB04">
+                                <enum>(I)</enum>
+ <text>the percentages of first-time, full-time, degree- or certificate-seeking undergraduate students enrolled at the institution who obtain a degree or certificate within each of the times for completion or graduation described in subclauses (I) through (IV) of clause (iii);</text>
+                            </subclause>
+                            <subclause id="H9160DF042E1846BB810525236D3A7C4F">
+                                <enum>(II)</enum>
+ <text>the percentages of first-time, part-time, degree- or certificate-seeking undergraduate students enrolled at the institution who obtain a degree or certificate within each of the times for completion or graduation described in subclauses (I) through (IV) of clause (iii);</text>
+                            </subclause>
+                            <subclause id="HD7D51A61AE4A423595157EC6029F0DA5">
+                                <enum>(III)</enum>
+ <text>the percentages of non-first-time, full-time, degree- or certificate-seeking undergraduate students enrolled at the institution who obtain a degree or certificate within each of the times for completion or graduation described in subclauses (I) through (IV) of clause (iii); and</text>
+                            </subclause>
+                            <subclause id="H5CE5A31839524A6FB2DED29FB7574A6A">
+                                <enum>(IV)</enum>
+ <text>the percentages of non-first-time, part-time, degree- or certificate-seeking undergraduate students enrolled at the institution who obtain a degree or certificate within each of the times for completion or graduation described in subclauses (I) through (IV) of clause (iii).</text>
+                            </subclause>
+                        </clause> 
+<clause id="H0AA44B6892904694978F02F595F905C0" indent="up1"><enum>(iii)</enum><text>For purposes of this subparagraph, the times for completion or graduation are as follows:</text> <subclause id="H960257A06BD94FFE8792322C7761FCF3"><enum>(I)</enum><text>The normal time for completion of, or graduation from, the student’s program.</text></subclause> 
+<subclause id="HB01BD57CA6274054BF8FDB2573394777"><enum>(II)</enum><text>150 percent of the normal time for completion of, or graduation from, the student’s program.</text></subclause> <subclause id="H3C702E9BFDBB457F974C77B73EB4B0C5"><enum>(III)</enum><text display-inline="yes-display-inline">200 percent of the normal time for completion of, or graduation from, the student’s program.</text></subclause> 
+<subclause id="HDE5C58D8845145B5925F86B0A9AB9AF5"><enum>(IV)</enum><text>300 percent of the normal time for completion of, or graduation from, the student’s program.</text></subclause></clause> <clause id="H645EF08295CC4ED6BF5B0114EF262E0B" indent="up1"><enum>(iv)</enum><text>In making publicly available the percentages described in this subparagraph, the Secretary shall display each percentage in a consistent manner and with equal visibility.</text></clause></subparagraph><after-quoted-block>.</after-quoted-block></quoted-block></subsection> 
+<subsection id="H0F5B7392D9574307B09BEE3CD8895AD6"><enum>(b)</enum><header>Institutional and financial assistance information for students</header><text>Section 485(a) of the Higher Education Act of 1965 (<external-xref legal-doc="usc" parsable-cite="usc/20/1092">20 U.S.C. 1092(a)</external-xref>) is amended—</text> <paragraph id="HB6926E8785E54C90995C5FDB9002AF59"><enum>(1)</enum><text>in paragraph (1), by amending subparagraph (L) to read as follows:</text> 
+<quoted-block display-inline="no-display-inline" id="HC60C845A15074C79BFC5D940A0D3BDC5" style="OLC"> 
+<subclause id="H0A4159C94CAC4D3092D4F00D8658998F" indent="up3"><enum>(L)</enum><text display-inline="yes-display-inline">each completion or graduation rate for each type of student and program of study described in clauses (i) and (ii) of section 132(i)(1)(J);</text></subclause><after-quoted-block>; and</after-quoted-block></quoted-block></paragraph> <paragraph id="HFAB07777C7314108AF4AC85F50F2D8F8"><enum>(2)</enum><text>in paragraph (3), by striking <quote>within 150 percent of the normal time for completion of or graduation from the program</quote> and inserting <quote>within the time for completion or graduation described in section 132(i)(1)(J) applicable to such student and such program of study</quote>.</text></paragraph></subsection></section> 
+</legis-body></bill>
+

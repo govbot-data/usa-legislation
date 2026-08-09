@@ -1,0 +1,92 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H1E1540ADA05E435C8987B9865BFED1EB" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 HR 9897 IH: Trump-Reagan Election Enforcement Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2026-07-23</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">119th CONGRESS</congress><session display="yes">2d Session</session><legis-num display="yes">H. R. 9897</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20260723">July 23, 2026</action-date><action-desc><sponsor name-id="B000825">Ms. Boebert</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HPW00">Committee on Transportation and Infrastructure</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To amend title 23, United States Code, to withhold apportioned surface transportation funding from a State if such State fails to enact certain requirements for proof of citizenship for individuals to register to vote in Federal elections, and for other purposes.</official-title></form><legis-body id="H500ED3AC37194E75BC69DC5587BF497C" style="OLC"> 
+<section id="H10D71D39CFF7427187CD86A10EC0D5D1" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Trump-Reagan Election Enforcement Act</short-title></quote>.</text></section> <section id="H30668F94643643FD8C97F8EA81F880CC" commented="no"><enum>2.</enum><header>Withholding of Federal funds</header> <subsection id="HD3D99ADBD2924554A98CDAF7DBCF2059" commented="no"><enum>(a)</enum><header>In general</header><text><external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/23/1">Chapter 1</external-xref> of title 23, United States Code, is amended by adding at the end the following:</text> 
+<quoted-block style="USC" id="HEEC2EDC1CC384238A6C3D9AF5ED49E58" display-inline="no-display-inline"> 
+<section id="HBCCFAEA776F84E798B9030CC77AC9092" commented="no"><enum>180.</enum><header>Election requirements</header> 
+<subsection id="H1165194869D9477A94D78223DF850446"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">The Secretary shall withhold 10 percent of the amount required to be apportioned to any State under section 104(b) on the first day of each fiscal year that begins after fiscal year 2026, and an additional 5 percent each fiscal year thereafter, if the State does not have laws in effect as described in subsection (b).</text></subsection> <subsection id="H919DB581E06045CEA575FEC6812573E8"><enum>(b)</enum><header>Enacted laws required</header><text>The laws described in this subsection are as follows:</text> 
+<paragraph id="H9B480D3A57154F1B9C49F9E4978A59EF">
+                <enum>(1)</enum>
+ <text display-inline="yes-display-inline">The State may not accept or process an application to register to vote in a Federal election unless the applicant presents documentary proof of U.S. citizenship with one of the following:</text>
+                <subparagraph id="H12F5B49DCFAB4A26B332F521ACE7ED34">
+                  <enum>(A)</enum>
+ <text display-inline="yes-display-inline">A form of identification issued consistent with the requirements of the REAL ID Act of 2005 that indicates the applicant is a citizen of the United States.</text>
+                </subparagraph>
+                <subparagraph id="HD7C67289D57E4F69A8CB7959EE25FD92">
+                  <enum>(B)</enum>
+ <text>A valid United States passport.</text> </subparagraph> <subparagraph id="H60C59E5E2FD04EFEBE701BC999B677AD"> <enum>(C)</enum> <text>The applicant's official United States military identification card, together with a United States military record of service showing that the applicant's place of birth was in the United States.</text>
+                </subparagraph>
+                <subparagraph id="H4AA39664C8CE4A92A58F0E3F1196D9C2">
+                  <enum>(D)</enum>
+ <text>A valid government-issued photo identification card issued by a Federal, State or Tribal government showing that the applicant’s place of birth was in the United States.</text>
+                </subparagraph>
+                <subparagraph id="H33D6D99C2606470DAB5F771730304371">
+                  <enum>(E)</enum>
+ <text>A valid government-issued photo identification card issued by a Federal, State or Tribal government other than an identification described in subparagraphs (A) through (D), but only if presented together with one or more of the following:</text>
+                  <clause id="HB67E9938619A40FD9BD71DD4BE48373F">
+                    <enum>(i)</enum>
+ <text>A certified birth certificate issued by a State, a unit of local government in a State, or a Tribal government which—</text>
+                    <subclause id="H853BB1866DA8452791DA622E28FB2DE7">
+                      <enum>(I)</enum>
+ <text>was issued by the State, unit of local government, or Tribal government in which the applicant was born;</text>
+                    </subclause>
+                    <subclause id="HE4829001F82E4932BA1E2D8764DF0D89">
+                      <enum>(II)</enum>
+ <text>was filed with the office responsible for keeping vital records in the State;</text>
+                    </subclause>
+                    <subclause id="H96200B098A5346029D90205184D72CDE">
+                      <enum>(III)</enum>
+ <text>includes the full name, date of birth, and place of birth of the applicant;</text>
+                    </subclause>
+                    <subclause id="HD10DFC5F10CA4198A2FE2826C30156FC">
+                      <enum>(IV)</enum>
+ <text>lists the full names of one or both of the parents of the applicant;</text>
+                    </subclause>
+                    <subclause id="H86F7A11C7D594A4CAA796FCBA6F07448">
+                      <enum>(V)</enum>
+ <text>has the signature of an individual who is authorized to sign birth certificates on behalf of the State, unit of local government, or Tribal government in which the applicant was born;</text>
+                    </subclause>
+                    <subclause id="HBE37695965FA4A6B87D036460E8ACA7B">
+                      <enum>(VI)</enum>
+ <text>includes the date that the certificate was filed with the office responsible for keeping vital records in the State; and has the seal of the State, unit of local government, or Tribal government that issued the birth certificate.</text>
+                    </subclause>
+                  </clause>
+                  <clause id="H7A8BBA6CC1014E23AD35A26DE665EEBD">
+                    <enum>(ii)</enum>
+ <text>An extract from a United States hospital Record of Birth created at the time of the applicant's birth which indicates that the applicant’s place of birth was in the United States.</text>
+                  </clause>
+                  <clause id="H8459785C5E7D423BAD7C03EB95942EA5">
+                    <enum>(iii)</enum>
+ <text>A final adoption decree showing the applicant’s name and that the applicant’s place of birth was in the United States.</text>
+                  </clause>
+                  <clause id="H482B2077CC7C4E41B5EE7301D089E5BE">
+                    <enum>(iv)</enum>
+ <text>A Consular Report of Birth Abroad of a citizen of the United States or a certification of the applicant’s Report of Birth of a United States citizen issued by the Secretary of State.</text>
+                  </clause>
+                  <clause id="HAF8EC11C421946929DE3A2734E722AE5">
+                    <enum>(v)</enum>
+ <text>A Naturalization Certificate or Certificate of Citizenship issued by the Secretary of Homeland Security or any other document or method of proof of United States citizenship issued by the Federal Government pursuant to the Immigration and Nationality Act.</text>
+                  </clause>
+                  <clause id="H895531629CCA41BEBFC68A76425711E2">
+                    <enum>(vi)</enum>
+ <text>An American Indian Card issued by the Department of Homeland Security with the classification ‘KIC’.</text>
+                  </clause>
+                </subparagraph>
+              </paragraph> 
+<paragraph id="H6E4DF2FDF6084EFEAE481CFF6C30811F"><enum>(2)</enum><text>The State shall have established an alternative process under which an applicant who is not able to meet the requirements of the law described in paragraph (1) may submit evidence to demonstrate U.S. citizenship.</text></paragraph> <paragraph id="HED6334D57B7742FD9E0CE21DDA48895C"><enum>(3)</enum><text>The State shall require affirmative steps on an ongoing basis to ensure that only U.S. citizens are registered to vote, which shall include establishing a program to identify individuals who are not U.S. citizens.</text></paragraph> 
+<paragraph id="H3BD2910C66974F33BAD7CACDFEF57673"><enum>(4)</enum><text>The States shall require individuals who submit a mail voter registration application to present documentary proof of U.S. citizenship in person to the office of the appropriate election official not later than the deadline provided by State law for the receipt of a completed voter registration application for the election. Upon receiving an otherwise completed mail voter registration application form prescribed by the Election Assistance Commission, the appropriate election official shall transmit a notice to the applicant of the requirement to present documentary proof of United States citizenship and shall include in the notice instructions to enable the applicant to meet the requirement.</text></paragraph> <paragraph id="HD6854272BFCC4CC191A94AB29EE8BE65"><enum>(5)</enum><text>The State shall remove noncitizens from official lists of eligible voters.</text></paragraph> 
+<paragraph id="HEE0811D0C8CD4A2EB6CFE6F013CDEFFB"><enum>(6)</enum><text>The states shall permit the private right of action against an election official who registers an applicant to vote in a Federal election who fails to present documentary proof of U.S. citizenship.</text></paragraph> <paragraph id="H1AADA65375D946B0A10F1EEB79A3AB27"><enum>(7)</enum><text>The State shall establish criminal penalties for registering an applicant to vote in a Federal election who fails to present documentary proof of U.S. citizenship.</text> </paragraph></subsection></section><after-quoted-block>.</after-quoted-block></quoted-block></subsection> 
+<subsection id="HBDA7EFB42A1041FBB45D7D57169FA0B7" commented="no"><enum>(b)</enum><header>Clerical amendment</header><text>The analysis for <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/23/1">chapter 1</external-xref> of title 23, United States Code, is amended by adding at the end the following:</text> <quoted-block style="USC" id="H2E19D61A01C740CCBAE4AF18B9EB430C" display-inline="no-display-inline"> <toc regeneration="no-regeneration"> <toc-entry level="section">180. Election requirements.</toc-entry></toc><after-quoted-block>.</after-quoted-block></quoted-block></subsection></section> </legis-body></bill>
+

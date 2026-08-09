@@ -1,0 +1,84 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H997707AA91AD46DAAB959641DBE096A1" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 HR 9989 IH: Candidate Investment Transparency and Ethics Act of 2026</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2026-07-30</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">119th CONGRESS</congress><session display="yes">2d Session</session><legis-num display="yes">H. R. 9989</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20260730">July 30, 2026</action-date><action-desc><sponsor name-id="M001230">Mr. Mackenzie</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HGO00">Committee on Oversight and Government Reform</committee-name>, and in addition to the Committee on <committee-name committee-id="HHA00">House Administration</committee-name>, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned</action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To require candidates for Federal office to divest publicly traded securities or place such securities in a qualified blind trust upon filing for office, and for other purposes.</official-title></form><legis-body id="H819F3A519D244A2AA9521D14696B6203" style="OLC"> 
+<section id="HE471916C9B2A41B68C00C7B61327741D" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Candidate Investment Transparency and Ethics Act of 2026</short-title></quote> or the <quote><short-title>CITE Act of 2026</short-title></quote>.</text></section> <section id="H619763633A514686A082B272CD1EA3DF"><enum>2.</enum><header>Definitions</header><text display-inline="no-display-inline">In this Act:</text> 
+<paragraph id="H3D3D69FBAE484A9CB9206A183FC3202F"><enum>(1)</enum><header>Candidate</header><text display-inline="yes-display-inline">The term <term>candidate</term> means any individual who files a statement of candidacy or statement of organization with the Federal Election Commission or otherwise formally declares their intention to seek election to—</text> <subparagraph id="H3818E9B937D14959B42E71AFADA34EE3"><enum>(A)</enum><text>the Office of President or Vice President of the United States;</text></subparagraph> 
+<subparagraph id="HAD586EB3CF3A4D98A53041E7B01E88AA"><enum>(B)</enum><text>the United States Senate; or</text></subparagraph> <subparagraph id="HEDCA3991C8C34FC58E42D7F5486BB520"><enum>(C)</enum><text>the United States House of Representatives.</text></subparagraph></paragraph> 
+<paragraph id="HD473B24F8AB14C028947BA6628FEA8E7"><enum>(2)</enum><header>Covered investment</header><text>The term <term>covered investment</term> means any security issued by a publicly traded company, including—</text> <subparagraph id="H83631749980846299408BF2113FBEAB8"><enum>(A)</enum><text>common or preferred stock;</text></subparagraph> 
+<subparagraph id="HE9ECBEB65BE8428A8B9874B7450A4B48"><enum>(B)</enum><text>bonds, debentures, or other debt instruments of a publicly traded issuer;</text></subparagraph> <subparagraph id="H679DDC61DF10402CB6E90DA32269C396"><enum>(C)</enum><text>stock options, warrants, or convertible securities; and</text></subparagraph> 
+<subparagraph id="H088ED5EDDB8E42F7B28180541BB67BE7"><enum>(D)</enum><text>exchange-traded funds and similar products that hold individual securities of publicly traded companies, except to the extent such funds qualify as exempt investments under <internal-xref idref="H8C2330FD7E1446D7BEB800BD735C7944" legis-path="2.(4)">paragraph (4)</internal-xref>.</text></subparagraph></paragraph> <paragraph id="HC066BA0EFA2C4507831783192C2D3B65"><enum>(3)</enum><header>Covered individual</header><text>The term <term>covered individual</term> means a candidate and the spouse and dependent children of the candidate.</text></paragraph> 
+<paragraph id="H8C2330FD7E1446D7BEB800BD735C7944"><enum>(4)</enum><header>Exempt investments</header><text>The term <term>exempt investment</term> means—</text> <subparagraph id="H24207CFB897B454B92A35CCBA189F68B"><enum>(A)</enum><text>widely diversified mutual funds;</text></subparagraph> 
+<subparagraph id="H7ABC222CC84049F0B0DE9198BB610947"><enum>(B)</enum><text>index funds or exchange-traded funds that track a broad market index, including the S&amp;P 500, the Dow Jones Industrial Average, or a comparable index;</text></subparagraph> <subparagraph id="HED8565D95B704AD7A64FA06D49EA6F52"> <enum>(C)</enum> <text>widely diversified exchange-traded funds, including sector-based or thematic exchange-traded funds;</text>
+                </subparagraph> 
+<subparagraph id="H491A9F254A8A4F43B065BAD9346EA80C"><enum>(D)</enum><text>United States Treasury securities, obligations of the United States Government, or obligations of State or local governments;</text></subparagraph> <subparagraph id="HF9D7F48EF4DC4DFCA4A2E47BE4A6C173"><enum>(E)</enum><text>certificates of deposit, money market funds, and cash equivalents; and</text></subparagraph> 
+<subparagraph id="H962F386DC2924947A3CD6DAFEC3AF384"><enum>(F)</enum><text>interests in a defined benefit pension plan or similar retirement arrangement not subject to individual investment direction.</text></subparagraph></paragraph> <paragraph id="H3B922D0E6CB04742A9F4ED8781DCBF27"><enum>(5)</enum><header>Filing date</header><text>The term <term>filing date</term> means the date on which a candidate files any document with the Federal Election Commission, a State election authority, or the Clerk of the House of Representatives or the Secretary of the Senate that formally initiates the candidacy.</text></paragraph> 
+<paragraph id="HB2DF43EEC46F47C18148015F15DCC773"><enum>(6)</enum><header>Qualified blind trust</header><text>The term <term>qualified blind trust</term> has the meaning given that term under section 13104(f)(3) of title 5, United States Code.</text></paragraph> <paragraph id="H710F44E09B1A4AD2B667B43F2EA086BB"><enum>(7)</enum><header>Supervising ethics office</header><text>The term <term>supervising ethics office</term> means—</text> 
+<subparagraph id="H138C8EA8A1FF45308E97EFEB83AFE8B1"><enum>(A)</enum><text>the Committee on Ethics of the House of Representatives, for candidates for the House of Representatives;</text></subparagraph> <subparagraph id="H1963398330B549FAB5F0DDB1FB02570D"><enum>(B)</enum><text>the Select Committee on Ethics of the Senate, for candidates for the Senate; and</text></subparagraph> 
+<subparagraph id="H450627CB1F1F417B993294116E10CD8E"><enum>(C)</enum><text>the Office of Government Ethics, for candidates for President or Vice President.</text></subparagraph></paragraph></section> <section id="HA5E69390D6D8473285ADF2F0E444AFD9"> <enum>3.</enum> <header>Divestiture or blind trust requirement for candidates for federal office</header> <subsection id="H095948CBD95F43B99612D184731C92FB"> <enum>(a)</enum> <header>Requirement</header> <text>Not later than 90 days after the filing date, each covered individual shall—</text>
+        <paragraph id="H7B1C4E318F014462810B40C2EFA7A8F8">
+          <enum>(1)</enum>
+ <text>divest all covered investments held by the covered individual; or</text> </paragraph> <paragraph id="H03B7C331FF0C40CB941E80A88433EBAB"> <enum>(2)</enum> <text>place all covered investments held by the covered individual into a qualified blind trust that meets the requirements of <internal-xref idref="HB3EF8704D273406A9CB3B3BFCE60EB4C" legis-path="3.(b)">subsection (b)</internal-xref>.</text>
+        </paragraph>
+      </subsection>
+      <subsection id="HB3EF8704D273406A9CB3B3BFCE60EB4C">
+        <enum>(b)</enum>
+        <header>Requirements for qualified blind trust</header>
+ <text>A qualified blind trust established pursuant to <internal-xref idref="H03B7C331FF0C40CB941E80A88433EBAB" legis-path="3.(a)(2)">subsection (a)(2)</internal-xref> shall—</text>
+        <paragraph id="H6CCB0BBAF0C24912930A60CA237EE2B9">
+          <enum>(1)</enum>
+ <text>be established and administered in accordance with the requirements of section 13104(f) of title 5, United States Code;</text>
+        </paragraph>
+        <paragraph id="H51D23EFDA03E4B7087CDBE570A8D0F9C">
+          <enum>(2)</enum>
+ <text>be managed by an independent trustee who is not a relative, business associate, or political affiliate of the covered individual;</text>
+        </paragraph>
+        <paragraph id="HAD3E2C12182649EAA1B8306DB824E312">
+          <enum>(3)</enum>
+ <text>prohibit the covered individual from having any knowledge of, or influence over, the investment decisions made by the trustee; and</text>
+        </paragraph>
+        <paragraph id="H1B1EC90B8C064CDCB8934A1916625285">
+          <enum>(4)</enum>
+ <text>prohibit any communication between the covered individual and the trustee regarding the assets or transactions within the trust, except as required by law or for tax purposes.</text>
+        </paragraph>
+      </subsection>
+      <subsection id="HC76A9AA452A047CF817BF8B171808D22">
+        <enum>(c)</enum>
+        <header>Certification</header>
+ <text>Not later than 90 days after the filing date, each covered individual shall file a written certification with the applicable supervising ethics office attesting that—</text>
+        <paragraph id="H03503F9C346A4DC0B608CEEDDB17D31C">
+          <enum>(1)</enum>
+ <text>the covered individual holds no covered investments other than exempt investments; or</text>
+        </paragraph>
+        <paragraph id="H442E90FED9DF400F886F4C46635D65F8">
+          <enum>(2)</enum>
+ <text>all covered investments have been placed in a qualified blind trust in compliance with this section, including the name of the trustee and the financial institution administering the trust.</text>
+        </paragraph>
+      </subsection>
+      <subsection id="HAA752B4409D94DF1AED1457142803BCC">
+        <enum>(d)</enum>
+        <header>Spousal and dependent child assets</header>
+ <text>A covered individual shall make good faith efforts to ensure that the covered investments of a spouse or dependent child are divested or placed in a qualified blind trust pursuant to this section. If a spouse maintains legally independent finances and does not consent to such divestiture or placement, the candidate shall certify such fact to the supervising ethics office, which shall have authority to determine whether an exemption is warranted.</text>
+      </subsection>
+    </section> 
+<section id="H19B79CB87A8B4A65895B45572933CEA6"><enum>4.</enum><header>Prohibition on acquisition of covered investments during candidacy</header> 
+<subsection id="H5F2B15BCECD54D5090640FD0B957292A"><enum>(a)</enum><header>In general</header><text>During the period beginning on the filing date and ending on the date on which the covered individual is no longer a candidate or no longer holds or is seeking Federal office, a covered individual may not purchase or otherwise acquire any new covered investment.</text></subsection> <subsection id="HDBEDF24B81564AD7AB8A0FD775F95846"><enum>(b)</enum><header>Exception</header><text><internal-xref idref="H5F2B15BCECD54D5090640FD0B957292A" legis-path="4.(a)">Subsection (a)</internal-xref> shall not apply to—</text> 
+<paragraph id="H19A70A8243EC442EAE8AC482B474F05F"><enum>(1)</enum><text>the receipt of a covered investment as part of a will, trust distribution, or similar inheritance, provided that such investment is divested or placed in a qualified blind trust within 90 days of receipt; and</text></paragraph> <paragraph id="HB046C7B931AC4B63A896B2EC0787C1CB"><enum>(2)</enum><text>purchases made within a qualified blind trust established pursuant to section 3.</text></paragraph></subsection></section> 
+<section id="H165E8E201EC5447D9DB053307E130DC3"><enum>5.</enum><header>Rulemaking</header> 
+<subsection id="HDCE64FC5C7BD4EC48E825AB17D9EE85A"><enum>(a)</enum><header>In general</header><text>Not later than 180 days after the date of the enactment of this Act, the Committee on Ethics of the House of Representatives, the Select Committee on Ethics of the Senate, and the Office of Government Ethics shall each issue regulations to carry out this Act with respect to candidates under their respective jurisdiction.</text></subsection> <subsection id="H3BE16F99659C4D0483D14BB036D9F336"><enum>(b)</enum><header>Contents</header><text>The regulations issued under <internal-xref idref="HDCE64FC5C7BD4EC48E825AB17D9EE85A" legis-path="5.(a)">subsection (a)</internal-xref> shall include—</text> 
+<paragraph id="HDCC0D2B2EBAD469090F0601EDC7CE006"><enum>(1)</enum><text>procedures for filing and reviewing certifications under <internal-xref idref="HC76A9AA452A047CF817BF8B171808D22" legis-path="3.(c)">section 3(c)</internal-xref>;</text></paragraph> <paragraph id="HAE06D9A43A894F0D8122F2B6087B87A6"><enum>(2)</enum><text>standards for determining whether a trust qualifies as a qualified blind trust for purposes of this Act; and</text></paragraph> 
+<paragraph id="H6EBC93BFD3704A0193A4DE56EEECA90D"><enum>(3)</enum><text>a process for covered individuals to request a hardship waiver, which may be granted only in extraordinary circumstances and shall be made publicly available.</text></paragraph></subsection></section> <section id="HD02A006FF2AC4DB8A7A68B6992DFDC27"><enum>6.</enum><header>Relation to other law</header> <subsection id="H3D1656E7AFA54EBB860428518C10A678"><enum>(a)</enum><header>Stock act</header><text>Nothing in this Act shall be construed to limit the application of the STOCK Act of 2012 (<external-xref legal-doc="public-law" parsable-cite="pl/112/105">Public Law 112–105</external-xref>) or any other applicable Federal law governing insider trading, conflicts of interest, or financial disclosure.</text></subsection> 
+<subsection id="H1F7CC592F9574A27A561C3704B14968D"><enum>(b)</enum><header>Ethics in government act</header><text display-inline="yes-display-inline">This Act shall be construed in conjunction with, and not in derogation of, <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/5/131">chapter 131</external-xref> of title 5, United States Code, and the financial disclosure requirements applicable to Federal candidates.</text></subsection></section> <section id="H3DDE16E00DAD450AB467A702D455014F"><enum>7.</enum><header>Effective date</header><text display-inline="no-display-inline">This Act shall take effect on the date that is 180 days after the date of enactment of this Act and shall apply to any individual who files for Federal office on or after such effective date.</text></section> 
+</legis-body></bill>
+

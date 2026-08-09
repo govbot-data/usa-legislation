@@ -1,0 +1,75 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H78DC976B1CF44752916BEFBF7811C674" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 HR 9993 IH: Rise Up for Child Care Act of 2026</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2026-07-30</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">119th CONGRESS</congress><session display="yes">2d Session</session><legis-num display="yes">H. R. 9993</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20260730">July 30, 2026</action-date><action-desc><sponsor name-id="M001160">Ms. Moore of Wisconsin</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HWM00">Committee on Ways and Means</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To increase child care supply availability and affordability and invest in home based child care, and for other purposes.</official-title></form><legis-body id="H6ED0B6B55D8941EA994F366CFF10355F" style="OLC"> 
+<section id="H9DC0B1F1425E4804877F40E3D8379E74" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Rise Up for Child Care Act of 2026</short-title></quote>.</text></section> <section id="H88CAFAC2BA1A4A549C0C7355EE894771"><enum>2.</enum><header>Child care entitlement</header> <subsection id="HCFF565330A754D90BDB53C0652F367B5"><enum>(a)</enum><header>Replacement of requirement that portion of funds be used for certain populations, with child care guarantee</header> <paragraph id="HE99D5A93DAF044DABFF53C6693EFA9A4"><enum>(1)</enum><header>In general</header><text>Section 418(b)(2) of the Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/618">42 U.S.C. 618(b)(2)</external-xref>) is amended to read as follows:</text> 
+<quoted-block display-inline="no-display-inline" id="HD78A8AC2E065478585D6A2CB6DEFFBC9" style="OLC"> 
+<paragraph id="H4E7585522CFE4F3F90EFD538B1E14A3D"><enum>(2)</enum><header>Child care guarantee for certain populations</header><text display-inline="yes-display-inline">As a condition of receiving funds under this section, a State shall guarantee the provision of child care services to—</text> <subparagraph id="HF4189A0837F5497E987F1C0F9320EB0B"><enum>(A)</enum><text>each recipient of assistance under the State program funded under this part or under a State program funded with qualified State expenditures (as defined in section 409(a)(7)(B)(i)); and</text> </subparagraph> 
+<subparagraph id="H1623203526714E2AA2227DA1F430C222"><enum>(B)</enum><text display-inline="yes-display-inline">each individual who is a former recipient of assistance under such a program, for any portion of the 24-month period beginning with the date the individual left the program involved.</text></subparagraph></paragraph><after-quoted-block>.</after-quoted-block></quoted-block> </paragraph> <paragraph id="HE75B3BD76D38433586BAF9E1D8F90A8F"><enum>(2)</enum><header>Conforming amendment</header><text>Section 418(c) of such Act (<external-xref legal-doc="usc" parsable-cite="usc/42/618">42 U.S.C. 618(c)</external-xref>) is amended by inserting <quote>except to the extent that such a requirement or limitation would interfere with the provision of child care services required by subsection (b)(2)</quote> before the period.</text></paragraph></subsection> 
+<subsection id="H6DADE936EEDB4CB6A713B7E262F2F9B4"><enum>(b)</enum><header>Elimination of State caps</header><text>Section 418(a) of such Act (<external-xref legal-doc="usc" parsable-cite="usc/42/618">42 U.S.C. 618(a)</external-xref>) is amended—</text> <paragraph id="HDA14D90CA89D4069A872CA0A934457C4"><enum>(1)</enum><text>in paragraph (2)—</text> 
+<subparagraph id="HAC2F8512BE914D4C98A5F10FFBE092C7"><enum>(A)</enum><text>by striking subparagraphs (B) and (D) and redesignating subparagraph (C) as subparagraph (B); and</text> </subparagraph> <subparagraph id="HF1FFB7342D8643C8B2FD2FBAF8DC8037"><enum>(B)</enum><text>in subparagraph (B) (as so redesignated), by striking <quote>the lesser of the State's allotment under subparagraph (B) or</quote>; and</text> </subparagraph></paragraph> 
+<paragraph id="H3DCB351F8BC84FA788D56F22ED20E485"><enum>(2)</enum><text>in paragraph (5), by striking <quote>(2)(C)</quote> and inserting <quote>(2)(B)</quote>.</text> </paragraph></subsection> <subsection id="H328925116BD44D29A5698EB860CEE9F5"> <enum>(c)</enum> <header>Open-Ended entitlement</header> <text>Section 418(a) of such Act (<external-xref legal-doc="usc" parsable-cite="usc/42/618">42 U.S.C. 618(a)</external-xref>) is amended—</text>
+        <paragraph id="HE5144E69C70344F0A14920CE74B8DFE7">
+          <enum>(1)</enum>
+ <text>in paragraph (1), by striking <quote>Subject to the amount appropriated under paragraph (3), each</quote> and inserting <quote>Each</quote>; and</text>
+        </paragraph>
+        <paragraph id="HE50E0C2EA9C74F768642B851791A1F30">
+          <enum>(2)</enum>
+ <text display-inline="yes-display-inline">in paragraph (3), by striking <quote>$3,550,000,000</quote> and all that follows and inserting <quote>such sums as are necessary to carry out this section for each fiscal year.</quote>.</text>
+        </paragraph>
+      </subsection> 
+<subsection id="H0D959CB22CC545889C3F48E5A3CCEFBB">
+        <enum>(d)</enum>
+        <header>Home-Based child care investments</header>
+        <paragraph id="H613A06B671B1433BA53D488DB07F80ED">
+          <enum>(1)</enum>
+          <header>Separate matching rate for expenditures to supplement wages and benefits for
+            home-based child care providers</header>
+ <text display-inline="yes-display-inline">Section 418(a)(2)(B) of such Act, as so redesignated by subsection (b)(1)(A) of this section, is amended by inserting <quote>, except that, with respect to the excess expenditures that are made to carry out a State plan to supplement the wages and benefits of persons working for a child care provider in a home-based child care setting, that percentage shall be 75 percent</quote> before the period.</text>
+        </paragraph>
+        <paragraph id="H86BAC39169524D21A862446D281851A4">
+          <enum>(2)</enum>
+          <header>Study</header>
+          <subparagraph id="HF59DF3FE3C404D9CAC542EACA401D010">
+            <enum>(A)</enum>
+            <header>In general</header>
+ <text>The Secretary of Health and Human Services (in this paragraph referred to as the <quote>Secretary</quote>) shall direct the Office of Planning, Research, and Evaluation in the Administration for Children and Families to study the effects of the amendment made by paragraph (1), and conduct research and maintain a research portfolio with respect to the effects.</text>
+          </subparagraph>
+          <subparagraph id="H38A9213643F1454A92384B043EFA5EE6">
+            <enum>(B)</enum>
+            <header>Personnel involved</header>
+ <text display-inline="yes-display-inline">In employing and retaining career civil servants for the conduct and maintenance of the research portfolio, the Secretary shall give priority to persons with any of the following characteristics:</text>
+            <clause id="HF7A99550666142F0AD83D9E20F564964">
+              <enum>(i)</enum>
+ <text>Prior work experience at the Department of Health and Human Services.</text> </clause> <clause id="HC46A12B529FD465CAF36C4154327D35B"> <enum>(ii)</enum> <text>Prior experience working on or evaluating discretionary grant programs.</text>
+            </clause>
+            <clause id="H44F90ABA6F2146679B3B7E99B7204D67">
+              <enum>(iii)</enum>
+ <text>Prior experience administering Federal grants, child care programs, or means-tested public assistance programs.</text>
+            </clause>
+          </subparagraph>
+          <subparagraph id="HE9BECBA906634E0685689FBFCF1E0959">
+            <enum>(C)</enum>
+            <header>Report to Congress</header>
+ <text>During each Congress, the Secretary shall submit a report to the Congress on the results of the study required by subparagraph (A).</text>
+          </subparagraph>
+          <subparagraph id="H6379FBAD2F814AEC87F5B0A5DAA54F90">
+            <enum>(D)</enum>
+            <header>Funding</header>
+ <text>Out of any funds in the Treasury not otherwise appropriated, there are appropriated $20,000,000 for each fiscal year to carry out this paragraph.</text>
+          </subparagraph>
+        </paragraph>
+      </subsection></section> 
+</legis-body></bill>
+

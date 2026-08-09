@@ -1,0 +1,65 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H375A13BD84DC4C81BCC68B02EDFF2CB8" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 HR 9906 IH: Federal Investment Exception for Essential Rehabilitation Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2026-07-23</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">119th CONGRESS</congress><session display="yes">2d Session</session><legis-num display="yes">H. R. 9906</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20260723">July 23, 2026</action-date><action-desc><sponsor name-id="G000599">Mr. Goldman of New York</sponsor> (for himself and <cosponsor name-id="M000317">Ms. Malliotakis</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HWM00">Committee on Ways and Means</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To amend the Internal Revenue Code of 1986 to provide an elective exception from the volume cap on tax-exempt bonds for certain exempt facility bonds for qualified residential rental projects, and for other purposes.</official-title></form><legis-body id="H9CA5C14AFEC3440CB27BDB3DDC8324C8" style="OLC"> 
+<section id="H608AA9EA707C455CAFD35C4FD0C6F5E4" section-type="section-one"><enum>1.</enum><header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Federal Investment Exception for Essential Rehabilitation Act</short-title></quote> or the <quote><short-title>FIXER Act</short-title></quote>.</text></section> 
+<section id="H11EEAA51F1A540B4AC3E2B6556D3A9EC"><enum>2.</enum><header>Elective exception from volume cap on tax-exempt bonds for certain exempt facility bonds for qualified residential rental projects</header> 
+<subsection id="H47127AE0B28546A0B1A9717282AF2F47">
+        <enum>(a)</enum>
+        <header>Elective exception from volume cap on tax-Exempt bonds</header>
+ <text display-inline="yes-display-inline"><external-xref legal-doc="usc" parsable-cite="usc/26/146">Section 146</external-xref> of the Internal Revenue Code of 1986 is amended by adding at the end the following new subsection:</text>
+        <quoted-block style="OLC" id="H9901DCD8B7594BA0883720FA6D95CD2A"
+          display-inline="no-display-inline">
+          <subsection id="HD0C66964886542FC953B83CE5B7CA5A3">
+            <enum>(o)</enum>
+            <header>Elective exception for certain exempt facility bonds for qualified residential
+              rental projects</header>
+            <paragraph id="HF3292BEE03F5416B9AAB38051CC36B43">
+              <enum>(1)</enum>
+              <header>In general</header>
+ <text display-inline="yes-display-inline">An issuing authority may elect (at such time and in such manner as the Secretary may prescribe) to exempt any bond described in paragraph (2) from such authority’s volume cap.</text>
+            </paragraph>
+            <paragraph id="HC085EAC4ED8B4EFEBEF78ADBDF0E4128">
+              <enum>(2)</enum>
+              <header>Bond described</header>
+ <text>A bond described in this paragraph is any exempt facility bond issued as part of an issue described in section 142(a)(7) if 95 percent or more of the net proceeds of the issue are used to preserve, improve, or replace—</text>
+              <subparagraph id="HBE028D6EAE0B46359151D6D9CE10A482">
+                <enum>(A)</enum>
+ <text>any qualified low-income building (as defined in section 42(c)(2)) the compliance period (as defined in section 42(i)(1)) for which has closed, but the extended use period (as defined in section 42(h)(6)(D)) for which has not closed, before the issue date of such issue,</text>
+              </subparagraph>
+              <subparagraph id="H1D708CEA1A4B4F14B47CF690572514CC" commented="no">
+                <enum>(B)</enum>
+ <text>any federally assisted building (as defined in section 42(d)(6)(C)(i)), or</text>
+              </subparagraph>
+              <subparagraph id="H16A17A858A3243D58B95DED70144E088" commented="no">
+                <enum>(C)</enum>
+ <text>any State-assisted building (as defined in section 42(d)(6)(C)(ii)).</text> </subparagraph> </paragraph> <paragraph id="HB103E0F490C34E7C8C0D95A9C8D0BC37"> <enum>(3)</enum> <header>Modified application of exception to prohibition on acquisition of existing property</header> <text display-inline="yes-display-inline">In the case of any bond exempted under paragraph (1), section 147(d) shall be applied by substituting <quote>50 percent</quote> for <quote>15 percent</quote> both places it appears.</text>
+            </paragraph>
+            <paragraph id="H515EAB17627144808F989A582F015B0C" commented="no">
+              <enum>(4)</enum>
+              <header>Duration of election</header>
+ <text>Any election under this subsection, once made, shall be irrevocable.</text> </paragraph> </subsection> <after-quoted-block>.</after-quoted-block> </quoted-block> </subsection> <subsection id="H941743B12CFF4955AE320D101884C4C7" commented="no"> <enum>(b)</enum> <header>Exception from low-Income housing tax credit limitation</header> <text>Section 42(h)(4) of such Code is amended by adding at the end the following new subparagraph:</text>
+        <quoted-block style="OLC" id="HE79CD68115C84C83940C3795C2E370DB"
+          display-inline="no-display-inline">
+          <subparagraph id="H618753E92B534BBA9E181E1FEDFE2C91" commented="no">
+            <enum>(C)</enum>
+            <header>Exception for certain bonds exempt from volume cap</header>
+ <text display-inline="yes-display-inline">The requirement of subparagraph (A)(i) shall be treated as met with respect to any obligation which would, but for an election made under section 146(o), be taken into account under section 146.</text>
+          </subparagraph>
+          <after-quoted-block>.</after-quoted-block>
+        </quoted-block>
+      </subsection> 
+<subsection id="H7ED4207B85184B29A99203886A379FCB"><enum>(c)</enum><header>Effective date</header><text>The amendments made by this section shall apply to bonds issued after the date of the enactment of this Act.</text></subsection></section> </legis-body></bill>
+
