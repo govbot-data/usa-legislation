@@ -11,15 +11,15 @@
   "other_titles": [
     {
       "note": "",
+      "title": "To amend the Federal Lands Recreation Enhancement Act to provide for a lifetime National Recreational Pass for law enforcement officers."
+    },
+    {
+      "note": "",
       "title": "Law Enforcement Officer Recreation Pass Act"
     },
     {
       "note": "",
       "title": "To amend the Federal Lands Recreation Enhancement Act to provide for a free annual National Parks and Federal Recreational Lands Pass for law enforcement officers and firefighters."
-    },
-    {
-      "note": "",
-      "title": "To amend the Federal Lands Recreation Enhancement Act to provide for a lifetime National Recreational Pass for law enforcement officers."
     }
   ],
   "other_identifiers": [
@@ -28,6 +28,16 @@
     }
   ],
   "actions": [
+    {
+      "description": "Committee on Energy and Natural Resources Subcommittee on National Parks. Hearings held.",
+      "date": "2026-07-21T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:21:10Z"
+      }
+    },
     {
       "description": "Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.",
       "date": "2025-07-22T04:00:00+00:00",
@@ -317,7 +327,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-22T08:34:54Z",
+    "logs_latest_update": "2026-08-09T06:21:10Z",
     "text_extraction_latest_update": "2026-07-22T10:32:14.219821Z"
   }
 }

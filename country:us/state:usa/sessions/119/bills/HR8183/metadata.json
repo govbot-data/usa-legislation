@@ -25,6 +25,26 @@
   ],
   "actions": [
     {
+      "description": "Ordered to be Reported (Amended) by the Yeas and Nays: 33 - 0.",
+      "date": "2026-07-21T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:21:09Z"
+      }
+    },
+    {
+      "description": "Committee Consideration and Mark-up Session Held",
+      "date": "2026-07-21T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:21:09Z"
+      }
+    },
+    {
       "description": "Referred to the House Committee on Education and Workforce.",
       "date": "2026-04-02T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -56,6 +76,22 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Blake D. Moore\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Mark B. Messmer",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Mark B. Messmer\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Lucy McBath",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Lucy McBath\"}",
       "organization_id": null
     },
     {
@@ -105,7 +141,9 @@
   ],
   "extras": {
     "cosponsor_bioguides": [
-      "M001213"
+      "M001213",
+      "M001233",
+      "M001208"
     ],
     "sponsor_bioguides": [
       "O000086"
@@ -118,7 +156,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-22T08:35:07Z",
+    "logs_latest_update": "2026-08-09T06:21:09Z",
     "text_extraction_latest_update": "2026-07-22T17:34:32.332547Z"
   }
 }

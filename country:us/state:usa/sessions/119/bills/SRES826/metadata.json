@@ -1,0 +1,167 @@
+{
+  "legislative_session": "119",
+  "identifier": "SRES 826",
+  "title": "A resolution honoring the contributions of small manufacturers of firearms to the economy, culture, and recreational heritage of the United States and recognizing the month of August 2026 as \"National Shooting Sports Month\".",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "resolution"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-us-119-sres826"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred to the Committee on Commerce, Science, and Transportation. (text: CR S4393)",
+      "date": "2026-07-30T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:21:10Z"
+      }
+    },
+    {
+      "description": "Submitted in Senate",
+      "date": "2026-07-30T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:21:10Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Jeanne Shaheen",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jeanne Shaheen\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Steve Daines",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Steve Daines\"}",
+      "organization_id": null
+    },
+    {
+      "name": "James C. Justice",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"James C. Justice\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Cynthia M. Lummis",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Cynthia M. Lummis\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Ted Budd",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Ted Budd\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Mike Crapo",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Mike Crapo\"}",
+      "organization_id": null
+    },
+    {
+      "name": "John Cornyn",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"John Cornyn\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Pete Ricketts",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Pete Ricketts\"}",
+      "organization_id": null
+    },
+    {
+      "name": "James E. Risch",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"James E. Risch\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced in Senate",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119sres826is/xml/BILLS-119sres826is.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119sres826is/pdf/BILLS-119sres826is.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-07-30",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/sres/BILLSTATUS-119sres826.xml",
+      "note": ""
+    },
+    {
+      "url": "https://congress.gov/bill/119th-congress/senate-resolution/826",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "cosponsor_bioguides": [
+      "S001181",
+      "D000618",
+      "J000312",
+      "L000571",
+      "B001305",
+      "C000880",
+      "C001056",
+      "R000618"
+    ],
+    "sponsor_bioguides": [
+      "R000584"
+    ]
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/government",
+    "name": "United States",
+    "classification": "country",
+    "division_id": "ocd-division/country:us"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-08-09T06:21:10Z"
+  }
+}

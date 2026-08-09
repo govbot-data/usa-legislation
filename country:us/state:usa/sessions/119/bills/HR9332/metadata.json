@@ -21,6 +21,26 @@
   ],
   "actions": [
     {
+      "description": "Ordered to be Reported by the Yeas and Nays: 47 - 0.",
+      "date": "2026-07-21T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:21:10Z"
+      }
+    },
+    {
+      "description": "Committee Consideration and Mark-up Session Held",
+      "date": "2026-07-21T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:21:10Z"
+      }
+    },
+    {
       "description": "Forwarded by Subcommittee to Full Committee by Voice Vote.",
       "date": "2026-06-24T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -101,6 +121,30 @@
       "organization_id": null
     },
     {
+      "name": "Thomas H. Kean",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Thomas H. Kean\"}",
+      "organization_id": null
+    },
+    {
+      "name": "H. Morgan Griffith",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"H. Morgan Griffith\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jennifer L. McClellan",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jennifer L. McClellan\"}",
+      "organization_id": null
+    },
+    {
       "name": "Troy Balderson",
       "classification": "primary",
       "entity_type": "person",
@@ -143,7 +187,10 @@
     "cosponsor_bioguides": [
       "M001226",
       "J000302",
-      "V000138"
+      "V000138",
+      "K000398",
+      "G000568",
+      "M001227"
     ],
     "sponsor_bioguides": [
       "B001306"
@@ -156,7 +203,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-22T08:34:57Z",
+    "logs_latest_update": "2026-08-09T06:21:10Z",
     "text_extraction_latest_update": "2026-07-22T13:43:33.455389Z"
   }
 }

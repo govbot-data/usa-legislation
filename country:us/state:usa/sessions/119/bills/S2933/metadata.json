@@ -16,6 +16,26 @@
   ],
   "actions": [
     {
+      "description": "Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.",
+      "date": "2026-07-29T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:21:07Z"
+      }
+    },
+    {
+      "description": "Committee on Energy and Natural Resources Subcommittee on National Parks. Hearings held.",
+      "date": "2026-07-21T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:21:07Z"
+      }
+    },
+    {
       "description": "Read twice and referred to the Committee on Energy and Natural Resources.",
       "date": "2025-09-29T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -80,7 +100,19 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "CBO: S. 2933, a bill to redesignate a playground in the New River Gorge National Park and Preserve in the State of West Virginia as the \u201cHearts of Gold Playground: In Honor of West Virginia Children and Families Impacted by Childhood Cancer\u201d",
+      "links": [
+        {
+          "url": "https://www.cbo.gov/publication/62647",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -107,7 +139,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-22T08:35:14Z",
+    "logs_latest_update": "2026-08-09T06:21:07Z",
     "text_extraction_latest_update": "2026-07-22T09:31:14.829705Z"
   }
 }

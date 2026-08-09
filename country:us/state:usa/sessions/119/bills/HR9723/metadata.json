@@ -21,6 +21,26 @@
   ],
   "actions": [
     {
+      "description": "Ordered to be Reported (Amended) by the Yeas and Nays: 33 - 0.",
+      "date": "2026-07-21T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:21:11Z"
+      }
+    },
+    {
+      "description": "Committee Consideration and Mark-up Session Held",
+      "date": "2026-07-21T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:21:11Z"
+      }
+    },
+    {
       "description": "Referred to the House Committee on Education and Workforce.",
       "date": "2026-07-16T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -46,6 +66,22 @@
     }
   ],
   "sponsorships": [
+    {
+      "name": "Jefferson Van Drew",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jefferson Van Drew\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Gregory F. Murphy",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Gregory F. Murphy\"}",
+      "organization_id": null
+    },
     {
       "name": "Ryan Mackenzie",
       "classification": "primary",
@@ -86,7 +122,10 @@
     }
   ],
   "extras": {
-    "cosponsor_bioguides": [],
+    "cosponsor_bioguides": [
+      "V000133",
+      "M001210"
+    ],
     "sponsor_bioguides": [
       "M001230"
     ]
@@ -98,7 +137,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-22T08:35:02Z",
+    "logs_latest_update": "2026-08-09T06:21:11Z",
     "text_extraction_latest_update": "2026-07-22T17:32:01.661869Z"
   }
 }

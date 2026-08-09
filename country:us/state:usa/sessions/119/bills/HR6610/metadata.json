@@ -21,6 +21,26 @@
   ],
   "actions": [
     {
+      "description": "Ordered to be Reported (Amended) by the Yeas and Nays: 40 - 2.",
+      "date": "2026-07-22T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:21:13Z"
+      }
+    },
+    {
+      "description": "Committee Consideration and Mark-up Session Held",
+      "date": "2026-07-22T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:21:13Z"
+      }
+    },
+    {
       "description": "Referred to the House Committee on Oversight and Government Reform.",
       "date": "2025-12-11T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -343,6 +363,30 @@
       "organization_id": null
     },
     {
+      "name": "Yassamin Ansari",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Yassamin Ansari\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Robert P. Bresnahan",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Robert P. Bresnahan\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Bennie G. Thompson",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Bennie G. Thompson\"}",
+      "organization_id": null
+    },
+    {
       "name": "Jake Auchincloss",
       "classification": "primary",
       "entity_type": "person",
@@ -419,7 +463,10 @@
       "P000609",
       "F000481",
       "F000476",
-      "M001218"
+      "M001218",
+      "A000381",
+      "B001327",
+      "T000193"
     ],
     "sponsor_bioguides": [
       "A000148"
@@ -432,7 +479,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-22T08:35:02Z",
+    "logs_latest_update": "2026-08-09T06:21:13Z",
     "text_extraction_latest_update": "2026-07-23T07:26:57.583880Z"
   }
 }

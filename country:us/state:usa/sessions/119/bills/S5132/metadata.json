@@ -1,0 +1,111 @@
+{
+  "legislative_session": "119",
+  "identifier": "S 5132",
+  "title": "Tribal Access to Nutrition Assistance Act of 2026",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "A bill to amend the Food and Nutrition Act of 2008 to allow for dual enrollment in the supplemental nutrition assistance program and the food distribution program on Indian reservations."
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-us-119-s5132"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.",
+      "date": "2026-07-23T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:21:09Z"
+      }
+    },
+    {
+      "description": "Introduced in Senate",
+      "date": "2026-07-23T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:21:09Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Catherine Cortez Masto",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Catherine Cortez Masto\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Patty Murray",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Patty Murray\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced in Senate",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119s5132is/xml/BILLS-119s5132is.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119s5132is/pdf/BILLS-119s5132is.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-07-23",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s5132.xml",
+      "note": ""
+    },
+    {
+      "url": "https://congress.gov/bill/119th-congress/senate-bill/5132",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "cosponsor_bioguides": [
+      "C001113"
+    ],
+    "sponsor_bioguides": [
+      "M001111"
+    ]
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/government",
+    "name": "United States",
+    "classification": "country",
+    "division_id": "ocd-division/country:us"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-08-09T06:21:09Z"
+  }
+}

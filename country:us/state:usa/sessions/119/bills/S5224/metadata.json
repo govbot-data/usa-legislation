@@ -1,0 +1,178 @@
+{
+  "legislative_session": "119",
+  "identifier": "S 5224",
+  "title": "Runway SAFE-T Act",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "A bill to improve training for airport drivers in the movement area at commercial service airports through the establishment of a task force and the use of technology, and for other purposes."
+    },
+    {
+      "note": "",
+      "title": "Runway Surface Awareness and Focused, Effective Training and Technology Act"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-us-119-s5224"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Read twice and referred to the Committee on Commerce, Science, and Transportation.",
+      "date": "2026-08-04T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:21:08Z"
+      }
+    },
+    {
+      "description": "Introduced in Senate",
+      "date": "2026-08-04T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:21:08Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "John W. Hickenlooper",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"John W. Hickenlooper\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Amy Klobuchar",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Amy Klobuchar\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Roger F. Wicker",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Roger F. Wicker\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Lisa Blunt Rochester",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Lisa Blunt Rochester\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Deb Fischer",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Deb Fischer\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Catherine Cortez Masto",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Catherine Cortez Masto\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Tim Sheehy",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Tim Sheehy\"}",
+      "organization_id": null
+    },
+    {
+      "name": "John Kennedy",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"John Kennedy\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jerry Moran",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Jerry Moran\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced in Senate",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119s5224is/xml/BILLS-119s5224is.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119s5224is/pdf/BILLS-119s5224is.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-04",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s5224.xml",
+      "note": ""
+    },
+    {
+      "url": "https://congress.gov/bill/119th-congress/senate-bill/5224",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "cosponsor_bioguides": [
+      "H000273",
+      "K000367",
+      "W000437",
+      "B001303",
+      "F000463",
+      "C001113",
+      "S001232",
+      "K000393"
+    ],
+    "sponsor_bioguides": [
+      "M000934"
+    ]
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/government",
+    "name": "United States",
+    "classification": "country",
+    "division_id": "ocd-division/country:us"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-08-09T06:21:08Z"
+  }
+}

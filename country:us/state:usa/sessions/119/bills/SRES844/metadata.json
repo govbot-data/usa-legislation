@@ -1,0 +1,108 @@
+{
+  "legislative_session": "119",
+  "identifier": "SRES 844",
+  "title": "A resolution honoring the lives and service of Emily Barker, Nicholas Hutcherson, Sydney Watson, Nathan Matthews, Nicholas Dale, and all those who serve on the front lines of wildland firefighting efforts in the United States.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "resolution"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-us-119-sres844"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent.",
+      "date": "2026-08-07T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:21:09Z"
+      }
+    },
+    {
+      "description": "Passed/agreed to in Senate: Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent.",
+      "date": "2026-08-07T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:21:09Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Mike Lee",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Mike Lee\"}",
+      "organization_id": null
+    },
+    {
+      "name": "John W. Hickenlooper",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"John W. Hickenlooper\"}",
+      "organization_id": null
+    },
+    {
+      "name": "John Curtis",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"John Curtis\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Michael Bennet",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Michael Bennet\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/sres/BILLSTATUS-119sres844.xml",
+      "note": ""
+    },
+    {
+      "url": "https://congress.gov/bill/119th-congress/senate-resolution/844",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "cosponsor_bioguides": [
+      "L000577",
+      "H000273",
+      "C001114"
+    ],
+    "sponsor_bioguides": [
+      "B001267"
+    ]
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/government",
+    "name": "United States",
+    "classification": "country",
+    "division_id": "ocd-division/country:us"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-08-09T06:21:09Z"
+  }
+}

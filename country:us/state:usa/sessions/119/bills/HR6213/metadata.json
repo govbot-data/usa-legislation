@@ -21,6 +21,26 @@
   ],
   "actions": [
     {
+      "description": "Ordered to be Reported (Amended) by the Yeas and Nays: 18 - 15.",
+      "date": "2026-07-21T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:21:06Z"
+      }
+    },
+    {
+      "description": "Committee Consideration and Mark-up Session Held",
+      "date": "2026-07-21T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:21:06Z"
+      }
+    },
+    {
       "description": "Referred to the House Committee on Education and Workforce.",
       "date": "2025-11-20T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -519,6 +539,30 @@
       "organization_id": null
     },
     {
+      "name": "Jefferson Shreve",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jefferson Shreve\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Ronny Jackson",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Ronny Jackson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "August Pfluger",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"August Pfluger\"}",
+      "organization_id": null
+    },
+    {
       "name": "Mark B. Messmer",
       "classification": "primary",
       "entity_type": "person",
@@ -617,7 +661,10 @@
       "F000459",
       "V000135",
       "F000472",
-      "M001194"
+      "M001194",
+      "S001229",
+      "J000304",
+      "P000048"
     ],
     "sponsor_bioguides": [
       "M001233"
@@ -630,7 +677,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-22T08:35:05Z",
+    "logs_latest_update": "2026-08-09T06:21:06Z",
     "text_extraction_latest_update": "2026-07-22T18:34:35.944220Z"
   }
 }

@@ -1,0 +1,198 @@
+{
+  "legislative_session": "119",
+  "identifier": "S 5337",
+  "title": "A bill to amend the Immigration and Nationality Act to provide for extensions of detention of certain aliens ordered removed, and for other purposes.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-us-119-s5337"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Read twice and referred to the Committee on the Judiciary.",
+      "date": "2026-08-06T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:21:07Z"
+      }
+    },
+    {
+      "description": "Introduced in Senate",
+      "date": "2026-08-06T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:21:07Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Tommy Tuberville",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Tommy Tuberville\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Tom Cotton",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Tom Cotton\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Ted Cruz",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Ted Cruz\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Roger Marshall",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Roger Marshall\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Mike Crapo",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Mike Crapo\"}",
+      "organization_id": null
+    },
+    {
+      "name": "James E. Risch",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"James E. Risch\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Kevin Cramer",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Kevin Cramer\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Deb Fischer",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Deb Fischer\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Mike Rounds",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Mike Rounds\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Ted Budd",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Ted Budd\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Cindy Hyde-Smith",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Cindy Hyde-Smith\"}",
+      "organization_id": null
+    },
+    {
+      "name": "John Hoeven",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"John Hoeven\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Pete Ricketts",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Pete Ricketts\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Katie Britt",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Katie Britt\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s5337.xml",
+      "note": ""
+    },
+    {
+      "url": "https://congress.gov/bill/119th-congress/senate-bill/5337",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "cosponsor_bioguides": [
+      "T000278",
+      "C001095",
+      "C001098",
+      "M001198",
+      "C000880",
+      "R000584",
+      "C001096",
+      "F000463",
+      "R000605",
+      "B001305",
+      "H001079",
+      "H001061",
+      "R000618"
+    ],
+    "sponsor_bioguides": [
+      "B001319"
+    ]
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/government",
+    "name": "United States",
+    "classification": "country",
+    "division_id": "ocd-division/country:us"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-08-09T06:21:07Z"
+  }
+}

@@ -21,6 +21,16 @@
   ],
   "actions": [
     {
+      "description": "Committee on Energy and Natural Resources Subcommittee on National Parks. Hearings held.",
+      "date": "2026-07-21T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:21:13Z"
+      }
+    },
+    {
       "description": "Read twice and referred to the Committee on Energy and Natural Resources.",
       "date": "2026-06-11T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -50,6 +60,14 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Lisa Blunt Rochester\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Maria Cantwell",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Maria Cantwell\"}",
       "organization_id": null
     },
     {
@@ -99,7 +117,8 @@
   ],
   "extras": {
     "cosponsor_bioguides": [
-      "B001303"
+      "B001303",
+      "C000127"
     ],
     "sponsor_bioguides": [
       "S001184"
@@ -112,7 +131,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-22T08:35:05Z",
+    "logs_latest_update": "2026-08-09T06:21:13Z",
     "text_extraction_latest_update": "2026-07-22T11:35:20.486251Z"
   }
 }

@@ -1,0 +1,113 @@
+{
+  "legislative_session": "119",
+  "identifier": "SRES 812",
+  "title": "A resolution recognizing the 179th anniversary of the arrival of pioneers belonging to The Church of Jesus Christ of Latter-day Saints to the Great Salt Lake Valley, honoring the enduring pioneer spirit that shaped the American West, and celebrating its continued relevance to the unfolding American story.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "resolution"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-us-119-sres812"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred to the Committee on the Judiciary. (text: CR S4268-4269)",
+      "date": "2026-07-23T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:21:09Z"
+      }
+    },
+    {
+      "description": "Submitted in Senate",
+      "date": "2026-07-23T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:21:09Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Mike Lee",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Mike Lee\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Mike Crapo",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Mike Crapo\"}",
+      "organization_id": null
+    },
+    {
+      "name": "John Curtis",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"John Curtis\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced in Senate",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119sres812is/xml/BILLS-119sres812is.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119sres812is/pdf/BILLS-119sres812is.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-07-23",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/sres/BILLSTATUS-119sres812.xml",
+      "note": ""
+    },
+    {
+      "url": "https://congress.gov/bill/119th-congress/senate-resolution/812",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "cosponsor_bioguides": [
+      "L000577",
+      "C000880"
+    ],
+    "sponsor_bioguides": [
+      "C001114"
+    ]
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/government",
+    "name": "United States",
+    "classification": "country",
+    "division_id": "ocd-division/country:us"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-08-09T06:21:09Z"
+  }
+}

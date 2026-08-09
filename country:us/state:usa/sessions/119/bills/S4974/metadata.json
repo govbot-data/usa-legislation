@@ -21,6 +21,36 @@
   ],
   "actions": [
     {
+      "description": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 530.",
+      "date": "2026-07-28T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:21:06Z"
+      }
+    },
+    {
+      "description": "Committee on Health, Education, Labor, and Pensions. Reported by Senator Cassidy with an amendment in the nature of a substitute. Without written report.",
+      "date": "2026-07-28T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:21:06Z"
+      }
+    },
+    {
+      "description": "Committee on Health, Education, Labor, and Pensions. Ordered to be reported with an amendment in the nature of a substitute favorably.",
+      "date": "2026-07-22T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:21:06Z"
+      }
+    },
+    {
       "description": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions.",
       "date": "2026-07-14T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -53,6 +83,14 @@
       "organization_id": null
     },
     {
+      "name": "Timothy M. Kaine",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Timothy M. Kaine\"}",
+      "organization_id": null
+    },
+    {
       "name": "Tommy Tuberville",
       "classification": "primary",
       "entity_type": "person",
@@ -63,6 +101,21 @@
   ],
   "related_bills": [],
   "versions": [
+    {
+      "note": "Reported to Senate",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119s4974rs/xml/BILLS-119s4974rs.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119s4974rs/pdf/BILLS-119s4974rs.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-07-28",
+      "classification": ""
+    },
     {
       "note": "Introduced in Senate",
       "links": [
@@ -93,7 +146,8 @@
   ],
   "extras": {
     "cosponsor_bioguides": [
-      "C001075"
+      "C001075",
+      "K000384"
     ],
     "sponsor_bioguides": [
       "T000278"
@@ -106,7 +160,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-22T08:35:10Z",
+    "logs_latest_update": "2026-08-09T06:21:06Z",
     "text_extraction_latest_update": "2026-07-22T09:42:51.051456Z"
   }
 }

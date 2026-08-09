@@ -16,6 +16,36 @@
   ],
   "actions": [
     {
+      "description": "Ordered to be Reported by Unanimous Consent.",
+      "date": "2026-07-22T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:21:09Z"
+      }
+    },
+    {
+      "description": "Committee Consideration and Mark-up Session Held",
+      "date": "2026-07-22T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:21:09Z"
+      }
+    },
+    {
+      "description": "Subcommittee on Federal Lands Discharged",
+      "date": "2026-07-22T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:21:09Z"
+      }
+    },
+    {
       "description": "Subcommittee Hearings Held",
       "date": "2026-07-01T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -94,7 +124,19 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "CBO: H.R. 1693, a bill to redesignate the National Historic Trails Interpretive Center in Casper, Wyoming, as the \u2018\u2018Barbara L. Cubin National Historic Trails Interpretive Center\u2019\u2019",
+      "links": [
+        {
+          "url": "https://www.cbo.gov/publication/62637",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -119,7 +161,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-22T08:35:05Z",
+    "logs_latest_update": "2026-08-09T06:21:09Z",
     "text_extraction_latest_update": "2026-07-22T13:33:49.855763Z"
   }
 }

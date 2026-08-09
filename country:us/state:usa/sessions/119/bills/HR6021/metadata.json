@@ -21,6 +21,26 @@
   ],
   "actions": [
     {
+      "description": "Ordered to be Reported in the Nature of a Substitute (Amended) by Unanimous Consent.",
+      "date": "2026-07-22T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:21:09Z"
+      }
+    },
+    {
+      "description": "Subcommittee on Water, Wildlife and Fisheries Discharged",
+      "date": "2026-07-22T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:21:09Z"
+      }
+    },
+    {
       "description": "Subcommittee Hearings Held",
       "date": "2026-02-04T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -124,7 +144,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-22T08:34:55Z",
+    "logs_latest_update": "2026-08-09T06:21:09Z",
     "text_extraction_latest_update": "2026-07-22T14:54:22.795825Z"
   }
 }

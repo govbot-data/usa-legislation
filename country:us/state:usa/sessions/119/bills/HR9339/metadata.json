@@ -21,6 +21,26 @@
   ],
   "actions": [
     {
+      "description": "Ordered to be Reported by the Yeas and Nays: 44 - 0.",
+      "date": "2026-07-21T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:21:08Z"
+      }
+    },
+    {
+      "description": "Committee Consideration and Mark-up Session Held",
+      "date": "2026-07-21T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:21:08Z"
+      }
+    },
+    {
       "description": "Forwarded by Subcommittee to Full Committee by Voice Vote.",
       "date": "2026-06-24T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -117,6 +137,14 @@
       "organization_id": null
     },
     {
+      "name": "H. Morgan Griffith",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"H. Morgan Griffith\"}",
+      "organization_id": null
+    },
+    {
       "name": "Diana Harshbarger",
       "classification": "primary",
       "entity_type": "person",
@@ -161,7 +189,8 @@
       "O000177",
       "S001216",
       "E000300",
-      "V000138"
+      "V000138",
+      "G000568"
     ],
     "sponsor_bioguides": [
       "H001086"
@@ -174,7 +203,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-22T08:35:13Z",
+    "logs_latest_update": "2026-08-09T06:21:08Z",
     "text_extraction_latest_update": "2026-07-22T18:37:55.780160Z"
   }
 }

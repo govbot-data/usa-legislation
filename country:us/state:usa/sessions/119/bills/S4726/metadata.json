@@ -11,11 +11,11 @@
   "other_titles": [
     {
       "note": "",
-      "title": "Preventing External Aggression and Conflict Escalation in Sudan Act of 2026"
+      "title": "A bill to promote efforts to bring about stability and security in Sudan, and for other purposes."
     },
     {
       "note": "",
-      "title": "A bill to promote efforts to bring about stability and security in Sudan, and for other purposes."
+      "title": "Preventing External Aggression and Conflict Escalation in Sudan Act of 2026"
     }
   ],
   "other_identifiers": [
@@ -24,6 +24,26 @@
     }
   ],
   "actions": [
+    {
+      "description": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 519.",
+      "date": "2026-07-27T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:21:13Z"
+      }
+    },
+    {
+      "description": "Committee on Foreign Relations. Reported by Senator Risch with an amendment in the nature of a substitute. Without written report.",
+      "date": "2026-07-27T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:21:13Z"
+      }
+    },
     {
       "description": "Committee on Foreign Relations. Ordered to be reported with an amendment in the nature of a substitute favorably.",
       "date": "2026-06-17T04:00:00+00:00",
@@ -83,6 +103,14 @@
       "organization_id": null
     },
     {
+      "name": "Cory Booker",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Cory Booker\"}",
+      "organization_id": null
+    },
+    {
       "name": "James E. Risch",
       "classification": "primary",
       "entity_type": "person",
@@ -93,6 +121,21 @@
   ],
   "related_bills": [],
   "versions": [
+    {
+      "note": "Reported to Senate",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119s4726rs/xml/BILLS-119s4726rs.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119s4726rs/pdf/BILLS-119s4726rs.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-07-27",
+      "classification": ""
+    },
     {
       "note": "Introduced in Senate",
       "links": [
@@ -125,7 +168,8 @@
     "cosponsor_bioguides": [
       "C001088",
       "C001056",
-      "S001181"
+      "S001181",
+      "B001288"
     ],
     "sponsor_bioguides": [
       "R000584"
@@ -138,7 +182,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-22T08:35:07Z",
+    "logs_latest_update": "2026-08-09T06:21:13Z",
     "text_extraction_latest_update": "2026-07-22T11:20:34.336055Z"
   }
 }

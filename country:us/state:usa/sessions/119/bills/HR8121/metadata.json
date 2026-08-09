@@ -16,6 +16,26 @@
   ],
   "actions": [
     {
+      "description": "Ordered to be Reported (Amended) by Unanimous Consent.",
+      "date": "2026-07-22T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:21:14Z"
+      }
+    },
+    {
+      "description": "Subcommittee on Federal Lands Discharged",
+      "date": "2026-07-22T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:21:14Z"
+      }
+    },
+    {
       "description": "Subcommittee Hearings Held",
       "date": "2026-07-01T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -113,7 +133,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-22T08:34:53Z",
+    "logs_latest_update": "2026-08-09T06:21:14Z",
     "text_extraction_latest_update": "2026-07-22T09:12:33.316711Z"
   }
 }

@@ -16,6 +16,38 @@
   ],
   "actions": [
     {
+      "description": "Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S4286)",
+      "date": "2026-07-27T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:21:06Z"
+      }
+    },
+    {
+      "description": "Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.",
+      "date": "2026-07-27T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:21:06Z"
+      }
+    },
+    {
+      "description": "Senate Committee on the Judiciary discharged by Unanimous Consent.",
+      "date": "2026-07-27T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:21:06Z"
+      }
+    },
+    {
       "description": "Referred to the Committee on the Judiciary. (text: CR S2940)",
       "date": "2026-06-18T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -206,6 +238,14 @@
       "organization_id": null
     },
     {
+      "name": "Maria Cantwell",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Maria Cantwell\"}",
+      "organization_id": null
+    },
+    {
       "name": "John Cornyn",
       "classification": "primary",
       "entity_type": "person",
@@ -222,6 +262,21 @@
     }
   ],
   "versions": [
+    {
+      "note": "Agreed to Senate",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119sres781ats/xml/BILLS-119sres781ats.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119sres781ats/pdf/BILLS-119sres781ats.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-07-27",
+      "classification": ""
+    },
     {
       "note": "Introduced in Senate",
       "links": [
@@ -272,7 +327,8 @@
       "M001176",
       "S001184",
       "J000312",
-      "B001319"
+      "B001319",
+      "C000127"
     ],
     "sponsor_bioguides": [
       "C001056"
@@ -285,7 +341,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-22T08:34:54Z",
+    "logs_latest_update": "2026-08-09T06:21:06Z",
     "text_extraction_latest_update": "2026-07-22T15:36:28.224338Z"
   }
 }

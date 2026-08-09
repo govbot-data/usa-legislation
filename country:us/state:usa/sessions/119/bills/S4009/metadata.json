@@ -21,6 +21,26 @@
   ],
   "actions": [
     {
+      "description": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 506.",
+      "date": "2026-07-27T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:21:12Z"
+      }
+    },
+    {
+      "description": "Committee on Foreign Relations. Reported by Senator Risch with an amendment in the nature of a substitute. Without written report.",
+      "date": "2026-07-27T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:21:12Z"
+      }
+    },
+    {
       "description": "Committee on Foreign Relations. Ordered to be reported with an amendment in the nature of a substitute favorably.",
       "date": "2026-06-17T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -103,6 +123,38 @@
       "organization_id": null
     },
     {
+      "name": "Catherine Cortez Masto",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Catherine Cortez Masto\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Roger Marshall",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Roger Marshall\"}",
+      "organization_id": null
+    },
+    {
+      "name": "David H. McCormick",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"David H. McCormick\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Raphael Warnock",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Raphael Warnock\"}",
+      "organization_id": null
+    },
+    {
       "name": "Ted Cruz",
       "classification": "primary",
       "entity_type": "person",
@@ -120,6 +172,21 @@
   ],
   "versions": [
     {
+      "note": "Reported to Senate",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119s4009rs/xml/BILLS-119s4009rs.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119s4009rs/pdf/BILLS-119s4009rs.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-07-27",
+      "classification": ""
+    },
+    {
       "note": "Introduced in Senate",
       "links": [
         {
@@ -135,7 +202,19 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "CBO: S. 4009, Falun Gong and Victims of Forced Organ Harvesting Protection Act",
+      "links": [
+        {
+          "url": "https://www.cbo.gov/publication/62605",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -154,7 +233,11 @@
       "Y000064",
       "J000293",
       "W000779",
-      "R000605"
+      "R000605",
+      "C001113",
+      "M001198",
+      "M001243",
+      "W000790"
     ],
     "sponsor_bioguides": [
       "C001098"
@@ -167,7 +250,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-22T08:35:16Z",
+    "logs_latest_update": "2026-08-09T06:21:12Z",
     "text_extraction_latest_update": "2026-07-22T19:41:05.909835Z"
   }
 }

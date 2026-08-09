@@ -25,6 +25,36 @@
   ],
   "actions": [
     {
+      "description": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 543.",
+      "date": "2026-08-05T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:21:06Z"
+      }
+    },
+    {
+      "description": "Committee on Health, Education, Labor, and Pensions. Reported by Senator Cassidy with an amendment in the nature of a substitute. Without written report.",
+      "date": "2026-08-05T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:21:06Z"
+      }
+    },
+    {
+      "description": "Committee on Health, Education, Labor, and Pensions. Ordered to be reported with an amendment in the nature of a substitute favorably.",
+      "date": "2026-07-30T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:21:06Z"
+      }
+    },
+    {
       "description": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions.",
       "date": "2026-01-07T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -113,6 +143,30 @@
       "organization_id": null
     },
     {
+      "name": "Angus S. King",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Angus S. King\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Timothy M. Kaine",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Timothy M. Kaine\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Lisa Blunt Rochester",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Lisa Blunt Rochester\"}",
+      "organization_id": null
+    },
+    {
       "name": "Jim Banks",
       "classification": "primary",
       "entity_type": "person",
@@ -123,6 +177,21 @@
   ],
   "related_bills": [],
   "versions": [
+    {
+      "note": "Reported to Senate",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119s3589rs/xml/BILLS-119s3589rs.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119s3589rs/pdf/BILLS-119s3589rs.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-05",
+      "classification": ""
+    },
     {
       "note": "Introduced in Senate",
       "links": [
@@ -160,7 +229,10 @@
       "S001203",
       "K000377",
       "S001227",
-      "C001035"
+      "C001035",
+      "K000383",
+      "K000384",
+      "B001303"
     ],
     "sponsor_bioguides": [
       "B001299"
@@ -173,7 +245,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-22T08:35:15Z",
+    "logs_latest_update": "2026-08-09T06:21:06Z",
     "text_extraction_latest_update": "2026-07-22T18:12:31.533859Z"
   }
 }

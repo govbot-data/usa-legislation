@@ -21,6 +21,36 @@
   ],
   "actions": [
     {
+      "description": "Forwarded by Subcommittee to Full Committee by Voice Vote.",
+      "date": "2026-07-15T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:21:15Z"
+      }
+    },
+    {
+      "description": "Subcommittee Consideration and Mark-up Session Held",
+      "date": "2026-07-15T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:21:15Z"
+      }
+    },
+    {
+      "description": "Referred to the Subcommittee on Health.",
+      "date": "2025-10-31T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:21:15Z"
+      }
+    },
+    {
       "description": "Referred to the Committee on Energy and Commerce, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
       "date": "2025-10-31T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -231,7 +261,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-22T08:35:17Z",
+    "logs_latest_update": "2026-08-09T06:21:15Z",
     "text_extraction_latest_update": "2026-07-22T15:37:50.065409Z"
   }
 }

@@ -21,6 +21,16 @@
   ],
   "actions": [
     {
+      "description": "Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.",
+      "date": "2026-08-06T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:21:07Z"
+      }
+    },
+    {
       "description": "Read twice and referred to the Committee on Homeland Security and Governmental Affairs. (Sponsor introductory remarks on measure: CR S8450-8451)",
       "date": "2025-12-02T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -85,6 +95,14 @@
       "organization_id": null
     },
     {
+      "name": "Bernie Moreno",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Bernie Moreno\"}",
+      "organization_id": null
+    },
+    {
       "name": "Susan M. Collins",
       "classification": "primary",
       "entity_type": "person",
@@ -129,7 +147,8 @@
       "F000479",
       "B001303",
       "C001088",
-      "S001181"
+      "S001181",
+      "M001242"
     ],
     "sponsor_bioguides": [
       "C001035"
@@ -142,7 +161,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-22T08:35:09Z",
+    "logs_latest_update": "2026-08-09T06:21:07Z",
     "text_extraction_latest_update": "2026-07-22T18:37:08.961629Z"
   }
 }

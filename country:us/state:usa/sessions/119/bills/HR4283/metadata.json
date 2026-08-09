@@ -16,6 +16,26 @@
   ],
   "actions": [
     {
+      "description": "Ordered to be Reported by Voice Vote.",
+      "date": "2026-07-22T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:21:10Z"
+      }
+    },
+    {
+      "description": "Committee Consideration and Mark-up Session Held",
+      "date": "2026-07-22T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:21:10Z"
+      }
+    },
+    {
       "description": "Referred to the House Committee on Oversight and Government Reform.",
       "date": "2025-07-02T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -146,6 +166,14 @@
       "organization_id": null
     },
     {
+      "name": "Dave Min",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Dave Min\"}",
+      "organization_id": null
+    },
+    {
       "name": "Darrell Issa",
       "classification": "primary",
       "entity_type": "person",
@@ -172,7 +200,19 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "CBO: H.R. 4283, a bill to designate the facility of the United States Postal Service located at 1157 West Mission Avenue in Escondido, California, as the &quot;Captain E. Royce Williams Post Office Building&quot;",
+      "links": [
+        {
+          "url": "https://www.cbo.gov/publication/62618",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -198,7 +238,8 @@
       "F000472",
       "M001225",
       "K000399",
-      "C000059"
+      "C000059",
+      "M001241"
     ],
     "sponsor_bioguides": [
       "I000056"
@@ -211,7 +252,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-22T08:34:57Z",
+    "logs_latest_update": "2026-08-09T06:21:10Z",
     "text_extraction_latest_update": "2026-07-23T07:39:12.556075Z"
   }
 }

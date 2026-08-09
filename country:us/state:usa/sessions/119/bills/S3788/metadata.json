@@ -11,11 +11,11 @@
   "other_titles": [
     {
       "note": "",
-      "title": "Consumer Labeling for Enhanced API Reporting and Legitimate Accountability for Base Entity Listings Act"
+      "title": "A bill to amend the Federal Food, Drug, and Cosmetic Act to require drug labeling to include original manufacturer and supply chain information."
     },
     {
       "note": "",
-      "title": "A bill to amend the Federal Food, Drug, and Cosmetic Act to require drug labeling to include original manufacturer and supply chain information."
+      "title": "Consumer Labeling for Enhanced API Reporting and Legitimate Accountability for Base Entity Listings Act"
     }
   ],
   "other_identifiers": [
@@ -24,6 +24,36 @@
     }
   ],
   "actions": [
+    {
+      "description": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 523.",
+      "date": "2026-07-27T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:21:09Z"
+      }
+    },
+    {
+      "description": "Committee on Health, Education, Labor, and Pensions. Reported by Senator Cassidy with an amendment in the nature of a substitute. Without written report.",
+      "date": "2026-07-27T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:21:09Z"
+      }
+    },
+    {
+      "description": "Committee on Health, Education, Labor, and Pensions. Ordered to be reported with an amendment in the nature of a substitute favorably.",
+      "date": "2026-07-22T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:21:09Z"
+      }
+    },
     {
       "description": "Committee on Health, Education, Labor, and Pensions. Hearings held.",
       "date": "2026-03-19T04:00:00+00:00",
@@ -172,6 +202,21 @@
   ],
   "versions": [
     {
+      "note": "Reported to Senate",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119s3788rs/xml/BILLS-119s3788rs.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119s3788rs/pdf/BILLS-119s3788rs.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-07-27",
+      "classification": ""
+    },
+    {
       "note": "Introduced in Senate",
       "links": [
         {
@@ -225,7 +270,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-22T08:35:01Z",
+    "logs_latest_update": "2026-08-09T06:21:09Z",
     "text_extraction_latest_update": "2026-07-22T11:46:22.562559Z"
   }
 }

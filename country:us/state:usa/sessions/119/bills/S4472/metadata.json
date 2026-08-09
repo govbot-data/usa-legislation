@@ -21,6 +21,28 @@
   ],
   "actions": [
     {
+      "description": "Passed Senate with an amendment by Voice Vote. (consideration: CR S4425-4426; text: CR S4425-4426)",
+      "date": "2026-08-04T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:21:06Z"
+      }
+    },
+    {
+      "description": "Passed/agreed to in Senate: Passed Senate with an amendment by Voice Vote.",
+      "date": "2026-08-04T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:21:06Z"
+      }
+    },
+    {
       "description": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 461.",
       "date": "2026-07-16T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -163,6 +185,38 @@
       "organization_id": null
     },
     {
+      "name": "Jeff Merkley",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jeff Merkley\"}",
+      "organization_id": null
+    },
+    {
+      "name": "David H. McCormick",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"David H. McCormick\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Sheldon Whitehouse",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Sheldon Whitehouse\"}",
+      "organization_id": null
+    },
+    {
+      "name": "John Barrasso",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"John Barrasso\"}",
+      "organization_id": null
+    },
+    {
       "name": "Lisa Murkowski",
       "classification": "primary",
       "entity_type": "person",
@@ -179,6 +233,21 @@
     }
   ],
   "versions": [
+    {
+      "note": "Engrossed in Senate",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119s4472es/xml/BILLS-119s4472es.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119s4472es/pdf/BILLS-119s4472es.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-04",
+      "classification": ""
+    },
     {
       "note": "Reported to Senate",
       "links": [
@@ -234,7 +303,11 @@
       "H001076",
       "B001299",
       "M000133",
-      "D000618"
+      "D000618",
+      "M001176",
+      "M001243",
+      "W000802",
+      "B001261"
     ],
     "sponsor_bioguides": [
       "M001153"
@@ -247,7 +320,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-22T08:35:08Z",
+    "logs_latest_update": "2026-08-09T06:21:06Z",
     "text_extraction_latest_update": "2026-07-22T15:55:01.786813Z"
   }
 }

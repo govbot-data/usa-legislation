@@ -16,6 +16,16 @@
   ],
   "actions": [
     {
+      "description": "Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.",
+      "date": "2026-07-21T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:21:08Z"
+      }
+    },
+    {
       "description": "Motion to reconsider laid on the table Agreed to without objection.",
       "date": "2026-07-16T14:51:04+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -251,6 +261,36 @@
   "related_bills": [],
   "versions": [
     {
+      "note": "Referred in Senate",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr5362rfs/xml/BILLS-119hr5362rfs.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr5362rfs/pdf/BILLS-119hr5362rfs.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-07-21",
+      "classification": ""
+    },
+    {
+      "note": "Engrossed in House",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr5362eh/xml/BILLS-119hr5362eh.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr5362eh/pdf/BILLS-119hr5362eh.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-07-16",
+      "classification": ""
+    },
+    {
       "note": "Introduced in House",
       "links": [
         {
@@ -305,7 +345,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-22T08:35:08Z",
+    "logs_latest_update": "2026-08-09T06:21:08Z",
     "text_extraction_latest_update": "2026-07-22T10:36:25.392439Z"
   }
 }

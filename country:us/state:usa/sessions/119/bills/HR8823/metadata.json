@@ -11,6 +11,10 @@
   "other_titles": [
     {
       "note": "",
+      "title": "To amend the Federal Employees\u2019 Compensation Act to allow the Secretary of Labor to suspend payments to medical providers who have been convicted of fraud."
+    },
+    {
+      "note": "",
       "title": "To amend the Federal Employees' Compensation Act to allow the Secretary of Labor to suspend payments to medical providers who have been convicted of fraud."
     }
   ],
@@ -20,6 +24,100 @@
     }
   ],
   "actions": [
+    {
+      "description": "Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.",
+      "date": "2026-07-21T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:21:07Z"
+      }
+    },
+    {
+      "description": "Motion to reconsider laid on the table Agreed to without objection.",
+      "date": "2026-07-20T23:10:27+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:21:07Z"
+      }
+    },
+    {
+      "description": "On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 396 - 0 (Roll no. 251). (text: CR H4654)",
+      "date": "2026-07-20T23:10:26+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:21:07Z"
+      }
+    },
+    {
+      "description": "Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 396 - 0 (Roll no. 251). (text: CR H4654)",
+      "date": "2026-07-20T23:10:26+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:21:07Z"
+      }
+    },
+    {
+      "description": "Considered as unfinished business. (consideration: CR H4671)",
+      "date": "2026-07-20T23:03:33+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:21:07Z"
+      }
+    },
+    {
+      "description": "At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.",
+      "date": "2026-07-20T20:35:14+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:21:07Z"
+      }
+    },
+    {
+      "description": "DEBATE - The House proceeded with forty minutes of debate on H.R. 8823.",
+      "date": "2026-07-20T20:22:25+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:21:07Z"
+      }
+    },
+    {
+      "description": "Considered under suspension of the rules. (consideration: CR H4654-4656)",
+      "date": "2026-07-20T20:22:23+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:21:07Z"
+      }
+    },
+    {
+      "description": "Mr. Walberg moved to suspend the rules and pass the bill, as amended.",
+      "date": "2026-07-20T20:22:13+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:21:07Z"
+      }
+    },
     {
       "description": "Ordered to be Reported (Amended) by the Yeas and Nays: 33 - 0.",
       "date": "2026-06-25T04:00:00+00:00",
@@ -86,6 +184,36 @@
   "related_bills": [],
   "versions": [
     {
+      "note": "Referred in Senate",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr8823rfs/xml/BILLS-119hr8823rfs.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr8823rfs/pdf/BILLS-119hr8823rfs.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-07-21",
+      "classification": ""
+    },
+    {
+      "note": "Engrossed in House",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr8823eh/xml/BILLS-119hr8823eh.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr8823eh/pdf/BILLS-119hr8823eh.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-07-20",
+      "classification": ""
+    },
+    {
       "note": "Introduced in House",
       "links": [
         {
@@ -128,7 +256,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-22T08:34:56Z",
+    "logs_latest_update": "2026-08-09T06:21:07Z",
     "text_extraction_latest_update": "2026-07-22T13:08:48.393855Z"
   }
 }

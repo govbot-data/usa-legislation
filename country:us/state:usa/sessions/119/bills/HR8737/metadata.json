@@ -21,6 +21,16 @@
   ],
   "actions": [
     {
+      "description": "Referred to the Subcommittee on Health.",
+      "date": "2026-06-05T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:21:09Z"
+      }
+    },
+    {
       "description": "Referred to the House Committee on Veterans' Affairs.",
       "date": "2026-05-12T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -143,6 +153,14 @@
       "organization_id": null
     },
     {
+      "name": "John James",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"John James\"}",
+      "organization_id": null
+    },
+    {
       "name": "Jimmy Patronis",
       "classification": "primary",
       "entity_type": "person",
@@ -200,7 +218,8 @@
       "B001307",
       "M001216",
       "F000485",
-      "G000591"
+      "G000591",
+      "J000307"
     ],
     "sponsor_bioguides": [
       "P000622"
@@ -213,7 +232,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-22T08:35:16Z",
+    "logs_latest_update": "2026-08-09T06:21:09Z",
     "text_extraction_latest_update": "2026-07-22T18:47:58.066360Z"
   }
 }

@@ -11,11 +11,11 @@
   "other_titles": [
     {
       "note": "",
-      "title": "Federal Disaster Tax Relief Act of 2025"
+      "title": "To amend the Internal Revenue Code of 1986 to codify and extend the rules for personal casualty losses arising from major disasters and the rules for the exclusion from gross income of compensation for losses or damages resulting from certain wildfires."
     },
     {
       "note": "",
-      "title": "To amend the Internal Revenue Code of 1986 to codify and extend the rules for personal casualty losses arising from major disasters and the rules for the exclusion from gross income of compensation for losses or damages resulting from certain wildfires."
+      "title": "Federal Disaster Tax Relief Act of 2025"
     }
   ],
   "other_identifiers": [
@@ -24,6 +24,38 @@
     }
   ],
   "actions": [
+    {
+      "description": "Passed Senate without amendment by Unanimous Consent.",
+      "date": "2026-08-07T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:21:14Z"
+      }
+    },
+    {
+      "description": "Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.",
+      "date": "2026-08-07T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:21:14Z"
+      }
+    },
+    {
+      "description": "Senate Committee on Finance discharged by Unanimous Consent.",
+      "date": "2026-08-07T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:21:14Z"
+      }
+    },
     {
       "description": "Received in the Senate and Read twice and referred to the Committee on Finance.",
       "date": "2026-04-28T04:00:00+00:00",
@@ -432,7 +464,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-22T08:34:57Z",
+    "logs_latest_update": "2026-08-09T06:21:14Z",
     "text_extraction_latest_update": "2026-07-22T08:54:58.466498Z"
   }
 }

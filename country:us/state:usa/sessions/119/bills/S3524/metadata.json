@@ -21,6 +21,16 @@
   ],
   "actions": [
     {
+      "description": "Committee on Energy and Natural Resources Subcommittee on National Parks. Hearings held.",
+      "date": "2026-07-21T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:21:13Z"
+      }
+    },
+    {
       "description": "Read twice and referred to the Committee on Energy and Natural Resources.",
       "date": "2025-12-17T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -133,6 +143,46 @@
       "organization_id": null
     },
     {
+      "name": "John Cornyn",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"John Cornyn\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Ron Wyden",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Ron Wyden\"}",
+      "organization_id": null
+    },
+    {
+      "name": "John F. Reed",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"John F. Reed\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Andy Kim",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Andy Kim\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Tim Sheehy",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Tim Sheehy\"}",
+      "organization_id": null
+    },
+    {
       "name": "David H. McCormick",
       "classification": "primary",
       "entity_type": "person",
@@ -189,7 +239,12 @@
       "B001305",
       "C001047",
       "S000148",
-      "F000479"
+      "F000479",
+      "C001056",
+      "W000779",
+      "R000122",
+      "K000394",
+      "S001232"
     ],
     "sponsor_bioguides": [
       "M001243"
@@ -202,7 +257,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-22T08:35:10Z",
+    "logs_latest_update": "2026-08-09T06:21:13Z",
     "text_extraction_latest_update": "2026-07-22T10:34:00.139223Z"
   }
 }

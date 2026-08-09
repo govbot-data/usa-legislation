@@ -21,6 +21,48 @@
   ],
   "actions": [
     {
+      "description": "Passed Senate with an amendment by Unanimous Consent. (text: CR S4493-4494)",
+      "date": "2026-08-06T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:21:08Z"
+      }
+    },
+    {
+      "description": "Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent. (text: CR S4493-4494)",
+      "date": "2026-08-06T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:21:08Z"
+      }
+    },
+    {
+      "description": "The committee substitute withdrawn by Unanimous Consent.",
+      "date": "2026-08-06T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:21:08Z"
+      }
+    },
+    {
+      "description": "Measure laid before Senate by unanimous consent. (consideration: CR S4493-4494)",
+      "date": "2026-08-06T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:21:08Z"
+      }
+    },
+    {
       "description": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 198.",
       "date": "2025-10-21T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -83,6 +125,14 @@
       "organization_id": null
     },
     {
+      "name": "John Cornyn",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"John Cornyn\"}",
+      "organization_id": null
+    },
+    {
       "name": "Gary Peters",
       "classification": "primary",
       "entity_type": "person",
@@ -93,6 +143,21 @@
   ],
   "related_bills": [],
   "versions": [
+    {
+      "note": "Engrossed in Senate",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119s434es/xml/BILLS-119s434es.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119s434es/pdf/BILLS-119s434es.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-06",
+      "classification": ""
+    },
     {
       "note": "Reported to Senate",
       "links": [
@@ -125,6 +190,17 @@
     }
   ],
   "documents": [
+    {
+      "note": "SAMDT 6748",
+      "links": [
+        {
+          "url": "https://www.congress.gov/amendment/119th-congress/senate-amendment/6748",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
     {
       "note": "CBO: S. 434, Space Commerce Advisory Committee Act",
       "links": [
@@ -161,7 +237,8 @@
   ],
   "extras": {
     "cosponsor_bioguides": [
-      "W000437"
+      "W000437",
+      "C001056"
     ],
     "sponsor_bioguides": [
       "P000595"
@@ -174,7 +251,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-22T08:34:54Z",
+    "logs_latest_update": "2026-08-09T06:21:08Z",
     "text_extraction_latest_update": "2026-07-22T17:25:16.089591Z"
   }
 }

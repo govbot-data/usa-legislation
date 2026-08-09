@@ -21,6 +21,16 @@
   ],
   "actions": [
     {
+      "description": "Committee on Commerce, Science, and Transportation. Ordered to be reported with an amendment in the nature of a substitute favorably.",
+      "date": "2026-07-22T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:21:10Z"
+      }
+    },
+    {
       "description": "Read twice and referred to the Committee on Commerce, Science, and Transportation.",
       "date": "2025-05-14T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -77,6 +87,14 @@
       "organization_id": null
     },
     {
+      "name": "Michael Bennet",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Michael Bennet\"}",
+      "organization_id": null
+    },
+    {
       "name": "Ted Budd",
       "classification": "primary",
       "entity_type": "person",
@@ -126,7 +144,8 @@
       "T000476",
       "L000577",
       "S001232",
-      "H000273"
+      "H000273",
+      "B001267"
     ],
     "sponsor_bioguides": [
       "B001305"
@@ -139,7 +158,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-22T08:35:09Z",
+    "logs_latest_update": "2026-08-09T06:21:10Z",
     "text_extraction_latest_update": "2026-07-22T19:10:41.398300Z"
   }
 }

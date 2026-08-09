@@ -21,6 +21,118 @@
   ],
   "actions": [
     {
+      "description": "Received in the Senate and Read twice and referred to the Committee on Finance.",
+      "date": "2026-07-23T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:21:11Z"
+      }
+    },
+    {
+      "description": "Motion to reconsider laid on the table Agreed to without objection.",
+      "date": "2026-07-23T14:33:06+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:21:11Z"
+      }
+    },
+    {
+      "description": "On passage Passed by the Yeas and Nays: 232 - 188 (Roll no. 283). (text of amendment in the nature of a substitute: CR H5182-5183)",
+      "date": "2026-07-23T14:33:04+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:21:11Z"
+      }
+    },
+    {
+      "description": "Passed/agreed to in House: On passage Passed by the Yeas and Nays: 232 - 188 (Roll no. 283). (text of amendment in the nature of a substitute: CR H5182-5183)",
+      "date": "2026-07-23T14:33:04+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:21:11Z"
+      }
+    },
+    {
+      "description": "Considered as unfinished business. (consideration: CR H5186-5187)",
+      "date": "2026-07-23T14:25:16+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:21:11Z"
+      }
+    },
+    {
+      "description": "POSTPONED PROCEEDINGS - At the conclusion of debate on H.R. 8884, the Chair put the question on passage of the bill and by voice vote, announced the ayes had prevailed. Ms. Chu demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.",
+      "date": "2026-07-23T13:46:16+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:21:11Z"
+      }
+    },
+    {
+      "description": "The previous question was ordered pursuant to the rule.",
+      "date": "2026-07-23T13:45:29+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:21:11Z"
+      }
+    },
+    {
+      "description": "DEBATE - The House proceeded with one hour of debate on H.R. 8884.",
+      "date": "2026-07-23T13:13:51+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:21:11Z"
+      }
+    },
+    {
+      "description": "Rule provides for consideration of H.R. 8800, H.R. 8884, H. Con. Res. 113, H.R. 7008, H.R. 6955 and H.R. 9770. The resolution provides for consideration of H.R. 8800 under a structured rule and for consideration of H.R. 8884, H. Con. Res. 113, H.R. 7008, H.R. 6955, and H.R. 9770 under a closed rule, with one hour of debate on each measure and one motion to recommit on H.R. 8800, H.R. 8884, H.R. 7008, H.R. 6955, and H.R. 9770.",
+      "date": "2026-07-23T13:12:01+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:21:11Z"
+      }
+    },
+    {
+      "description": "Considered under the provisions of rule H. Res. 1438. (consideration: CR H5182-5186)",
+      "date": "2026-07-23T13:11:56+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:21:11Z"
+      }
+    },
+    {
+      "description": "Rules Committee Resolution H. Res. 1438 Reported to House. Rule provides for consideration of H.R. 8800, H.R. 8884, H. Con. Res. 113, H.R. 7008, H.R. 6955 and H.R. 9770. The resolution provides for consideration of H.R. 8800 under a structured rule and for consideration of H.R. 8884, H. Con. Res. 113, H.R. 7008, H.R. 6955, and H.R. 9770 under a closed rule, with one hour of debate on each measure and one motion to recommit on H.R. 8800, H.R. 8884, H.R. 7008, H.R. 6955, and H.R. 9770.",
+      "date": "2026-07-21T00:33:13+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:21:11Z"
+      }
+    },
+    {
       "description": "Rules Committee Resolution H. Res. 1398 Reported to House. Rule provides for consideration of H.R. 8800, H.R. 8595, H.R. 8884 and H. Res. 1383. The resolution provides for consideration of H.R. 8800 and H.R. 8595 under a structured rule, and H.R. 8884 and H. Res. 1383 under a closed rule. The resolution provides for one hour of general debate on each measure and one motion to recommit on H.R. 8800, H.R. 8595, and H.R. 8884.",
       "date": "2026-06-30T13:16:41+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -118,9 +230,49 @@
       "identifier": "HRES 1398",
       "legislative_session": "119",
       "relation_type": "companion"
+    },
+    {
+      "identifier": "HRES 1438",
+      "legislative_session": "119",
+      "relation_type": "companion"
+    },
+    {
+      "identifier": "S 4947",
+      "legislative_session": "119",
+      "relation_type": "companion"
     }
   ],
   "versions": [
+    {
+      "note": "Engrossed in House",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr8884eh/xml/BILLS-119hr8884eh.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr8884eh/pdf/BILLS-119hr8884eh.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-07-23",
+      "classification": ""
+    },
+    {
+      "note": "Referred in Senate",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr8884rfs/xml/BILLS-119hr8884rfs.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr8884rfs/pdf/BILLS-119hr8884rfs.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-07-23",
+      "classification": ""
+    },
     {
       "note": "Reported in House",
       "links": [
@@ -153,6 +305,17 @@
     }
   ],
   "documents": [
+    {
+      "note": "HAMDT 268",
+      "links": [
+        {
+          "url": "https://www.congress.gov/amendment/119th-congress/house-amendment/268",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
     {
       "note": "CBO: H.R. 8884, Removing Barriers to Work for Disabled Americans Act",
       "links": [
@@ -202,7 +365,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-22T08:35:07Z",
+    "logs_latest_update": "2026-08-09T06:21:11Z",
     "text_extraction_latest_update": "2026-07-22T17:54:21.698560Z"
   }
 }

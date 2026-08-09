@@ -8,13 +8,140 @@
   ],
   "subject": [],
   "abstracts": [],
-  "other_titles": [],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Continuing Appropriations Act, 2027"
+    }
+  ],
   "other_identifiers": [
     {
       "identifier": "ocd-bill-us-119-hr9770"
     }
   ],
   "actions": [
+    {
+      "description": "Received in the Senate.",
+      "date": "2026-07-22T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:21:09Z"
+      }
+    },
+    {
+      "description": "Motion to reconsider laid on the table Agreed to without objection.",
+      "date": "2026-07-22T02:14:42+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:21:09Z"
+      }
+    },
+    {
+      "description": "On passage Passed by the Yeas and Nays: 220 - 205 (Roll no. 272). (text: CR H4731-4733)",
+      "date": "2026-07-22T02:14:39+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:21:09Z"
+      }
+    },
+    {
+      "description": "Passed/agreed to in House: On passage Passed by the Yeas and Nays: 220 - 205 (Roll no. 272).",
+      "date": "2026-07-22T02:14:39+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:21:09Z"
+      }
+    },
+    {
+      "description": "Considered as unfinished business. (consideration: CR H5019-5020)",
+      "date": "2026-07-22T02:06:32+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:21:09Z"
+      }
+    },
+    {
+      "description": "POSTPONED PROCEEDINGS - At the conclusion of debate on H.R. 9770, the Chair put the question on passage of the bill and by voice vote, announced the ayes had prevailed. Ms. DeLauro demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.",
+      "date": "2026-07-21T20:27:55+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:21:09Z"
+      }
+    },
+    {
+      "description": "The previous question was ordered pursuant to the rule.",
+      "date": "2026-07-21T20:27:34+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:21:09Z"
+      }
+    },
+    {
+      "description": "DEBATE - The House proceeded with one hour of debate on H.R. 9770.",
+      "date": "2026-07-21T19:53:57+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:21:09Z"
+      }
+    },
+    {
+      "description": "Rule provides for consideration of H.R. 8800, H.R. 8884, H. Con. Res. 113, H.R. 7008, H.R. 6955 and H.R. 9770. The resolution provides for consideration of H.R. 8800 under a structured rule and for consideration of H.R. 8884, H. Con. Res. 113, H.R. 7008, H.R. 6955, and H.R. 9770 under a closed rule, with one hour of debate on each measure and one motion to recommit on H.R. 8800, H.R. 8884, H.R. 7008, H.R. 6955, and H.R. 9770.",
+      "date": "2026-07-21T19:53:11+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:21:09Z"
+      }
+    },
+    {
+      "description": "Considered under the provisions of rule H. Res. 1438. (consideration: CR H4731-4736)",
+      "date": "2026-07-21T19:53:06+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:21:09Z"
+      }
+    },
+    {
+      "description": "Rule H. Res. 1438 passed House.",
+      "date": "2026-07-21T18:39:59+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:21:09Z"
+      }
+    },
+    {
+      "description": "Rules Committee Resolution H. Res. 1438 Reported to House. Rule provides for consideration of H.R. 8800, H.R. 8884, H. Con. Res. 113, H.R. 7008, H.R. 6955 and H.R. 9770. The resolution provides for consideration of H.R. 8800 under a structured rule and for consideration of H.R. 8884, H. Con. Res. 113, H.R. 7008, H.R. 6955, and H.R. 9770 under a closed rule, with one hour of debate on each measure and one motion to recommit on H.R. 8800, H.R. 8884, H.R. 7008, H.R. 6955, and H.R. 9770.",
+      "date": "2026-07-21T00:33:13+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:21:09Z"
+      }
+    },
     {
       "description": "Referred to the Committee on Appropriations, and in addition to the Committee on the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
       "date": "2026-07-18T04:00:00+00:00",
@@ -50,8 +177,45 @@
       "organization_id": null
     }
   ],
-  "related_bills": [],
-  "versions": [],
+  "related_bills": [
+    {
+      "identifier": "HRES 1438",
+      "legislative_session": "119",
+      "relation_type": "companion"
+    }
+  ],
+  "versions": [
+    {
+      "note": "Engrossed in House",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr9770eh/xml/BILLS-119hr9770eh.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr9770eh/pdf/BILLS-119hr9770eh.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-07-21",
+      "classification": ""
+    },
+    {
+      "note": "Introduced in House",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr9770ih/xml/BILLS-119hr9770ih.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr9770ih/pdf/BILLS-119hr9770ih.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-07-18",
+      "classification": ""
+    }
+  ],
   "documents": [],
   "citations": [],
   "sources": [
@@ -77,7 +241,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-22T08:35:11Z",
+    "logs_latest_update": "2026-08-09T06:21:09Z",
     "text_extraction_latest_update": "2026-08-08T12:37:51.238976Z"
   }
 }

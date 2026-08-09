@@ -21,6 +21,58 @@
   ],
   "actions": [
     {
+      "description": "Passed Senate with an amendment by Unanimous Consent. (consideration: CR S4426-4427; text: CR S4426-4427)",
+      "date": "2026-08-04T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:21:11Z"
+      }
+    },
+    {
+      "description": "Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.",
+      "date": "2026-08-04T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:21:11Z"
+      }
+    },
+    {
+      "description": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 526.",
+      "date": "2026-07-28T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:21:11Z"
+      }
+    },
+    {
+      "description": "Committee on Health, Education, Labor, and Pensions. Reported by Senator Cassidy with an amendment in the nature of a substitute. Without written report.",
+      "date": "2026-07-28T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:21:11Z"
+      }
+    },
+    {
+      "description": "Committee on Health, Education, Labor, and Pensions. Ordered to be reported with an amendment in the nature of a substitute favorably.",
+      "date": "2026-07-22T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:21:11Z"
+      }
+    },
+    {
       "description": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions.",
       "date": "2025-02-10T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -253,6 +305,14 @@
       "organization_id": null
     },
     {
+      "name": "Michael Bennet",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Michael Bennet\"}",
+      "organization_id": null
+    },
+    {
       "name": "Eric S. Schmitt",
       "classification": "primary",
       "entity_type": "person",
@@ -269,6 +329,36 @@
     }
   ],
   "versions": [
+    {
+      "note": "Engrossed in Senate",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119s494es/xml/BILLS-119s494es.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119s494es/pdf/BILLS-119s494es.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-04",
+      "classification": ""
+    },
+    {
+      "note": "Reported to Senate",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119s494rs/xml/BILLS-119s494rs.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119s494rs/pdf/BILLS-119s494rs.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-07-28",
+      "classification": ""
+    },
     {
       "note": "Introduced in Senate",
       "links": [
@@ -324,7 +414,8 @@
       "K000393",
       "M001198",
       "D000563",
-      "R000608"
+      "R000608",
+      "B001267"
     ],
     "sponsor_bioguides": [
       "S001227"
@@ -337,7 +428,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-22T08:34:54Z",
+    "logs_latest_update": "2026-08-09T06:21:11Z",
     "text_extraction_latest_update": "2026-07-22T10:29:53.427724Z"
   }
 }

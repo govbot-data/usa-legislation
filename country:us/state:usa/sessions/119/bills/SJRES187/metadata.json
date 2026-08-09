@@ -16,6 +16,36 @@
   ],
   "actions": [
     {
+      "description": "Motion to proceed to consideration of measure rejected in Senate by Yea-Nay Vote. 48 - 50. Record Vote Number: 222.",
+      "date": "2026-08-05T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:21:13Z"
+      }
+    },
+    {
+      "description": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 532.",
+      "date": "2026-07-28T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:21:13Z"
+      }
+    },
+    {
+      "description": "Senate Committee on Environment and Public Works discharged, by petition, pursuant to 5 U.S.C. 802(c).",
+      "date": "2026-07-28T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:21:13Z"
+      }
+    },
+    {
       "description": "Read twice and referred to the Committee on Environment and Public Works.",
       "date": "2026-04-27T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -50,6 +80,21 @@
   ],
   "related_bills": [],
   "versions": [
+    {
+      "note": "Placed on Calendar Senate",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119sjres187pcs/xml/BILLS-119sjres187pcs.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119sjres187pcs/pdf/BILLS-119sjres187pcs.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-07-28",
+      "classification": ""
+    },
     {
       "note": "Introduced in Senate",
       "links": [
@@ -91,7 +136,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-22T08:35:03Z",
+    "logs_latest_update": "2026-08-09T06:21:13Z",
     "text_extraction_latest_update": "2026-07-23T07:19:40.006540Z"
   }
 }

@@ -21,6 +21,26 @@
   ],
   "actions": [
     {
+      "description": "Ordered to be Reported in the Nature of a Substitute by the Yeas and Nays: 23 - 16.",
+      "date": "2026-07-22T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:21:11Z"
+      }
+    },
+    {
+      "description": "Committee Consideration and Mark-up Session Held",
+      "date": "2026-07-22T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:21:11Z"
+      }
+    },
+    {
       "description": "Referred to the House Committee on Ways and Means.",
       "date": "2026-07-16T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -103,6 +123,38 @@
       "organization_id": null
     },
     {
+      "name": "Tracey Mann",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Tracey Mann\"}",
+      "organization_id": null
+    },
+    {
+      "name": "W. Gregory Steube",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"W. Gregory Steube\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Lance Gooden",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Lance Gooden\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Ken Calvert",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Ken Calvert\"}",
+      "organization_id": null
+    },
+    {
       "name": "Blake D. Moore",
       "classification": "primary",
       "entity_type": "person",
@@ -149,7 +201,11 @@
       "M001224",
       "G000576",
       "K000403",
-      "M001228"
+      "M001228",
+      "M000871",
+      "S001214",
+      "G000589",
+      "C000059"
     ],
     "sponsor_bioguides": [
       "M001213"
@@ -162,7 +218,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-22T08:35:18Z",
+    "logs_latest_update": "2026-08-09T06:21:11Z",
     "text_extraction_latest_update": "2026-07-22T11:40:57.869662Z"
   }
 }

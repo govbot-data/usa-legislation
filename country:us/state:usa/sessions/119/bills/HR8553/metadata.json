@@ -11,11 +11,11 @@
   "other_titles": [
     {
       "note": "",
-      "title": "To direct the Secretary of Veterans Affairs to establish a precision oncology program for cancer of the prostate, and for other purposes."
+      "title": "Precision Oncology Program for Cancer of the Prostate Authorization Act of 2026"
     },
     {
       "note": "",
-      "title": "Precision Oncology Program for Cancer of the Prostate Authorization Act of 2026"
+      "title": "To direct the Secretary of Veterans Affairs to establish a precision oncology program for cancer of the prostate, and for other purposes."
     }
   ],
   "other_identifiers": [
@@ -24,6 +24,16 @@
     }
   ],
   "actions": [
+    {
+      "description": "Referred to the Subcommittee on Health.",
+      "date": "2026-06-12T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:21:08Z"
+      }
+    },
     {
       "description": "Referred to the House Committee on Veterans' Affairs.",
       "date": "2026-04-28T04:00:00+00:00",
@@ -56,6 +66,14 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Herbert C. Conaway\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Josh Riley",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Josh Riley\"}",
       "organization_id": null
     },
     {
@@ -99,7 +117,8 @@
   ],
   "extras": {
     "cosponsor_bioguides": [
-      "C001136"
+      "C001136",
+      "R000622"
     ],
     "sponsor_bioguides": [
       "M001210"
@@ -112,7 +131,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-22T08:35:08Z",
+    "logs_latest_update": "2026-08-09T06:21:08Z",
     "text_extraction_latest_update": "2026-07-22T19:00:46.331253Z"
   }
 }

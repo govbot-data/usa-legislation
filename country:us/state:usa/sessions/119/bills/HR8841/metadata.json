@@ -21,6 +21,16 @@
   ],
   "actions": [
     {
+      "description": "Referred to the Subcommittee on Oversight and Investigations.",
+      "date": "2026-06-23T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:21:08Z"
+      }
+    },
+    {
       "description": "Referred to the House Committee on Veterans' Affairs.",
       "date": "2026-05-14T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -117,7 +127,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-22T08:35:00Z",
+    "logs_latest_update": "2026-08-09T06:21:08Z",
     "text_extraction_latest_update": "2026-07-23T07:27:56.321863Z"
   }
 }

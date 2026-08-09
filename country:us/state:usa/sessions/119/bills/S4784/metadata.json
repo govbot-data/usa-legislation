@@ -29,6 +29,46 @@
   ],
   "actions": [
     {
+      "description": "Motion to proceed to consideration of measure made in Senate. (CR S4276)",
+      "date": "2026-07-27T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:21:09Z"
+      }
+    },
+    {
+      "description": "Motion to proceed to consideration of measure withdrawn in Senate.",
+      "date": "2026-07-23T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:21:09Z"
+      }
+    },
+    {
+      "description": "Motion to proceed to consideration of measure made in Senate. (CR S4241-4242)",
+      "date": "2026-07-23T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:21:09Z"
+      }
+    },
+    {
+      "description": "Motion to proceed to consideration of measure made in Senate. (CR S4145)",
+      "date": "2026-07-20T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:21:09Z"
+      }
+    },
+    {
       "description": "Motion to proceed to consideration of measure made in Senate. (CR S3919)",
       "date": "2026-07-14T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -199,6 +239,94 @@
     }
   ],
   "documents": [
+    {
+      "note": "SAMDT 6746",
+      "links": [
+        {
+          "url": "https://www.congress.gov/amendment/119th-congress/senate-amendment/6746",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "SAMDT 6743",
+      "links": [
+        {
+          "url": "https://www.congress.gov/amendment/119th-congress/senate-amendment/6743",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "SAMDT 6725",
+      "links": [
+        {
+          "url": "https://www.congress.gov/amendment/119th-congress/senate-amendment/6725",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "SAMDT 6718",
+      "links": [
+        {
+          "url": "https://www.congress.gov/amendment/119th-congress/senate-amendment/6718",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "SAMDT 6708",
+      "links": [
+        {
+          "url": "https://www.congress.gov/amendment/119th-congress/senate-amendment/6708",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "SAMDT 6705",
+      "links": [
+        {
+          "url": "https://www.congress.gov/amendment/119th-congress/senate-amendment/6705",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "SAMDT 6704",
+      "links": [
+        {
+          "url": "https://www.congress.gov/amendment/119th-congress/senate-amendment/6704",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "SAMDT 6703",
+      "links": [
+        {
+          "url": "https://www.congress.gov/amendment/119th-congress/senate-amendment/6703",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
     {
       "note": "SAMDT 6702",
       "links": [
@@ -556,6 +684,17 @@
       "links": [
         {
           "url": "https://www.congress.gov/amendment/119th-congress/senate-amendment/6670",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "SAMDT 6669",
+      "links": [
+        {
+          "url": "https://www.congress.gov/amendment/119th-congress/senate-amendment/6669",
           "media_type": "text/html"
         }
       ],
@@ -9805,7 +9944,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-22T08:35:09Z",
+    "logs_latest_update": "2026-08-09T06:21:09Z",
     "text_extraction_latest_update": "2026-07-22T17:14:49.616616Z"
   }
 }

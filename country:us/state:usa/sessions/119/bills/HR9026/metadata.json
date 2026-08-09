@@ -16,6 +16,26 @@
   ],
   "actions": [
     {
+      "description": "Ordered to be Reported by Voice Vote.",
+      "date": "2026-07-22T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:21:12Z"
+      }
+    },
+    {
+      "description": "Committee Consideration and Mark-up Session Held",
+      "date": "2026-07-22T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:21:12Z"
+      }
+    },
+    {
       "description": "Referred to the House Committee on Oversight and Government Reform.",
       "date": "2026-05-26T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -268,7 +288,19 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "CBO: H.R. 9026, a bill to designate the facility of the United States Postal Service located at 80 Atlantic Avenue in Oceanside, New York, as the &quot;Detective Luis G. Alvarez Post Office&quot;",
+      "links": [
+        {
+          "url": "https://www.cbo.gov/publication/62625",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -319,7 +351,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-22T08:35:08Z",
+    "logs_latest_update": "2026-08-09T06:21:12Z",
     "text_extraction_latest_update": "2026-07-22T16:44:16.949810Z"
   }
 }

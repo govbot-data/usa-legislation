@@ -1,7 +1,7 @@
 {
   "legislative_session": "119",
   "identifier": "S 1542",
-  "title": "Uyghur Policy Act of 2025",
+  "title": "Uyghur Policy Act of 2026",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -12,6 +12,10 @@
     {
       "note": "",
       "title": "A bill to support the human rights of Uyghurs and members of other minority groups residing primarily in the Xinjiang Uyghur Autonomous Region, to safeguard their distinct identity, and for other purposes."
+    },
+    {
+      "note": "",
+      "title": "Uyghur Policy Act of 2025"
     }
   ],
   "other_identifiers": [
@@ -20,6 +24,26 @@
     }
   ],
   "actions": [
+    {
+      "description": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 496.",
+      "date": "2026-07-27T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:21:07Z"
+      }
+    },
+    {
+      "description": "Committee on Foreign Relations. Reported by Senator Risch with an amendment in the nature of a substitute. Without written report.",
+      "date": "2026-07-27T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:21:07Z"
+      }
+    },
     {
       "description": "Committee on Foreign Relations. Ordered to be reported with an amendment in the nature of a substitute favorably.",
       "date": "2026-06-17T04:00:00+00:00",
@@ -63,6 +87,14 @@
       "organization_id": null
     },
     {
+      "name": "Raphael Warnock",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Raphael Warnock\"}",
+      "organization_id": null
+    },
+    {
       "name": "John Curtis",
       "classification": "primary",
       "entity_type": "person",
@@ -73,6 +105,21 @@
   ],
   "related_bills": [],
   "versions": [
+    {
+      "note": "Reported to Senate",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119s1542rs/xml/BILLS-119s1542rs.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119s1542rs/pdf/BILLS-119s1542rs.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-07-27",
+      "classification": ""
+    },
     {
       "note": "Introduced in Senate",
       "links": [
@@ -89,7 +136,19 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "CBO: S. 1542, Uyghur Policy Act of 2026",
+      "links": [
+        {
+          "url": "https://www.cbo.gov/publication/62606",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -103,7 +162,8 @@
   ],
   "extras": {
     "cosponsor_bioguides": [
-      "M001176"
+      "M001176",
+      "W000790"
     ],
     "sponsor_bioguides": [
       "C001114"
@@ -116,7 +176,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-22T08:35:18Z",
+    "logs_latest_update": "2026-08-09T06:21:07Z",
     "text_extraction_latest_update": "2026-07-22T17:57:49.483170Z"
   }
 }

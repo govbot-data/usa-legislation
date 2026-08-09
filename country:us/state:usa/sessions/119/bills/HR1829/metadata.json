@@ -1,7 +1,7 @@
 {
   "legislative_session": "119",
   "identifier": "HR 1829",
-  "title": "Apache County and Navajo County Conveyance Act of 2025",
+  "title": "Apache County and Navajo County Conveyance Act of 2026",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -12,6 +12,10 @@
     {
       "note": "",
       "title": "To require the Secretary of Agriculture to convey certain lands within the Apache-Sitgreaves National Forest, and for other purposes."
+    },
+    {
+      "note": "",
+      "title": "Apache County and Navajo County Conveyance Act of 2025"
     }
   ],
   "other_identifiers": [
@@ -20,6 +24,26 @@
     }
   ],
   "actions": [
+    {
+      "description": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 493.",
+      "date": "2026-07-23T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:21:06Z"
+      }
+    },
+    {
+      "description": "Committee on Energy and Natural Resources. Reported by Senator Lee with an amendment in the nature of a substitute. Without written report.",
+      "date": "2026-07-23T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:21:06Z"
+      }
+    },
     {
       "description": "Committee on Energy and Natural Resources. Ordered to be reported with an amendment in the nature of a substitute favorably.",
       "date": "2026-03-04T05:00:00+00:00",
@@ -152,6 +176,21 @@
   "related_bills": [],
   "versions": [
     {
+      "note": "Reported to Senate",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr1829rs/xml/BILLS-119hr1829rs.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr1829rs/pdf/BILLS-119hr1829rs.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-07-23",
+      "classification": ""
+    },
+    {
       "note": "Referred in Senate",
       "links": [
         {
@@ -222,7 +261,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-22T08:35:01Z",
+    "logs_latest_update": "2026-08-09T06:21:06Z",
     "text_extraction_latest_update": "2026-07-22T19:02:45.526974Z"
   }
 }

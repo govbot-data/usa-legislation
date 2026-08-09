@@ -21,6 +21,26 @@
   ],
   "actions": [
     {
+      "description": "Ordered to be Reported in the Nature of a Substitute (Amended) by the Yeas and Nays: 23 - 18.",
+      "date": "2026-07-22T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:21:15Z"
+      }
+    },
+    {
+      "description": "Committee Consideration and Mark-up Session Held",
+      "date": "2026-07-22T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:21:15Z"
+      }
+    },
+    {
       "description": "Referred to the House Committee on Ways and Means.",
       "date": "2026-07-18T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -46,6 +66,14 @@
     }
   ],
   "sponsorships": [
+    {
+      "name": "Randy Fine",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Randy Fine\"}",
+      "organization_id": null
+    },
     {
       "name": "David Schweikert",
       "classification": "primary",
@@ -86,7 +114,9 @@
     }
   ],
   "extras": {
-    "cosponsor_bioguides": [],
+    "cosponsor_bioguides": [
+      "F000484"
+    ],
     "sponsor_bioguides": [
       "S001183"
     ]
@@ -98,7 +128,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-22T08:35:06Z",
+    "logs_latest_update": "2026-08-09T06:21:15Z",
     "text_extraction_latest_update": "2026-07-22T12:47:29.274175Z"
   }
 }

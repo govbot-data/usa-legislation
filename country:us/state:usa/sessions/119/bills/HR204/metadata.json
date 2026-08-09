@@ -11,11 +11,11 @@
   "other_titles": [
     {
       "note": "",
-      "title": "To require that the Secretary of Agriculture and the Secretary of the Interior submit accurate reports regarding hazardous fuels reduction activities, and for other purposes."
+      "title": "Accurately Counting Risk Elimination Solutions Act"
     },
     {
       "note": "",
-      "title": "Accurately Counting Risk Elimination Solutions Act"
+      "title": "To require that the Secretary of Agriculture and the Secretary of the Interior submit accurate reports regarding hazardous fuels reduction activities, and for other purposes."
     }
   ],
   "other_identifiers": [
@@ -24,6 +24,26 @@
     }
   ],
   "actions": [
+    {
+      "description": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 490.",
+      "date": "2026-07-23T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:21:08Z"
+      }
+    },
+    {
+      "description": "Committee on Energy and Natural Resources. Reported by Senator Lee without amendment. Without written report.",
+      "date": "2026-07-23T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:21:08Z"
+      }
+    },
     {
       "description": "Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.",
       "date": "2026-03-04T05:00:00+00:00",
@@ -156,6 +176,21 @@
   "related_bills": [],
   "versions": [
     {
+      "note": "Reported to Senate",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr204rs/xml/BILLS-119hr204rs.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr204rs/pdf/BILLS-119hr204rs.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-07-23",
+      "classification": ""
+    },
+    {
       "note": "Referred in Senate",
       "links": [
         {
@@ -238,7 +273,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-22T08:35:17Z",
+    "logs_latest_update": "2026-08-09T06:21:08Z",
     "text_extraction_latest_update": "2026-07-23T07:51:39.217057Z"
   }
 }

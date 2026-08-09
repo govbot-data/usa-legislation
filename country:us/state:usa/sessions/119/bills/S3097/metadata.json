@@ -21,6 +21,36 @@
   ],
   "actions": [
     {
+      "description": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 538.",
+      "date": "2026-08-04T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:21:13Z"
+      }
+    },
+    {
+      "description": "Committee on Health, Education, Labor, and Pensions. Reported by Senator Cassidy with an amendment in the nature of a substitute. Without written report.",
+      "date": "2026-08-04T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:21:13Z"
+      }
+    },
+    {
+      "description": "Committee on Health, Education, Labor, and Pensions. Ordered to be reported with an amendment in the nature of a substitute favorably.",
+      "date": "2026-07-30T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:21:13Z"
+      }
+    },
+    {
       "description": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions.",
       "date": "2025-11-04T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -45,6 +75,14 @@
   ],
   "sponsorships": [
     {
+      "name": "Maggie Hassan",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Maggie Hassan\"}",
+      "organization_id": null
+    },
+    {
       "name": "Bill Cassidy",
       "classification": "primary",
       "entity_type": "person",
@@ -55,6 +93,21 @@
   ],
   "related_bills": [],
   "versions": [
+    {
+      "note": "Reported to Senate",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119s3097rs/xml/BILLS-119s3097rs.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119s3097rs/pdf/BILLS-119s3097rs.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-04",
+      "classification": ""
+    },
     {
       "note": "Introduced in Senate",
       "links": [
@@ -84,7 +137,9 @@
     }
   ],
   "extras": {
-    "cosponsor_bioguides": [],
+    "cosponsor_bioguides": [
+      "H001076"
+    ],
     "sponsor_bioguides": [
       "C001075"
     ]
@@ -96,7 +151,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-22T08:35:11Z",
+    "logs_latest_update": "2026-08-09T06:21:13Z",
     "text_extraction_latest_update": "2026-07-22T17:32:16.501622Z"
   }
 }

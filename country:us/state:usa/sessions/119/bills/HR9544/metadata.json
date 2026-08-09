@@ -25,6 +25,16 @@
   ],
   "actions": [
     {
+      "description": "Referred to the Subcommittee on Health.",
+      "date": "2026-07-17T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:21:08Z"
+      }
+    },
+    {
       "description": "Referred to the Committee on Ways and Means, and in addition to the Committees on Energy and Commerce, and Veterans' Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
       "date": "2026-06-30T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -459,6 +469,14 @@
       "organization_id": null
     },
     {
+      "name": "Maxine Dexter",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Maxine Dexter\"}",
+      "organization_id": null
+    },
+    {
       "name": "Lloyd Doggett",
       "classification": "primary",
       "entity_type": "person",
@@ -549,7 +567,8 @@
       "W000788",
       "A000370",
       "M001188",
-      "H001094"
+      "H001094",
+      "D000635"
     ],
     "sponsor_bioguides": [
       "D000399"
@@ -562,7 +581,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-22T08:35:07Z",
+    "logs_latest_update": "2026-08-09T06:21:08Z",
     "text_extraction_latest_update": "2026-07-22T17:06:26.298393Z"
   }
 }

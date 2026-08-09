@@ -21,6 +21,26 @@
   ],
   "actions": [
     {
+      "description": "Ordered to be Reported (Amended) by the Yeas and Nays: 18 - 15.",
+      "date": "2026-07-21T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:21:12Z"
+      }
+    },
+    {
+      "description": "Committee Consideration and Mark-up Session Held",
+      "date": "2026-07-21T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:21:12Z"
+      }
+    },
+    {
       "description": "Referred to the House Committee on Education and Workforce.",
       "date": "2025-09-10T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -1159,6 +1179,78 @@
       "organization_id": null
     },
     {
+      "name": "Chip Roy",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Chip Roy\"}",
+      "organization_id": null
+    },
+    {
+      "name": "James C. Moylan",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"James C. Moylan\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jake Ellzey",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jake Ellzey\"}",
+      "organization_id": null
+    },
+    {
+      "name": "David P. Joyce",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"David P. Joyce\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Michael Cloud",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Michael Cloud\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Andy Biggs",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Andy Biggs\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jimmy Panetta",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jimmy Panetta\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Paul A. Gosar",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Paul A. Gosar\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Ken Calvert",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Ken Calvert\"}",
+      "organization_id": null
+    },
+    {
       "name": "Kevin Hern",
       "classification": "primary",
       "entity_type": "person",
@@ -1343,7 +1435,16 @@
       "F000472",
       "N000190",
       "H001052",
-      "A000375"
+      "A000375",
+      "R000614",
+      "M001219",
+      "E000071",
+      "J000295",
+      "C001115",
+      "B001302",
+      "P000613",
+      "G000565",
+      "C000059"
     ],
     "sponsor_bioguides": [
       "H001082"
@@ -1356,7 +1457,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-22T08:35:09Z",
+    "logs_latest_update": "2026-08-09T06:21:12Z",
     "text_extraction_latest_update": "2026-07-22T15:27:33.576540Z"
   }
 }

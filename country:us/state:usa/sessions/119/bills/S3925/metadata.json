@@ -21,6 +21,16 @@
   ],
   "actions": [
     {
+      "description": "Committee on Energy and Natural Resources Subcommittee on National Parks. Hearings held.",
+      "date": "2026-07-21T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:21:07Z"
+      }
+    },
+    {
       "description": "Read twice and referred to the Committee on Energy and Natural Resources.",
       "date": "2026-02-25T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -101,6 +111,14 @@
       "organization_id": null
     },
     {
+      "name": "Timothy M. Kaine",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Timothy M. Kaine\"}",
+      "organization_id": null
+    },
+    {
       "name": "Richard J. Durbin",
       "classification": "primary",
       "entity_type": "person",
@@ -153,7 +171,8 @@
       "B001288",
       "W000802",
       "W000805",
-      "B001277"
+      "B001277",
+      "K000384"
     ],
     "sponsor_bioguides": [
       "D000563"
@@ -166,7 +185,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-22T08:34:59Z",
+    "logs_latest_update": "2026-08-09T06:21:07Z",
     "text_extraction_latest_update": "2026-07-22T09:47:22.781397Z"
   }
 }

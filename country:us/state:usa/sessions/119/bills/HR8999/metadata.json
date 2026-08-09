@@ -16,6 +16,26 @@
   ],
   "actions": [
     {
+      "description": "Ordered to be Reported by Voice Vote.",
+      "date": "2026-07-22T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:21:13Z"
+      }
+    },
+    {
+      "description": "Committee Consideration and Mark-up Session Held",
+      "date": "2026-07-22T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:21:13Z"
+      }
+    },
+    {
       "description": "Referred to the House Committee on Oversight and Government Reform.",
       "date": "2026-05-21T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -164,7 +184,19 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "CBO: H.R. 8999, a bill to designate the facility of the United States Postal Service located at 324 Washington Avenue, Suite 1 in Grand Haven, Michigan, as the &quot;Ell Thomas Simantz Post Office Building&quot;",
+      "links": [
+        {
+          "url": "https://www.cbo.gov/publication/62624",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -202,7 +234,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-22T08:35:13Z",
+    "logs_latest_update": "2026-08-09T06:21:13Z",
     "text_extraction_latest_update": "2026-07-22T11:18:19.943991Z"
   }
 }

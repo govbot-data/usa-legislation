@@ -11,11 +11,11 @@
   "other_titles": [
     {
       "note": "",
-      "title": "The Adams Memorial-Great American Heroes Act"
+      "title": "To reauthorize the Adams Memorial Commission, and for other purposes."
     },
     {
       "note": "",
-      "title": "To reauthorize the Adams Memorial Commission, and for other purposes."
+      "title": "The Adams Memorial-Great American Heroes Act"
     }
   ],
   "other_identifiers": [
@@ -24,6 +24,16 @@
     }
   ],
   "actions": [
+    {
+      "description": "Committee on Energy and Natural Resources Subcommittee on National Parks. Hearings held.",
+      "date": "2026-07-21T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:21:10Z"
+      }
+    },
     {
       "description": "Read twice and referred to the Committee on Energy and Natural Resources.",
       "date": "2026-07-13T04:00:00+00:00",
@@ -386,7 +396,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-22T08:35:13Z",
+    "logs_latest_update": "2026-08-09T06:21:10Z",
     "text_extraction_latest_update": "2026-07-22T15:22:15.669247Z"
   }
 }

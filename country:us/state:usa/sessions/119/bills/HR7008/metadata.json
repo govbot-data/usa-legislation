@@ -21,6 +21,170 @@
   ],
   "actions": [
     {
+      "description": "Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 548.",
+      "date": "2026-08-06T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:21:14Z"
+      }
+    },
+    {
+      "description": "Read the first time. Placed on Senate Legislative Calendar under Read the First Time.",
+      "date": "2026-08-05T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:21:14Z"
+      }
+    },
+    {
+      "description": "Received in the Senate.",
+      "date": "2026-07-23T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:21:14Z"
+      }
+    },
+    {
+      "description": "Motion to reconsider laid on the table Agreed to without objection.",
+      "date": "2026-07-22T20:52:12+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:21:14Z"
+      }
+    },
+    {
+      "description": "On passage Passed by the Yeas and Nays: 232 - 198 (Roll no. 280). (text of amendment in the nature of a substitute: CR H5143-5144)",
+      "date": "2026-07-22T20:52:10+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:21:14Z"
+      }
+    },
+    {
+      "description": "Passed/agreed to in House: On passage Passed by the Yeas and Nays: 232 - 198 (Roll no. 280).",
+      "date": "2026-07-22T20:52:10+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:21:14Z"
+      }
+    },
+    {
+      "description": "On motion to recommit Failed by the Yeas and Nays: 211 - 218 (Roll no. 279).",
+      "date": "2026-07-22T20:44:29+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:21:14Z"
+      }
+    },
+    {
+      "description": "Considered as unfinished business. (consideration: CR H5157-5158)",
+      "date": "2026-07-22T20:38:41+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:21:14Z"
+      }
+    },
+    {
+      "description": "POSTPONED PROCEEDINGS - At the conclusion of debate on H.R. 7008, the Chair put the question on motion to recommit and by voice vote, announced the ayes had prevailed. Mr. Steil demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.",
+      "date": "2026-07-22T19:14:54+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:21:14Z"
+      }
+    },
+    {
+      "description": "The previous question on the motion to recommit was ordered pursuant to clause 2(b) of rule XIX.",
+      "date": "2026-07-22T19:14:29+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:21:14Z"
+      }
+    },
+    {
+      "description": "Mr. Magaziner moved to recommit to the Committee on House Administration. (text: CR H5152)",
+      "date": "2026-07-22T19:14:17+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:21:14Z"
+      }
+    },
+    {
+      "description": "The previous question was ordered pursuant to the rule.",
+      "date": "2026-07-22T19:13:52+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:21:14Z"
+      }
+    },
+    {
+      "description": "DEBATE - The House proceeded with one hour of debate on H.R. 7008.",
+      "date": "2026-07-22T18:13:23+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:21:14Z"
+      }
+    },
+    {
+      "description": "Rule provides for consideration of H.R. 8800, H.R. 8884, H. Con. Res. 113, H.R. 7008, H.R. 6955 and H.R. 9770. The resolution provides for consideration of H.R. 8800 under a structured rule and for consideration of H.R. 8884, H. Con. Res. 113, H.R. 7008, H.R. 6955, and H.R. 9770 under a closed rule, with one hour of debate on each measure and one motion to recommit on H.R. 8800, H.R. 8884, H.R. 7008, H.R. 6955, and H.R. 9770.",
+      "date": "2026-07-22T18:12:15+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:21:14Z"
+      }
+    },
+    {
+      "description": "Considered under the provisions of rule H. Res. 1438. (consideration: CR H5143-5153)",
+      "date": "2026-07-22T18:12:10+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:21:14Z"
+      }
+    },
+    {
+      "description": "Rules Committee Resolution H. Res. 1438 Reported to House. Rule provides for consideration of H.R. 8800, H.R. 8884, H. Con. Res. 113, H.R. 7008, H.R. 6955 and H.R. 9770. The resolution provides for consideration of H.R. 8800 under a structured rule and for consideration of H.R. 8884, H. Con. Res. 113, H.R. 7008, H.R. 6955, and H.R. 9770 under a closed rule, with one hour of debate on each measure and one motion to recommit on H.R. 8800, H.R. 8884, H.R. 7008, H.R. 6955, and H.R. 9770.",
+      "date": "2026-07-21T00:33:13+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:21:14Z"
+      }
+    },
+    {
       "description": "Placed on the Union Calendar, Calendar No. 409.",
       "date": "2026-02-03T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -844,9 +1008,44 @@
       "identifier": "S 4134",
       "legislative_session": "119",
       "relation_type": "companion"
+    },
+    {
+      "identifier": "HRES 1438",
+      "legislative_session": "119",
+      "relation_type": "companion"
     }
   ],
   "versions": [
+    {
+      "note": "Placed on Calendar Senate",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr7008pcs/xml/BILLS-119hr7008pcs.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr7008pcs/pdf/BILLS-119hr7008pcs.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-06",
+      "classification": ""
+    },
+    {
+      "note": "Engrossed in House",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr7008eh/xml/BILLS-119hr7008eh.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr7008eh/pdf/BILLS-119hr7008eh.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-07-22",
+      "classification": ""
+    },
     {
       "note": "Reported in House",
       "links": [
@@ -879,6 +1078,17 @@
     }
   ],
   "documents": [
+    {
+      "note": "HAMDT 267",
+      "links": [
+        {
+          "url": "https://www.congress.gov/amendment/119th-congress/house-amendment/267",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
     {
       "note": "CBO: H.R. 7008, Stop Insider Trading Act",
       "links": [
@@ -1020,7 +1230,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-22T08:35:12Z",
+    "logs_latest_update": "2026-08-09T06:21:14Z",
     "text_extraction_latest_update": "2026-07-22T18:14:07.262931Z"
   }
 }

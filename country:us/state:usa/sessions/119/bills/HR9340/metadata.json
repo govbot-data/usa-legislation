@@ -21,6 +21,26 @@
   ],
   "actions": [
     {
+      "description": "Ordered to be Reported in the Nature of a Substitute by the Yeas and Nays: 52 - 0.",
+      "date": "2026-07-21T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:21:15Z"
+      }
+    },
+    {
+      "description": "Committee Consideration and Mark-up Session Held",
+      "date": "2026-07-21T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:21:15Z"
+      }
+    },
+    {
       "description": "Forwarded by Subcommittee to Full Committee by Voice Vote.",
       "date": "2026-06-24T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -141,6 +161,78 @@
       "organization_id": null
     },
     {
+      "name": "Harriet M. Hageman",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Harriet M. Hageman\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Thomas H. Kean",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Thomas H. Kean\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Derrick Van Orden",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Derrick Van Orden\"}",
+      "organization_id": null
+    },
+    {
+      "name": "John J. McGuire",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"John J. McGuire\"}",
+      "organization_id": null
+    },
+    {
+      "name": "H. Morgan Griffith",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"H. Morgan Griffith\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Ryan Mackenzie",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Ryan Mackenzie\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Sanford D. Bishop",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Sanford D. Bishop\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jennifer L. McClellan",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jennifer L. McClellan\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Josh Gottheimer",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Josh Gottheimer\"}",
+      "organization_id": null
+    },
+    {
       "name": "Gabe Evans",
       "classification": "primary",
       "entity_type": "person",
@@ -149,7 +241,13 @@
       "organization_id": null
     }
   ],
-  "related_bills": [],
+  "related_bills": [
+    {
+      "identifier": "S 5028",
+      "legislative_session": "119",
+      "relation_type": "companion"
+    }
+  ],
   "versions": [
     {
       "note": "Introduced in House",
@@ -188,7 +286,16 @@
       "B001322",
       "F000485",
       "W000804",
-      "O000177"
+      "O000177",
+      "H001096",
+      "K000398",
+      "V000135",
+      "M001239",
+      "G000568",
+      "M001230",
+      "B000490",
+      "M001227",
+      "G000583"
     ],
     "sponsor_bioguides": [
       "E000300"
@@ -201,7 +308,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-22T08:35:05Z",
+    "logs_latest_update": "2026-08-09T06:21:15Z",
     "text_extraction_latest_update": "2026-07-22T19:22:02.378657Z"
   }
 }

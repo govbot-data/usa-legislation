@@ -16,6 +16,46 @@
   ],
   "actions": [
     {
+      "description": "Motion to proceed to consideration of measure rejected in Senate by Yea-Nay Vote. 47 - 52. Record Vote Number: 215.",
+      "date": "2026-07-30T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:21:13Z"
+      }
+    },
+    {
+      "description": "Motion to proceed to consideration of measure made in Senate. (CR S4355)",
+      "date": "2026-07-30T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:21:13Z"
+      }
+    },
+    {
+      "description": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 533.",
+      "date": "2026-07-28T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:21:13Z"
+      }
+    },
+    {
+      "description": "Senate Committee on Health, Education, Labor, and Pensions discharged, by petition, pursuant to 5 U.S.C. 802(c).",
+      "date": "2026-07-28T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:21:13Z"
+      }
+    },
+    {
       "description": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions.",
       "date": "2026-06-24T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -168,6 +208,14 @@
       "organization_id": null
     },
     {
+      "name": "Andy Kim",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Andy Kim\"}",
+      "organization_id": null
+    },
+    {
       "name": "Patty Murray",
       "classification": "primary",
       "entity_type": "person",
@@ -184,6 +232,21 @@
     }
   ],
   "versions": [
+    {
+      "note": "Placed on Calendar Senate",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119sjres199pcs/xml/BILLS-119sjres199pcs.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119sjres199pcs/pdf/BILLS-119sjres199pcs.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-07-28",
+      "classification": ""
+    },
     {
       "note": "Introduced in Senate",
       "links": [
@@ -229,7 +292,8 @@
       "V000128",
       "W000817",
       "W000779",
-      "S000148"
+      "S000148",
+      "K000394"
     ],
     "sponsor_bioguides": [
       "M001111"
@@ -242,7 +306,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-22T08:35:07Z",
+    "logs_latest_update": "2026-08-09T06:21:13Z",
     "text_extraction_latest_update": "2026-07-22T18:29:11.413795Z"
   }
 }

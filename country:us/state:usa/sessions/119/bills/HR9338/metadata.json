@@ -21,6 +21,26 @@
   ],
   "actions": [
     {
+      "description": "Ordered to be Reported in the Nature of a Substitute by the Yeas and Nays: 41 - 8.",
+      "date": "2026-07-21T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:21:11Z"
+      }
+    },
+    {
+      "description": "Committee Consideration and Mark-up Session Held",
+      "date": "2026-07-21T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:21:11Z"
+      }
+    },
+    {
       "description": "Forwarded by Subcommittee to Full Committee by Voice Vote.",
       "date": "2026-06-24T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -128,7 +148,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-22T08:34:57Z",
+    "logs_latest_update": "2026-08-09T06:21:11Z",
     "text_extraction_latest_update": "2026-07-22T18:35:20.981285Z"
   }
 }

@@ -1,7 +1,7 @@
 {
   "legislative_session": "119",
   "identifier": "HR 8595",
-  "title": "National Security, Department of State, and Related Programs Appropriations Act, 2027",
+  "title": "Making appropriations for national security, Department of State, and related programs for the fiscal year ending September 30, 2027, and for other purposes.",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -11,7 +11,7 @@
   "other_titles": [
     {
       "note": "",
-      "title": "Making appropriations for national security, Department of State, and related programs for the fiscal year ending September 30, 2027, and for other purposes."
+      "title": "National Security, Department of State, and Related Programs Appropriations Act, 2027"
     }
   ],
   "other_identifiers": [
@@ -20,6 +20,16 @@
     }
   ],
   "actions": [
+    {
+      "description": "Received in the Senate.",
+      "date": "2026-07-29T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:21:14Z"
+      }
+    },
     {
       "description": "Motion to reconsider laid on the table Agreed to without objection.",
       "date": "2026-07-15T21:12:53+00:00",
@@ -428,9 +438,29 @@
       "identifier": "HRES 1423",
       "legislative_session": "119",
       "relation_type": "companion"
+    },
+    {
+      "identifier": "S 1383",
+      "legislative_session": "119",
+      "relation_type": "companion"
     }
   ],
   "versions": [
+    {
+      "note": "Engrossed in House",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr8595eh/xml/BILLS-119hr8595eh.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr8595eh/pdf/BILLS-119hr8595eh.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-07-15",
+      "classification": ""
+    },
     {
       "note": "Reported in House",
       "links": [
@@ -583,7 +613,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-22T08:35:06Z",
+    "logs_latest_update": "2026-08-09T06:21:14Z",
     "text_extraction_latest_update": "2026-07-23T07:35:31.155728Z"
   }
 }

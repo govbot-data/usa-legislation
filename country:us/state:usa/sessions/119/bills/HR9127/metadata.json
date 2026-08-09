@@ -25,6 +25,16 @@
   ],
   "actions": [
     {
+      "description": "Referred to the Subcommittee on Disability Assistance and Memorial Affairs.",
+      "date": "2026-06-12T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:21:10Z"
+      }
+    },
+    {
       "description": "Referred to the Committee on Veterans' Affairs, and in addition to the Committee on Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
       "date": "2026-06-03T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -72,6 +82,14 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Abraham J. Hamadeh\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Timothy M. Kennedy",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Timothy M. Kennedy\"}",
       "organization_id": null
     },
     {
@@ -123,7 +141,8 @@
     "cosponsor_bioguides": [
       "A000369",
       "H001066",
-      "H001098"
+      "H001098",
+      "K000402"
     ],
     "sponsor_bioguides": [
       "L000590"
@@ -136,7 +155,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-22T08:35:00Z",
+    "logs_latest_update": "2026-08-09T06:21:10Z",
     "text_extraction_latest_update": "2026-07-22T18:58:58.261090Z"
   }
 }

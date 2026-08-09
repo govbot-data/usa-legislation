@@ -1,7 +1,7 @@
 {
   "legislative_session": "119",
   "identifier": "HR 6955",
-  "title": "Main Street Act",
+  "title": "Main Street Capital Access Act",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -11,11 +11,11 @@
   "other_titles": [
     {
       "note": "",
-      "title": "Main Street Capital Access Act"
+      "title": "To make improvements to the Federal banking laws, and for other purposes."
     },
     {
       "note": "",
-      "title": "To make improvements to the Federal banking laws, and for other purposes."
+      "title": "Main Street Act"
     }
   ],
   "other_identifiers": [
@@ -24,6 +24,148 @@
     }
   ],
   "actions": [
+    {
+      "description": "Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.",
+      "date": "2026-07-22T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:21:13Z"
+      }
+    },
+    {
+      "description": "Motion to reconsider laid on the table Agreed to without objection.",
+      "date": "2026-07-22T02:06:17+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:21:13Z"
+      }
+    },
+    {
+      "description": "On passage Passed by the Yeas and Nays: 270 - 155, 1 Present (Roll no. 271). (text of amendment in the nature of a substitute: CR H4708-4722)",
+      "date": "2026-07-22T02:06:13+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:21:13Z"
+      }
+    },
+    {
+      "description": "Passed/agreed to in House: On passage Passed by the Yeas and Nays: 270 - 155, 1 Present (Roll no. 271).",
+      "date": "2026-07-22T02:06:13+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:21:13Z"
+      }
+    },
+    {
+      "description": "On motion to recommit Failed by the Yeas and Nays: 210 - 216 (Roll no. 270).",
+      "date": "2026-07-22T02:00:26+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:21:13Z"
+      }
+    },
+    {
+      "description": "Considered as unfinished business. (consideration: CR H5018-5019)",
+      "date": "2026-07-22T01:53:59+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:21:13Z"
+      }
+    },
+    {
+      "description": "POSTPONED PROCEEDINGS - At the conclusion of debate on H.R. 6955, the Chair put the question on motion to recommit and by voice vote, announced that the noes had prevailed. Ms. Garcia (TX) demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.",
+      "date": "2026-07-21T19:51:32+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:21:13Z"
+      }
+    },
+    {
+      "description": "The previous question on the motion to recommit was ordered pursuant to clause 2(b) of rule XIX.",
+      "date": "2026-07-21T19:51:10+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:21:13Z"
+      }
+    },
+    {
+      "description": "Ms. Garcia (TX) moved to recommit to the Committee on Financial Services. (text: CR H4731)",
+      "date": "2026-07-21T19:50:56+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:21:13Z"
+      }
+    },
+    {
+      "description": "The previous question was ordered pursuant to the rule.",
+      "date": "2026-07-21T19:50:24+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:21:13Z"
+      }
+    },
+    {
+      "description": "DEBATE - The House proceeded with one hour of debate on H.R. 6955.",
+      "date": "2026-07-21T18:44:39+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:21:13Z"
+      }
+    },
+    {
+      "description": "Rule provides for consideration of H.R. 8800, H.R. 8884, H. Con. Res. 113, H.R. 7008, H.R. 6955 and H.R. 9770. The resolution provides for consideration of H.R. 8800 under a structured rule and for consideration of H.R. 8884, H. Con. Res. 113, H.R. 7008, H.R. 6955, and H.R. 9770 under a closed rule, with one hour of debate on each measure and one motion to recommit on H.R. 8800, H.R. 8884, H.R. 7008, H.R. 6955, and H.R. 9770.",
+      "date": "2026-07-21T18:43:38+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:21:13Z"
+      }
+    },
+    {
+      "description": "Considered under the provisions of rule H. Res. 1438. (consideration: CR H4707-4731)",
+      "date": "2026-07-21T18:43:33+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:21:13Z"
+      }
+    },
+    {
+      "description": "Rules Committee Resolution H. Res. 1438 Reported to House. Rule provides for consideration of H.R. 8800, H.R. 8884, H. Con. Res. 113, H.R. 7008, H.R. 6955 and H.R. 9770. The resolution provides for consideration of H.R. 8800 under a structured rule and for consideration of H.R. 8884, H. Con. Res. 113, H.R. 7008, H.R. 6955, and H.R. 9770 under a closed rule, with one hour of debate on each measure and one motion to recommit on H.R. 8800, H.R. 8884, H.R. 7008, H.R. 6955, and H.R. 9770.",
+      "date": "2026-07-21T00:33:13+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:21:13Z"
+      }
+    },
     {
       "description": "Placed on the Union Calendar, Calendar No. 535.",
       "date": "2026-04-20T04:00:00+00:00",
@@ -488,9 +630,44 @@
       "identifier": "S 4839",
       "legislative_session": "119",
       "relation_type": "companion"
+    },
+    {
+      "identifier": "HRES 1438",
+      "legislative_session": "119",
+      "relation_type": "companion"
     }
   ],
   "versions": [
+    {
+      "note": "Referred in Senate",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr6955rfs/xml/BILLS-119hr6955rfs.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr6955rfs/pdf/BILLS-119hr6955rfs.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-07-22",
+      "classification": ""
+    },
+    {
+      "note": "Engrossed in House",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr6955eh/xml/BILLS-119hr6955eh.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr6955eh/pdf/BILLS-119hr6955eh.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-07-21",
+      "classification": ""
+    },
     {
       "note": "Reported in House",
       "links": [
@@ -523,6 +700,17 @@
     }
   ],
   "documents": [
+    {
+      "note": "HAMDT 241",
+      "links": [
+        {
+          "url": "https://www.congress.gov/amendment/119th-congress/house-amendment/241",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
     {
       "note": "H. Rept. 119-617",
       "links": [
@@ -593,7 +781,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-22T08:35:13Z",
+    "logs_latest_update": "2026-08-09T06:21:13Z",
     "text_extraction_latest_update": "2026-07-22T19:23:34.611168Z"
   }
 }

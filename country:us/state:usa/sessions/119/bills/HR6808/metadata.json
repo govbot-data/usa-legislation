@@ -25,6 +25,16 @@
   ],
   "actions": [
     {
+      "description": "Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.",
+      "date": "2026-08-06T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:21:06Z"
+      }
+    },
+    {
       "description": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.",
       "date": "2026-04-15T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -311,7 +321,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-22T08:34:53Z",
+    "logs_latest_update": "2026-08-09T06:21:06Z",
     "text_extraction_latest_update": "2026-07-22T18:09:10.814827Z"
   }
 }

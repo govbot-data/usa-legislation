@@ -1,20 +1,45 @@
 {
   "legislative_session": "119",
   "identifier": "HR 9725",
-  "title": "To amend title 5, United States Code, to abolish the Council of the Inspectors General on Integrity and Efficiency, and for other purposes.",
+  "title": "Restoring Integrity and Efficiency to Inspector General Oversight Act of 2026",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
   ],
   "subject": [],
   "abstracts": [],
-  "other_titles": [],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "To amend title 5, United States Code, to abolish the Council of the Inspectors General on Integrity and Efficiency, and for other purposes."
+    }
+  ],
   "other_identifiers": [
     {
       "identifier": "ocd-bill-us-119-hr9725"
     }
   ],
   "actions": [
+    {
+      "description": "Ordered to be Reported (Amended) by the Yeas and Nays: 23 - 20.",
+      "date": "2026-07-22T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:21:06Z"
+      }
+    },
+    {
+      "description": "Committee Consideration and Mark-up Session Held",
+      "date": "2026-07-22T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:21:06Z"
+      }
+    },
     {
       "description": "Referred to the House Committee on Oversight and Government Reform.",
       "date": "2026-07-16T04:00:00+00:00",
@@ -42,6 +67,14 @@
   ],
   "sponsorships": [
     {
+      "name": "Andy Biggs",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Andy Biggs\"}",
+      "organization_id": null
+    },
+    {
       "name": "Clay Higgins",
       "classification": "primary",
       "entity_type": "person",
@@ -51,7 +84,23 @@
     }
   ],
   "related_bills": [],
-  "versions": [],
+  "versions": [
+    {
+      "note": "Introduced in House",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr9725ih/xml/BILLS-119hr9725ih.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr9725ih/pdf/BILLS-119hr9725ih.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-07-16",
+      "classification": ""
+    }
+  ],
   "documents": [],
   "citations": [],
   "sources": [
@@ -65,7 +114,9 @@
     }
   ],
   "extras": {
-    "cosponsor_bioguides": [],
+    "cosponsor_bioguides": [
+      "B001302"
+    ],
     "sponsor_bioguides": [
       "H001077"
     ]
@@ -77,7 +128,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-22T08:35:18Z",
+    "logs_latest_update": "2026-08-09T06:21:06Z",
     "text_extraction_latest_update": "2026-08-08T12:37:50.886380Z"
   }
 }

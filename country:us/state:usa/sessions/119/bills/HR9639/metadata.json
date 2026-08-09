@@ -25,6 +25,16 @@
   ],
   "actions": [
     {
+      "description": "Sponsor introductory remarks on measure. (CR H4694-4695)",
+      "date": "2026-07-21T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:21:12Z"
+      }
+    },
+    {
       "description": "Referred to the House Committee on Financial Services.",
       "date": "2026-07-09T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -130,7 +140,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-22T08:35:06Z",
+    "logs_latest_update": "2026-08-09T06:21:12Z",
     "text_extraction_latest_update": "2026-07-22T18:08:50.204857Z"
   }
 }

@@ -21,6 +21,38 @@
   ],
   "actions": [
     {
+      "description": "Passed Senate without amendment by Unanimous Consent.",
+      "date": "2026-08-07T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:21:09Z"
+      }
+    },
+    {
+      "description": "Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.",
+      "date": "2026-08-07T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:21:09Z"
+      }
+    },
+    {
+      "description": "Senate Committee on Energy and Natural Resources discharged by Unanimous Consent.",
+      "date": "2026-08-07T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:21:09Z"
+      }
+    },
+    {
       "description": "Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.",
       "date": "2026-03-17T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -354,7 +386,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-22T08:34:53Z",
+    "logs_latest_update": "2026-08-09T06:21:09Z",
     "text_extraction_latest_update": "2026-07-22T14:01:34.130164Z"
   }
 }

@@ -16,6 +16,26 @@
   ],
   "actions": [
     {
+      "description": "Motion to discharge Senate Committee on Foreign Relations rejected by Yea-Nay Vote. 47 - 49. Record Vote Number: 207.",
+      "date": "2026-07-23T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:21:10Z"
+      }
+    },
+    {
+      "description": "Motion to discharge Senate Committee on Foreign Relations made. (Pursuant to the Arms Export Control Act of 1976). (consideration: CR S4246-4249)",
+      "date": "2026-07-23T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:21:10Z"
+      }
+    },
+    {
       "description": "Read twice and referred to the Committee on Foreign Relations.",
       "date": "2026-04-13T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -204,7 +224,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-22T08:34:55Z",
+    "logs_latest_update": "2026-08-09T06:21:10Z",
     "text_extraction_latest_update": "2026-07-22T13:49:24.772822Z"
   }
 }

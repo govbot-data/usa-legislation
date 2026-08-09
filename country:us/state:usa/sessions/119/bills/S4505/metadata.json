@@ -16,6 +16,36 @@
   ],
   "actions": [
     {
+      "description": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 546.",
+      "date": "2026-08-06T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:21:08Z"
+      }
+    },
+    {
+      "description": "Committee on Homeland Security and Governmental Affairs. Reported by Senator Paul with an amendment in the nature of a substitute. Without written report.",
+      "date": "2026-08-06T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:21:08Z"
+      }
+    },
+    {
+      "description": "Committee on Homeland Security and Governmental Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.",
+      "date": "2026-08-06T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:21:08Z"
+      }
+    },
+    {
       "description": "Read twice and referred to the Committee on Homeland Security and Governmental Affairs.",
       "date": "2026-05-12T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -96,6 +126,22 @@
       "organization_id": null
     },
     {
+      "name": "James Lankford",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"James Lankford\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jeanne Shaheen",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jeanne Shaheen\"}",
+      "organization_id": null
+    },
+    {
       "name": "Joni Ernst",
       "classification": "primary",
       "entity_type": "person",
@@ -112,6 +158,21 @@
     }
   ],
   "versions": [
+    {
+      "note": "Reported to Senate",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119s4505rs/xml/BILLS-119s4505rs.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119s4505rs/pdf/BILLS-119s4505rs.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-06",
+      "classification": ""
+    },
     {
       "note": "Introduced in Senate",
       "links": [
@@ -148,7 +209,9 @@
       "S001217",
       "B001277",
       "M001242",
-      "D000563"
+      "D000563",
+      "L000575",
+      "S001181"
     ],
     "sponsor_bioguides": [
       "E000295"
@@ -161,7 +224,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-22T08:35:08Z",
+    "logs_latest_update": "2026-08-09T06:21:08Z",
     "text_extraction_latest_update": "2026-07-22T16:25:13.443926Z"
   }
 }

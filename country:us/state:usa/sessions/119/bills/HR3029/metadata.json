@@ -1,7 +1,7 @@
 {
   "legislative_session": "119",
   "identifier": "HR 3029",
-  "title": "Nucleic Acid Standards for Biosecurity Act",
+  "title": "To amend the Research and Development, Competition, and Innovation Act to support nucleic acid screening, and for other purposes.",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -11,7 +11,7 @@
   "other_titles": [
     {
       "note": "",
-      "title": "To amend the Research and Development, Competition, and Innovation Act to support nucleic acid screening, and for other purposes."
+      "title": "Nucleic Acid Standards for Biosecurity Act"
     }
   ],
   "other_identifiers": [
@@ -20,6 +20,80 @@
     }
   ],
   "actions": [
+    {
+      "description": "Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.",
+      "date": "2026-07-21T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:21:08Z"
+      }
+    },
+    {
+      "description": "Motion to reconsider laid on the table Agreed to without objection.",
+      "date": "2026-07-20T21:27:58+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:21:08Z"
+      }
+    },
+    {
+      "description": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4666)",
+      "date": "2026-07-20T21:27:55+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:21:08Z"
+      }
+    },
+    {
+      "description": "Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4666)",
+      "date": "2026-07-20T21:27:55+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:21:08Z"
+      }
+    },
+    {
+      "description": "DEBATE - The House proceeded with forty minutes of debate on H.R. 3029.",
+      "date": "2026-07-20T21:20:12+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:21:08Z"
+      }
+    },
+    {
+      "description": "Considered under suspension of the rules. (consideration: CR H4666-4667)",
+      "date": "2026-07-20T21:20:11+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:21:08Z"
+      }
+    },
+    {
+      "description": "Mr. Babin moved to suspend the rules and pass the bill, as amended.",
+      "date": "2026-07-20T21:20:08+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:21:08Z"
+      }
+    },
     {
       "description": "Placed on the Union Calendar, Calendar No. 654.",
       "date": "2026-07-16T04:00:00+00:00",
@@ -122,6 +196,36 @@
   "related_bills": [],
   "versions": [
     {
+      "note": "Referred in Senate",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr3029rfs/xml/BILLS-119hr3029rfs.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr3029rfs/pdf/BILLS-119hr3029rfs.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-07-21",
+      "classification": ""
+    },
+    {
+      "note": "Engrossed in House",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr3029eh/xml/BILLS-119hr3029eh.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr3029eh/pdf/BILLS-119hr3029eh.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-07-20",
+      "classification": ""
+    },
+    {
       "note": "Reported in House",
       "links": [
         {
@@ -163,6 +267,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "H. Rept. 119-751",
+      "links": [
+        {
+          "url": "https://www.congress.gov/119/crpt/hrpt751/CRPT-119hrpt751.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "citations": [],
@@ -193,7 +308,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-22T08:35:04Z",
+    "logs_latest_update": "2026-08-09T06:21:08Z",
     "text_extraction_latest_update": "2026-07-22T13:14:05.170342Z"
   }
 }

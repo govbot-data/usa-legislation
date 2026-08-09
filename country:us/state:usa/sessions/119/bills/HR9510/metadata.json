@@ -11,11 +11,11 @@
   "other_titles": [
     {
       "note": "",
-      "title": "Veterans Health Administration Online Publication and Easy Navigation of Policies Act of 2026"
+      "title": "To direct the Under Secretary of Veterans Affairs for Health to make publicly available all national policies of the Veterans Health Administration."
     },
     {
       "note": "",
-      "title": "To direct the Under Secretary of Veterans Affairs for Health to make publicly available all national policies of the Veterans Health Administration."
+      "title": "Veterans Health Administration Online Publication and Easy Navigation of Policies Act of 2026"
     }
   ],
   "other_identifiers": [
@@ -24,6 +24,16 @@
     }
   ],
   "actions": [
+    {
+      "description": "Referred to the Subcommittee on Health.",
+      "date": "2026-06-30T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:21:07Z"
+      }
+    },
     {
       "description": "Referred to the House Committee on Veterans' Affairs.",
       "date": "2026-06-29T04:00:00+00:00",
@@ -112,7 +122,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-22T08:35:02Z",
+    "logs_latest_update": "2026-08-09T06:21:07Z",
     "text_extraction_latest_update": "2026-07-22T18:24:30.261052Z"
   }
 }

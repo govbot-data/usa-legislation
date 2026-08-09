@@ -16,6 +16,118 @@
   ],
   "actions": [
     {
+      "description": "Received in the Senate and referred to the Committee on Foreign Relations.",
+      "date": "2026-07-23T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:21:11Z"
+      }
+    },
+    {
+      "description": "Motion to reconsider laid on the table Agreed to without objection.",
+      "date": "2026-07-23T14:25:11+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:21:11Z"
+      }
+    },
+    {
+      "description": "On agreeing to the resolution Agreed to by the Yeas and Nays: 214 - 208 (Roll no. 282).",
+      "date": "2026-07-23T14:25:10+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:21:11Z"
+      }
+    },
+    {
+      "description": "Passed/agreed to in House: On agreeing to the resolution Agreed to by the Yeas and Nays: 214 - 208 (Roll no. 282).",
+      "date": "2026-07-23T14:25:10+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:21:11Z"
+      }
+    },
+    {
+      "description": "Considered as unfinished business. (consideration: CR H5186)",
+      "date": "2026-07-23T13:46:33+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:21:11Z"
+      }
+    },
+    {
+      "description": "POSTPONED PROCEEDINGS - At the conclusion of debate on H. Con. Res. 89, the Chair put the question on agreeing to the concurrent resolution and by voice vote, announced the noes had prevailed. Ms. Jayapal demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.",
+      "date": "2026-07-22T23:49:04+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:21:11Z"
+      }
+    },
+    {
+      "description": "The previous question was ordered pursuant to a previous order of the House.",
+      "date": "2026-07-22T23:48:40+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:21:11Z"
+      }
+    },
+    {
+      "description": "DEBATE - Pursuant to a previous order, the House proceeded with one hour of debate on H. Con. Res. 89.",
+      "date": "2026-07-22T22:47:13+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:21:11Z"
+      }
+    },
+    {
+      "description": "Considered pursuant to a previous order. (consideration: CR H5160-5165; text: CR H5160)",
+      "date": "2026-07-22T22:46:50+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:21:11Z"
+      }
+    },
+    {
+      "description": "Consideration initiated pursuant to a previous order.",
+      "date": "2026-07-22T22:46:31+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:21:11Z"
+      }
+    },
+    {
+      "description": "ORDER OF PROCEDURE - Mr. Mast asked unanimous consent that, it be in order at any time to consider H. Con. Res. 89 in the House if called up by the chair of the Committee on Foreign Affairs or his designee; that the concurrent resolution be considered as read; and that the previous question be considered as ordered on the concurrent resolution to adoption without intervening motion except for one hour of debate equally divided among and controlled by Representative Mast of Florida, Representative Meeks of New York, and Representative Jayapal of Washington, or their respective designees. Agreed to without objection.",
+      "date": "2026-07-22T22:45:45+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:21:11Z"
+      }
+    },
+    {
       "description": "Referred to the House Committee on Foreign Affairs.",
       "date": "2026-04-23T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -39,6 +151,134 @@
     }
   ],
   "sponsorships": [
+    {
+      "name": "Jason Crow",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jason Crow\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Greg Casar",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Greg Casar\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Gilbert Ray Cisneros",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Gilbert Ray Cisneros\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Mike Thompson",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Mike Thompson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Derek Tran",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Derek Tran\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Patrick Ryan",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Patrick Ryan\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Seth Moulton",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Seth Moulton\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Ted Lieu",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Ted Lieu\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Maggie Goodlander",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Maggie Goodlander\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jonathan L. Jackson",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jonathan L. Jackson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Thomas Massie",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Thomas Massie\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Chrissy Houlahan",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Chrissy Houlahan\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Robert C. \"Bobby\" Scott",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Robert C. \\\"Bobby\\\" Scott\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jake Auchincloss",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jake Auchincloss\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jimmy Panetta",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jimmy Panetta\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Eugene Simon Vindman",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Eugene Simon Vindman\"}",
+      "organization_id": null
+    },
     {
       "name": "Pramila Jayapal",
       "classification": "primary",
@@ -113,9 +353,49 @@
       "identifier": "HCONRES 105",
       "legislative_session": "119",
       "relation_type": "companion"
+    },
+    {
+      "identifier": "HCONRES 40",
+      "legislative_session": "119",
+      "relation_type": "companion"
+    },
+    {
+      "identifier": "HCONRES 86",
+      "legislative_session": "119",
+      "relation_type": "companion"
     }
   ],
   "versions": [
+    {
+      "note": "Engrossed in House",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hconres89eh/xml/BILLS-119hconres89eh.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hconres89eh/pdf/BILLS-119hconres89eh.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-07-23",
+      "classification": ""
+    },
+    {
+      "note": "Referred in Senate",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hconres89rfs/xml/BILLS-119hconres89rfs.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hconres89rfs/pdf/BILLS-119hconres89rfs.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-07-23",
+      "classification": ""
+    },
     {
       "note": "Introduced in House",
       "links": [
@@ -145,7 +425,24 @@
     }
   ],
   "extras": {
-    "cosponsor_bioguides": [],
+    "cosponsor_bioguides": [
+      "C001121",
+      "C001131",
+      "C001123",
+      "T000460",
+      "T000491",
+      "R000579",
+      "M001196",
+      "L000582",
+      "G000604",
+      "J000309",
+      "M001184",
+      "H001085",
+      "S000185",
+      "A000148",
+      "P000613",
+      "V000138"
+    ],
     "sponsor_bioguides": [
       "J000298"
     ]
@@ -157,7 +454,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-22T08:35:12Z",
+    "logs_latest_update": "2026-08-09T06:21:11Z",
     "text_extraction_latest_update": "2026-07-22T16:14:22.292264Z"
   }
 }

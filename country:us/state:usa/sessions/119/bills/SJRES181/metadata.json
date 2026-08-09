@@ -16,6 +16,26 @@
   ],
   "actions": [
     {
+      "description": "Motion to discharge Senate Committee on Foreign Relations rejected by Yea-Nay Vote. 49 - 50. Record Vote Number: 216. (consideration: CR S4357)",
+      "date": "2026-07-30T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:21:08Z"
+      }
+    },
+    {
+      "description": "Motion to discharge Senate Committee on Foreign Relations made. (Pursuant to 50 U.S.C. 1546a, Department of State Authorization Act). (consideration: CR S4356-4357)",
+      "date": "2026-07-30T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:21:08Z"
+      }
+    },
+    {
       "description": "Read twice and referred to the Committee on Foreign Relations.",
       "date": "2026-04-13T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -53,6 +73,54 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Chris Van Hollen\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Christopher S. Murphy",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Christopher S. Murphy\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Timothy M. Kaine",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Timothy M. Kaine\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jeff Merkley",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jeff Merkley\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Andy Kim",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Andy Kim\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Tammy Baldwin",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Tammy Baldwin\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Mark Kelly",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Mark Kelly\"}",
       "organization_id": null
     },
     {
@@ -108,7 +176,13 @@
   "extras": {
     "cosponsor_bioguides": [
       "S000148",
-      "V000128"
+      "V000128",
+      "M001169",
+      "K000384",
+      "M001176",
+      "K000394",
+      "B001230",
+      "K000377"
     ],
     "sponsor_bioguides": [
       "G000555"
@@ -121,7 +195,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-22T08:35:02Z",
+    "logs_latest_update": "2026-08-09T06:21:08Z",
     "text_extraction_latest_update": "2026-07-22T17:30:27.155631Z"
   }
 }

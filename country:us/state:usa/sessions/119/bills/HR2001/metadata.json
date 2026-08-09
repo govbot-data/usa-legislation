@@ -21,6 +21,80 @@
   ],
   "actions": [
     {
+      "description": "Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.",
+      "date": "2026-07-21T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:21:11Z"
+      }
+    },
+    {
+      "description": "Motion to reconsider laid on the table Agreed to without objection.",
+      "date": "2026-07-20T19:38:47+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:21:11Z"
+      }
+    },
+    {
+      "description": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4645)",
+      "date": "2026-07-20T19:38:41+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:21:11Z"
+      }
+    },
+    {
+      "description": "Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4645)",
+      "date": "2026-07-20T19:38:41+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:21:11Z"
+      }
+    },
+    {
+      "description": "DEBATE - The House proceeded with forty minutes of debate on H.R. 2001.",
+      "date": "2026-07-20T19:30:01+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:21:11Z"
+      }
+    },
+    {
+      "description": "Considered under suspension of the rules. (consideration: CR H4645-4646)",
+      "date": "2026-07-20T19:30:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:21:11Z"
+      }
+    },
+    {
+      "description": "Mr. Guthrie moved to suspend the rules and pass the bill, as amended.",
+      "date": "2026-07-20T19:29:49+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:21:11Z"
+      }
+    },
+    {
       "description": "Placed on the Union Calendar, Calendar No. 626.",
       "date": "2026-07-02T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -170,6 +244,36 @@
   "related_bills": [],
   "versions": [
     {
+      "note": "Referred in Senate",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr2001rfs/xml/BILLS-119hr2001rfs.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr2001rfs/pdf/BILLS-119hr2001rfs.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-07-21",
+      "classification": ""
+    },
+    {
+      "note": "Engrossed in House",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr2001eh/xml/BILLS-119hr2001eh.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr2001eh/pdf/BILLS-119hr2001eh.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-07-20",
+      "classification": ""
+    },
+    {
       "note": "Reported in House",
       "links": [
         {
@@ -247,7 +351,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-22T08:35:05Z",
+    "logs_latest_update": "2026-08-09T06:21:11Z",
     "text_extraction_latest_update": "2026-07-22T19:47:03.594114Z"
   }
 }

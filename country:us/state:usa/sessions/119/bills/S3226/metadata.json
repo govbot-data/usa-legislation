@@ -21,6 +21,16 @@
   ],
   "actions": [
     {
+      "description": "Committee on Homeland Security and Governmental Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.",
+      "date": "2026-08-06T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:21:07Z"
+      }
+    },
+    {
       "description": "Read twice and referred to the Committee on Homeland Security and Governmental Affairs.",
       "date": "2025-11-19T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -141,6 +151,14 @@
       "organization_id": null
     },
     {
+      "name": "Kevin Cramer",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Kevin Cramer\"}",
+      "organization_id": null
+    },
+    {
       "name": "Mike Crapo",
       "classification": "primary",
       "entity_type": "person",
@@ -198,7 +216,8 @@
       "S001194",
       "W000790",
       "G000574",
-      "K000383"
+      "K000383",
+      "C001096"
     ],
     "sponsor_bioguides": [
       "C000880"
@@ -211,7 +230,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-22T08:35:15Z",
+    "logs_latest_update": "2026-08-09T06:21:07Z",
     "text_extraction_latest_update": "2026-07-22T16:07:44.099644Z"
   }
 }

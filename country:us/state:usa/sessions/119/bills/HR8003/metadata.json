@@ -21,6 +21,16 @@
   ],
   "actions": [
     {
+      "description": "Subcommittee Hearings Held",
+      "date": "2026-07-21T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:21:11Z"
+      }
+    },
+    {
       "description": "Referred to the Subcommittee on Energy and Mineral Resources.",
       "date": "2026-07-14T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -136,7 +146,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-22T08:35:17Z",
+    "logs_latest_update": "2026-08-09T06:21:11Z",
     "text_extraction_latest_update": "2026-07-22T15:08:19.641233Z"
   }
 }

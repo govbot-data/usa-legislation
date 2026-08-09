@@ -25,6 +25,16 @@
   ],
   "actions": [
     {
+      "description": "Referred to the Subcommittee on Oversight and Investigations.",
+      "date": "2026-06-12T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:21:14Z"
+      }
+    },
+    {
       "description": "Referred to the House Committee on Veterans' Affairs.",
       "date": "2026-06-04T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -56,6 +66,14 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Russell Fry\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Thomas H. Kean",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Thomas H. Kean\"}",
       "organization_id": null
     },
     {
@@ -99,7 +117,8 @@
   ],
   "extras": {
     "cosponsor_bioguides": [
-      "F000478"
+      "F000478",
+      "K000398"
     ],
     "sponsor_bioguides": [
       "L000599"
@@ -112,7 +131,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-22T08:35:11Z",
+    "logs_latest_update": "2026-08-09T06:21:14Z",
     "text_extraction_latest_update": "2026-07-22T17:49:16.588107Z"
   }
 }

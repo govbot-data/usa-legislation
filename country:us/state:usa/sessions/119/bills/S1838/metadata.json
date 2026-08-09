@@ -1,7 +1,7 @@
 {
   "legislative_session": "119",
   "identifier": "S 1838",
-  "title": "DeOndra Dixon INCLUDE Project Act of 2025",
+  "title": "DeOndra Dixon INCLUDE Project Act of 2026",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -9,6 +9,10 @@
   "subject": [],
   "abstracts": [],
   "other_titles": [
+    {
+      "note": "",
+      "title": "DeOndra Dixon INCLUDE Project Act of 2025"
+    },
     {
       "note": "",
       "title": "A bill to amend the Public Health Service Act to authorize the Secretary of Health and Human Services to carry out a program of research, training, and investigation related to Down syndrome, and for other purposes."
@@ -20,6 +24,48 @@
     }
   ],
   "actions": [
+    {
+      "description": "Passed Senate with an amendment by Voice Vote. (text of amendment in the nature of a substitute: CR S4495-4496)",
+      "date": "2026-08-06T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:21:09Z"
+      }
+    },
+    {
+      "description": "Passed/agreed to in Senate: Passed Senate with an amendment by Voice Vote. (text of amendment in the nature of a substitute: CR S4495-4496)",
+      "date": "2026-08-06T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:21:09Z"
+      }
+    },
+    {
+      "description": "Measure laid before Senate by unanimous consent. (consideration: CR S4495-4498)",
+      "date": "2026-08-06T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:21:09Z"
+      }
+    },
+    {
+      "description": "Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent.",
+      "date": "2026-08-06T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:21:09Z"
+      }
+    },
     {
       "description": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions.",
       "date": "2025-05-21T04:00:00+00:00",
@@ -109,6 +155,14 @@
       "organization_id": null
     },
     {
+      "name": "Jon Ossoff",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jon Ossoff\"}",
+      "organization_id": null
+    },
+    {
       "name": "John W. Hickenlooper",
       "classification": "primary",
       "entity_type": "person",
@@ -119,6 +173,21 @@
   ],
   "related_bills": [],
   "versions": [
+    {
+      "note": "Engrossed in Senate",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119s1838es/xml/BILLS-119s1838es.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119s1838es/pdf/BILLS-119s1838es.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-06",
+      "classification": ""
+    },
     {
       "note": "Introduced in Senate",
       "links": [
@@ -135,7 +204,19 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "SAMDT 6751",
+      "links": [
+        {
+          "url": "https://www.congress.gov/amendment/119th-congress/senate-amendment/6751",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -156,7 +237,8 @@
       "P000145",
       "C001047",
       "C001088",
-      "V000128"
+      "V000128",
+      "O000174"
     ],
     "sponsor_bioguides": [
       "H000273"
@@ -169,7 +251,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-22T08:35:10Z",
+    "logs_latest_update": "2026-08-09T06:21:09Z",
     "text_extraction_latest_update": "2026-07-22T10:53:45.434046Z"
   }
 }

@@ -16,6 +16,26 @@
   ],
   "actions": [
     {
+      "description": "Ordered to be Reported by Voice Vote.",
+      "date": "2026-07-22T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:21:14Z"
+      }
+    },
+    {
+      "description": "Committee Consideration and Mark-up Session Held",
+      "date": "2026-07-22T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:21:14Z"
+      }
+    },
+    {
       "description": "Referred to the House Committee on Oversight and Government Reform.",
       "date": "2026-05-20T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -148,7 +168,19 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "CBO: H.R. 8945, a bill to designate the facility of the United States Postal Service located at 86\u2013014 Farrington Highway in Wai\u2019anae, Hawai\u2019i, as the &quot;U.S. Representative Colleen Hanabusa Post Office Building&quot;",
+      "links": [
+        {
+          "url": "https://www.cbo.gov/publication/62623",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -184,7 +216,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-22T08:35:02Z",
+    "logs_latest_update": "2026-08-09T06:21:14Z",
     "text_extraction_latest_update": "2026-07-22T17:32:08.571867Z"
   }
 }
