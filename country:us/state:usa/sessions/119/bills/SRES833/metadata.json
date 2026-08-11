@@ -16,28 +16,6 @@
   ],
   "actions": [
     {
-      "description": "Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.",
-      "date": "2026-08-06T04:00:00+00:00",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-08-09T06:21:10Z"
-      }
-    },
-    {
-      "description": "Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.",
-      "date": "2026-08-06T04:00:00+00:00",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "passage"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-08-09T06:21:10Z"
-      }
-    },
-    {
       "description": "Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent.",
       "date": "2026-08-06T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -113,7 +91,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-09T06:21:10Z",
+    "logs_latest_update": "2026-08-11T07:23:29Z",
     "text_extraction_latest_update": "2026-08-09T06:46:44.233807Z"
   }
 }
