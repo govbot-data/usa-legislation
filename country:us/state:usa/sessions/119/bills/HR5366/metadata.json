@@ -25,13 +25,23 @@
   ],
   "actions": [
     {
-      "description": "Passed Senate without amendment by Unanimous Consent.",
+      "description": "Message on Senate action sent to the House.",
+      "date": "2026-08-10T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-12T07:38:33Z"
+      }
+    },
+    {
+      "description": "Passed Senate without amendment by Unanimous Consent. (consideration: CR S4547)",
       "date": "2026-08-07T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-08-09T06:21:14Z"
+        "log_file_created": "2026-08-12T07:38:33Z"
       }
     },
     {
@@ -341,6 +351,29 @@
   ],
   "versions": [
     {
+      "note": "Enrolled Bill",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr5366enr/uslm/BILLS-119hr5366enr.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr5366enr/uslm/BILLS-119hr5366enr.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr5366enr/xml/BILLS-119hr5366enr.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr5366enr/pdf/BILLS-119hr5366enr.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Referred in Senate",
       "links": [
         {
@@ -464,7 +497,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-09T06:21:14Z",
+    "logs_latest_update": "2026-08-12T07:38:33Z",
     "text_extraction_latest_update": "2026-08-09T06:47:41.621551Z"
   }
 }

@@ -21,6 +21,38 @@
   ],
   "actions": [
     {
+      "description": "Message on Senate action sent to the House.",
+      "date": "2026-08-10T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-12T07:38:36Z"
+      }
+    },
+    {
+      "description": "Held at the desk.",
+      "date": "2026-08-10T15:10:09+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-12T07:38:36Z"
+      }
+    },
+    {
+      "description": "Received in the House.",
+      "date": "2026-08-10T15:02:19+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-12T07:38:36Z"
+      }
+    },
+    {
       "description": "Passed Senate with an amendment by Unanimous Consent. (text: CR S4493-4494)",
       "date": "2026-08-06T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -251,7 +283,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-09T06:21:08Z",
+    "logs_latest_update": "2026-08-12T07:38:36Z",
     "text_extraction_latest_update": "2026-08-09T06:27:25.843471Z"
   }
 }

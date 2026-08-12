@@ -21,13 +21,45 @@
   ],
   "actions": [
     {
-      "description": "Passed Senate with an amendment by Unanimous Consent.",
+      "description": "Message on Senate action sent to the House.",
+      "date": "2026-08-10T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-12T07:38:36Z"
+      }
+    },
+    {
+      "description": "Held at the desk.",
+      "date": "2026-08-10T15:10:32+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-12T07:38:36Z"
+      }
+    },
+    {
+      "description": "Received in the House.",
+      "date": "2026-08-10T15:02:22+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-12T07:38:36Z"
+      }
+    },
+    {
+      "description": "Passed Senate with an amendment by Unanimous Consent. (text of amendment in the nature of a substitute: CR S4586-4588)",
       "date": "2026-08-07T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-08-09T06:21:15Z"
+        "log_file_created": "2026-08-12T07:38:36Z"
       }
     },
     {
@@ -43,13 +75,13 @@
       }
     },
     {
-      "description": "Measure laid before Senate by unanimous consent.",
+      "description": "Measure laid before Senate by unanimous consent. (consideration: CR S4551)",
       "date": "2026-08-07T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-08-09T06:21:15Z"
+        "log_file_created": "2026-08-12T07:38:36Z"
       }
     },
     {
@@ -210,7 +242,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-09T06:21:15Z",
+    "logs_latest_update": "2026-08-12T07:38:36Z",
     "text_extraction_latest_update": "2026-08-09T06:24:37.276793Z"
   }
 }

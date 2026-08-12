@@ -11,11 +11,11 @@
   "other_titles": [
     {
       "note": "",
-      "title": "USMMA Athletics Act of 2025"
+      "title": "A bill to support the athletic programs of the United States Merchant Marine Academy."
     },
     {
       "note": "",
-      "title": "A bill to support the athletic programs of the United States Merchant Marine Academy."
+      "title": "USMMA Athletics Act of 2025"
     }
   ],
   "other_identifiers": [
@@ -24,6 +24,38 @@
     }
   ],
   "actions": [
+    {
+      "description": "Message on Senate action sent to the House.",
+      "date": "2026-08-10T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-12T07:38:37Z"
+      }
+    },
+    {
+      "description": "Held at the desk.",
+      "date": "2026-08-10T15:11:13+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-12T07:38:37Z"
+      }
+    },
+    {
+      "description": "Received in the House.",
+      "date": "2026-08-10T15:02:28+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-12T07:38:37Z"
+      }
+    },
     {
       "description": "Passed Senate with an amendment by Unanimous Consent. (consideration: CR S4492-4493; text: CR S4492-4493)",
       "date": "2026-08-06T04:00:00+00:00",
@@ -221,7 +253,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-09T06:21:15Z",
+    "logs_latest_update": "2026-08-12T07:38:37Z",
     "text_extraction_latest_update": "2026-08-09T06:35:51.842540Z"
   }
 }

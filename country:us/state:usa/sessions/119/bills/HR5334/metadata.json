@@ -15,7 +15,7 @@
     },
     {
       "note": "",
-      "title": "An act to impose sanctions and other measures with respect to the Russian Federation, as championed by the late Senator Lindsey O. Graham, and for other purposes."
+      "title": "To amend the Internal Revenue Code of 1986 to allow early childhood educators to take the educator expense deduction, and for other purposes."
     },
     {
       "note": "",
@@ -23,15 +23,15 @@
     },
     {
       "note": "",
-      "title": "SEED Act"
-    },
-    {
-      "note": "",
-      "title": "To amend the Internal Revenue Code of 1986 to allow early childhood educators to take the educator expense deduction, and for other purposes."
+      "title": "An act to impose sanctions and other measures with respect to the Russian Federation, as championed by the late Senator Lindsey O. Graham, and for other purposes."
     },
     {
       "note": "",
       "title": "SEED Act of 2025"
+    },
+    {
+      "note": "",
+      "title": "SEED Act"
     }
   ],
   "other_identifiers": [
@@ -40,6 +40,16 @@
     }
   ],
   "actions": [
+    {
+      "description": "Message on Senate action sent to the House.",
+      "date": "2026-08-10T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-12T07:38:37Z"
+      }
+    },
     {
       "description": "Passed Senate with an amendment and an amendment to the Title by Yea-Nay Vote. 86 - 11. Record Vote Number: 224.",
       "date": "2026-08-07T04:00:00+00:00",
@@ -63,13 +73,13 @@
       }
     },
     {
-      "description": "Considered by Senate.",
+      "description": "Considered by Senate. (consideration: CR S4538-4540)",
       "date": "2026-08-07T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-08-09T06:21:08Z"
+        "log_file_created": "2026-08-12T07:38:37Z"
       }
     },
     {
@@ -863,7 +873,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-09T06:21:08Z",
+    "logs_latest_update": "2026-08-12T07:38:37Z",
     "text_extraction_latest_update": "2026-08-09T06:35:00.613624Z"
   }
 }
