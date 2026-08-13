@@ -21,6 +21,16 @@
   ],
   "actions": [
     {
+      "description": "Referred to the Subcommittee on Cybersecurity and Infrastructure Protection.",
+      "date": "2026-07-24T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-13T06:34:52Z"
+      }
+    },
+    {
       "description": "Referred to the Committee on Homeland Security, and in addition to the Committee on Education and Workforce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
       "date": "2026-07-23T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -108,7 +118,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-09T06:21:12Z",
+    "logs_latest_update": "2026-08-13T06:34:52Z",
     "text_extraction_latest_update": "2026-08-09T06:30:05.876991Z"
   }
 }
