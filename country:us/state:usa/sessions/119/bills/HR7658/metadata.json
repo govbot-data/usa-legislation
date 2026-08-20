@@ -21,6 +21,16 @@
   ],
   "actions": [
     {
+      "description": "Referred to the Subcommittee on Nutrition and Foreign Agriculture.",
+      "date": "2026-04-03T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-20T06:04:15Z"
+      }
+    },
+    {
       "description": "Referred to the House Committee on Agriculture.",
       "date": "2026-02-24T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -177,7 +187,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-22T08:35:12Z",
+    "logs_latest_update": "2026-08-20T06:04:15Z",
     "text_extraction_latest_update": "2026-07-22T13:17:39.985731Z"
   }
 }
