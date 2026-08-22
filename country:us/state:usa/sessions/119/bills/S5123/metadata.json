@@ -21,6 +21,28 @@
   ],
   "actions": [
     {
+      "description": "Held at the desk.",
+      "date": "2026-08-20T14:03:01+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-22T06:42:14Z"
+      }
+    },
+    {
+      "description": "Received in the House.",
+      "date": "2026-08-20T14:03:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-22T06:42:14Z"
+      }
+    },
+    {
       "description": "Message on Senate action sent to the House.",
       "date": "2026-07-30T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -161,7 +183,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-09T06:21:10Z",
+    "logs_latest_update": "2026-08-22T06:42:14Z",
     "text_extraction_latest_update": "2026-08-09T06:23:55.683460Z"
   }
 }

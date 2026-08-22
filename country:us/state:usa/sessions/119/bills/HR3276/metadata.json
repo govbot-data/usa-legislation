@@ -1,7 +1,7 @@
 {
   "legislative_session": "119",
   "identifier": "HR 3276",
-  "title": "Local Communities & Bird Habitat Stewardship Act of 2025",
+  "title": "Local Communities & Bird Habitat Stewardship Act of 2026",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -12,6 +12,10 @@
     {
       "note": "",
       "title": "To direct the Secretary of the Interior to establish the Urban Bird Treaty Program."
+    },
+    {
+      "note": "",
+      "title": "Local Communities & Bird Habitat Stewardship Act of 2025"
     }
   ],
   "other_identifiers": [
@@ -20,6 +24,26 @@
     }
   ],
   "actions": [
+    {
+      "description": "Placed on the Union Calendar, Calendar No. 659.",
+      "date": "2026-08-20T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-22T06:42:17Z"
+      }
+    },
+    {
+      "description": "Reported (Amended) by the Committee on Natural Resources. H. Rept. 119-758.",
+      "date": "2026-08-20T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-22T06:42:17Z"
+      }
+    },
     {
       "description": "Ordered to be Reported in the Nature of a Substitute (Amended) by Unanimous Consent.",
       "date": "2026-06-10T04:00:00+00:00",
@@ -257,6 +281,14 @@
       "organization_id": null
     },
     {
+      "name": "Ro Khanna",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Ro Khanna\"}",
+      "organization_id": null
+    },
+    {
       "name": "Debbie Dingell",
       "classification": "primary",
       "entity_type": "person",
@@ -267,6 +299,21 @@
   ],
   "related_bills": [],
   "versions": [
+    {
+      "note": "Reported in House",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr3276rh/xml/BILLS-119hr3276rh.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr3276rh/pdf/BILLS-119hr3276rh.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-20",
+      "classification": ""
+    },
     {
       "note": "Introduced in House",
       "links": [
@@ -316,7 +363,8 @@
       "B001324",
       "T000488",
       "M001223",
-      "D000530"
+      "D000530",
+      "K000389"
     ],
     "sponsor_bioguides": [
       "D000624"
@@ -329,7 +377,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-22T08:35:17Z",
+    "logs_latest_update": "2026-08-22T06:42:17Z",
     "text_extraction_latest_update": "2026-07-22T20:03:23.166837Z"
   }
 }

@@ -21,6 +21,36 @@
   ],
   "actions": [
     {
+      "description": "Placed on the Union Calendar, Calendar No. 660.",
+      "date": "2026-08-20T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-22T06:42:16Z"
+      }
+    },
+    {
+      "description": "Committee on the Judiciary discharged.",
+      "date": "2026-08-20T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-22T06:42:16Z"
+      }
+    },
+    {
+      "description": "Reported (Amended) by the Committee on Education and Workforce. H. Rept. 119-759, Part I.",
+      "date": "2026-08-20T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-22T06:42:16Z"
+      }
+    },
+    {
       "description": "Ordered to be Reported (Amended) by the Yeas and Nays: 20 - 12.",
       "date": "2026-06-25T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -187,6 +217,14 @@
       "organization_id": null
     },
     {
+      "name": "Gus M. Bilirakis",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Gus M. Bilirakis\"}",
+      "organization_id": null
+    },
+    {
       "name": "Randy Fine",
       "classification": "primary",
       "entity_type": "person",
@@ -197,6 +235,21 @@
   ],
   "related_bills": [],
   "versions": [
+    {
+      "note": "Reported in House",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr8476rh/xml/BILLS-119hr8476rh.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr8476rh/pdf/BILLS-119hr8476rh.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-20",
+      "classification": ""
+    },
     {
       "note": "Introduced in House",
       "links": [
@@ -241,7 +294,8 @@
       "T000467",
       "H001102",
       "F000450",
-      "M001219"
+      "M001219",
+      "B001257"
     ],
     "sponsor_bioguides": [
       "F000484"
@@ -254,7 +308,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-22T08:35:04Z",
+    "logs_latest_update": "2026-08-22T06:42:16Z",
     "text_extraction_latest_update": "2026-07-22T18:25:44.739883Z"
   }
 }

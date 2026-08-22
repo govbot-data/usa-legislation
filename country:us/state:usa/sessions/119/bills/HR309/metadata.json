@@ -1,7 +1,7 @@
 {
   "legislative_session": "119",
   "identifier": "HR 309",
-  "title": "National Law Enforcement Officers Remembrance, Support and Community Outreach Act.",
+  "title": "National Law Enforcement Officers Remembrance, Support, and Community Outreach Act",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -9,6 +9,10 @@
   "subject": [],
   "abstracts": [],
   "other_titles": [
+    {
+      "note": "",
+      "title": "National Law Enforcement Officers Remembrance, Support and Community Outreach Act."
+    },
     {
       "note": "",
       "title": "To authorize the Secretary of the Interior to provide funding for the National Law Enforcement Museum, and for other purposes."
@@ -20,6 +24,26 @@
     }
   ],
   "actions": [
+    {
+      "description": "Placed on the Union Calendar, Calendar No. 658.",
+      "date": "2026-08-20T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-22T06:42:15Z"
+      }
+    },
+    {
+      "description": "Reported (Amended) by the Committee on Natural Resources. H. Rept. 119-757.",
+      "date": "2026-08-20T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-22T06:42:15Z"
+      }
+    },
     {
       "description": "Ordered to be Reported in the Nature of a Substitute (Amended) by Unanimous Consent.",
       "date": "2026-07-22T04:00:00+00:00",
@@ -1100,6 +1124,21 @@
   "related_bills": [],
   "versions": [
     {
+      "note": "Reported in House",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr309rh/xml/BILLS-119hr309rh.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr309rh/pdf/BILLS-119hr309rh.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-20",
+      "classification": ""
+    },
+    {
       "note": "Introduced in House",
       "links": [
         {
@@ -1265,7 +1304,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-09T06:21:06Z",
+    "logs_latest_update": "2026-08-22T06:42:15Z",
     "text_extraction_latest_update": "2026-08-09T06:32:10.354669Z"
   }
 }
