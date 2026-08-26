@@ -21,6 +21,16 @@
   ],
   "actions": [
     {
+      "description": "Referred to the Subcommittee on Conservation, Research, and Biotechnology.",
+      "date": "2026-06-30T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-26T07:28:05Z"
+      }
+    },
+    {
       "description": "Referred to the Committee on Agriculture, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
       "date": "2026-06-18T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -108,7 +118,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-22T08:35:14Z",
+    "logs_latest_update": "2026-08-26T07:28:05Z",
     "text_extraction_latest_update": "2026-07-22T17:19:59.227226Z"
   }
 }

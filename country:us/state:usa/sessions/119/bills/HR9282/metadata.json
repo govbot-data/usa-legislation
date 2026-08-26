@@ -21,6 +21,16 @@
   ],
   "actions": [
     {
+      "description": "Referred to the Subcommittee on Forestry and Horticulture.",
+      "date": "2026-06-30T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-26T07:28:05Z"
+      }
+    },
+    {
       "description": "Referred to the Committee on Natural Resources, and in addition to the Committee on Agriculture, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
       "date": "2026-06-11T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -247,6 +257,14 @@
       "organization_id": null
     },
     {
+      "name": "Shri Thanedar",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Shri Thanedar\"}",
+      "organization_id": null
+    },
+    {
       "name": "Sydney Kamlager-Dove",
       "classification": "primary",
       "entity_type": "person",
@@ -317,7 +335,8 @@
       "U000040",
       "L000607",
       "S001159",
-      "H001068"
+      "H001068",
+      "T000488"
     ],
     "sponsor_bioguides": [
       "K000400"
@@ -330,7 +349,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-22T08:35:06Z",
+    "logs_latest_update": "2026-08-26T07:28:05Z",
     "text_extraction_latest_update": "2026-07-22T12:39:09.853998Z"
   }
 }

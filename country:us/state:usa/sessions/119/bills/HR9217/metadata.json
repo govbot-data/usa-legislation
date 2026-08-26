@@ -21,6 +21,16 @@
   ],
   "actions": [
     {
+      "description": "Referred to the Subcommittee on Conservation, Research, and Biotechnology.",
+      "date": "2026-06-30T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-26T07:28:02Z"
+      }
+    },
+    {
       "description": "Referred to the House Committee on Agriculture.",
       "date": "2026-06-09T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -52,6 +62,14 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Chrissy Houlahan\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Sharice Davids",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Sharice Davids\"}",
       "organization_id": null
     },
     {
@@ -101,7 +119,8 @@
   ],
   "extras": {
     "cosponsor_bioguides": [
-      "H001085"
+      "H001085",
+      "D000629"
     ],
     "sponsor_bioguides": [
       "G000597"
@@ -114,7 +133,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-22T08:35:08Z",
+    "logs_latest_update": "2026-08-26T07:28:02Z",
     "text_extraction_latest_update": "2026-07-22T11:44:44.092961Z"
   }
 }
