@@ -1,0 +1,82 @@
+{
+  "legislative_session": "119",
+  "identifier": "HR 10181",
+  "title": "To establish a national placement framework and grant program to prevent the disproportionate concentration of conditionally released sexually violent predators, and for other purposes.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-us-119-hr10181"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred to the House Committee on the Judiciary.",
+      "date": "2026-08-27T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-28T17:42:50Z"
+      }
+    },
+    {
+      "description": "Introduced in House",
+      "date": "2026-08-27T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-28T17:42:50Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "George Whitesides",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"George Whitesides\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr10181.xml",
+      "note": ""
+    },
+    {
+      "url": "https://congress.gov/bill/119th-congress/house-bill/10181",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "cosponsor_bioguides": [],
+    "sponsor_bioguides": [
+      "W000830"
+    ]
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/government",
+    "name": "United States",
+    "classification": "country",
+    "division_id": "ocd-division/country:us"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-08-28T17:42:50Z"
+  }
+}

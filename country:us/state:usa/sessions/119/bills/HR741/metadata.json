@@ -21,6 +21,36 @@
   ],
   "actions": [
     {
+      "description": "Placed on the Union Calendar, Calendar No. 668.",
+      "date": "2026-08-27T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-28T17:42:50Z"
+      }
+    },
+    {
+      "description": "Committee on Energy and Commerce discharged.",
+      "date": "2026-08-27T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-28T17:42:50Z"
+      }
+    },
+    {
+      "description": "Reported (Amended) by the Committee on Natural Resources. H. Rept. 119-767, Part I.",
+      "date": "2026-08-27T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-28T17:42:50Z"
+      }
+    },
+    {
       "description": "Ordered to be Reported in the Nature of a Substitute (Amended) by Unanimous Consent.",
       "date": "2026-05-14T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -113,6 +143,14 @@
       "organization_id": null
     },
     {
+      "name": "Zoe Lofgren",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Zoe Lofgren\"}",
+      "organization_id": null
+    },
+    {
       "name": "Greg Stanton",
       "classification": "primary",
       "entity_type": "person",
@@ -123,6 +161,21 @@
   ],
   "related_bills": [],
   "versions": [
+    {
+      "note": "Reported in House",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr741rh/xml/BILLS-119hr741rh.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr741rh/pdf/BILLS-119hr741rh.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-27",
+      "classification": ""
+    },
     {
       "note": "Introduced in House",
       "links": [
@@ -154,7 +207,8 @@
   "extras": {
     "cosponsor_bioguides": [
       "J000295",
-      "F000466"
+      "F000466",
+      "L000397"
     ],
     "sponsor_bioguides": [
       "S001211"
@@ -167,7 +221,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-22T08:35:16Z",
+    "logs_latest_update": "2026-08-28T17:42:50Z",
     "text_extraction_latest_update": "2026-07-22T17:51:32.963472Z"
   }
 }

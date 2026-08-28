@@ -21,6 +21,26 @@
   ],
   "actions": [
     {
+      "description": "Placed on the Union Calendar, Calendar No. 670.",
+      "date": "2026-08-27T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-28T17:42:56Z"
+      }
+    },
+    {
+      "description": "Reported (Amended) by the Committee on Natural Resources. H. Rept. 119-769.",
+      "date": "2026-08-27T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-28T17:42:56Z"
+      }
+    },
+    {
       "description": "Ordered to be Reported in the Nature of a Substitute (Amended) by Voice Vote.",
       "date": "2026-07-15T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -92,6 +112,21 @@
   ],
   "versions": [
     {
+      "note": "Reported in House",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr726rh/xml/BILLS-119hr726rh.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr726rh/pdf/BILLS-119hr726rh.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-27",
+      "classification": ""
+    },
+    {
       "note": "Introduced in House",
       "links": [
         {
@@ -134,7 +169,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-09T06:21:13Z",
+    "logs_latest_update": "2026-08-28T17:42:56Z",
     "text_extraction_latest_update": "2026-08-09T06:46:50.483769Z"
   }
 }

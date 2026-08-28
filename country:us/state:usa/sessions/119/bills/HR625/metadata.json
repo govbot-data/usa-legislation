@@ -1,7 +1,7 @@
 {
   "legislative_session": "119",
   "identifier": "HR 625",
-  "title": "LACA",
+  "title": "LACA of 2026",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -11,11 +11,19 @@
   "other_titles": [
     {
       "note": "",
-      "title": "Local Access to Courts Act"
+      "title": "LACA"
+    },
+    {
+      "note": "",
+      "title": "Local Access to Courts Act of 2026"
     },
     {
       "note": "",
       "title": "To clarify where court may be held for certain district courts in Texas and California."
+    },
+    {
+      "note": "",
+      "title": "Local Access to Courts Act"
     }
   ],
   "other_identifiers": [
@@ -24,6 +32,26 @@
     }
   ],
   "actions": [
+    {
+      "description": "Placed on the Union Calendar, Calendar No. 685.",
+      "date": "2026-08-27T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-28T17:42:50Z"
+      }
+    },
+    {
+      "description": "Reported (Amended) by the Committee on Judiciary. H. Rept. 119-784.",
+      "date": "2026-08-27T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-28T17:42:50Z"
+      }
+    },
     {
       "description": "Ordered to be Reported (Amended) by the Yeas and Nays: 23 - 0.",
       "date": "2026-07-15T04:00:00+00:00",
@@ -89,17 +117,32 @@
   ],
   "related_bills": [
     {
-      "identifier": "HR 1702",
+      "identifier": "S 32",
       "legislative_session": "119",
       "relation_type": "companion"
     },
     {
-      "identifier": "S 32",
+      "identifier": "HR 1702",
       "legislative_session": "119",
       "relation_type": "companion"
     }
   ],
   "versions": [
+    {
+      "note": "Reported in House",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr625rh/xml/BILLS-119hr625rh.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr625rh/pdf/BILLS-119hr625rh.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-27",
+      "classification": ""
+    },
     {
       "note": "Introduced in House",
       "links": [
@@ -143,7 +186,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-22T08:35:02Z",
+    "logs_latest_update": "2026-08-28T17:42:50Z",
     "text_extraction_latest_update": "2026-07-23T07:26:12.328786Z"
   }
 }

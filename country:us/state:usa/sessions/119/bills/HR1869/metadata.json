@@ -1,7 +1,7 @@
 {
   "legislative_session": "119",
   "identifier": "HR 1869",
-  "title": "Protecting American Industry and Labor from International Trade Crimes Act of 2025",
+  "title": "Protecting American Industry and Labor from International Trade Crimes Act of 2026",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -9,6 +9,10 @@
   "subject": [],
   "abstracts": [],
   "other_titles": [
+    {
+      "note": "",
+      "title": "Protecting American Industry and Labor from International Trade Crimes Act of 2025"
+    },
     {
       "note": "",
       "title": "To strengthen the Department of Justice's enforcement against trade-related crimes."
@@ -20,6 +24,26 @@
     }
   ],
   "actions": [
+    {
+      "description": "Placed on the Union Calendar, Calendar No. 683.",
+      "date": "2026-08-27T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-28T17:42:55Z"
+      }
+    },
+    {
+      "description": "Reported (Amended) by the Committee on Judiciary. H. Rept. 119-782.",
+      "date": "2026-08-27T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-28T17:42:55Z"
+      }
+    },
     {
       "description": "Ordered to be Reported (Amended) by the Yeas and Nays: 23 - 0.",
       "date": "2026-06-03T04:00:00+00:00",
@@ -430,6 +454,21 @@
   "related_bills": [],
   "versions": [
     {
+      "note": "Reported in House",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr1869rh/xml/BILLS-119hr1869rh.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr1869rh/pdf/BILLS-119hr1869rh.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-27",
+      "classification": ""
+    },
+    {
       "note": "Introduced in House",
       "links": [
         {
@@ -515,7 +554,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-22T08:34:55Z",
+    "logs_latest_update": "2026-08-28T17:42:55Z",
     "text_extraction_latest_update": "2026-07-22T16:04:10.766345Z"
   }
 }

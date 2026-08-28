@@ -1,20 +1,45 @@
 {
   "legislative_session": "119",
   "identifier": "HR 9436",
-  "title": "To amend the Consolidated Appropriations Act, 2023 to extend the time period for which certain regulations concerning the North Atlantic right whale are effective.",
+  "title": "Northeast Lobsterman Protection Act of 2026",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
   ],
   "subject": [],
   "abstracts": [],
-  "other_titles": [],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "To amend the Consolidated Appropriations Act, 2023 to extend the time period for which certain regulations concerning the North Atlantic right whale are effective."
+    }
+  ],
   "other_identifiers": [
     {
       "identifier": "ocd-bill-us-119-hr9436"
     }
   ],
   "actions": [
+    {
+      "description": "Placed on the Union Calendar, Calendar No. 667.",
+      "date": "2026-08-27T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-28T17:42:52Z"
+      }
+    },
+    {
+      "description": "Reported (Amended) by the Committee on Natural Resources. H. Rept. 119-766.",
+      "date": "2026-08-27T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-28T17:42:52Z"
+      }
+    },
     {
       "description": "Ordered to be Reported in the Nature of a Substitute (Amended) by the Yeas and Nays: 22 - 13.",
       "date": "2026-07-15T04:00:00+00:00",
@@ -87,6 +112,21 @@
   ],
   "versions": [
     {
+      "note": "Reported in House",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr9436rh/xml/BILLS-119hr9436rh.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr9436rh/pdf/BILLS-119hr9436rh.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-27",
+      "classification": ""
+    },
+    {
       "note": "Introduced in House",
       "links": [
         {
@@ -102,7 +142,19 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "H. Rept. 119-766",
+      "links": [
+        {
+          "url": "https://www.congress.gov/119/crpt/hrpt766/CRPT-119hrpt766.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -129,7 +181,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-09T06:21:06Z",
+    "logs_latest_update": "2026-08-28T17:42:52Z",
     "text_extraction_latest_update": "2026-08-09T06:32:54.014903Z"
   }
 }

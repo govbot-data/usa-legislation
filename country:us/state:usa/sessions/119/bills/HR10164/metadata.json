@@ -1,0 +1,117 @@
+{
+  "legislative_session": "119",
+  "identifier": "HR 10164",
+  "title": "BEDROCK Act",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "To direct the Secretary of Commerce to promote competitiveness in biomanufacturing in the United States, identify supply-chain and commercialization vulnerabilities relating to critical biomanufacturing inputs and domestic production capacity, improve transparency regarding Federal processes applicable to biomanufactured products, and for other purposes."
+    },
+    {
+      "note": "",
+      "title": "Biomanufacturing Excellence, Domestic Resilience, Output, and Competitive Know-how Act"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-us-119-hr10164"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred to the House Committee on Energy and Commerce.",
+      "date": "2026-08-27T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-28T17:42:51Z"
+      }
+    },
+    {
+      "description": "Introduced in House",
+      "date": "2026-08-27T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-28T17:42:51Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Debbie Dingell",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Debbie Dingell\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Robert E. Latta",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Robert E. Latta\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced in House",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr10164ih/xml/BILLS-119hr10164ih.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr10164ih/pdf/BILLS-119hr10164ih.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-27",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr10164.xml",
+      "note": ""
+    },
+    {
+      "url": "https://congress.gov/bill/119th-congress/house-bill/10164",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "cosponsor_bioguides": [
+      "D000624"
+    ],
+    "sponsor_bioguides": [
+      "L000566"
+    ]
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/government",
+    "name": "United States",
+    "classification": "country",
+    "division_id": "ocd-division/country:us"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-08-28T17:42:51Z"
+  }
+}

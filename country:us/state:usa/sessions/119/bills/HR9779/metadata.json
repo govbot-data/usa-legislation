@@ -21,6 +21,16 @@
   ],
   "actions": [
     {
+      "description": "Referred to the Subcommittee on Federal Lands.",
+      "date": "2026-08-26T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-28T17:42:51Z"
+      }
+    },
+    {
       "description": "Referred to the House Committee on Natural Resources.",
       "date": "2026-07-20T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -98,7 +108,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-09T06:21:07Z",
+    "logs_latest_update": "2026-08-28T17:42:51Z",
     "text_extraction_latest_update": "2026-08-09T06:30:53.150848Z"
   }
 }

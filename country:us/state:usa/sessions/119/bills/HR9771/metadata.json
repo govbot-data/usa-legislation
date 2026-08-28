@@ -21,6 +21,26 @@
   ],
   "actions": [
     {
+      "description": "Placed on the Union Calendar, Calendar No. 669.",
+      "date": "2026-08-27T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-28T17:42:50Z"
+      }
+    },
+    {
+      "description": "Reported (Amended) by the Committee on Ways and Means. H. Rept. 119-768.",
+      "date": "2026-08-27T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-28T17:42:50Z"
+      }
+    },
+    {
       "description": "Ordered to be Reported by the Yeas and Nays: 23 - 16.",
       "date": "2026-07-22T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -86,6 +106,21 @@
   "related_bills": [],
   "versions": [
     {
+      "note": "Reported in House",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr9771rh/xml/BILLS-119hr9771rh.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr9771rh/pdf/BILLS-119hr9771rh.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-27",
+      "classification": ""
+    },
+    {
       "note": "Introduced in House",
       "links": [
         {
@@ -128,7 +163,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-09T06:21:15Z",
+    "logs_latest_update": "2026-08-28T17:42:50Z",
     "text_extraction_latest_update": "2026-08-09T06:41:38.159002Z"
   }
 }

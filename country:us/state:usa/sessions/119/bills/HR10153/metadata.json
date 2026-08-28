@@ -1,0 +1,110 @@
+{
+  "legislative_session": "119",
+  "identifier": "HR 10153",
+  "title": "To amend the Internal Revenue Code of 1986 to treat income earned by United States merchant mariners as foreign earned income.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-us-119-hr10153"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred to the House Committee on Ways and Means.",
+      "date": "2026-08-27T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-28T17:42:56Z"
+      }
+    },
+    {
+      "description": "Introduced in House",
+      "date": "2026-08-27T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-28T17:42:56Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Thomas R. Suozzi",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Thomas R. Suozzi\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Nicole Malliotakis",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Nicole Malliotakis\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Brendan F. Boyle",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Brendan F. Boyle\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Brian K. Fitzpatrick",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Brian K. Fitzpatrick\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr10153.xml",
+      "note": ""
+    },
+    {
+      "url": "https://congress.gov/bill/119th-congress/house-bill/10153",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "cosponsor_bioguides": [
+      "S001201",
+      "M000317",
+      "B001296"
+    ],
+    "sponsor_bioguides": [
+      "F000466"
+    ]
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/government",
+    "name": "United States",
+    "classification": "country",
+    "division_id": "ocd-division/country:us"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-08-28T17:42:56Z"
+  }
+}

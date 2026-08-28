@@ -1,7 +1,7 @@
 {
   "legislative_session": "119",
   "identifier": "HR 2555",
-  "title": "Freedom of Association in Higher Education Act of 2025",
+  "title": "Freedom of Association in Higher Education Act of 2026",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -9,6 +9,10 @@
   "subject": [],
   "abstracts": [],
   "other_titles": [
+    {
+      "note": "",
+      "title": "Freedom of Association in Higher Education Act of 2025"
+    },
     {
       "note": "",
       "title": "To amend the Higher Education Act of 1965 to provide for certain freedom of association protections, and for other purposes."
@@ -20,6 +24,26 @@
     }
   ],
   "actions": [
+    {
+      "description": "Placed on the Union Calendar, Calendar No. 682.",
+      "date": "2026-08-27T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-28T17:42:50Z"
+      }
+    },
+    {
+      "description": "Reported (Amended) by the Committee on Education and Workforce. H. Rept. 119-781.",
+      "date": "2026-08-27T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-28T17:42:50Z"
+      }
+    },
     {
       "description": "Ordered to be Reported (Amended) by the Yeas and Nays: 18 - 15.",
       "date": "2026-06-25T04:00:00+00:00",
@@ -403,6 +427,14 @@
       "organization_id": null
     },
     {
+      "name": "J. French Hill",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"J. French Hill\"}",
+      "organization_id": null
+    },
+    {
       "name": "Erin Houchin",
       "classification": "primary",
       "entity_type": "person",
@@ -419,6 +451,21 @@
     }
   ],
   "versions": [
+    {
+      "note": "Reported in House",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr2555rh/xml/BILLS-119hr2555rh.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr2555rh/pdf/BILLS-119hr2555rh.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-27",
+      "classification": ""
+    },
     {
       "note": "Introduced in House",
       "links": [
@@ -490,7 +537,8 @@
       "G000591",
       "S001228",
       "W000804",
-      "T000467"
+      "T000467",
+      "H001072"
     ],
     "sponsor_bioguides": [
       "H001093"
@@ -503,7 +551,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-22T08:35:00Z",
+    "logs_latest_update": "2026-08-28T17:42:50Z",
     "text_extraction_latest_update": "2026-07-22T18:03:49.840640Z"
   }
 }

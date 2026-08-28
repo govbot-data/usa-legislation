@@ -1,7 +1,7 @@
 {
   "legislative_session": "119",
   "identifier": "HR 6021",
-  "title": "Archie Cavanaugh Migratory Bird Treaty Amendment Act",
+  "title": "Archie Cavanaugh Migratory Bird Treaty Clarification Act",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -12,6 +12,10 @@
     {
       "note": "",
       "title": "To amend the Migratory Bird Treaty Act to clarify the treatment of authentic Alaska Native articles of handicraft containing nonedible migratory bird parts, and for other purposes."
+    },
+    {
+      "note": "",
+      "title": "Archie Cavanaugh Migratory Bird Treaty Amendment Act"
     }
   ],
   "other_identifiers": [
@@ -20,6 +24,26 @@
     }
   ],
   "actions": [
+    {
+      "description": "Placed on the Union Calendar, Calendar No. 675.",
+      "date": "2026-08-27T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-28T17:42:51Z"
+      }
+    },
+    {
+      "description": "Reported (Amended) by the Committee on Natural Resources. H. Rept. 119-774.",
+      "date": "2026-08-27T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-28T17:42:51Z"
+      }
+    },
     {
       "description": "Ordered to be Reported in the Nature of a Substitute (Amended) by Unanimous Consent.",
       "date": "2026-07-22T04:00:00+00:00",
@@ -104,6 +128,21 @@
   ],
   "versions": [
     {
+      "note": "Reported in House",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr6021rh/xml/BILLS-119hr6021rh.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr6021rh/pdf/BILLS-119hr6021rh.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-27",
+      "classification": ""
+    },
+    {
       "note": "Introduced in House",
       "links": [
         {
@@ -144,7 +183,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-09T06:21:09Z",
+    "logs_latest_update": "2026-08-28T17:42:51Z",
     "text_extraction_latest_update": "2026-08-09T06:32:23.525195Z"
   }
 }

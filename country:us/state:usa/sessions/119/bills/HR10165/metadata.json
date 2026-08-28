@@ -1,0 +1,92 @@
+{
+  "legislative_session": "119",
+  "identifier": "HR 10165",
+  "title": "To permanently reform quorum requirements for the Board of Directors of the Export-Import Bank of the United States to ensure continuity of operations.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-us-119-hr10165"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred to the House Committee on Financial Services.",
+      "date": "2026-08-27T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-28T17:42:57Z"
+      }
+    },
+    {
+      "description": "Introduced in House",
+      "date": "2026-08-27T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-28T17:42:57Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Josh Gottheimer",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Josh Gottheimer\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Michael Lawler",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Michael Lawler\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr10165.xml",
+      "note": ""
+    },
+    {
+      "url": "https://congress.gov/bill/119th-congress/house-bill/10165",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "cosponsor_bioguides": [
+      "G000583"
+    ],
+    "sponsor_bioguides": [
+      "L000599"
+    ]
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/government",
+    "name": "United States",
+    "classification": "country",
+    "division_id": "ocd-division/country:us"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-08-28T17:42:57Z"
+  }
+}

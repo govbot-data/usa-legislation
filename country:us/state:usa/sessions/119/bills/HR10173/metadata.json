@@ -1,0 +1,137 @@
+{
+  "legislative_session": "119",
+  "identifier": "HR 10173",
+  "title": "To amend the America COMPETES Reauthorization Act of 2010 to reauthorize the research experiences for undergraduates program at the National Science Foundation, and for other purposes.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-us-119-hr10173"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred to the House Committee on Science, Space, and Technology.",
+      "date": "2026-08-27T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-28T17:42:51Z"
+      }
+    },
+    {
+      "description": "Introduced in House",
+      "date": "2026-08-27T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-28T17:42:51Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Ted Lieu",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Ted Lieu\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Seth Moulton",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Seth Moulton\"}",
+      "organization_id": null
+    },
+    {
+      "name": "April McClain Delaney",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"April McClain Delaney\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Deborah K. Ross",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Deborah K. Ross\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Paul Tonko",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Paul Tonko\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Joyce Beatty",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Joyce Beatty\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Luz M. Rivas",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Luz M. Rivas\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr10173.xml",
+      "note": ""
+    },
+    {
+      "url": "https://congress.gov/bill/119th-congress/house-bill/10173",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "cosponsor_bioguides": [
+      "L000582",
+      "M001196",
+      "M001232",
+      "R000305",
+      "T000469",
+      "B001281"
+    ],
+    "sponsor_bioguides": [
+      "R000620"
+    ]
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/government",
+    "name": "United States",
+    "classification": "country",
+    "division_id": "ocd-division/country:us"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-08-28T17:42:51Z"
+  }
+}
