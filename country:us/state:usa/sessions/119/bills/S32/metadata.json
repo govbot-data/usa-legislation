@@ -25,6 +25,90 @@
   ],
   "actions": [
     {
+      "description": "Motion to reconsider laid on the table Agreed to without objection.",
+      "date": "2026-08-31T23:11:56+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-01T11:36:34Z"
+      }
+    },
+    {
+      "description": "On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 378 - 10 (Roll no. 285).",
+      "date": "2026-08-31T23:11:54+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-01T11:36:34Z"
+      }
+    },
+    {
+      "description": "Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 378 - 10 (Roll no. 285).",
+      "date": "2026-08-31T23:11:54+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-01T11:36:34Z"
+      }
+    },
+    {
+      "description": "Considered as unfinished business.",
+      "date": "2026-08-31T22:58:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-01T11:36:34Z"
+      }
+    },
+    {
+      "description": "At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.",
+      "date": "2026-08-31T21:00:34+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-01T11:36:34Z"
+      }
+    },
+    {
+      "description": "DEBATE - The House proceeded with forty minutes of debate on S. 32.",
+      "date": "2026-08-31T20:54:27+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-01T11:36:34Z"
+      }
+    },
+    {
+      "description": "Considered under suspension of the rules.",
+      "date": "2026-08-31T20:54:26+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-01T11:36:34Z"
+      }
+    },
+    {
+      "description": "Mr. Schmidt moved to suspend the rules and pass the bill.",
+      "date": "2026-08-31T20:54:17+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-01T11:36:34Z"
+      }
+    },
+    {
       "description": "Held at the desk.",
       "date": "2025-02-13T15:56:41+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -131,6 +215,11 @@
   ],
   "related_bills": [
     {
+      "identifier": "S 5465",
+      "legislative_session": "118",
+      "relation_type": "companion"
+    },
+    {
       "identifier": "HR 625",
       "legislative_session": "119",
       "relation_type": "companion"
@@ -200,7 +289,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-22T08:35:06Z",
+    "logs_latest_update": "2026-09-01T11:36:34Z",
     "text_extraction_latest_update": "2026-07-22T18:10:35.308080Z"
   }
 }
