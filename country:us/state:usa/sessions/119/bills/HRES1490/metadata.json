@@ -16,6 +16,78 @@
   ],
   "actions": [
     {
+      "description": "Motion to reconsider laid on the table Agreed to without objection.",
+      "date": "2026-09-01T21:48:38+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-02T10:11:46Z"
+      }
+    },
+    {
+      "description": "On agreeing to the resolution Agreed to by the Yeas and Nays: 220 - 192, 2 Present (Roll no. 289).",
+      "date": "2026-09-01T21:48:36+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-02T10:11:46Z"
+      }
+    },
+    {
+      "description": "Passed/agreed to in House: On agreeing to the resolution Agreed to by the Yeas and Nays: 220 - 192, 2 Present (Roll no. 289).",
+      "date": "2026-09-01T21:48:36+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-02T10:11:46Z"
+      }
+    },
+    {
+      "description": "The previous question was ordered pursuant to the rule on the resolution and the preamble.",
+      "date": "2026-09-01T21:10:30+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-02T10:11:46Z"
+      }
+    },
+    {
+      "description": "DEBATE - The House proceeded with one hour of debate on H. Res. 1490.",
+      "date": "2026-09-01T20:19:46+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-02T10:11:46Z"
+      }
+    },
+    {
+      "description": "Rule provides for consideration of H.R. 1501, H.R. 9436, H. Res. 1490 and H.R. 4795. The resolution provides for consideration of H.R. 1501, H.R. 9436, H.Res. 1490, and H.R. 4795 under a closed rule with one hour of general debate on each measure. The resolution provides for a motion to recommit on H.R. 1501, H.R. 9436, and H.R. 4795.",
+      "date": "2026-09-01T20:19:18+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-02T10:11:46Z"
+      }
+    },
+    {
+      "description": "Considered under the provisions of rule H. Res. 1499.",
+      "date": "2026-09-01T20:19:13+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-02T10:11:46Z"
+      }
+    },
+    {
       "description": "Rules Committee Resolution H. Res. 1499 Reported to House. Rule provides for consideration of H.R. 1501, H.R. 9436, H. Res. 1490 and H.R. 4795. The resolution provides for consideration of H.R. 1501, H.R. 9436, H.Res. 1490, and H.R. 4795 under a closed rule with one hour of general debate on each measure. The resolution provides for a motion to recommit on H.R. 1501, H.R. 9436, and H.R. 4795.",
       "date": "2026-08-31T23:51:08+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -335,7 +407,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-09-01T11:36:35Z",
+    "logs_latest_update": "2026-09-02T10:11:46Z",
     "text_extraction_latest_update": "2026-09-01T11:38:34.834013Z"
   }
 }

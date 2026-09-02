@@ -21,6 +21,26 @@
   ],
   "actions": [
     {
+      "description": "Placed on the Union Calendar, Calendar No. 687.",
+      "date": "2026-09-01T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-02T10:11:45Z"
+      }
+    },
+    {
+      "description": "Reported (Amended) by the Committee on Financial Services. H. Rept. 119-787.",
+      "date": "2026-09-01T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-02T10:11:45Z"
+      }
+    },
+    {
       "description": "Ordered to be Reported (Amended) by the Yeas and Nays: 27 - 21.",
       "date": "2026-06-30T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -115,8 +135,29 @@
       "organization_id": null
     }
   ],
-  "related_bills": [],
+  "related_bills": [
+    {
+      "identifier": "HR 4551",
+      "legislative_session": "118",
+      "relation_type": "companion"
+    }
+  ],
   "versions": [
+    {
+      "note": "Reported in House",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr1483rh/xml/BILLS-119hr1483rh.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr1483rh/pdf/BILLS-119hr1483rh.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-09-01",
+      "classification": ""
+    },
     {
       "note": "Introduced in House",
       "links": [
@@ -133,7 +174,19 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "CBO: H.R. 1483, Protecting Investors\u2019 Personally Identifiable Information Act",
+      "links": [
+        {
+          "url": "https://www.cbo.gov/publication/62639",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -164,7 +217,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-22T08:35:15Z",
+    "logs_latest_update": "2026-09-02T10:11:45Z",
     "text_extraction_latest_update": "2026-07-23T07:55:05.324284Z"
   }
 }

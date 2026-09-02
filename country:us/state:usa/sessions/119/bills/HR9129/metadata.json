@@ -11,11 +11,11 @@
   "other_titles": [
     {
       "note": "",
-      "title": "Guarding the U.S. against Adversarial Robotics Dominance Act of 2026"
+      "title": "To provide for certain humanoid and quadruped robotics communications equipment or services to be placed on the covered list of the Federal Communications Commission, and for other purposes."
     },
     {
       "note": "",
-      "title": "To provide for certain humanoid and quadruped robotics communications equipment or services to be placed on the covered list of the Federal Communications Commission, and for other purposes."
+      "title": "Guarding the U.S. against Adversarial Robotics Dominance Act of 2026"
     }
   ],
   "other_identifiers": [
@@ -24,6 +24,36 @@
     }
   ],
   "actions": [
+    {
+      "description": "Forwarded by Subcommittee to Full Committee by Voice Vote.",
+      "date": "2026-09-01T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-02T10:11:44Z"
+      }
+    },
+    {
+      "description": "Subcommittee Consideration and Mark-up Session Held",
+      "date": "2026-09-01T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-02T10:11:44Z"
+      }
+    },
+    {
+      "description": "Referred to the Subcommittee on Communications and Technology.",
+      "date": "2026-06-03T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-02T10:11:44Z"
+      }
+    },
     {
       "description": "Referred to the House Committee on Energy and Commerce.",
       "date": "2026-06-03T04:00:00+00:00",
@@ -91,6 +121,14 @@
       "organization_id": null
     },
     {
+      "name": "Tim Walberg",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Tim Walberg\"}",
+      "organization_id": null
+    },
+    {
       "name": "John R. Moolenaar",
       "classification": "primary",
       "entity_type": "person",
@@ -135,7 +173,8 @@
       "M001227",
       "L000566",
       "B001257",
-      "S001226"
+      "S001226",
+      "W000798"
     ],
     "sponsor_bioguides": [
       "M001194"
@@ -148,7 +187,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-22T08:35:00Z",
+    "logs_latest_update": "2026-09-02T10:11:44Z",
     "text_extraction_latest_update": "2026-07-22T16:37:25.258949Z"
   }
 }

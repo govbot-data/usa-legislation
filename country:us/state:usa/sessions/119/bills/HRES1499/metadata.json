@@ -16,6 +16,88 @@
   ],
   "actions": [
     {
+      "description": "Motion to reconsider laid on the table Agreed to without objection.",
+      "date": "2026-09-01T18:21:15+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-02T10:11:40Z"
+      }
+    },
+    {
+      "description": "On agreeing to the resolution Agreed to by recorded vote: 210 - 208 (Roll no. 288).",
+      "date": "2026-09-01T18:21:14+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-02T10:11:40Z"
+      }
+    },
+    {
+      "description": "Passed/agreed to in House: On agreeing to the resolution Agreed to by recorded vote: 210 - 208 (Roll no. 288).",
+      "date": "2026-09-01T18:21:14+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-02T10:11:40Z"
+      }
+    },
+    {
+      "description": "On ordering the previous question Agreed to by the Yeas and Nays: 212 - 205 (Roll no. 287).",
+      "date": "2026-09-01T18:13:12+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-02T10:11:40Z"
+      }
+    },
+    {
+      "description": "Considered as unfinished business.",
+      "date": "2026-09-01T18:05:16+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-02T10:11:40Z"
+      }
+    },
+    {
+      "description": "POSTPONED PROCEEDINGS - At the conclusion of debate on H. Res. 1499, the Chair put the question on ordering the previous question and by voice vote, announced the ayes had prevailed. Mr. McGovern demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.",
+      "date": "2026-09-01T16:20:33+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-02T10:11:40Z"
+      }
+    },
+    {
+      "description": "DEBATE - The House proceeded with one hour of debate on H. Res. 1499.",
+      "date": "2026-09-01T15:25:45+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-02T10:11:40Z"
+      }
+    },
+    {
+      "description": "Considered as privileged matter.",
+      "date": "2026-09-01T15:21:39+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-02T10:11:40Z"
+      }
+    },
+    {
       "description": "Placed on the House Calendar, Calendar No. 88.",
       "date": "2026-08-31T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -95,7 +177,19 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "H. Rept. 119-785",
+      "links": [
+        {
+          "url": "https://www.congress.gov/119/crpt/hrpt785/CRPT-119hrpt785.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -120,7 +214,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-09-01T11:36:36Z",
+    "logs_latest_update": "2026-09-02T10:11:40Z",
     "text_extraction_latest_update": "2026-09-01T11:38:30.546335Z"
   }
 }

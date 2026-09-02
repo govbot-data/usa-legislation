@@ -11,11 +11,11 @@
   "other_titles": [
     {
       "note": "",
-      "title": "Data Broadband Reporting and Integration for Deployment in Geographically Essential Areas Act"
+      "title": "To direct the Federal Communications Commission to incorporate into the National Broadband Map of the Commission a layer that presents data on the location of agricultural areas, and for other purposes."
     },
     {
       "note": "",
-      "title": "To direct the Federal Communications Commission to incorporate into the National Broadband Map of the Commission a layer that presents data on the location of agricultural areas, and for other purposes."
+      "title": "Data Broadband Reporting and Integration for Deployment in Geographically Essential Areas Act"
     }
   ],
   "other_identifiers": [
@@ -24,6 +24,36 @@
     }
   ],
   "actions": [
+    {
+      "description": "Forwarded by Subcommittee to Full Committee by Voice Vote.",
+      "date": "2026-09-01T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-02T10:11:40Z"
+      }
+    },
+    {
+      "description": "Subcommittee Consideration and Mark-up Session Held",
+      "date": "2026-09-01T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-02T10:11:40Z"
+      }
+    },
+    {
+      "description": "Referred to the Subcommittee on Communications and Technology.",
+      "date": "2025-08-12T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-02T10:11:40Z"
+      }
+    },
     {
       "description": "Referred to the House Committee on Energy and Commerce.",
       "date": "2025-08-12T04:00:00+00:00",
@@ -147,6 +177,22 @@
       "organization_id": null
     },
     {
+      "name": "John Joyce",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"John Joyce\"}",
+      "organization_id": null
+    },
+    {
+      "name": "H. Morgan Griffith",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"H. Morgan Griffith\"}",
+      "organization_id": null
+    },
+    {
       "name": "Erin Houchin",
       "classification": "primary",
       "entity_type": "person",
@@ -198,7 +244,9 @@
       "F000475",
       "V000138",
       "L000601",
-      "R000612"
+      "R000612",
+      "J000302",
+      "G000568"
     ],
     "sponsor_bioguides": [
       "H001093"
@@ -211,7 +259,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-22T08:35:07Z",
+    "logs_latest_update": "2026-09-02T10:11:40Z",
     "text_extraction_latest_update": "2026-07-22T11:33:35.800626Z"
   }
 }

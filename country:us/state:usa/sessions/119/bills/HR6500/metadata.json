@@ -11,11 +11,19 @@
   "other_titles": [
     {
       "note": "",
-      "title": "To extend duty-free treatment provided with respect to imports from certain countries in Africa under the African Growth and Opportunity Act, to extend customs user fees, and for other purposes."
+      "title": "AGOA Extension Act"
     },
     {
       "note": "",
-      "title": "AGOA Extension Act"
+      "title": "Continuing Appropriations Act, 2027"
+    },
+    {
+      "note": "",
+      "title": "Surface Transportation Extension Act of 2026"
+    },
+    {
+      "note": "",
+      "title": "To extend duty-free treatment provided with respect to imports from certain countries in Africa under the African Growth and Opportunity Act, to extend customs user fees, and for other purposes."
     },
     {
       "note": "",
@@ -28,6 +36,66 @@
     }
   ],
   "actions": [
+    {
+      "description": "Motion to reconsider laid on the table Agreed to without objection.",
+      "date": "2026-09-01T18:05:13+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-02T10:11:42Z"
+      }
+    },
+    {
+      "description": "On motion that the House suspend the rules and agree to the Senate amendments Agreed to by the Yeas and Nays: (2/3 required): 370 - 48 (Roll no. 286).",
+      "date": "2026-09-01T18:05:11+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-02T10:11:42Z"
+      }
+    },
+    {
+      "description": "Resolving differences -- House actions: On motion that the House suspend the rules and agree to the Senate amendments Agreed to by the Yeas and Nays: (2/3 required): 370 - 48 (Roll no. 286).",
+      "date": "2026-09-01T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-02T10:11:42Z"
+      }
+    },
+    {
+      "description": "At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the chair announced that further proceedings on the motion would be postponed.",
+      "date": "2026-09-01T16:47:40+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-02T10:11:42Z"
+      }
+    },
+    {
+      "description": "DEBATE - The House proceeded with forty minutes of debate on motion to agree to the Senate amendments to H.R. 6500.",
+      "date": "2026-09-01T16:22:51+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-02T10:11:42Z"
+      }
+    },
+    {
+      "description": "Mr. Cole moved that the House suspend the rules and agree to the Senate amendments.",
+      "date": "2026-09-01T16:22:28+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-02T10:11:42Z"
+      }
+    },
     {
       "description": "Message on Senate action sent to the House.",
       "date": "2026-08-10T04:00:00+00:00",
@@ -206,16 +274,6 @@
       "description": "Received in the Senate.",
       "date": "2026-01-13T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-07-22T08:35:07Z"
-      }
-    },
-    {
-      "description": "Motion to reconsider laid on the table Agreed to without objection.",
-      "date": "2026-01-13T00:05:16+00:00",
-      "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
@@ -656,7 +714,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-12T07:38:31Z",
+    "logs_latest_update": "2026-09-02T10:11:42Z",
     "text_extraction_latest_update": "2026-08-12T07:40:34.236592Z"
   }
 }
