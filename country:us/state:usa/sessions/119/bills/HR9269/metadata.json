@@ -21,6 +21,16 @@
   ],
   "actions": [
     {
+      "description": "Subcommittee Hearings Held",
+      "date": "2026-09-02T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-03T10:05:21Z"
+      }
+    },
+    {
       "description": "Referred to the Subcommittee on Federal Lands.",
       "date": "2026-08-26T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -121,6 +131,22 @@
       "organization_id": null
     },
     {
+      "name": "Michael Lawler",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Michael Lawler\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Melanie A. Stansbury",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Melanie A. Stansbury\"}",
+      "organization_id": null
+    },
+    {
       "name": "James E. Clyburn",
       "classification": "primary",
       "entity_type": "person",
@@ -130,6 +156,11 @@
     }
   ],
   "related_bills": [
+    {
+      "identifier": "HR 10084",
+      "legislative_session": "118",
+      "relation_type": "companion"
+    },
     {
       "identifier": "S 4767",
       "legislative_session": "119",
@@ -174,7 +205,9 @@
       "F000466",
       "B001324",
       "C001068",
-      "M001218"
+      "M001218",
+      "L000599",
+      "S001218"
     ],
     "sponsor_bioguides": [
       "C000537"
@@ -187,7 +220,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-28T17:42:56Z",
+    "logs_latest_update": "2026-09-03T10:05:21Z",
     "text_extraction_latest_update": "2026-08-28T17:45:40.175973Z"
   }
 }

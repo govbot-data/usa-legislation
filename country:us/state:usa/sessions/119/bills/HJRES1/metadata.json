@@ -16,6 +16,78 @@
   ],
   "actions": [
     {
+      "description": "On motion to suspend the rules and pass the resolution Failed by the Yeas and Nays: (2/3 required): 212 - 206 (Roll no. 293).",
+      "date": "2026-09-02T20:35:33+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-03T10:05:23Z"
+      }
+    },
+    {
+      "description": "Failed of passage/not agreed to in House On motion to suspend the rules and pass the resolution Failed by the Yeas and Nays: (2/3 required): 212 - 206 (Roll no. 293).",
+      "date": "2026-09-02T20:35:33+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-03T10:05:23Z"
+      }
+    },
+    {
+      "description": "Considered as unfinished business.",
+      "date": "2026-09-02T20:00:37+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-03T10:05:23Z"
+      }
+    },
+    {
+      "description": "At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.",
+      "date": "2026-09-02T17:38:06+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-03T10:05:23Z"
+      }
+    },
+    {
+      "description": "DEBATE - The House proceeded with one hour of debate on H.J. Res. 1.",
+      "date": "2026-09-02T16:30:28+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-03T10:05:23Z"
+      }
+    },
+    {
+      "description": "Considered under suspension of the rules.",
+      "date": "2026-09-02T16:30:26+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-03T10:05:23Z"
+      }
+    },
+    {
+      "description": "Mr. Biggs (AZ) moved to suspend the rules and pass the resolution.",
+      "date": "2026-09-02T16:30:10+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-03T10:05:23Z"
+      }
+    },
+    {
       "description": "Placed on the House Calendar, Calendar No. 84.",
       "date": "2026-07-06T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -108,6 +180,16 @@
   ],
   "related_bills": [
     {
+      "identifier": "HJRES 1",
+      "legislative_session": "118",
+      "relation_type": "companion"
+    },
+    {
+      "identifier": "HJRES 40",
+      "legislative_session": "117",
+      "relation_type": "companion"
+    },
+    {
       "identifier": "SJRES 16",
       "legislative_session": "119",
       "relation_type": "companion"
@@ -147,6 +229,17 @@
   ],
   "documents": [
     {
+      "note": "CBO: H.J. Res. 1, a joint resolution proposing an amendment to the Constitution of the United States to require that the Supreme Court of the United States be composed of nine justices",
+      "links": [
+        {
+          "url": "https://www.cbo.gov/publication/62597",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "H. Rept. 119-732",
       "links": [
         {
@@ -185,7 +278,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-22T08:35:15Z",
+    "logs_latest_update": "2026-09-03T10:05:23Z",
     "text_extraction_latest_update": "2026-07-22T12:32:39.784115Z"
   }
 }

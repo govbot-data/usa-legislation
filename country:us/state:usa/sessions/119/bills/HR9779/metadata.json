@@ -21,6 +21,16 @@
   ],
   "actions": [
     {
+      "description": "Subcommittee Hearings Held",
+      "date": "2026-09-02T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-03T10:05:17Z"
+      }
+    },
+    {
       "description": "Referred to the Subcommittee on Federal Lands.",
       "date": "2026-08-26T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -108,7 +118,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-28T17:42:51Z",
+    "logs_latest_update": "2026-09-03T10:05:17Z",
     "text_extraction_latest_update": "2026-08-28T17:45:29.852651Z"
   }
 }

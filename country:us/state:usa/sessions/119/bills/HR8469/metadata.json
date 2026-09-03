@@ -21,6 +21,28 @@
   ],
   "actions": [
     {
+      "description": "Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 455.",
+      "date": "2026-07-14T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-03T10:05:17Z"
+      }
+    },
+    {
+      "description": "Read the first time. Placed on Senate Legislative Calendar under Read the First Time.",
+      "date": "2026-07-13T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-03T10:05:17Z"
+      }
+    },
+    {
       "description": "Received in the Senate.",
       "date": "2026-05-20T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -460,7 +482,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-22T08:35:08Z",
+    "logs_latest_update": "2026-09-03T10:05:17Z",
     "text_extraction_latest_update": "2026-07-22T15:06:39.953929Z"
   }
 }

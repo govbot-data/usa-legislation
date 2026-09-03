@@ -21,6 +21,16 @@
   ],
   "actions": [
     {
+      "description": "Subcommittee Hearings Held",
+      "date": "2026-09-02T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-03T10:05:18Z"
+      }
+    },
+    {
       "description": "Referred to the Subcommittee on Federal Lands.",
       "date": "2026-08-26T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -193,6 +203,14 @@
       "organization_id": null
     },
     {
+      "name": "Melanie A. Stansbury",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Melanie A. Stansbury\"}",
+      "organization_id": null
+    },
+    {
       "name": "Darin LaHood",
       "classification": "primary",
       "entity_type": "person",
@@ -249,7 +267,8 @@
       "G000606",
       "V000136",
       "O000019",
-      "B001324"
+      "B001324",
+      "S001218"
     ],
     "sponsor_bioguides": [
       "L000585"
@@ -262,7 +281,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-28T17:42:58Z",
+    "logs_latest_update": "2026-09-03T10:05:18Z",
     "text_extraction_latest_update": "2026-08-28T17:45:02.399888Z"
   }
 }
