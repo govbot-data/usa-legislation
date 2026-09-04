@@ -21,6 +21,18 @@
   ],
   "actions": [
     {
+      "description": "Presented to President.",
+      "date": "2026-09-03T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-04T10:16:14Z"
+      }
+    },
+    {
       "description": "Message on Senate action sent to the House.",
       "date": "2026-08-10T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -237,6 +249,21 @@
       "classification": ""
     },
     {
+      "note": "Received in Senate",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr2069rds/xml/BILLS-119hr2069rds.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr2069rds/pdf/BILLS-119hr2069rds.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-07-21",
+      "classification": ""
+    },
+    {
       "note": "Engrossed in House",
       "links": [
         {
@@ -308,7 +335,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-12T07:38:34Z",
+    "logs_latest_update": "2026-09-04T10:16:14Z",
     "text_extraction_latest_update": "2026-08-12T07:40:39.322245Z"
   }
 }

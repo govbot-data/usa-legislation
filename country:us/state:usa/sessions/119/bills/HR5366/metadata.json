@@ -11,11 +11,11 @@
   "other_titles": [
     {
       "note": "",
-      "title": "To amend the Internal Revenue Code of 1986 to codify and extend the rules for personal casualty losses arising from major disasters and the rules for the exclusion from gross income of compensation for losses or damages resulting from certain wildfires."
+      "title": "Federal Disaster Tax Relief Act of 2025"
     },
     {
       "note": "",
-      "title": "Federal Disaster Tax Relief Act of 2025"
+      "title": "To amend the Internal Revenue Code of 1986 to codify and extend the rules for personal casualty losses arising from major disasters and the rules for the exclusion from gross income of compensation for losses or damages resulting from certain wildfires."
     }
   ],
   "other_identifiers": [
@@ -24,6 +24,18 @@
     }
   ],
   "actions": [
+    {
+      "description": "Presented to President.",
+      "date": "2026-09-03T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-04T10:16:11Z"
+      }
+    },
     {
       "description": "Message on Senate action sent to the House.",
       "date": "2026-08-10T04:00:00+00:00",
@@ -497,7 +509,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-12T07:38:33Z",
+    "logs_latest_update": "2026-09-04T10:16:11Z",
     "text_extraction_latest_update": "2026-08-12T07:40:42.105968Z"
   }
 }

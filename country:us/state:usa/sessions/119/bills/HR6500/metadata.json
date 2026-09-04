@@ -11,7 +11,7 @@
   "other_titles": [
     {
       "note": "",
-      "title": "Continuing Appropriations Act, 2027"
+      "title": "AGOA Extension Act"
     },
     {
       "note": "",
@@ -19,7 +19,7 @@
     },
     {
       "note": "",
-      "title": "AGOA Extension Act"
+      "title": "To extend duty-free treatment provided with respect to imports from certain countries in Africa under the African Growth and Opportunity Act, to extend customs user fees, and for other purposes."
     },
     {
       "note": "",
@@ -27,7 +27,7 @@
     },
     {
       "note": "",
-      "title": "To extend duty-free treatment provided with respect to imports from certain countries in Africa under the African Growth and Opportunity Act, to extend customs user fees, and for other purposes."
+      "title": "Continuing Appropriations Act, 2027"
     }
   ],
   "other_identifiers": [
@@ -36,6 +36,30 @@
     }
   ],
   "actions": [
+    {
+      "description": "Became Public Law No: 119-103.",
+      "date": "2026-09-02T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "became-law"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-04T10:16:18Z"
+      }
+    },
+    {
+      "description": "Signed by President.",
+      "date": "2026-09-02T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-04T10:16:18Z"
+      }
+    },
     {
       "description": "Presented to President.",
       "date": "2026-09-02T04:00:00+00:00",
@@ -723,7 +747,16 @@
       "classification": ""
     }
   ],
-  "citations": [],
+  "citations": [
+    {
+      "publication": "US Public Law",
+      "citation": "119-103",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.congress.gov/119/plaws/publ103/PLAW-119publ103.pdf"
+    }
+  ],
   "sources": [
     {
       "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr6500.xml",
@@ -749,7 +782,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-09-03T10:05:19Z",
+    "logs_latest_update": "2026-09-04T10:16:18Z",
     "text_extraction_latest_update": "2026-09-03T10:07:56.389943Z"
   }
 }

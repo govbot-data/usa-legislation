@@ -1,20 +1,45 @@
 {
   "legislative_session": "119",
   "identifier": "HR 10111",
-  "title": "To prohibit the Secretary of Homeland Security from preventing Members of Congress, or employees accompanying a Member, from entering, for the purpose of conducting oversight, any facility operated by or for the Department of Homeland Security used to detain or otherwise house aliens, and for other purposes.",
+  "title": "Oversight Access Act",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
   ],
   "subject": [],
   "abstracts": [],
-  "other_titles": [],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "To prohibit the Secretary of Homeland Security from preventing Members of Congress, or employees accompanying a Member, from entering, for the purpose of conducting oversight, any facility operated by or for the Department of Homeland Security used to detain or otherwise house aliens, and for other purposes."
+    }
+  ],
   "other_identifiers": [
     {
       "identifier": "ocd-bill-us-119-hr10111"
     }
   ],
   "actions": [
+    {
+      "description": "Referred to the Subcommittee on Oversight, Investigations, and Accountability.",
+      "date": "2026-08-18T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-04T10:16:10Z"
+      }
+    },
+    {
+      "description": "Referred to the Subcommittee on Border Security and Enforcement.",
+      "date": "2026-08-18T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-04T10:16:10Z"
+      }
+    },
     {
       "description": "Referred to the Committee on the Judiciary, and in addition to the Committee on Homeland Security, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
       "date": "2026-08-17T04:00:00+00:00",
@@ -74,6 +99,30 @@
       "organization_id": null
     },
     {
+      "name": "Eleanor Holmes Norton",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Eleanor Holmes Norton\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Daniel S. Goldman",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Daniel S. Goldman\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Mike Quigley",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Mike Quigley\"}",
+      "organization_id": null
+    },
+    {
       "name": "Christopher R. Deluzio",
       "classification": "primary",
       "entity_type": "person",
@@ -83,7 +132,23 @@
     }
   ],
   "related_bills": [],
-  "versions": [],
+  "versions": [
+    {
+      "note": "Introduced in House",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr10111ih/xml/BILLS-119hr10111ih.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr10111ih/pdf/BILLS-119hr10111ih.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-17",
+      "classification": ""
+    }
+  ],
   "documents": [],
   "citations": [],
   "sources": [
@@ -101,7 +166,10 @@
       "D000631",
       "L000602",
       "E000296",
-      "S001205"
+      "S001205",
+      "N000147",
+      "G000599",
+      "Q000023"
     ],
     "sponsor_bioguides": [
       "D000530"
@@ -114,7 +182,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-19T06:47:12Z",
+    "logs_latest_update": "2026-09-04T10:16:10Z",
     "text_extraction_latest_update": "2026-09-03T15:41:13.852891Z"
   }
 }
