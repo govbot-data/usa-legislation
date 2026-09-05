@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H8E20B18A27BF4F7B87964F4F5EDE6D9F" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 HR 10243 IH: Protecting Elders From Government Error Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2026-09-03</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">119th CONGRESS</congress><session display="yes">2d Session</session><legis-num display="yes">H. R. 10243</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20260903">September 3, 2026</action-date><action-desc><sponsor name-id="H001077">Mr. Higgins of Louisiana</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HWM00">Committee on Ways and Means</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To amend title II of the Social Security Act to place limitations on recovery of overpayments.</official-title></form><legis-body id="HB52F4BB57F13488690C949A0B3BF80D1" style="OLC"> 
+<section id="H1329D0E2D5D843F0B7C3D77644AD0075" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Protecting Elders From Government Error Act</short-title></quote>.</text></section> <section id="H8B312BD3F39D4C0CA30A4F7E89E96092"><enum>2.</enum><header>Limitations on recovery of overpayments</header> <subsection id="H26E909E9B5C541768B2310E85F904DDB"> <enum>(a)</enum> <header>Time period for recovery of old-Age benefits</header> <text>Section 204(a)(1)(A) of the Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/404">42 U.S.C. 404(a)(1)(A)</external-xref>) is amended—</text>
+        <paragraph id="H91F616D132D74F2FBFF25188293139B0">
+          <enum>(1)</enum>
+ <text>by striking <quote>With respect</quote> and inserting <quote>(i) With respect</quote>; and</text>
+        </paragraph>
+        <paragraph id="HA40983C67E9C4DA799CA1591F22C4C0A">
+          <enum>(2)</enum>
+ <text>by adding at the end the following:</text> <quoted-block style="OLC" id="HA3E64A90291E44E59CD5A14C9D260A13" display-inline="no-display-inline"> <clause id="HB82699FFF1914297B2213636DFDE5961" indent="up2"> <enum>(ii)</enum> <text display-inline="yes-display-inline">In any case in which the Commissioner finds that more than the correct amount of payment has been made to a person, recovery from the person may not be made if—</text>
+              <subclause id="HC0EBE37DF7C8498EA5483CBE64BD29E8">
+                <enum>(I)</enum>
+ <text>the overpayment is related to an old-age insurance benefit to which such person is entitled under section 202(a);</text>
+              </subclause>
+              <subclause id="HF470182CAC76448689903ED4FFAE9CA8">
+                <enum>(II)</enum>
+ <text>the overpayment occurred more than 6 months before the date of the finding; and</text>
+              </subclause>
+              <subclause id="H2E8DCA15AC5B43CF9AFBD31CB0631EDB">
+                <enum>(III)</enum>
+ <text>the overpayment was a result of error on the part of the Commissioner.</text> </subclause> </clause> <after-quoted-block>.</after-quoted-block> </quoted-block> </paragraph> </subsection> <subsection id="H4E6836C8FDFB46F98D202D13C2A89BAB"><enum>(b)</enum><header>Withholding for recovery of overpayments</header><text display-inline="yes-display-inline">Section 204(a)(1)(A) of the Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/404">42 U.S.C. 404(a)(1)(A)</external-xref>), as amended, is further amended by inserting after clause (ii) the following:</text> 
+<quoted-block style="OLC" id="HE250137F74814C64B3F2AA35587307C9" display-inline="no-display-inline"> 
+<clause id="HCC61100BA94241848FB4F81D88266C7E" indent="up2"><enum>(iii)</enum><text display-inline="yes-display-inline">In any case in which the Commissioner finds that more than the correct amount of payment has been made to a person, the Commissioner may not decrease the amount of a monthly benefit payable to the person by more than 5 percent of the amount payable if—</text> <subclause id="H805CEC68F0CB4A5F98866FCBFDD7D450"><enum>(I)</enum><text>the overpayment is related to an old-age insurance benefit to which such person is entitled under section 202(a); and</text></subclause> 
+<subclause id="H05429E2A17AE4B958B13811D77987AFA"><enum>(II)</enum><text>the overpayment was a result of error on the part of the Commissioner.</text></subclause></clause> <after-quoted-block>.</after-quoted-block></quoted-block></subsection> <subsection id="H8B4D60CB245445858A64F1A71D5EA1AF"><enum>(c)</enum><header>Inapplicability in case of fraud</header><text display-inline="yes-display-inline">Section 204(a)(1)(A) of the Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/404">42 U.S.C. 404(a)(1)(A)</external-xref>), as amended, is further amended by inserting after clause (iii) the following:</text> 
+<quoted-block style="OLC" id="H08093C989560436EA59CA521129F57DC" display-inline="no-display-inline"> 
+<clause id="HE84363EA5BF049368033708248BCC115" indent="up2"><enum>(iv)</enum><text display-inline="yes-display-inline">Clauses (ii) and (iii) shall not apply with respect to a payment made to a person if the Commissioner determines that the person has ever committed fraud or similar fault with respect to the program under this title.</text></clause><after-quoted-block>.</after-quoted-block></quoted-block></subsection> <subsection id="H11D6B9C551C84647B8AFED0AEC34F9EA"><enum>(d)</enum><header>Conforming amendment</header><text display-inline="yes-display-inline">Section 204(a)(2) of such Act (<external-xref legal-doc="usc" parsable-cite="usc/42/404">42 U.S.C. 404(a)(2)</external-xref>) is amended by striking <quote>Notwithstanding</quote> and inserting <quote>Subject to clauses (ii), (iii), and (iv) of paragraph (1)(A), but notwithstanding</quote>.</text></subsection> 
+<subsection id="H8718CEA6F3184679ABEBCE6BCEACC420"><enum>(e)</enum><header>Effective date</header><text>The amendments made by this Act shall take effect on the date of enactment of this Act, and shall be effective with respect to overpayments under title II of the Social Security Act that are outstanding on or after such date.</text></subsection> </section> </legis-body></bill>
+
