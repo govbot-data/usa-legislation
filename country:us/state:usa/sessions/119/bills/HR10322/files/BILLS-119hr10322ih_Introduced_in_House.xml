@@ -1,0 +1,64 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H9E1A6315BE14402C9E73480CF677C309" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 HR 10322 IH: Data Center Fair Share Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2026-09-08</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">119th CONGRESS</congress><session display="yes">2d Session</session><legis-num display="yes">H. R. 10322</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20260908">September 8, 2026</action-date><action-desc><sponsor name-id="S001230">Mr. Subramanyam</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HIF00">Committee on Energy and Commerce</committee-name>, and in addition to the Committee on <committee-name committee-id="HPW00">Transportation and Infrastructure</committee-name>, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned</action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To amend the Public Utility Regulatory Policies Act of 1978 to establish Federal standards relating to the recovery of the full, incremental costs of upgrades that serve large-load customers, and to withhold highway funds from States that do not implement such standards, and for other purposes.</official-title></form><legis-body id="H7B7796DD1C3445AF9BE8B0A7D9EE629E" style="OLC"> 
+<section id="HC1D317EAC39F4235B30535B24DA52512" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Data Center Fair Share Act</short-title></quote>.</text> </section> <section id="HEC18009CB5C543A28C5F30F2DEB64365"><enum>2.</enum><header>Federal standards relating to large-load customers</header> <subsection id="H3C8D5DC54F2B4C15B580EA8471EBAD79"> <enum>(a)</enum> <header>Federal standards relating to large-Load customers</header> <text display-inline="yes-display-inline">Section 111(d) of the Public Utility Regulatory Policies Act of 1978 (<external-xref legal-doc="usc" parsable-cite="usc/16/2621">16 U.S.C. 2621(d)</external-xref>) is amended by adding at the end the following:</text>
+        <quoted-block style="OLC" display-inline="no-display-inline"
+          id="H2D4CD969812940FDA66046575926472C">
+          <paragraph id="HC9CC87373D1F42ADB1FE565920259DE6" commented="no">
+            <enum>(22)</enum>
+            <header>Standards for large-load customers</header>
+            <subparagraph id="H1A3827D8F21345D98003302D9C9D37D4" commented="no">
+              <enum>(A)</enum>
+              <header>Recovery of full, incremental cost of upgrades</header>
+ <text display-inline="yes-display-inline">A rate charged, or entered into, by an electric utility for providing electric service to a large-load customer shall be designed to recover from the large-load customer the full, incremental costs of any generation, transmission, or distribution upgrade necessary to serve the load of such large-load customer, including in the event of such large-load customer terminating a contract or other agreement with the electric utility pertaining to the sale of electric energy, or otherwise ceasing the purchase of electric energy from the electric utility.</text>
+            </subparagraph>
+            <subparagraph id="HF48FF02A201444BAB466EE127ED07F96" commented="no">
+              <enum>(B)</enum>
+              <header>Contribution or assignment of costs for upgrades</header>
+ <text display-inline="yes-display-inline">Before an electric utility makes any generation, transmission, or distribution upgrade that is necessary to serve the load of a large-load customer, or a group of large-load customers, the electric utility shall—</text>
+              <clause id="HFB13B120F8C842A296A54E3E16D4E621">
+                <enum>(i)</enum>
+ <text>require the large-load customer, or the group of large-load customers, to cover the full costs of such upgrade through a contribution in aid of construction; or</text>
+              </clause>
+              <clause id="H908A42AB5E044A49A7C2485153246CFC">
+                <enum>(ii)</enum>
+ <text>assign the full costs of such upgrade to a class of large-load customers.</text>
+              </clause>
+            </subparagraph>
+            <subparagraph id="H86573E6DE6AF4CA99807ACF3D6A8CA84">
+              <enum>(C)</enum>
+              <header>Large-load customer defined</header>
+ <text display-inline="yes-display-inline">In this paragraph, the term <term>large-load customer</term> means a non-residential electric consumer that, on or after the date of the enactment of this paragraph, requests to enter into, or enters into, a contract or other agreement pertaining to the sale of electric energy for one or more facilities that have, in the aggregate, a peak electric demand of 100 megawatts or more at a single site or campus.</text>
+            </subparagraph>
+          </paragraph>
+          <after-quoted-block>.</after-quoted-block>
+        </quoted-block>
+      </subsection> 
+<subsection id="HC84D484305CE4661AC723D478B441A96" commented="no" display-inline="no-display-inline"><enum>(b)</enum><header>Conforming amendments</header><text>Section 112 of the Public Utility Regulatory Policies Act of 1978 (<external-xref legal-doc="usc" parsable-cite="usc/16/2622">16 U.S.C. 2622</external-xref>) is amended—</text> <paragraph id="HC040D598B7EF4B519B99B79BE75C0607" commented="no"><enum>(1)</enum><text>in subsection (b), by adding at the end the following:</text> 
+<quoted-block style="OLC" id="HB5624D0E557E471B8C957F119AFDF271"> 
+<paragraph id="HEE2EED96E98646F7A6429E8701738712" commented="no"><enum>(9)</enum> 
+<subparagraph id="H56B9130AC7A948EE8C9B1E93284B4729" commented="no" display-inline="yes-display-inline"><enum>(A)</enum><text display-inline="yes-display-inline">Not later than 1 year after the date of enactment of this paragraph, each State regulatory authority (with respect to each electric utility for which the State has ratemaking authority) and each nonregulated electric utility shall commence consideration under section 111, or set a hearing date for consideration, with respect to the standard established by paragraph (22) of section 111(d).</text></subparagraph> <subparagraph id="H4E65B340EDD444669B5B99CB94582A79" indent="up1" commented="no"><enum>(B)</enum><text display-inline="yes-display-inline">Not later than 2 years after the date of enactment of this paragraph, each State regulatory authority (with respect to each electric utility for which the State has ratemaking authority) and each nonregulated electric utility shall complete the consideration and make the determination under section 111 with respect to the standard established by paragraph (22) of section 111(d).</text></subparagraph></paragraph><after-quoted-block>;</after-quoted-block></quoted-block></paragraph> 
+<paragraph id="H29C86F34CB4043F6827D5178AB65631A" commented="no"><enum>(2)</enum><text>in subsection (c)—</text> <subparagraph id="H99E049C2CB114829840CAC4394685C0D" commented="no"><enum>(A)</enum><text>by striking <quote>subsection (b)(2)</quote> and inserting <quote>subsection (b)</quote>; and</text></subparagraph> 
+<subparagraph id="H408C2A17B50B48BC9A2AD8F959DFD2EF" commented="no"><enum>(B)</enum><text>by inserting <quote>In the case of the standard established by paragraph (22) of section 111(d), the reference contained in this subsection to the date of enactment of this Act shall be deemed to be a reference to the date of enactment of that paragraph (22).</quote> after <quote>paragraph (21).</quote>; and</text></subparagraph></paragraph> <paragraph id="HF1A63B9E3A734A0083DB5E13A0BEB901" commented="no"><enum>(3)</enum><text>by adding at the end the following:</text> 
+<quoted-block style="OLC" id="H1BCDDD08B59D44E38177AEBDC33F96E9"> 
+<subsection id="H8455A4C7B109419EBEF390C5F9841F01" commented="no"><enum>(i)</enum><header>Other prior state actions</header><text>Subsections (b) and (c) shall not apply to the standard established by paragraph (22) of section 111(d) in the case of any electric utility in a State if, before the date of enactment of this subsection—</text> <paragraph id="H914E744966F34124AA54508FDC518271" commented="no"><enum>(1)</enum><text>the State has implemented for the electric utility the standard (or a comparable standard); or</text></paragraph> 
+<paragraph id="H38032F201AA74A68A7FF8C2D6C090161" commented="no"><enum>(2)</enum><text>the State legislature has voted on the implementation of the standard (or a comparable standard) for the electric utility.</text></paragraph></subsection><after-quoted-block>.</after-quoted-block></quoted-block></paragraph></subsection></section> <section id="H12D112181964492DA71250EEAD28E82C" commented="no"><enum>3.</enum><header>Withholding of highway funds for failure to adopt Federal standard relating to large-load customer</header> <subsection id="H40B6A30D6D2E41389F891A105CEE6F17" commented="no"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline"><external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/23/1">Chapter 1</external-xref> of title 23, United States Code, is amended by adding at the end the following:</text> 
+<quoted-block style="USC" id="HEF34F80001D147049D9C0D8CBBCB603F" display-inline="no-display-inline"> 
+<section id="H38E3B1ED2C8042868FFF811A6E214848" commented="no"><enum>180.</enum><header>Federal standards relating to large-load customer</header> <text display-inline="no-display-inline">The Secretary shall withhold 100 per centum of the amount required to be apportioned to any State under section 104(b) on the first day of each fiscal year after the first fiscal year beginning after the date of enactment of this section, in which the State has not implemented the standards under section 111(d)(22) of the Public Utility Regulatory Policies Act of 1978.</text></section><after-quoted-block>.</after-quoted-block></quoted-block></subsection> <subsection id="H9875287BC51C4509BA4CFAEC5E52F005" commented="no"><enum>(b)</enum><header>Clerical amendment</header><text>The analysis for <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/23/1">chapter 1</external-xref> of title 23, United States Code, is amended by adding at the end the following:</text> 
+<quoted-block style="USC" id="H491CE022AE1D48CF8A50FFD912F69A80" display-inline="no-display-inline"> 
+<toc regeneration="no-regeneration"> 
+<toc-entry level="section">180. Federal standard relating to large-load customer.</toc-entry></toc><after-quoted-block>.</after-quoted-block></quoted-block></subsection></section> 
+</legis-body></bill>
+
