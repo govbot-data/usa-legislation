@@ -1,7 +1,7 @@
 {
   "legislative_session": "119",
   "identifier": "HR 9098",
-  "title": "Congressional Records Protection Act",
+  "title": "Congressional Records Protection Act of 2026",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -9,6 +9,10 @@
   "subject": [],
   "abstracts": [],
   "other_titles": [
+    {
+      "note": "",
+      "title": "Congressional Records Protection Act"
+    },
     {
       "note": "",
       "title": "To protect the separation of powers enshrined in the United States Constitution and end the weaponized surveillance of Members of Congress."
@@ -20,6 +24,26 @@
     }
   ],
   "actions": [
+    {
+      "description": "Placed on the Union Calendar, Calendar No. 704.",
+      "date": "2026-09-08T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-10T10:11:04Z"
+      }
+    },
+    {
+      "description": "Reported (Amended) by the Committee on Judiciary. H. Rept. 119-805.",
+      "date": "2026-09-08T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-10T10:11:04Z"
+      }
+    },
     {
       "description": "Ordered to be Reported (Amended) by the Yeas and Nays: 22 - 1.",
       "date": "2026-07-15T04:00:00+00:00",
@@ -126,6 +150,21 @@
   "related_bills": [],
   "versions": [
     {
+      "note": "Reported in House",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr9098rh/xml/BILLS-119hr9098rh.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr9098rh/pdf/BILLS-119hr9098rh.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-09-08",
+      "classification": ""
+    },
+    {
       "note": "Introduced in House",
       "links": [
         {
@@ -173,7 +212,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-22T08:35:15Z",
+    "logs_latest_update": "2026-09-10T10:11:04Z",
     "text_extraction_latest_update": "2026-07-22T13:41:44.838885Z"
   }
 }

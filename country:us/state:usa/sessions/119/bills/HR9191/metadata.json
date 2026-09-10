@@ -1,7 +1,7 @@
 {
   "legislative_session": "119",
   "identifier": "HR 9191",
-  "title": "National Fossil Act",
+  "title": "National Fossil Act of 2026",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -9,6 +9,10 @@
   "subject": [],
   "abstracts": [],
   "other_titles": [
+    {
+      "note": "",
+      "title": "National Fossil Act"
+    },
     {
       "note": "",
       "title": "To amend chapter 3 of title 36, United States Code, to designate the American mastodon as the national fossil mammal and the Tyrannosaurus rex as the national fossil dinosaur of the United States, and for other purposes."
@@ -20,6 +24,26 @@
     }
   ],
   "actions": [
+    {
+      "description": "Placed on the House Calendar, Calendar No. 89.",
+      "date": "2026-09-08T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-10T10:11:02Z"
+      }
+    },
+    {
+      "description": "Reported (Amended) by the Committee on Judiciary. H. Rept. 119-803.",
+      "date": "2026-09-08T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-10T10:11:02Z"
+      }
+    },
     {
       "description": "Ordered to be Reported (Amended) by the Yeas and Nays: 22 - 1.",
       "date": "2026-07-15T04:00:00+00:00",
@@ -150,6 +174,21 @@
   "related_bills": [],
   "versions": [
     {
+      "note": "Reported in House",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr9191rh/xml/BILLS-119hr9191rh.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr9191rh/pdf/BILLS-119hr9191rh.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-09-08",
+      "classification": ""
+    },
+    {
       "note": "Introduced in House",
       "links": [
         {
@@ -165,7 +204,19 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "CBO: H.R. 9191, National Fossil Act of 2026",
+      "links": [
+        {
+          "url": "https://www.cbo.gov/publication/62703",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -200,7 +251,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-22T08:34:59Z",
+    "logs_latest_update": "2026-09-10T10:11:02Z",
     "text_extraction_latest_update": "2026-07-22T16:31:52.557148Z"
   }
 }
