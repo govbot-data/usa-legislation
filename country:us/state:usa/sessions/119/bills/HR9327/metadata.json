@@ -11,11 +11,11 @@
   "other_titles": [
     {
       "note": "",
-      "title": "Providing Emotional Assistance with Relief and Love Act"
+      "title": "To establish in U.S. Customs and Border Protection a pilot program to adopt dogs from local animal shelters to be trained as support dogs, and for other purposes."
     },
     {
       "note": "",
-      "title": "To establish in U.S. Customs and Border Protection a pilot program to adopt dogs from local animal shelters to be trained as support dogs, and for other purposes."
+      "title": "Providing Emotional Assistance with Relief and Love Act"
     }
   ],
   "other_identifiers": [
@@ -24,6 +24,26 @@
     }
   ],
   "actions": [
+    {
+      "description": "Placed on the Union Calendar, Calendar No. 711.",
+      "date": "2026-09-10T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-11T09:37:20Z"
+      }
+    },
+    {
+      "description": "Reported by the Committee on Homeland Security. H. Rept. 119-812.",
+      "date": "2026-09-10T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-11T09:37:20Z"
+      }
+    },
     {
       "description": "Ordered to be Reported by the Yeas and Nays: 30 - 0.",
       "date": "2026-06-24T04:00:00+00:00",
@@ -149,6 +169,21 @@
   ],
   "versions": [
     {
+      "note": "Reported in House",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr9327rh/xml/BILLS-119hr9327rh.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr9327rh/pdf/BILLS-119hr9327rh.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-09-10",
+      "classification": ""
+    },
+    {
       "note": "Introduced in House",
       "links": [
         {
@@ -209,7 +244,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-22T08:34:54Z",
+    "logs_latest_update": "2026-09-11T09:37:20Z",
     "text_extraction_latest_update": "2026-07-22T16:59:43.767205Z"
   }
 }

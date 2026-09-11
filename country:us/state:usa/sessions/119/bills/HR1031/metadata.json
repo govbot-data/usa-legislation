@@ -21,6 +21,16 @@
   ],
   "actions": [
     {
+      "description": "Referred to the Subcommittee on Federal Lands.",
+      "date": "2026-09-10T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-11T09:37:21Z"
+      }
+    },
+    {
       "description": "Referred to the House Committee on Natural Resources.",
       "date": "2025-02-05T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -79,6 +89,30 @@
       "organization_id": null
     },
     {
+      "name": "Lauren Boebert",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Lauren Boebert\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Don Bacon",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Don Bacon\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Thomas H. Kean",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Thomas H. Kean\"}",
+      "organization_id": null
+    },
+    {
       "name": "Claudia Tenney",
       "classification": "primary",
       "entity_type": "person",
@@ -128,7 +162,10 @@
       "S001201",
       "G000597",
       "L000600",
-      "L000599"
+      "L000599",
+      "B000825",
+      "B001298",
+      "K000398"
     ],
     "sponsor_bioguides": [
       "T000478"
@@ -141,7 +178,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-22T08:35:18Z",
+    "logs_latest_update": "2026-09-11T09:37:21Z",
     "text_extraction_latest_update": "2026-07-22T13:56:05.946645Z"
   }
 }

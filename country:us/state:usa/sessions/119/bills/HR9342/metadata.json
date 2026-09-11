@@ -21,6 +21,36 @@
   ],
   "actions": [
     {
+      "description": "Placed on the Union Calendar, Calendar No. 708.",
+      "date": "2026-09-10T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-11T09:37:23Z"
+      }
+    },
+    {
+      "description": "Committee on Oversight and Gov Reform discharged.",
+      "date": "2026-09-10T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-11T09:37:23Z"
+      }
+    },
+    {
+      "description": "Reported (Amended) by the Committee on House Administration. H. Rept. 119-809, Part I.",
+      "date": "2026-09-10T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-11T09:37:23Z"
+      }
+    },
+    {
       "description": "Ordered to be Reported (Amended) by Voice Vote.",
       "date": "2026-06-24T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -84,6 +114,21 @@
   ],
   "versions": [
     {
+      "note": "Reported in House",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr9342rh/xml/BILLS-119hr9342rh.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr9342rh/pdf/BILLS-119hr9342rh.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-09-10",
+      "classification": ""
+    },
+    {
       "note": "Introduced in House",
       "links": [
         {
@@ -99,7 +144,19 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "CBO: H.R. 9342, GPO Modernization Act of 2026",
+      "links": [
+        {
+          "url": "https://www.cbo.gov/publication/62770",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -124,7 +181,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-22T08:34:55Z",
+    "logs_latest_update": "2026-09-11T09:37:23Z",
     "text_extraction_latest_update": "2026-07-22T10:06:58.608885Z"
   }
 }

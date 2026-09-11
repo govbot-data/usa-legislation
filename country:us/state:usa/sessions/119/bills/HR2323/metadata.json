@@ -21,6 +21,16 @@
   ],
   "actions": [
     {
+      "description": "Referred to the Subcommittee on Federal Lands.",
+      "date": "2026-09-10T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-11T09:37:20Z"
+      }
+    },
+    {
       "description": "ASSUMING FIRST SPONSORSHIP - Mr. Pfluger asked unanimous consent that he may hereafter be considered as the first sponsor of H.R. 2323, a bill originally introduced by Representative Gonzales (TX), for the purpose of adding cosponsors and requesting reprintings pursuant to clause 7 of rule XII. Agreed to without objection.",
       "date": "2026-06-23T23:28:34+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -196,7 +206,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-22T08:35:18Z",
+    "logs_latest_update": "2026-09-11T09:37:20Z",
     "text_extraction_latest_update": "2026-07-23T07:34:17.263880Z"
   }
 }

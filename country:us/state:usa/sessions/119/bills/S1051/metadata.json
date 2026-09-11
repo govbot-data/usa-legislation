@@ -21,6 +21,18 @@
   ],
   "actions": [
     {
+      "description": "Referred to the House Committee on Natural Resources.",
+      "date": "2026-09-10T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-11T09:37:27Z"
+      }
+    },
+    {
       "description": "Held at the desk.",
       "date": "2025-05-26T13:16:28+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -128,6 +140,21 @@
   "related_bills": [],
   "versions": [
     {
+      "note": "Referred in House",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119s1051rfh/xml/BILLS-119s1051rfh.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119s1051rfh/pdf/BILLS-119s1051rfh.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-09-10",
+      "classification": ""
+    },
+    {
       "note": "Engrossed in Senate",
       "links": [
         {
@@ -185,7 +212,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-22T08:35:13Z",
+    "logs_latest_update": "2026-09-11T09:37:27Z",
     "text_extraction_latest_update": "2026-07-22T12:55:22.110418Z"
   }
 }

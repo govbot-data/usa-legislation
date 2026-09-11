@@ -1,7 +1,7 @@
 {
   "legislative_session": "119",
   "identifier": "HR 2317",
-  "title": "Northern Nevada Economic Development and Conservation Act of 2025",
+  "title": "Northern Nevada Economic Development and Conservation Act of 2026",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -11,11 +11,11 @@
   "other_titles": [
     {
       "note": "",
-      "title": "To provide for transfer of ownership of certain Federal lands in northern Nevada, to authorize the disposal of certain Federal lands in northern Nevada for economic development, to promote conservation in northern Nevada, and for other purposes."
+      "title": "Fernley Economic Development Act"
     },
     {
       "note": "",
-      "title": "Pershing County Economic Development and Conservation Act"
+      "title": "To provide for transfer of ownership of certain Federal lands in northern Nevada, to authorize the disposal of certain Federal lands in northern Nevada for economic development, to promote conservation in northern Nevada, and for other purposes."
     },
     {
       "note": "",
@@ -23,7 +23,11 @@
     },
     {
       "note": "",
-      "title": "Fernley Economic Development Act"
+      "title": "Northern Nevada Economic Development and Conservation Act of 2025"
+    },
+    {
+      "note": "",
+      "title": "Pershing County Economic Development and Conservation Act"
     }
   ],
   "other_identifiers": [
@@ -32,6 +36,36 @@
     }
   ],
   "actions": [
+    {
+      "description": "Placed on the Union Calendar, Calendar No. 710.",
+      "date": "2026-09-10T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-11T09:37:20Z"
+      }
+    },
+    {
+      "description": "Committee on Agriculture discharged.",
+      "date": "2026-09-10T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-11T09:37:20Z"
+      }
+    },
+    {
+      "description": "Reported (Amended) by the Committee on Natural Resources. H. Rept. 119-811, Part I.",
+      "date": "2026-09-10T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-11T09:37:20Z"
+      }
+    },
     {
       "description": "Ordered to be Reported in the Nature of a Substitute (Amended) by the Yeas and Nays: 23 - 12.",
       "date": "2026-07-15T04:00:00+00:00",
@@ -90,6 +124,21 @@
   "related_bills": [],
   "versions": [
     {
+      "note": "Reported in House",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr2317rh/xml/BILLS-119hr2317rh.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr2317rh/pdf/BILLS-119hr2317rh.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-09-10",
+      "classification": ""
+    },
+    {
       "note": "Introduced in House",
       "links": [
         {
@@ -130,7 +179,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-09T06:21:09Z",
+    "logs_latest_update": "2026-09-11T09:37:20Z",
     "text_extraction_latest_update": "2026-08-09T06:23:15.507164Z"
   }
 }

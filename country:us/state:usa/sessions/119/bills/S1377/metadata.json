@@ -21,6 +21,18 @@
   ],
   "actions": [
     {
+      "description": "Referred to the House Committee on Natural Resources.",
+      "date": "2026-09-10T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-11T09:37:22Z"
+      }
+    },
+    {
       "description": "Held at the desk.",
       "date": "2026-06-15T14:49:32+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -95,13 +107,13 @@
       }
     },
     {
-      "description": "Committee on Energy and Natural Resources Subcommittee on National Parks. Hearings held.",
+      "description": "Committee on Energy and Natural Resources Subcommittee on National Parks. Hearings held. With printed Hearing: S.Hrg. 119-238.",
       "date": "2025-12-09T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-22T08:34:54Z"
+        "log_file_created": "2026-09-11T09:37:22Z"
       }
     },
     {
@@ -147,6 +159,21 @@
   ],
   "related_bills": [],
   "versions": [
+    {
+      "note": "Referred in House",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119s1377rfh/xml/BILLS-119s1377rfh.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119s1377rfh/pdf/BILLS-119s1377rfh.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-09-10",
+      "classification": ""
+    },
     {
       "note": "Engrossed in Senate",
       "links": [
@@ -217,7 +244,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-22T08:34:54Z",
+    "logs_latest_update": "2026-09-11T09:37:22Z",
     "text_extraction_latest_update": "2026-07-22T16:49:32.256682Z"
   }
 }
