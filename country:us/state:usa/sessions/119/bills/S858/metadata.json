@@ -21,6 +21,30 @@
   ],
   "actions": [
     {
+      "description": "Became Public Law No: 119-104.",
+      "date": "2026-09-10T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "became-law"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-12T12:22:59Z"
+      }
+    },
+    {
+      "description": "Signed by President.",
+      "date": "2026-09-10T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-12T12:22:59Z"
+      }
+    },
+    {
       "description": "Presented to President.",
       "date": "2026-09-02T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -181,13 +205,13 @@
       }
     },
     {
-      "description": "Committee on Energy and Natural Resources Subcommittee on National Parks. Hearings held.",
+      "description": "Committee on Energy and Natural Resources Subcommittee on National Parks. Hearings held. With printed Hearing: S.Hrg. 119-238.",
       "date": "2025-12-09T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-22T08:35:16Z"
+        "log_file_created": "2026-09-12T12:22:59Z"
       }
     },
     {
@@ -413,7 +437,16 @@
       "classification": ""
     }
   ],
-  "citations": [],
+  "citations": [
+    {
+      "publication": "US Public Law",
+      "citation": "119-104",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.congress.gov/119/plaws/publ104/PLAW-119publ104.pdf"
+    }
+  ],
   "sources": [
     {
       "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s858.xml",
@@ -451,7 +484,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-09-03T10:05:20Z",
+    "logs_latest_update": "2026-09-12T12:22:59Z",
     "text_extraction_latest_update": "2026-09-03T10:07:31.103442Z"
   }
 }

@@ -11,11 +11,11 @@
   "other_titles": [
     {
       "note": "",
-      "title": "Country Of Origin Labeling Online Act"
+      "title": "To require origin and location disclosure for new products of Foreign origin offered for sale on the internet."
     },
     {
       "note": "",
-      "title": "To require origin and location disclosure for new products of Foreign origin offered for sale on the internet."
+      "title": "Country Of Origin Labeling Online Act"
     }
   ],
   "other_identifiers": [
@@ -24,6 +24,16 @@
     }
   ],
   "actions": [
+    {
+      "description": "Referred to the Subcommittee on Nutrition and Foreign Agriculture.",
+      "date": "2026-06-15T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-12T12:23:02Z"
+      }
+    },
     {
       "description": "Referred to the Committee on Energy and Commerce, and in addition to the Committees on Ways and Means, and Agriculture, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
       "date": "2026-05-29T04:00:00+00:00",
@@ -118,7 +128,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-22T08:35:05Z",
+    "logs_latest_update": "2026-09-12T12:23:02Z",
     "text_extraction_latest_update": "2026-07-22T13:47:12.134638Z"
   }
 }

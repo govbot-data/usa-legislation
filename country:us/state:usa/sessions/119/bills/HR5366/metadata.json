@@ -25,6 +25,18 @@
   ],
   "actions": [
     {
+      "description": "Signed by President.",
+      "date": "2026-09-11T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-12T12:23:01Z"
+      }
+    },
+    {
       "description": "Presented to President.",
       "date": "2026-09-03T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -509,7 +521,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-09-04T10:16:11Z",
+    "logs_latest_update": "2026-09-12T12:23:01Z",
     "text_extraction_latest_update": "2026-09-04T10:19:12.201686Z"
   }
 }

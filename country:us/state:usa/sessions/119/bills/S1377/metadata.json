@@ -33,6 +33,16 @@
       }
     },
     {
+      "description": "Referred to the Subcommittee on Federal Lands.",
+      "date": "2026-09-10T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-12T12:23:01Z"
+      }
+    },
+    {
       "description": "Held at the desk.",
       "date": "2026-06-15T14:49:32+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -244,7 +254,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-09-11T09:37:22Z",
+    "logs_latest_update": "2026-09-12T12:23:01Z",
     "text_extraction_latest_update": "2026-09-11T09:39:39.385974Z"
   }
 }
