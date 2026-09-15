@@ -11,11 +11,11 @@
   "other_titles": [
     {
       "note": "",
-      "title": "To amend the Migratory Bird Treaty Act to clarify the treatment of authentic Alaska Native articles of handicraft containing nonedible migratory bird parts, and for other purposes."
+      "title": "Archie Cavanaugh Migratory Bird Treaty Amendment Act"
     },
     {
       "note": "",
-      "title": "Archie Cavanaugh Migratory Bird Treaty Amendment Act"
+      "title": "To amend the Migratory Bird Treaty Act to clarify the treatment of authentic Alaska Native articles of handicraft containing nonedible migratory bird parts, and for other purposes."
     }
   ],
   "other_identifiers": [
@@ -24,6 +24,80 @@
     }
   ],
   "actions": [
+    {
+      "description": "The title of the measure was amended. Agreed to without objection.",
+      "date": "2026-09-14T20:09:54+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-15T10:58:26Z"
+      }
+    },
+    {
+      "description": "Motion to reconsider laid on the table Agreed to without objection.",
+      "date": "2026-09-14T20:09:37+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-15T10:58:26Z"
+      }
+    },
+    {
+      "description": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.",
+      "date": "2026-09-14T20:09:34+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-15T10:58:26Z"
+      }
+    },
+    {
+      "description": "Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.",
+      "date": "2026-09-14T20:09:34+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-15T10:58:26Z"
+      }
+    },
+    {
+      "description": "DEBATE - The House proceeded with forty minutes of debate on H.R. 6021.",
+      "date": "2026-09-14T20:03:13+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-15T10:58:26Z"
+      }
+    },
+    {
+      "description": "Considered under suspension of the rules.",
+      "date": "2026-09-14T20:03:12+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-15T10:58:26Z"
+      }
+    },
+    {
+      "description": "Mr. Westerman moved to suspend the rules and pass the bill, as amended.",
+      "date": "2026-09-14T20:03:01+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-15T10:58:26Z"
+      }
+    },
     {
       "description": "Placed on the Union Calendar, Calendar No. 675.",
       "date": "2026-08-27T04:00:00+00:00",
@@ -121,6 +195,11 @@
   ],
   "related_bills": [
     {
+      "identifier": "S 5258",
+      "legislative_session": "118",
+      "relation_type": "companion"
+    },
+    {
       "identifier": "S 255",
       "legislative_session": "119",
       "relation_type": "companion"
@@ -158,7 +237,19 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "H. Rept. 119-774",
+      "links": [
+        {
+          "url": "https://www.congress.gov/119/crpt/hrpt774/CRPT-119hrpt774.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -183,7 +274,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-28T17:42:51Z",
+    "logs_latest_update": "2026-09-15T10:58:26Z",
     "text_extraction_latest_update": "2026-08-28T17:45:02.392079Z"
   }
 }

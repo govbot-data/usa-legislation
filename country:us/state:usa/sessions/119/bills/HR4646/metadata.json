@@ -21,6 +21,46 @@
   ],
   "actions": [
     {
+      "description": "At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.",
+      "date": "2026-09-15T00:13:18+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-15T10:58:27Z"
+      }
+    },
+    {
+      "description": "DEBATE - The House proceeded with forty minutes of debate on H.R. 4646.",
+      "date": "2026-09-15T00:03:07+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-15T10:58:27Z"
+      }
+    },
+    {
+      "description": "Considered under suspension of the rules.",
+      "date": "2026-09-15T00:03:06+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-15T10:58:27Z"
+      }
+    },
+    {
+      "description": "Ms. De La Cruz moved to suspend the rules and pass the bill, as amended.",
+      "date": "2026-09-15T00:03:04+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-15T10:58:27Z"
+      }
+    },
+    {
       "description": "Placed on the Union Calendar, Calendar No. 686.",
       "date": "2026-09-01T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -205,6 +245,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "H. Rept. 119-786",
+      "links": [
+        {
+          "url": "https://www.congress.gov/119/crpt/hrpt786/CRPT-119hrpt786.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "citations": [],
@@ -239,7 +290,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-09-02T10:11:42Z",
+    "logs_latest_update": "2026-09-15T10:58:27Z",
     "text_extraction_latest_update": "2026-09-02T10:14:09.575833Z"
   }
 }

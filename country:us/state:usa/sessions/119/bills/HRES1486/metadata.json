@@ -16,6 +16,16 @@
   ],
   "actions": [
     {
+      "description": "NOTIFICATION OF INTENT TO OFFER RESOLUTION - Mr. Green (TX) notified the House of his intent to offer a privileged resolution pursuant to clause 2(a)(1) of rule IX. The Chair announced that a determination will be made at the time designated for consideration of the resolution.",
+      "date": "2026-09-14T18:05:11+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-15T10:58:28Z"
+      }
+    },
+    {
       "description": "Referred to the House Committee on the Judiciary.",
       "date": "2026-08-24T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -93,7 +103,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-26T07:28:04Z",
+    "logs_latest_update": "2026-09-15T10:58:28Z",
     "text_extraction_latest_update": "2026-08-26T07:30:01.207555Z"
   }
 }

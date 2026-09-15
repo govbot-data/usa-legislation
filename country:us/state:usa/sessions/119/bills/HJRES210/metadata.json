@@ -16,6 +16,16 @@
   ],
   "actions": [
     {
+      "description": "Rules Committee Resolution H. Res. 1530 Reported to House. Rule provides for consideration of H.R. 9576, H.R. 10326, H.J. Res. 210 and H.J. Res. 213. The resolution provides for consideration of H.R. 9576, H.R. 10326, H.J.Res. 210, and H.J.Res. 213 under a closed rule with one hour of debate on each measure. The resolution provides for a motion to concur in the Senate amendments to H.R. 5334.",
+      "date": "2026-09-15T00:46:32+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-15T10:58:26Z"
+      }
+    },
+    {
       "description": "Referred to the House Committee on Energy and Commerce.",
       "date": "2026-08-06T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -50,6 +60,54 @@
       "organization_id": null
     },
     {
+      "name": "Nicholas J. Begich",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Nicholas J. Begich\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Ken Calvert",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Ken Calvert\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Randy K. Weber",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Randy K. Weber\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Wesley Hunt",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Wesley Hunt\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Darrell Issa",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Darrell Issa\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Scott Perry",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Scott Perry\"}",
+      "organization_id": null
+    },
+    {
       "name": "Vince Fong",
       "classification": "primary",
       "entity_type": "person",
@@ -58,7 +116,18 @@
       "organization_id": null
     }
   ],
-  "related_bills": [],
+  "related_bills": [
+    {
+      "identifier": "HRES 1530",
+      "legislative_session": "119",
+      "relation_type": "companion"
+    },
+    {
+      "identifier": "SJRES 209",
+      "legislative_session": "119",
+      "relation_type": "companion"
+    }
+  ],
   "versions": [
     {
       "note": "Introduced in House",
@@ -90,7 +159,13 @@
   ],
   "extras": {
     "cosponsor_bioguides": [
-      "G000607"
+      "G000607",
+      "B001323",
+      "C000059",
+      "W000814",
+      "H001095",
+      "I000056",
+      "P000605"
     ],
     "sponsor_bioguides": [
       "F000480"
@@ -103,7 +178,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-09T06:21:14Z",
+    "logs_latest_update": "2026-09-15T10:58:26Z",
     "text_extraction_latest_update": "2026-08-09T06:37:08.364309Z"
   }
 }

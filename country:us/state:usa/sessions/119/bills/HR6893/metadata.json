@@ -21,6 +21,70 @@
   ],
   "actions": [
     {
+      "description": "Motion to reconsider laid on the table Agreed to without objection.",
+      "date": "2026-09-14T21:55:30+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-15T10:58:28Z"
+      }
+    },
+    {
+      "description": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.",
+      "date": "2026-09-14T21:55:27+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-15T10:58:28Z"
+      }
+    },
+    {
+      "description": "Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.",
+      "date": "2026-09-14T21:55:27+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-15T10:58:28Z"
+      }
+    },
+    {
+      "description": "DEBATE - The House proceeded with forty minutes of debate on H.R. 6893.",
+      "date": "2026-09-14T21:45:08+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-15T10:58:28Z"
+      }
+    },
+    {
+      "description": "Considered under suspension of the rules.",
+      "date": "2026-09-14T21:45:04+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-15T10:58:28Z"
+      }
+    },
+    {
+      "description": "Mr. Westerman moved to suspend the rules and pass the bill, as amended.",
+      "date": "2026-09-14T21:45:01+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-15T10:58:28Z"
+      }
+    },
+    {
       "description": "Placed on the Union Calendar, Calendar No. 664.",
       "date": "2026-08-20T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -186,6 +250,16 @@
       "identifier": "S 3939",
       "legislative_session": "119",
       "relation_type": "companion"
+    },
+    {
+      "identifier": "HR 3540",
+      "legislative_session": "117",
+      "relation_type": "companion"
+    },
+    {
+      "identifier": "HR 4770",
+      "legislative_session": "118",
+      "relation_type": "companion"
     }
   ],
   "versions": [
@@ -220,7 +294,19 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "H. Rept. 119-763",
+      "links": [
+        {
+          "url": "https://www.congress.gov/119/crpt/hrpt763/CRPT-119hrpt763.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -253,7 +339,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-22T06:42:14Z",
+    "logs_latest_update": "2026-09-15T10:58:28Z",
     "text_extraction_latest_update": "2026-08-22T06:44:00.054385Z"
   }
 }

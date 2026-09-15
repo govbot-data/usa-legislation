@@ -25,6 +25,26 @@
   ],
   "actions": [
     {
+      "description": "Placed on the Union Calendar, Calendar No. 719.",
+      "date": "2026-09-14T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-15T10:58:29Z"
+      }
+    },
+    {
+      "description": "Reported by the Committee on Energy and Commerce. H. Rept. 119-820.",
+      "date": "2026-09-14T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-15T10:58:29Z"
+      }
+    },
+    {
       "description": "Ordered to be Reported by the Yeas and Nays: 47 - 0.",
       "date": "2026-07-21T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -135,7 +155,19 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "CBO: H.R. 9617, CHARM Act",
+      "links": [
+        {
+          "url": "https://www.cbo.gov/publication/62766",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -162,7 +194,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-09T06:21:12Z",
+    "logs_latest_update": "2026-09-15T10:58:29Z",
     "text_extraction_latest_update": "2026-08-09T06:34:32.515915Z"
   }
 }

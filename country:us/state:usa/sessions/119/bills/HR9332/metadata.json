@@ -21,6 +21,26 @@
   ],
   "actions": [
     {
+      "description": "Placed on the Union Calendar, Calendar No. 722.",
+      "date": "2026-09-14T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-15T10:58:27Z"
+      }
+    },
+    {
+      "description": "Reported by the Committee on Energy and Commerce. H. Rept. 119-823.",
+      "date": "2026-09-14T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-15T10:58:27Z"
+      }
+    },
+    {
       "description": "Ordered to be Reported by the Yeas and Nays: 47 - 0.",
       "date": "2026-07-21T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -171,7 +191,19 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "CBO: H.R. 9332, Load Forecasting Enhancement Act",
+      "links": [
+        {
+          "url": "https://www.cbo.gov/publication/62752",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -203,7 +235,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-09T06:21:10Z",
+    "logs_latest_update": "2026-09-15T10:58:27Z",
     "text_extraction_latest_update": "2026-08-09T06:42:43.139126Z"
   }
 }

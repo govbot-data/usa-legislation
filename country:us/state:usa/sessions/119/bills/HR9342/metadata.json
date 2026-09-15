@@ -21,6 +21,70 @@
   ],
   "actions": [
     {
+      "description": "Motion to reconsider laid on the table Agreed to without objection.",
+      "date": "2026-09-14T19:14:24+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-15T10:58:28Z"
+      }
+    },
+    {
+      "description": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.",
+      "date": "2026-09-14T19:14:11+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-15T10:58:28Z"
+      }
+    },
+    {
+      "description": "Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.",
+      "date": "2026-09-14T19:14:11+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-15T10:58:28Z"
+      }
+    },
+    {
+      "description": "DEBATE - The House proceeded with forty minutes of debate on H.R. 9342.",
+      "date": "2026-09-14T19:05:44+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-15T10:58:28Z"
+      }
+    },
+    {
+      "description": "Considered under suspension of the rules.",
+      "date": "2026-09-14T19:05:42+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-15T10:58:28Z"
+      }
+    },
+    {
+      "description": "Mr. Griffith moved to suspend the rules and pass the bill, as amended.",
+      "date": "2026-09-14T19:05:32+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-15T10:58:28Z"
+      }
+    },
+    {
       "description": "Placed on the Union Calendar, Calendar No. 708.",
       "date": "2026-09-10T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -155,6 +219,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "H. Rept. 119-809",
+      "links": [
+        {
+          "url": "https://www.congress.gov/119/crpt/hrpt809/CRPT-119hrpt809.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "citations": [],
@@ -181,7 +256,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-09-11T09:37:23Z",
+    "logs_latest_update": "2026-09-15T10:58:28Z",
     "text_extraction_latest_update": "2026-09-11T09:39:56.535256Z"
   }
 }

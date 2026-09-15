@@ -25,6 +25,26 @@
   ],
   "actions": [
     {
+      "description": "Placed on the Union Calendar, Calendar No. 720.",
+      "date": "2026-09-14T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-15T10:58:28Z"
+      }
+    },
+    {
+      "description": "Reported by the Committee on Energy and Commerce. H. Rept. 119-821.",
+      "date": "2026-09-14T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-15T10:58:28Z"
+      }
+    },
+    {
       "description": "Ordered to be Reported by the Yeas and Nays: 48 - 0.",
       "date": "2026-07-21T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -162,7 +182,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-09T06:21:15Z",
+    "logs_latest_update": "2026-09-15T10:58:28Z",
     "text_extraction_latest_update": "2026-08-09T06:31:37.939262Z"
   }
 }

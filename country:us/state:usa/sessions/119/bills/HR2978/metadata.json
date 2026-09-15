@@ -11,11 +11,11 @@
   "other_titles": [
     {
       "note": "",
-      "title": "Guarding Unprotected Aging Retirees from Deception Act"
+      "title": "To permit State, local, and Tribal law enforcement agencies that receive eligible Federal grant funds to use such funds for investigating elder financial fraud, pig butchering, and general financial fraud, and to clarify that Federal law enforcement agencies may assist State, local, and Tribal law enforcement agencies in the use of tracing tools for blockchain and related technology, and for other purposes."
     },
     {
       "note": "",
-      "title": "To permit State, local, and Tribal law enforcement agencies that receive eligible Federal grant funds to use such funds for investigating elder financial fraud, pig butchering, and general financial fraud, and to clarify that Federal law enforcement agencies may assist State, local, and Tribal law enforcement agencies in the use of tracing tools for blockchain and related technology, and for other purposes."
+      "title": "Guarding Unprotected Aging Retirees from Deception Act"
     }
   ],
   "other_identifiers": [
@@ -24,6 +24,46 @@
     }
   ],
   "actions": [
+    {
+      "description": "At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.",
+      "date": "2026-09-14T23:43:16+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-15T10:58:26Z"
+      }
+    },
+    {
+      "description": "DEBATE - The House proceeded with forty minutes of debate on H.R. 2978.",
+      "date": "2026-09-14T23:27:33+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-15T10:58:26Z"
+      }
+    },
+    {
+      "description": "Considered under suspension of the rules.",
+      "date": "2026-09-14T23:27:32+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-15T10:58:26Z"
+      }
+    },
+    {
+      "description": "Ms. De La Cruz moved to suspend the rules and pass the bill, as amended.",
+      "date": "2026-09-14T23:27:21+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-15T10:58:26Z"
+      }
+    },
     {
       "description": "Reported (Amended) by the Committee on Financial Services. H. Rept. 119-709, Part I.",
       "date": "2026-06-24T04:00:00+00:00",
@@ -489,6 +529,30 @@
       "organization_id": null
     },
     {
+      "name": "Dave Min",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Dave Min\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Brett Guthrie",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Brett Guthrie\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Maggie Goodlander",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Maggie Goodlander\"}",
+      "organization_id": null
+    },
+    {
       "name": "Zachary Nunn",
       "classification": "primary",
       "entity_type": "person",
@@ -608,7 +672,10 @@
       "E000300",
       "P000609",
       "A000380",
-      "O000086"
+      "O000086",
+      "M001241",
+      "G000558",
+      "G000604"
     ],
     "sponsor_bioguides": [
       "N000193"
@@ -621,7 +688,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-22T08:35:18Z",
+    "logs_latest_update": "2026-09-15T10:58:26Z",
     "text_extraction_latest_update": "2026-07-22T10:28:58.852417Z"
   }
 }

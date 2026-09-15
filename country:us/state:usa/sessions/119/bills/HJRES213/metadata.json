@@ -16,6 +16,16 @@
   ],
   "actions": [
     {
+      "description": "Rules Committee Resolution H. Res. 1530 Reported to House. Rule provides for consideration of H.R. 9576, H.R. 10326, H.J. Res. 210 and H.J. Res. 213. The resolution provides for consideration of H.R. 9576, H.R. 10326, H.J.Res. 210, and H.J.Res. 213 under a closed rule with one hour of debate on each measure. The resolution provides for a motion to concur in the Senate amendments to H.R. 5334.",
+      "date": "2026-09-15T00:46:32+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-15T10:58:26Z"
+      }
+    },
+    {
       "description": "Referred to the House Committee on Energy and Commerce.",
       "date": "2026-08-10T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -50,6 +60,38 @@
       "organization_id": null
     },
     {
+      "name": "Randy K. Weber",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Randy K. Weber\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Ken Calvert",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Ken Calvert\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Mike Ezell",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Mike Ezell\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Scott Perry",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Scott Perry\"}",
+      "organization_id": null
+    },
+    {
       "name": "James Gallagher",
       "classification": "primary",
       "entity_type": "person",
@@ -58,7 +100,18 @@
       "organization_id": null
     }
   ],
-  "related_bills": [],
+  "related_bills": [
+    {
+      "identifier": "HRES 1530",
+      "legislative_session": "119",
+      "relation_type": "companion"
+    },
+    {
+      "identifier": "SJRES 210",
+      "legislative_session": "119",
+      "relation_type": "companion"
+    }
+  ],
   "versions": [
     {
       "note": "Introduced in House",
@@ -90,7 +143,11 @@
   ],
   "extras": {
     "cosponsor_bioguides": [
-      "F000480"
+      "F000480",
+      "W000814",
+      "C000059",
+      "E000235",
+      "P000605"
     ],
     "sponsor_bioguides": [
       "G000607"
@@ -103,7 +160,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-12T07:38:32Z",
+    "logs_latest_update": "2026-09-15T10:58:26Z",
     "text_extraction_latest_update": "2026-08-12T07:40:23.739075Z"
   }
 }

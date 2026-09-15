@@ -21,6 +21,46 @@
   ],
   "actions": [
     {
+      "description": "At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.",
+      "date": "2026-09-15T00:02:35+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-15T10:58:27Z"
+      }
+    },
+    {
+      "description": "DEBATE - The House proceeded with forty minutes of debate on H.R. 8278.",
+      "date": "2026-09-14T23:44:10+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-15T10:58:27Z"
+      }
+    },
+    {
+      "description": "Considered under suspension of the rules.",
+      "date": "2026-09-14T23:44:08+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-15T10:58:27Z"
+      }
+    },
+    {
+      "description": "Ms. De La Cruz moved to suspend the rules and pass the bill, as amended.",
+      "date": "2026-09-14T23:44:02+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-15T10:58:27Z"
+      }
+    },
+    {
       "description": "Placed on the Union Calendar, Calendar No. 617.",
       "date": "2026-06-24T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -138,6 +178,17 @@
   ],
   "documents": [
     {
+      "note": "CBO: H.R. 8278, Fostering the Use of Technology to Uphold Regulatory Effectiveness in Supervision Act",
+      "links": [
+        {
+          "url": "https://www.cbo.gov/publication/62736",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "H. Rept. 119-711",
       "links": [
         {
@@ -175,7 +226,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-22T08:35:12Z",
+    "logs_latest_update": "2026-09-15T10:58:27Z",
     "text_extraction_latest_update": "2026-07-22T16:47:02.825540Z"
   }
 }

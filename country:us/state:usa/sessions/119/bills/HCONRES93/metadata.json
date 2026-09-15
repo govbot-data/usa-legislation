@@ -16,6 +16,66 @@
   ],
   "actions": [
     {
+      "description": "POSTPONED PROCEEDINGS - At the conclusion of debate on H. Con. Res. 93, the Chair put the question on agreeing to the resolution and by voice vote, announced the noes had prevailed. Mr. Moulton demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.",
+      "date": "2026-09-15T01:12:42+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-15T10:58:28Z"
+      }
+    },
+    {
+      "description": "The previous question was ordered pursuant to a previous order of the House.",
+      "date": "2026-09-15T01:11:50+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-15T10:58:28Z"
+      }
+    },
+    {
+      "description": "DEBATE - The House proceeded with one hour of debate on H. Con. Res. 93.",
+      "date": "2026-09-15T00:20:52+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-15T10:58:28Z"
+      }
+    },
+    {
+      "description": "Considered pursuant to a previous order of the House",
+      "date": "2026-09-15T00:20:48+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-15T10:58:28Z"
+      }
+    },
+    {
+      "description": "Consideration initiated pursuant to a previous order of the House.",
+      "date": "2026-09-15T00:20:29+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-15T10:58:28Z"
+      }
+    },
+    {
+      "description": "ORDER OF PROCEDURE - Mr. Mast asked unanimous consent that, it be in order at any time to consider H. Con. Res. 93 in the House if called up by the chair of the Committee on Foreign Affairs or his designee; that the concurrent resolution be considered as read; and that the previous question be considered as ordered on the concurrent resolution to adoption without intervening motion except for one hour of debate equally divided and controlled by Representative Mast of Florida and Representative Moulton of Massachusetts or their respective designees. Agreed to without objection.",
+      "date": "2026-09-15T00:13:19+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-15T10:58:28Z"
+      }
+    },
+    {
       "description": "Referred to the House Committee on Foreign Affairs.",
       "date": "2026-04-28T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -144,6 +204,14 @@
       "organization_id": null
     },
     {
+      "name": "Mike Quigley",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Mike Quigley\"}",
+      "organization_id": null
+    },
+    {
       "name": "Seth Moulton",
       "classification": "primary",
       "entity_type": "person",
@@ -217,7 +285,8 @@
       "T000460",
       "C001112",
       "T000491",
-      "G000592"
+      "G000592",
+      "Q000023"
     ],
     "sponsor_bioguides": [
       "M001196"
@@ -230,7 +299,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-22T08:34:56Z",
+    "logs_latest_update": "2026-09-15T10:58:28Z",
     "text_extraction_latest_update": "2026-07-22T18:13:42.677712Z"
   }
 }

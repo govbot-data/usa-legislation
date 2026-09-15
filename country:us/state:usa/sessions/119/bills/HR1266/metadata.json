@@ -21,6 +21,36 @@
   ],
   "actions": [
     {
+      "description": "Placed on the Union Calendar, Calendar No. 715.",
+      "date": "2026-09-14T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-15T10:58:26Z"
+      }
+    },
+    {
+      "description": "Committee on the Judiciary discharged.",
+      "date": "2026-09-14T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-15T10:58:26Z"
+      }
+    },
+    {
+      "description": "Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 119-816, Part I.",
+      "date": "2026-09-14T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-15T10:58:26Z"
+      }
+    },
+    {
       "description": "Ordered to be Reported in the Nature of a Substitute by the Yeas and Nays: 48 - 0.",
       "date": "2026-07-21T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -993,6 +1023,22 @@
       "organization_id": null
     },
     {
+      "name": "Maggie Goodlander",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Maggie Goodlander\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Steven Horsford",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Steven Horsford\"}",
+      "organization_id": null
+    },
+    {
       "name": "Jimmy Panetta",
       "classification": "primary",
       "entity_type": "person",
@@ -1150,7 +1196,9 @@
       "G000601",
       "D000594",
       "P000608",
-      "T000468"
+      "T000468",
+      "G000604",
+      "H001066"
     ],
     "sponsor_bioguides": [
       "P000613"
@@ -1163,7 +1211,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-09T06:21:09Z",
+    "logs_latest_update": "2026-09-15T10:58:26Z",
     "text_extraction_latest_update": "2026-08-09T06:35:54.062438Z"
   }
 }
