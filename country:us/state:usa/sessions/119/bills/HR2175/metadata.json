@@ -21,6 +21,26 @@
   ],
   "actions": [
     {
+      "description": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 598.",
+      "date": "2026-09-14T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-16T10:40:46Z"
+      }
+    },
+    {
+      "description": "Committee on Homeland Security and Governmental Affairs. Reported by Senator Paul without amendment. Without written report.",
+      "date": "2026-09-14T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-16T10:40:46Z"
+      }
+    },
+    {
       "description": "Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.",
       "date": "2026-08-06T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -626,6 +646,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "CBO: H.R. 2175, a bill to designate the facility of the United States Postal Service located at 130 South Patterson Avenue in Santa Barbara, California, as the &quot;Brigadier General Frederick R. Lopez Post Office Building&quot;",
+      "links": [
+        {
+          "url": "https://www.cbo.gov/publication/62656",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "citations": [],
@@ -704,7 +735,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-09T06:21:06Z",
+    "logs_latest_update": "2026-09-16T10:40:46Z",
     "text_extraction_latest_update": "2026-08-09T06:35:54.052077Z"
   }
 }

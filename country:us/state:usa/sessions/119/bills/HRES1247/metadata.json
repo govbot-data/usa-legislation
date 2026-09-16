@@ -16,6 +16,16 @@
   ],
   "actions": [
     {
+      "description": "Motion to discharge the Committee on Rules filed by Mr. Takano. Assigned to the Discharge Calendar, Calendar No. 8.",
+      "date": "2026-09-15T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-16T10:40:47Z"
+      }
+    },
+    {
       "description": "Motion to Discharge Committee filed by Mr. Takano. Petition No: 119-22. (<a href=\"https://clerk.house.gov/DischargePetition/2026052122\">Discharge petition</a> text with signatures.)",
       "date": "2026-05-21T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -120,7 +130,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-22T08:35:09Z",
+    "logs_latest_update": "2026-09-16T10:40:47Z",
     "text_extraction_latest_update": "2026-07-22T15:06:52.730778Z"
   }
 }

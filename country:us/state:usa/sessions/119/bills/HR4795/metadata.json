@@ -25,6 +25,16 @@
   ],
   "actions": [
     {
+      "description": "Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.",
+      "date": "2026-09-14T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-16T10:40:50Z"
+      }
+    },
+    {
       "description": "Motion to reconsider laid on the table Agreed to without objection.",
       "date": "2026-09-03T14:25:43+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -35,13 +45,13 @@
       }
     },
     {
-      "description": "On passage Passed by the Yeas and Nays: 237 - 169 (Roll no. 295).",
+      "description": "On passage Passed by the Yeas and Nays: 237 - 169 (Roll no. 295). (text: CR H5483)",
       "date": "2026-09-03T14:25:40+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-09-04T10:16:12Z"
+        "log_file_created": "2026-09-16T10:40:50Z"
       }
     },
     {
@@ -87,13 +97,13 @@
       }
     },
     {
-      "description": "Considered under the provisions of rule H. Res. 1499.",
+      "description": "Considered under the provisions of rule H. Res. 1499. (consideration: CR H5483-5488)",
       "date": "2026-09-03T13:14:52+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-09-04T10:16:12Z"
+        "log_file_created": "2026-09-16T10:40:50Z"
       }
     },
     {
@@ -255,6 +265,17 @@
   ],
   "documents": [
     {
+      "note": "HAMDT 271",
+      "links": [
+        {
+          "url": "https://www.congress.gov/amendment/119th-congress/house-amendment/271",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "CBO: H.R. 4795, Protect Economic and Academic Freedom Act of 2026",
       "links": [
         {
@@ -303,7 +324,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-09-04T10:16:12Z",
+    "logs_latest_update": "2026-09-16T10:40:50Z",
     "text_extraction_latest_update": "2026-09-04T10:18:19.846217Z"
   }
 }

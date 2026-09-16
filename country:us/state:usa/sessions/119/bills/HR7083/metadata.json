@@ -25,6 +25,26 @@
   ],
   "actions": [
     {
+      "description": "Placed on the Union Calendar, Calendar No. 729.",
+      "date": "2026-09-15T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-16T10:40:47Z"
+      }
+    },
+    {
+      "description": "Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 119-832.",
+      "date": "2026-09-15T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-16T10:40:47Z"
+      }
+    },
+    {
       "description": "Ordered to be Reported in the Nature of a Substitute by Voice Vote.",
       "date": "2026-05-14T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -183,7 +203,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-22T08:35:12Z",
+    "logs_latest_update": "2026-09-16T10:40:47Z",
     "text_extraction_latest_update": "2026-07-22T12:19:00.173280Z"
   }
 }

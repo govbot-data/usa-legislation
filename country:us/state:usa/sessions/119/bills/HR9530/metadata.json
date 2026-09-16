@@ -21,6 +21,46 @@
   ],
   "actions": [
     {
+      "description": "Ordered to be Reported (Amended) by Voice Vote.",
+      "date": "2026-09-15T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-16T10:40:49Z"
+      }
+    },
+    {
+      "description": "Committee Consideration and Mark-up Session Held",
+      "date": "2026-09-15T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-16T10:40:49Z"
+      }
+    },
+    {
+      "description": "Subcommittee on Aviation Discharged",
+      "date": "2026-09-15T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-16T10:40:49Z"
+      }
+    },
+    {
+      "description": "Referred to the Subcommittee on Aviation.",
+      "date": "2026-06-30T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-16T10:40:49Z"
+      }
+    },
+    {
       "description": "Referred to the House Committee on Transportation and Infrastructure.",
       "date": "2026-06-29T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -71,6 +111,22 @@
       "organization_id": null
     },
     {
+      "name": "Michael Lawler",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Michael Lawler\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Brian K. Fitzpatrick",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Brian K. Fitzpatrick\"}",
+      "organization_id": null
+    },
+    {
       "name": "Hillary J. Scholten",
       "classification": "primary",
       "entity_type": "person",
@@ -113,7 +169,9 @@
     "cosponsor_bioguides": [
       "C001087",
       "S001211",
-      "B001327"
+      "B001327",
+      "L000599",
+      "F000466"
     ],
     "sponsor_bioguides": [
       "S001221"
@@ -126,7 +184,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-22T08:35:13Z",
+    "logs_latest_update": "2026-09-16T10:40:49Z",
     "text_extraction_latest_update": "2026-07-22T19:39:40.399328Z"
   }
 }

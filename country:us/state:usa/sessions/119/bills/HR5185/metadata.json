@@ -16,6 +16,16 @@
   ],
   "actions": [
     {
+      "description": "Received in the Senate and Read twice and referred to the Committee on the Judiciary.",
+      "date": "2026-09-14T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-16T10:40:47Z"
+      }
+    },
+    {
       "description": "Motion to reconsider laid on the table Agreed to without objection.",
       "date": "2026-08-31T21:33:22+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -26,7 +36,7 @@
       }
     },
     {
-      "description": "On motion to suspend the rules and pass the bill Agreed to by voice vote.",
+      "description": "On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5304-5319)",
       "date": "2026-08-31T21:33:20+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
@@ -34,7 +44,7 @@
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-09-01T11:36:38Z"
+        "log_file_created": "2026-09-16T10:40:47Z"
       }
     },
     {
@@ -60,13 +70,13 @@
       }
     },
     {
-      "description": "Considered under suspension of the rules.",
+      "description": "Considered under suspension of the rules. (consideration: CR H5304-5319)",
       "date": "2026-08-31T21:31:20+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-09-01T11:36:38Z"
+        "log_file_created": "2026-09-16T10:40:47Z"
       }
     },
     {
@@ -173,7 +183,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-09-01T11:36:38Z",
+    "logs_latest_update": "2026-09-16T10:40:47Z",
     "text_extraction_latest_update": "2026-09-15T16:06:57.621296Z"
   }
 }

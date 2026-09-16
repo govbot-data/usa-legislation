@@ -21,6 +21,26 @@
   ],
   "actions": [
     {
+      "description": "Placed on the Union Calendar, Calendar No. 728.",
+      "date": "2026-09-15T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-16T10:40:46Z"
+      }
+    },
+    {
+      "description": "Reported by the Committee on Homeland Security. H. Rept. 119-830.",
+      "date": "2026-09-15T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-16T10:40:46Z"
+      }
+    },
+    {
       "description": "Ordered to be Reported by the Yeas and Nays: 28 - 2.",
       "date": "2026-06-24T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -295,6 +315,14 @@
       "organization_id": null
     },
     {
+      "name": "Chris Pappas",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Chris Pappas\"}",
+      "organization_id": null
+    },
+    {
       "name": "Nicholas A. Langworthy",
       "classification": "primary",
       "entity_type": "person",
@@ -321,7 +349,19 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "CBO: H.R. 5517, Northern Border Security Enhancement and Review Act",
+      "links": [
+        {
+          "url": "https://www.cbo.gov/publication/62608",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -360,7 +400,8 @@
       "F000469",
       "F000482",
       "F000472",
-      "M001230"
+      "M001230",
+      "P000614"
     ],
     "sponsor_bioguides": [
       "L000600"
@@ -373,7 +414,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-22T08:35:00Z",
+    "logs_latest_update": "2026-09-16T10:40:46Z",
     "text_extraction_latest_update": "2026-07-22T10:53:28.340090Z"
   }
 }

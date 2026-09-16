@@ -1,7 +1,7 @@
 {
   "legislative_session": "119",
   "identifier": "HR 6048",
-  "title": "NDO Fairness Act",
+  "title": "NDO Fairness Act of 2025",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -9,6 +9,10 @@
   "subject": [],
   "abstracts": [],
   "other_titles": [
+    {
+      "note": "",
+      "title": "NDO Fairness Act"
+    },
     {
       "note": "",
       "title": "To amend title 18, United States Code, to modify delayed notice requirements, and for other purposes."
@@ -21,6 +25,16 @@
   ],
   "actions": [
     {
+      "description": "Received in the Senate and Read twice and referred to the Committee on the Judiciary.",
+      "date": "2026-09-14T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-16T10:40:47Z"
+      }
+    },
+    {
       "description": "Motion to reconsider laid on the table Agreed to without objection.",
       "date": "2026-08-31T20:29:18+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -31,7 +45,7 @@
       }
     },
     {
-      "description": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.",
+      "description": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5266-5267)",
       "date": "2026-08-31T20:29:11+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
@@ -39,7 +53,7 @@
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-09-01T11:36:40Z"
+        "log_file_created": "2026-09-16T10:40:47Z"
       }
     },
     {
@@ -65,13 +79,13 @@
       }
     },
     {
-      "description": "Considered under suspension of the rules.",
+      "description": "Considered under suspension of the rules. (consideration: CR H5266-5268)",
       "date": "2026-08-31T20:16:24+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-09-01T11:36:40Z"
+        "log_file_created": "2026-09-16T10:40:47Z"
       }
     },
     {
@@ -156,6 +170,21 @@
   ],
   "versions": [
     {
+      "note": "Engrossed in House",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr6048eh/xml/BILLS-119hr6048eh.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr6048eh/pdf/BILLS-119hr6048eh.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-31",
+      "classification": ""
+    },
+    {
       "note": "Introduced in House",
       "links": [
         {
@@ -198,7 +227,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-09-01T11:36:40Z",
+    "logs_latest_update": "2026-09-16T10:40:47Z",
     "text_extraction_latest_update": "2026-09-01T11:38:31.070184Z"
   }
 }

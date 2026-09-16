@@ -11,11 +11,11 @@
   "other_titles": [
     {
       "note": "",
-      "title": "To establish a program for the recovery of critical materials from contaminated sites, and for other purposes."
+      "title": "Environmental Monitoring and Remediation Technology Assessment Initiative Authorization Act of 2026"
     },
     {
       "note": "",
-      "title": "Environmental Monitoring and Remediation Technology Assessment Initiative Authorization Act of 2026"
+      "title": "To establish a program for the recovery of critical materials from contaminated sites, and for other purposes."
     }
   ],
   "other_identifiers": [
@@ -24,6 +24,70 @@
     }
   ],
   "actions": [
+    {
+      "description": "Motion to reconsider laid on the table Agreed to without objection.",
+      "date": "2026-09-16T00:26:40+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-16T10:40:49Z"
+      }
+    },
+    {
+      "description": "On motion to suspend the rules and pass the bill Agreed to by voice vote.",
+      "date": "2026-09-16T00:26:25+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-16T10:40:49Z"
+      }
+    },
+    {
+      "description": "Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.",
+      "date": "2026-09-16T00:26:25+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-16T10:40:49Z"
+      }
+    },
+    {
+      "description": "DEBATE - The House proceeded with forty minutes of debate on H.R. 9616.",
+      "date": "2026-09-16T00:19:56+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-16T10:40:49Z"
+      }
+    },
+    {
+      "description": "Considered under suspension of the rules.",
+      "date": "2026-09-16T00:19:55+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-16T10:40:49Z"
+      }
+    },
+    {
+      "description": "Mr. Guthrie moved to suspend the rules and pass the bill.",
+      "date": "2026-09-16T00:19:43+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-16T10:40:49Z"
+      }
+    },
     {
       "description": "Placed on the Union Calendar, Calendar No. 720.",
       "date": "2026-09-14T04:00:00+00:00",
@@ -140,6 +204,21 @@
   "related_bills": [],
   "versions": [
     {
+      "note": "Reported in House",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr9616rh/xml/BILLS-119hr9616rh.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr9616rh/pdf/BILLS-119hr9616rh.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-09-14",
+      "classification": ""
+    },
+    {
       "note": "Introduced in House",
       "links": [
         {
@@ -182,7 +261,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-09-15T10:58:28Z",
+    "logs_latest_update": "2026-09-16T10:40:49Z",
     "text_extraction_latest_update": "2026-09-15T11:00:51.645417Z"
   }
 }

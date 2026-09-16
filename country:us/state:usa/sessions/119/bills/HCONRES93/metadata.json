@@ -16,6 +16,48 @@
   ],
   "actions": [
     {
+      "description": "Motion to reconsider laid on the table Agreed to without objection.",
+      "date": "2026-09-16T02:32:09+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-16T10:40:46Z"
+      }
+    },
+    {
+      "description": "On agreeing to the resolution Agreed to by the Yeas and Nays: 220 - 204 (Roll no. 307).",
+      "date": "2026-09-16T02:32:08+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-16T10:40:46Z"
+      }
+    },
+    {
+      "description": "Passed/agreed to in House: On agreeing to the resolution Agreed to by the Yeas and Nays: 220 - 204 (Roll no. 307).",
+      "date": "2026-09-16T02:32:08+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-16T10:40:46Z"
+      }
+    },
+    {
+      "description": "Considered as unfinished business.",
+      "date": "2026-09-16T02:22:09+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-16T10:40:46Z"
+      }
+    },
+    {
       "description": "POSTPONED PROCEEDINGS - At the conclusion of debate on H. Con. Res. 93, the Chair put the question on agreeing to the resolution and by voice vote, announced the noes had prevailed. Mr. Moulton demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.",
       "date": "2026-09-15T01:12:42+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -232,6 +274,16 @@
       "relation_type": "companion"
     },
     {
+      "identifier": "HCONRES 75",
+      "legislative_session": "119",
+      "relation_type": "companion"
+    },
+    {
+      "identifier": "HCONRES 89",
+      "legislative_session": "119",
+      "relation_type": "companion"
+    },
+    {
       "identifier": "HCONRES 103",
       "legislative_session": "119",
       "relation_type": "companion"
@@ -299,7 +351,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-09-15T10:58:28Z",
+    "logs_latest_update": "2026-09-16T10:40:46Z",
     "text_extraction_latest_update": "2026-09-15T11:00:30.743511Z"
   }
 }

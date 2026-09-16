@@ -16,6 +16,56 @@
   ],
   "actions": [
     {
+      "description": "Motion to reconsider laid on the table Agreed to without objection.",
+      "date": "2026-09-15T20:47:05+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-16T10:40:49Z"
+      }
+    },
+    {
+      "description": "On motion to table Agreed to by the Yeas and Nays: 232 - 147, 47 Present (Roll no. 298).",
+      "date": "2026-09-15T20:47:01+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-16T10:40:49Z"
+      }
+    },
+    {
+      "description": "Mr. Fry moved to table the measure.",
+      "date": "2026-09-15T20:12:21+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-16T10:40:49Z"
+      }
+    },
+    {
+      "description": "Considered as privileged matter.",
+      "date": "2026-09-15T20:12:01+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-16T10:40:49Z"
+      }
+    },
+    {
+      "description": "QUESTION OF THE PRIVILEGES OF THE HOUSE - Mr. Green (TX) rose to a question of the privileges of the House and offered the resolution. The Chair directed the Clerk to report the resolution. Upon examination of the resolution, the Chair determined that the resolution did constitute a question of the privileges of the House.",
+      "date": "2026-09-15T19:46:13+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-16T10:40:49Z"
+      }
+    },
+    {
       "description": "NOTIFICATION OF INTENT TO OFFER RESOLUTION - Mr. Green (TX) notified the House of his intent to offer a privileged resolution pursuant to clause 2(a)(1) of rule IX. The Chair announced that a determination will be made at the time designated for consideration of the resolution.",
       "date": "2026-09-14T18:05:11+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -103,7 +153,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-09-15T10:58:28Z",
+    "logs_latest_update": "2026-09-16T10:40:49Z",
     "text_extraction_latest_update": "2026-09-15T11:00:30.846935Z"
   }
 }

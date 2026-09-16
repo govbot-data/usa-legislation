@@ -11,7 +11,19 @@
   "other_titles": [
     {
       "note": "",
+      "title": "Shipbuilding and Harbor Infrastructure for Prosperity and Security for America Act of 2026"
+    },
+    {
+      "note": "",
       "title": "To authorize appropriations for fiscal year 2027 for military activities of the Department of Defense, for military construction, and for defense activities of the Department of Energy, to prescribe military personnel strengths for such fiscal year, and for other purposes."
+    },
+    {
+      "note": "",
+      "title": "Military Chaplains Modernization Act of 2026"
+    },
+    {
+      "note": "",
+      "title": "SHIPS for America Act of 2026"
     }
   ],
   "other_identifiers": [
@@ -20,6 +32,16 @@
     }
   ],
   "actions": [
+    {
+      "description": "Received in the Senate.",
+      "date": "2026-09-14T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-16T10:40:46Z"
+      }
+    },
     {
       "description": "Motion to reconsider laid on the table Agreed to without objection.",
       "date": "2026-07-22T20:38:33+00:00",
@@ -777,6 +799,11 @@
   ],
   "related_bills": [
     {
+      "identifier": "HR 10130",
+      "legislative_session": "119",
+      "relation_type": "companion"
+    },
+    {
       "identifier": "HR 9153",
       "legislative_session": "119",
       "relation_type": "companion"
@@ -927,6 +954,11 @@
       "relation_type": "companion"
     },
     {
+      "identifier": "HR 9909",
+      "legislative_session": "119",
+      "relation_type": "companion"
+    },
+    {
       "identifier": "HR 9046",
       "legislative_session": "119",
       "relation_type": "companion"
@@ -942,6 +974,16 @@
       "relation_type": "companion"
     },
     {
+      "identifier": "HR 9863",
+      "legislative_session": "119",
+      "relation_type": "companion"
+    },
+    {
+      "identifier": "S 5348",
+      "legislative_session": "119",
+      "relation_type": "companion"
+    },
+    {
       "identifier": "HRES 1438",
       "legislative_session": "119",
       "relation_type": "companion"
@@ -952,12 +994,32 @@
       "relation_type": "companion"
     },
     {
+      "identifier": "HR 10126",
+      "legislative_session": "119",
+      "relation_type": "companion"
+    },
+    {
       "identifier": "HR 9794",
       "legislative_session": "119",
       "relation_type": "companion"
     }
   ],
   "versions": [
+    {
+      "note": "Engrossed in House",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr8800eh/xml/BILLS-119hr8800eh.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr8800eh/pdf/BILLS-119hr8800eh.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-07-22",
+      "classification": ""
+    },
     {
       "note": "Reported in House",
       "links": [
@@ -1325,7 +1387,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-09T06:21:06Z",
+    "logs_latest_update": "2026-09-16T10:40:46Z",
     "text_extraction_latest_update": "2026-08-09T06:35:39.066765Z"
   }
 }

@@ -21,6 +21,26 @@
   ],
   "actions": [
     {
+      "description": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 554.",
+      "date": "2026-09-14T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-16T10:40:50Z"
+      }
+    },
+    {
+      "description": "Committee on Indian Affairs. Reported by Senator Armstrong for Senator Murkowski without amendment. With written report No. 119-135.",
+      "date": "2026-09-14T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-16T10:40:50Z"
+      }
+    },
+    {
       "description": "Committee on Indian Affairs. Ordered to be reported without amendment favorably.",
       "date": "2026-05-20T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -105,7 +125,19 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "CBO: S. 1513, Lower Elwha Klallam Tribe Project Lands Restoration Act",
+      "links": [
+        {
+          "url": "https://www.cbo.gov/publication/62699",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -132,7 +164,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-22T08:35:09Z",
+    "logs_latest_update": "2026-09-16T10:40:50Z",
     "text_extraction_latest_update": "2026-07-22T09:23:23.387489Z"
   }
 }
