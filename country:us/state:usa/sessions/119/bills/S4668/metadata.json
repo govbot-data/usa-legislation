@@ -21,6 +21,26 @@
   ],
   "actions": [
     {
+      "description": "Motion to proceed to measure considered in Senate.",
+      "date": "2026-09-16T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-17T13:14:43Z"
+      }
+    },
+    {
+      "description": "Cloture on the motion to proceed to the measure invoked in Senate by Yea-Nay Vote. 74 - 24. Record Vote Number: 235.",
+      "date": "2026-09-15T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-17T13:14:43Z"
+      }
+    },
+    {
       "description": "Cloture motion on the motion to proceed to the measure presented in Senate. (CR S4449)",
       "date": "2026-08-05T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -151,6 +171,22 @@
       "organization_id": null
     },
     {
+      "name": "John Hoeven",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"John Hoeven\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Ben R. Luj\u00e1n",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Ben R. Luj\\u00e1n\"}",
+      "organization_id": null
+    },
+    {
       "name": "Ted Cruz",
       "classification": "primary",
       "entity_type": "person",
@@ -199,6 +235,39 @@
     }
   ],
   "documents": [
+    {
+      "note": "SAMDT 6774",
+      "links": [
+        {
+          "url": "https://www.congress.gov/amendment/119th-congress/senate-amendment/6774",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "SAMDT 6773",
+      "links": [
+        {
+          "url": "https://www.congress.gov/amendment/119th-congress/senate-amendment/6773",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "SAMDT 6770",
+      "links": [
+        {
+          "url": "https://www.congress.gov/amendment/119th-congress/senate-amendment/6770",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
     {
       "note": "SAMDT 6768",
       "links": [
@@ -384,7 +453,9 @@
       "W000800",
       "C001047",
       "H000273",
-      "R000618"
+      "R000618",
+      "H001061",
+      "L000570"
     ],
     "sponsor_bioguides": [
       "C001098"
@@ -397,7 +468,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-09T06:21:08Z",
+    "logs_latest_update": "2026-09-17T13:14:43Z",
     "text_extraction_latest_update": "2026-08-09T06:43:28.123929Z"
   }
 }

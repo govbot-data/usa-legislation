@@ -21,6 +21,36 @@
   ],
   "actions": [
     {
+      "description": "Ordered to be Reported in the Nature of a Substitute by Unanimous Consent.",
+      "date": "2026-09-15T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-17T13:14:44Z"
+      }
+    },
+    {
+      "description": "Committee Consideration and Mark-up Session Held",
+      "date": "2026-09-15T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-17T13:14:44Z"
+      }
+    },
+    {
+      "description": "Subcommittee on Water, Wildlife and Fisheries Discharged",
+      "date": "2026-09-15T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-17T13:14:44Z"
+      }
+    },
+    {
       "description": "Subcommittee Hearings Held",
       "date": "2026-04-16T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -99,6 +129,14 @@
       "organization_id": null
     },
     {
+      "name": "Ronny Jackson",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Ronny Jackson\"}",
+      "organization_id": null
+    },
+    {
       "name": "Tim Walberg",
       "classification": "primary",
       "entity_type": "person",
@@ -142,7 +180,8 @@
       "E000235",
       "T000478",
       "L000600",
-      "J000307"
+      "J000307",
+      "J000304"
     ],
     "sponsor_bioguides": [
       "W000798"
@@ -155,7 +194,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-22T08:34:59Z",
+    "logs_latest_update": "2026-09-17T13:14:44Z",
     "text_extraction_latest_update": "2026-07-22T10:27:58.110087Z"
   }
 }

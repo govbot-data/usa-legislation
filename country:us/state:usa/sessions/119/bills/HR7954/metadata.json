@@ -21,6 +21,36 @@
   ],
   "actions": [
     {
+      "description": "Ordered to be Reported by Unanimous Consent.",
+      "date": "2026-09-15T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-17T13:14:42Z"
+      }
+    },
+    {
+      "description": "Committee Consideration and Mark-up Session Held",
+      "date": "2026-09-15T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-17T13:14:42Z"
+      }
+    },
+    {
+      "description": "Subcommittee on Indian and Insular Affairs Discharged",
+      "date": "2026-09-15T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-17T13:14:42Z"
+      }
+    },
+    {
       "description": "Subcommittee Hearings Held",
       "date": "2026-05-21T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -163,6 +193,30 @@
       "organization_id": null
     },
     {
+      "name": "Mike Thompson",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Mike Thompson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Zoe Lofgren",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Zoe Lofgren\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jahana Hayes",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jahana Hayes\"}",
+      "organization_id": null
+    },
+    {
       "name": "Jeff Hurd",
       "classification": "primary",
       "entity_type": "person",
@@ -220,7 +274,10 @@
       "Z000018",
       "V000136",
       "W000829",
-      "C001119"
+      "C001119",
+      "T000460",
+      "L000397",
+      "H001081"
     ],
     "sponsor_bioguides": [
       "H001100"
@@ -233,7 +290,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-22T08:34:56Z",
+    "logs_latest_update": "2026-09-17T13:14:42Z",
     "text_extraction_latest_update": "2026-07-22T08:55:46.918801Z"
   }
 }

@@ -21,6 +21,36 @@
   ],
   "actions": [
     {
+      "description": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 619.",
+      "date": "2026-09-16T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-17T13:14:43Z"
+      }
+    },
+    {
+      "description": "Committee on Environment and Public Works. Reported by Senator Capito with an amendment in the nature of a substitute. Without written report.",
+      "date": "2026-09-16T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-17T13:14:43Z"
+      }
+    },
+    {
+      "description": "Committee on Environment and Public Works. Ordered to be reported with an amendment in the nature of a substitute favorably.",
+      "date": "2026-09-16T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-17T13:14:43Z"
+      }
+    },
+    {
       "description": "Committee on Environment and Public Works. Hearings held.",
       "date": "2026-03-11T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -140,7 +170,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-22T08:35:14Z",
+    "logs_latest_update": "2026-09-17T13:14:43Z",
     "text_extraction_latest_update": "2026-07-22T10:35:01.114605Z"
   }
 }

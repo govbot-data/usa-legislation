@@ -1,0 +1,110 @@
+{
+  "legislative_session": "119",
+  "identifier": "HRES 1543",
+  "title": "Recommending that the House of Representatives find Leon D. Black in contempt of Congress for refusal to comply with subpoenas duly issued by the Committee on Oversight and Government Reform.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "resolution"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-us-119-hres1543"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Motion to reconsider laid on the table Agreed to without objection.",
+      "date": "2026-09-16T18:36:42+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-17T13:14:46Z"
+      }
+    },
+    {
+      "description": "On agreeing to the resolution Agreed to without objection.",
+      "date": "2026-09-16T18:36:40+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-17T13:14:46Z"
+      }
+    },
+    {
+      "description": "Passed/agreed to in House: On agreeing to the resolution Agreed to without objection.",
+      "date": "2026-09-16T18:36:40+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-17T13:14:46Z"
+      }
+    },
+    {
+      "description": "Mr. Comer asked unanimous consent to call up H. Res. 1543 and asked for its immediate consideration.",
+      "date": "2026-09-16T18:35:45+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-17T13:14:46Z"
+      }
+    },
+    {
+      "description": "Considered by unanimous consent.",
+      "date": "2026-09-16T18:35:45+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-17T13:14:46Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "James Comer",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"James Comer\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hres/BILLSTATUS-119hres1543.xml",
+      "note": ""
+    },
+    {
+      "url": "https://congress.gov/bill/119th-congress/house-resolution/1543",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "cosponsor_bioguides": [],
+    "sponsor_bioguides": [
+      "C001108"
+    ]
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/government",
+    "name": "United States",
+    "classification": "country",
+    "division_id": "ocd-division/country:us"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-09-17T13:14:46Z"
+  }
+}

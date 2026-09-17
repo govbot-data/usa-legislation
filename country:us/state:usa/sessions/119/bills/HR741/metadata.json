@@ -11,6 +11,10 @@
   "other_titles": [
     {
       "note": "",
+      "title": "To redesignate the position of Director of the Indian Health Service within the Department of Health and Human Services as Assistant Secretary for Indian Health, and for other purposes."
+    },
+    {
+      "note": "",
       "title": "To elevate the position of Director of the Indian Health Service within the Department of Health and Human Services to Assistant Secretary for Indian Health, and for other purposes."
     }
   ],
@@ -20,6 +24,16 @@
     }
   ],
   "actions": [
+    {
+      "description": "Received in the Senate and Read twice and referred to the Committee on Indian Affairs.",
+      "date": "2026-09-15T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-17T13:14:43Z"
+      }
+    },
     {
       "description": "The title of the measure was amended. Agreed to without objection.",
       "date": "2026-09-14T20:34:00+00:00",
@@ -41,7 +55,7 @@
       }
     },
     {
-      "description": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.",
+      "description": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5568)",
       "date": "2026-09-14T20:33:56+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
@@ -49,7 +63,7 @@
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-09-15T10:58:26Z"
+        "log_file_created": "2026-09-17T13:14:43Z"
       }
     },
     {
@@ -75,13 +89,13 @@
       }
     },
     {
-      "description": "Considered under suspension of the rules.",
+      "description": "Considered under suspension of the rules. (consideration: CR H5568-5570)",
       "date": "2026-09-14T20:27:55+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-09-15T10:58:26Z"
+        "log_file_created": "2026-09-17T13:14:43Z"
       }
     },
     {
@@ -247,6 +261,21 @@
   ],
   "versions": [
     {
+      "note": "Engrossed in House",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr741eh/xml/BILLS-119hr741eh.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr741eh/pdf/BILLS-119hr741eh.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-09-14",
+      "classification": ""
+    },
+    {
       "note": "Reported in House",
       "links": [
         {
@@ -318,7 +347,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-09-15T10:58:26Z",
+    "logs_latest_update": "2026-09-17T13:14:43Z",
     "text_extraction_latest_update": "2026-09-15T11:00:28.276969Z"
   }
 }

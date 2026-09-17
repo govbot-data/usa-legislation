@@ -21,6 +21,26 @@
   ],
   "actions": [
     {
+      "description": "Ordered to be Reported in the Nature of a Substitute by the Yeas and Nays: 23 - 0.",
+      "date": "2026-09-16T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-17T13:14:43Z"
+      }
+    },
+    {
+      "description": "Committee Consideration and Mark-up Session Held",
+      "date": "2026-09-16T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-17T13:14:43Z"
+      }
+    },
+    {
       "description": "Referred to the House Committee on Small Business.",
       "date": "2025-07-22T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -151,6 +171,22 @@
       "organization_id": null
     },
     {
+      "name": "Hillary J. Scholten",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Hillary J. Scholten\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Gilbert Ray Cisneros",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Gilbert Ray Cisneros\"}",
+      "organization_id": null
+    },
+    {
       "name": "Pete Stauber",
       "classification": "primary",
       "entity_type": "person",
@@ -203,7 +239,9 @@
       "D000230",
       "L000601",
       "B001327",
-      "C001119"
+      "C001119",
+      "S001221",
+      "C001123"
     ],
     "sponsor_bioguides": [
       "S001212"
@@ -216,7 +254,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-22T08:35:08Z",
+    "logs_latest_update": "2026-09-17T13:14:43Z",
     "text_extraction_latest_update": "2026-07-22T08:44:47.142447Z"
   }
 }

@@ -21,6 +21,36 @@
   ],
   "actions": [
     {
+      "description": "Ordered to be Reported in the Nature of a Substitute by Unanimous Consent.",
+      "date": "2026-09-15T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-17T13:14:40Z"
+      }
+    },
+    {
+      "description": "Committee Consideration and Mark-up Session Held",
+      "date": "2026-09-15T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-17T13:14:40Z"
+      }
+    },
+    {
+      "description": "Subcommittee on Energy and Mineral Resources Discharged",
+      "date": "2026-09-15T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-17T13:14:40Z"
+      }
+    },
+    {
       "description": "Subcommittee Hearings Held",
       "date": "2026-07-21T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -75,6 +105,38 @@
       "organization_id": null
     },
     {
+      "name": "Susie Lee",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Susie Lee\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Stephanie I. Bice",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Stephanie I. Bice\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Charles J. \"Chuck\" Fleischmann",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Charles J. \\\"Chuck\\\" Fleischmann\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Sarah Elfreth",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Sarah Elfreth\"}",
+      "organization_id": null
+    },
+    {
       "name": "Robert J. Wittman",
       "classification": "primary",
       "entity_type": "person",
@@ -115,7 +177,11 @@
   ],
   "extras": {
     "cosponsor_bioguides": [
-      "D000624"
+      "D000624",
+      "L000590",
+      "B000740",
+      "F000459",
+      "E000301"
     ],
     "sponsor_bioguides": [
       "W000804"
@@ -128,7 +194,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-09T06:21:09Z",
+    "logs_latest_update": "2026-09-17T13:14:40Z",
     "text_extraction_latest_update": "2026-08-09T06:46:13.590752Z"
   }
 }

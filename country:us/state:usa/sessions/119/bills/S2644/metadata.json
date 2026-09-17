@@ -21,6 +21,16 @@
   ],
   "actions": [
     {
+      "description": "Committee on Energy and Natural Resources. Hearings held.",
+      "date": "2026-09-16T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-17T13:14:41Z"
+      }
+    },
+    {
       "description": "Read twice and referred to the Committee on Energy and Natural Resources.",
       "date": "2025-08-01T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -62,6 +72,11 @@
     }
   ],
   "related_bills": [
+    {
+      "identifier": "S 1071",
+      "legislative_session": "119",
+      "relation_type": "companion"
+    },
     {
       "identifier": "HR 5219",
       "legislative_session": "119",
@@ -112,7 +127,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-22T08:35:05Z",
+    "logs_latest_update": "2026-09-17T13:14:41Z",
     "text_extraction_latest_update": "2026-07-22T19:14:43.432813Z"
   }
 }

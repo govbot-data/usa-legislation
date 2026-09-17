@@ -11,11 +11,15 @@
   "other_titles": [
     {
       "note": "",
-      "title": "Archie Cavanaugh Migratory Bird Treaty Amendment Act"
+      "title": "To clarify the treatment of authentic Alaska Native articles of handicraft containing nonedible migratory bird parts under the Migratory Bird Treaty Act, and for other purposes."
     },
     {
       "note": "",
       "title": "To amend the Migratory Bird Treaty Act to clarify the treatment of authentic Alaska Native articles of handicraft containing nonedible migratory bird parts, and for other purposes."
+    },
+    {
+      "note": "",
+      "title": "Archie Cavanaugh Migratory Bird Treaty Amendment Act"
     }
   ],
   "other_identifiers": [
@@ -24,6 +28,16 @@
     }
   ],
   "actions": [
+    {
+      "description": "Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.",
+      "date": "2026-09-15T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-17T13:14:46Z"
+      }
+    },
     {
       "description": "The title of the measure was amended. Agreed to without objection.",
       "date": "2026-09-14T20:09:54+00:00",
@@ -45,7 +59,7 @@
       }
     },
     {
-      "description": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.",
+      "description": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5564-5565)",
       "date": "2026-09-14T20:09:34+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
@@ -53,7 +67,7 @@
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-09-15T10:58:26Z"
+        "log_file_created": "2026-09-17T13:14:46Z"
       }
     },
     {
@@ -79,13 +93,13 @@
       }
     },
     {
-      "description": "Considered under suspension of the rules.",
+      "description": "Considered under suspension of the rules. (consideration: CR H5564-5566)",
       "date": "2026-09-14T20:03:12+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-09-15T10:58:26Z"
+        "log_file_created": "2026-09-17T13:14:46Z"
       }
     },
     {
@@ -207,6 +221,21 @@
   ],
   "versions": [
     {
+      "note": "Engrossed in House",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr6021eh/xml/BILLS-119hr6021eh.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr6021eh/pdf/BILLS-119hr6021eh.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-09-14",
+      "classification": ""
+    },
+    {
       "note": "Reported in House",
       "links": [
         {
@@ -274,7 +303,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-09-15T10:58:26Z",
+    "logs_latest_update": "2026-09-17T13:14:46Z",
     "text_extraction_latest_update": "2026-09-15T11:00:28.264071Z"
   }
 }

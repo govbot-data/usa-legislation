@@ -1,20 +1,35 @@
 {
   "legislative_session": "119",
   "identifier": "S 5352",
-  "title": "A bill to amend the Water Infrastructure Improvements for the Nation Act and the Water Desalination Act of 1996 to reauthorize certain desalination programs, and for other purposes.",
+  "title": "Desalination Reauthorization Act",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
   ],
   "subject": [],
   "abstracts": [],
-  "other_titles": [],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "A bill to amend the Water Infrastructure Improvements for the Nation Act and the Water Desalination Act of 1996 to reauthorize certain desalination programs, and for other purposes."
+    }
+  ],
   "other_identifiers": [
     {
       "identifier": "ocd-bill-us-119-s5352"
     }
   ],
   "actions": [
+    {
+      "description": "Committee on Energy and Natural Resources. Hearings held.",
+      "date": "2026-09-16T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-17T13:14:43Z"
+      }
+    },
     {
       "description": "Read twice and referred to the Committee on Energy and Natural Resources. (Sponsor introductory remarks on measure: CR S4521)",
       "date": "2026-08-06T04:00:00+00:00",
@@ -57,7 +72,23 @@
     }
   ],
   "related_bills": [],
-  "versions": [],
+  "versions": [
+    {
+      "note": "Introduced in Senate",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119s5352is/xml/BILLS-119s5352is.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119s5352is/pdf/BILLS-119s5352is.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-06",
+      "classification": ""
+    }
+  ],
   "documents": [],
   "citations": [],
   "sources": [
@@ -85,7 +116,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-09T06:21:09Z",
+    "logs_latest_update": "2026-09-17T13:14:43Z",
     "text_extraction_latest_update": "2026-09-17T13:04:14.891819Z"
   }
 }

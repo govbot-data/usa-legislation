@@ -21,6 +21,36 @@
   ],
   "actions": [
     {
+      "description": "Ordered to be Reported in the Nature of a Substitute by the Yeas and Nays: 21 - 16.",
+      "date": "2026-09-15T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-17T13:14:45Z"
+      }
+    },
+    {
+      "description": "Committee Consideration and Mark-up Session Held",
+      "date": "2026-09-15T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-17T13:14:45Z"
+      }
+    },
+    {
+      "description": "Subcommittee on Energy and Mineral Resources Discharged",
+      "date": "2026-09-15T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-17T13:14:45Z"
+      }
+    },
+    {
       "description": "Subcommittee Hearings Held",
       "date": "2026-03-25T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -146,7 +176,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-22T08:35:15Z",
+    "logs_latest_update": "2026-09-17T13:14:45Z",
     "text_extraction_latest_update": "2026-07-23T07:20:13.142333Z"
   }
 }

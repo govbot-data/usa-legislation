@@ -11,11 +11,11 @@
   "other_titles": [
     {
       "note": "",
-      "title": "Institute for Telecommunication Sciences Codification Act"
+      "title": "A bill to amend the National Telecommunications and Information Administration Organization Act to codify the Institute for Telecommunication Sciences, to direct the Assistant Secretary of Commerce for Communications and Information to establish an initiative to support the development of emergency communication and tracking technologies, and for other purposes."
     },
     {
       "note": "",
-      "title": "A bill to amend the National Telecommunications and Information Administration Organization Act to codify the Institute for Telecommunication Sciences, to direct the Assistant Secretary of Commerce for Communications and Information to establish an initiative to support the development of emergency communication and tracking technologies, and for other purposes."
+      "title": "Institute for Telecommunication Sciences Codification Act"
     }
   ],
   "other_identifiers": [
@@ -24,6 +24,16 @@
     }
   ],
   "actions": [
+    {
+      "description": "Committee on Commerce, Science, and Transportation. Ordered to be reported with an amendment in the nature of a substitute favorably.",
+      "date": "2026-09-16T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-17T13:14:46Z"
+      }
+    },
     {
       "description": "Read twice and referred to the Committee on Commerce, Science, and Transportation.",
       "date": "2026-07-13T04:00:00+00:00",
@@ -49,6 +59,14 @@
   ],
   "sponsorships": [
     {
+      "name": "Marsha Blackburn",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Marsha Blackburn\"}",
+      "organization_id": null
+    },
+    {
       "name": "Tammy Duckworth",
       "classification": "primary",
       "entity_type": "person",
@@ -57,7 +75,13 @@
       "organization_id": null
     }
   ],
-  "related_bills": [],
+  "related_bills": [
+    {
+      "identifier": "S 3781",
+      "legislative_session": "118",
+      "relation_type": "companion"
+    }
+  ],
   "versions": [
     {
       "note": "Introduced in Senate",
@@ -88,7 +112,9 @@
     }
   ],
   "extras": {
-    "cosponsor_bioguides": [],
+    "cosponsor_bioguides": [
+      "B001243"
+    ],
     "sponsor_bioguides": [
       "D000622"
     ]
@@ -100,7 +126,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-22T08:35:01Z",
+    "logs_latest_update": "2026-09-17T13:14:46Z",
     "text_extraction_latest_update": "2026-07-22T08:57:03.983632Z"
   }
 }

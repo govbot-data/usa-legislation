@@ -21,6 +21,70 @@
   ],
   "actions": [
     {
+      "description": "Motion to reconsider laid on the table Agreed to without objection.",
+      "date": "2026-09-16T16:12:12+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-17T13:14:43Z"
+      }
+    },
+    {
+      "description": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.",
+      "date": "2026-09-16T16:12:09+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-17T13:14:43Z"
+      }
+    },
+    {
+      "description": "Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.",
+      "date": "2026-09-16T16:12:09+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-17T13:14:43Z"
+      }
+    },
+    {
+      "description": "DEBATE - The House proceeded with forty minutes of debate on H.R. 7436.",
+      "date": "2026-09-16T16:04:43+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-17T13:14:43Z"
+      }
+    },
+    {
+      "description": "Considered under suspension of the rules.",
+      "date": "2026-09-16T16:04:41+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-17T13:14:43Z"
+      }
+    },
+    {
+      "description": "Mr. Van Epps moved to suspend the rules and pass the bill, as amended.",
+      "date": "2026-09-16T16:04:26+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-17T13:14:43Z"
+      }
+    },
+    {
       "description": "Placed on the Union Calendar, Calendar No. 714.",
       "date": "2026-09-14T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -152,6 +216,36 @@
   "related_bills": [],
   "versions": [
     {
+      "note": "Engrossed in House",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr7436eh/xml/BILLS-119hr7436eh.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr7436eh/pdf/BILLS-119hr7436eh.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-09-16",
+      "classification": ""
+    },
+    {
+      "note": "Reported in House",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr7436rh/xml/BILLS-119hr7436rh.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr7436rh/pdf/BILLS-119hr7436rh.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-09-14",
+      "classification": ""
+    },
+    {
       "note": "Introduced in House",
       "links": [
         {
@@ -196,7 +290,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-09-15T10:58:28Z",
+    "logs_latest_update": "2026-09-17T13:14:43Z",
     "text_extraction_latest_update": "2026-09-15T11:00:34.417590Z"
   }
 }

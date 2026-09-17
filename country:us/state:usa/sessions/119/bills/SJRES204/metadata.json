@@ -16,6 +16,26 @@
   ],
   "actions": [
     {
+      "description": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 618.",
+      "date": "2026-09-15T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-17T13:14:41Z"
+      }
+    },
+    {
+      "description": "Senate Committee on Environment and Public Works discharged, by petition, pursuant to 5 U.S.C. 802(c).",
+      "date": "2026-09-15T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-17T13:14:41Z"
+      }
+    },
+    {
       "description": "Read twice and referred to the Committee on Environment and Public Works.",
       "date": "2026-08-03T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -45,6 +65,14 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Sheldon Whitehouse\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Ron Wyden",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Ron Wyden\"}",
       "organization_id": null
     },
     {
@@ -88,7 +116,8 @@
   ],
   "extras": {
     "cosponsor_bioguides": [
-      "W000802"
+      "W000802",
+      "W000779"
     ],
     "sponsor_bioguides": [
       "S001150"
@@ -101,7 +130,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-09T06:21:06Z",
+    "logs_latest_update": "2026-09-17T13:14:41Z",
     "text_extraction_latest_update": "2026-08-09T06:47:57.103376Z"
   }
 }

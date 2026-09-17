@@ -21,6 +21,16 @@
   ],
   "actions": [
     {
+      "description": "Committee on Energy and Natural Resources. Hearings held.",
+      "date": "2026-09-16T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-17T13:14:43Z"
+      }
+    },
+    {
       "description": "Read twice and referred to the Committee on Energy and Natural Resources.",
       "date": "2026-03-05T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -133,6 +143,14 @@
       "organization_id": null
     },
     {
+      "name": "Mark Kelly",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Mark Kelly\"}",
+      "organization_id": null
+    },
+    {
       "name": "Todd Young",
       "classification": "primary",
       "entity_type": "person",
@@ -189,7 +207,8 @@
       "C001035",
       "L000570",
       "W000779",
-      "B001288"
+      "B001288",
+      "K000377"
     ],
     "sponsor_bioguides": [
       "Y000064"
@@ -202,7 +221,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-22T08:35:10Z",
+    "logs_latest_update": "2026-09-17T13:14:43Z",
     "text_extraction_latest_update": "2026-07-22T13:17:35.857622Z"
   }
 }

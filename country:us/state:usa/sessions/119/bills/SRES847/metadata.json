@@ -16,13 +16,45 @@
   ],
   "actions": [
     {
-      "description": "Referred to the Committee on Commerce, Science, and Transportation.",
+      "description": "Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.",
+      "date": "2026-09-16T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-17T13:14:40Z"
+      }
+    },
+    {
+      "description": "Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.",
+      "date": "2026-09-16T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-17T13:14:40Z"
+      }
+    },
+    {
+      "description": "Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent.",
+      "date": "2026-09-16T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-17T13:14:40Z"
+      }
+    },
+    {
+      "description": "Referred to the Committee on Commerce, Science, and Transportation. (text: CR S4570)",
       "date": "2026-08-08T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-08-09T06:21:09Z"
+        "log_file_created": "2026-09-17T13:14:40Z"
       }
     },
     {
@@ -55,7 +87,23 @@
     }
   ],
   "related_bills": [],
-  "versions": [],
+  "versions": [
+    {
+      "note": "Introduced in Senate",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119sres847is/xml/BILLS-119sres847is.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119sres847is/pdf/BILLS-119sres847is.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-08",
+      "classification": ""
+    }
+  ],
   "documents": [],
   "citations": [],
   "sources": [
@@ -83,7 +131,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-09T06:21:09Z",
+    "logs_latest_update": "2026-09-17T13:14:40Z",
     "text_extraction_latest_update": "2026-09-17T13:04:15.336681Z"
   }
 }

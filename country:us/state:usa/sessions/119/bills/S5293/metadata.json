@@ -1,20 +1,39 @@
 {
   "legislative_session": "119",
   "identifier": "S 5293",
-  "title": "A bill to direct the Secretary of Agriculture and the Secretary of the Interior to establish prepositioning protocols for aerial wildfire suppression for early-season fine fuel wildland fires, and for other purposes.",
+  "title": "PREPARE Act",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
   ],
   "subject": [],
   "abstracts": [],
-  "other_titles": [],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Pilot for Regional Emergency Prepositioning of Aerial Resources and Equipment Act"
+    },
+    {
+      "note": "",
+      "title": "A bill to direct the Secretary of Agriculture and the Secretary of the Interior to establish prepositioning protocols for aerial wildfire suppression for early-season fine fuel wildland fires, and for other purposes."
+    }
+  ],
   "other_identifiers": [
     {
       "identifier": "ocd-bill-us-119-s5293"
     }
   ],
   "actions": [
+    {
+      "description": "Committee on Energy and Natural Resources. Hearings held.",
+      "date": "2026-09-16T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-17T13:14:40Z"
+      }
+    },
     {
       "description": "Read twice and referred to the Committee on Energy and Natural Resources.",
       "date": "2026-08-06T04:00:00+00:00",
@@ -49,7 +68,23 @@
     }
   ],
   "related_bills": [],
-  "versions": [],
+  "versions": [
+    {
+      "note": "Introduced in Senate",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119s5293is/xml/BILLS-119s5293is.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119s5293is/pdf/BILLS-119s5293is.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-06",
+      "classification": ""
+    }
+  ],
   "documents": [],
   "citations": [],
   "sources": [
@@ -75,7 +110,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-09T06:21:12Z",
+    "logs_latest_update": "2026-09-17T13:14:40Z",
     "text_extraction_latest_update": "2026-09-17T13:04:18.110070Z"
   }
 }

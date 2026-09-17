@@ -11,11 +11,11 @@
   "other_titles": [
     {
       "note": "",
-      "title": "To establish in U.S. Customs and Border Protection a pilot program to adopt dogs from local animal shelters to be trained as support dogs, and for other purposes."
+      "title": "Providing Emotional Assistance with Relief and Love Act"
     },
     {
       "note": "",
-      "title": "Providing Emotional Assistance with Relief and Love Act"
+      "title": "To establish in U.S. Customs and Border Protection a pilot program to adopt dogs from local animal shelters to be trained as support dogs, and for other purposes."
     }
   ],
   "other_identifiers": [
@@ -24,6 +24,70 @@
     }
   ],
   "actions": [
+    {
+      "description": "Motion to reconsider laid on the table Agreed to without objection.",
+      "date": "2026-09-16T15:33:28+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-17T13:14:41Z"
+      }
+    },
+    {
+      "description": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.",
+      "date": "2026-09-16T15:33:25+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-17T13:14:41Z"
+      }
+    },
+    {
+      "description": "Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.",
+      "date": "2026-09-16T15:33:25+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-17T13:14:41Z"
+      }
+    },
+    {
+      "description": "DEBATE - The House proceeded with forty minutes of debate on H.R. 9327.",
+      "date": "2026-09-16T15:27:24+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-17T13:14:41Z"
+      }
+    },
+    {
+      "description": "Considered under suspension of the rules.",
+      "date": "2026-09-16T15:27:23+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-17T13:14:41Z"
+      }
+    },
+    {
+      "description": "Mr. Van Epps moved to suspend the rules and pass the bill, as amended.",
+      "date": "2026-09-16T15:27:08+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-17T13:14:41Z"
+      }
+    },
     {
       "description": "Placed on the Union Calendar, Calendar No. 711.",
       "date": "2026-09-10T04:00:00+00:00",
@@ -169,6 +233,21 @@
   ],
   "versions": [
     {
+      "note": "Engrossed in House",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr9327eh/xml/BILLS-119hr9327eh.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr9327eh/pdf/BILLS-119hr9327eh.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-09-16",
+      "classification": ""
+    },
+    {
       "note": "Reported in House",
       "links": [
         {
@@ -244,7 +323,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-09-11T09:37:20Z",
+    "logs_latest_update": "2026-09-17T13:14:41Z",
     "text_extraction_latest_update": "2026-09-11T09:39:50.123716Z"
   }
 }

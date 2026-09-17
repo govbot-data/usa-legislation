@@ -1,20 +1,35 @@
 {
   "legislative_session": "119",
   "identifier": "S 5360",
-  "title": "A bill to amend the Infrastructure Investment and Jobs Act to reauthorize the Rural and Municipal Utility Advanced Cybersecurity Grant and Technical Assistance Program, and for other purposes.",
+  "title": "Rural and Municipal Utility Cybersecurity Act",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
   ],
   "subject": [],
   "abstracts": [],
-  "other_titles": [],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "A bill to amend the Infrastructure Investment and Jobs Act to reauthorize the Rural and Municipal Utility Advanced Cybersecurity Grant and Technical Assistance Program, and for other purposes."
+    }
+  ],
   "other_identifiers": [
     {
       "identifier": "ocd-bill-us-119-s5360"
     }
   ],
   "actions": [
+    {
+      "description": "Committee on Energy and Natural Resources. Hearings held.",
+      "date": "2026-09-16T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-17T13:14:42Z"
+      }
+    },
     {
       "description": "Read twice and referred to the Committee on Energy and Natural Resources.",
       "date": "2026-08-07T04:00:00+00:00",
@@ -72,6 +87,14 @@
       "organization_id": null
     },
     {
+      "name": "James C. Justice",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"James C. Justice\"}",
+      "organization_id": null
+    },
+    {
       "name": "David H. McCormick",
       "classification": "primary",
       "entity_type": "person",
@@ -80,8 +103,30 @@
       "organization_id": null
     }
   ],
-  "related_bills": [],
-  "versions": [],
+  "related_bills": [
+    {
+      "identifier": "HR 7266",
+      "legislative_session": "119",
+      "relation_type": "companion"
+    }
+  ],
+  "versions": [
+    {
+      "note": "Introduced in Senate",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119s5360is/xml/BILLS-119s5360is.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119s5360is/pdf/BILLS-119s5360is.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-07",
+      "classification": ""
+    }
+  ],
   "documents": [],
   "citations": [],
   "sources": [
@@ -99,7 +144,8 @@
       "C001113",
       "H000273",
       "C001114",
-      "H001061"
+      "H001061",
+      "J000312"
     ],
     "sponsor_bioguides": [
       "M001243"
@@ -112,7 +158,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-09T06:21:14Z",
+    "logs_latest_update": "2026-09-17T13:14:42Z",
     "text_extraction_latest_update": "2026-09-17T13:04:15.148184Z"
   }
 }

@@ -16,6 +16,16 @@
   ],
   "actions": [
     {
+      "description": "Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 617.",
+      "date": "2026-09-15T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-17T13:14:43Z"
+      }
+    },
+    {
       "description": "Motion to reconsider laid on the table Agreed to without objection.",
       "date": "2026-09-14T20:26:57+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -26,7 +36,7 @@
       }
     },
     {
-      "description": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.",
+      "description": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5567)",
       "date": "2026-09-14T20:26:56+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
@@ -34,7 +44,7 @@
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-09-15T10:58:27Z"
+        "log_file_created": "2026-09-17T13:14:43Z"
       }
     },
     {
@@ -60,13 +70,13 @@
       }
     },
     {
-      "description": "Considered under suspension of the rules.",
+      "description": "Considered under suspension of the rules. (consideration: CR H5567-5568)",
       "date": "2026-09-14T20:18:19+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-09-15T10:58:27Z"
+        "log_file_created": "2026-09-17T13:14:43Z"
       }
     },
     {
@@ -193,6 +203,21 @@
   ],
   "versions": [
     {
+      "note": "Engrossed in House",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr8454eh/xml/BILLS-119hr8454eh.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr8454eh/pdf/BILLS-119hr8454eh.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-09-14",
+      "classification": ""
+    },
+    {
       "note": "Reported in House",
       "links": [
         {
@@ -260,7 +285,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-09-15T10:58:27Z",
+    "logs_latest_update": "2026-09-17T13:14:43Z",
     "text_extraction_latest_update": "2026-09-15T11:00:51.781841Z"
   }
 }

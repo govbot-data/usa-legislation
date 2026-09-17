@@ -11,6 +11,10 @@
   "other_titles": [
     {
       "note": "",
+      "title": "To establish the President\u2019s Council on Sports, Fitness, and Nutrition, and for other purposes."
+    },
+    {
+      "note": "",
       "title": "To establish the President's Council on Sports, Fitness, and Nutrition, and for other purposes."
     }
   ],
@@ -20,6 +24,70 @@
     }
   ],
   "actions": [
+    {
+      "description": "Motion to reconsider laid on the table Agreed to without objection.",
+      "date": "2026-09-16T16:53:48+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-17T13:14:45Z"
+      }
+    },
+    {
+      "description": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.",
+      "date": "2026-09-16T16:53:45+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-17T13:14:45Z"
+      }
+    },
+    {
+      "description": "Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.",
+      "date": "2026-09-16T16:53:45+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-17T13:14:45Z"
+      }
+    },
+    {
+      "description": "DEBATE - The House proceeded with forty minutes of debate on H.R. 9723.",
+      "date": "2026-09-16T16:44:59+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-17T13:14:45Z"
+      }
+    },
+    {
+      "description": "Considered under suspension of the rules.",
+      "date": "2026-09-16T16:44:58+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-17T13:14:45Z"
+      }
+    },
+    {
+      "description": "Mr. Walberg moved to suspend the rules and pass the bill, as amended.",
+      "date": "2026-09-16T16:44:25+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-17T13:14:45Z"
+      }
+    },
     {
       "description": "Ordered to be Reported (Amended) by the Yeas and Nays: 33 - 0.",
       "date": "2026-07-21T04:00:00+00:00",
@@ -91,8 +159,34 @@
       "organization_id": null
     }
   ],
-  "related_bills": [],
+  "related_bills": [
+    {
+      "identifier": "HR 6604",
+      "legislative_session": "119",
+      "relation_type": "companion"
+    },
+    {
+      "identifier": "S 3412",
+      "legislative_session": "119",
+      "relation_type": "companion"
+    }
+  ],
   "versions": [
+    {
+      "note": "Engrossed in House",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr9723eh/xml/BILLS-119hr9723eh.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr9723eh/pdf/BILLS-119hr9723eh.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-09-16",
+      "classification": ""
+    },
     {
       "note": "Introduced in House",
       "links": [
@@ -137,7 +231,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-09T06:21:11Z",
+    "logs_latest_update": "2026-09-17T13:14:45Z",
     "text_extraction_latest_update": "2026-08-09T06:43:04.249164Z"
   }
 }

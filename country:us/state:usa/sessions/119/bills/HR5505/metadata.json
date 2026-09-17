@@ -21,6 +21,26 @@
   ],
   "actions": [
     {
+      "description": "Placed on the Union Calendar, Calendar No. 730.",
+      "date": "2026-09-16T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-17T13:14:45Z"
+      }
+    },
+    {
+      "description": "Reported (Amended) by the Committee on Education and Workforce. H. Rept. 119-833.",
+      "date": "2026-09-16T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-17T13:14:45Z"
+      }
+    },
+    {
       "description": "Ordered to be Reported (Amended) by the Yeas and Nays: 18 - 15.",
       "date": "2026-06-25T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -155,6 +175,30 @@
       "organization_id": null
     },
     {
+      "name": "Charles J. \"Chuck\" Fleischmann",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Charles J. \\\"Chuck\\\" Fleischmann\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Mike Bost",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Mike Bost\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Andrew S. Clyde",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Andrew S. Clyde\"}",
+      "organization_id": null
+    },
+    {
       "name": "Tim Walberg",
       "classification": "primary",
       "entity_type": "person",
@@ -167,6 +211,16 @@
     {
       "identifier": "S 2859",
       "legislative_session": "119",
+      "relation_type": "companion"
+    },
+    {
+      "identifier": "S 985",
+      "legislative_session": "118",
+      "relation_type": "companion"
+    },
+    {
+      "identifier": "HR 1816",
+      "legislative_session": "118",
       "relation_type": "companion"
     }
   ],
@@ -211,7 +265,10 @@
       "H001102",
       "M001233",
       "H001093",
-      "H001058"
+      "H001058",
+      "F000459",
+      "B001295",
+      "C001116"
     ],
     "sponsor_bioguides": [
       "W000798"
@@ -224,7 +281,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-22T08:35:00Z",
+    "logs_latest_update": "2026-09-17T13:14:45Z",
     "text_extraction_latest_update": "2026-07-22T09:54:31.632020Z"
   }
 }

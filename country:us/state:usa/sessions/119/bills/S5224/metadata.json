@@ -25,6 +25,16 @@
   ],
   "actions": [
     {
+      "description": "Committee on Commerce, Science, and Transportation. Ordered to be reported with an amendment in the nature of a substitute favorably.",
+      "date": "2026-09-16T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-17T13:14:45Z"
+      }
+    },
+    {
       "description": "Read twice and referred to the Committee on Commerce, Science, and Transportation.",
       "date": "2026-08-04T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -173,7 +183,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-09T06:21:08Z",
+    "logs_latest_update": "2026-09-17T13:14:45Z",
     "text_extraction_latest_update": "2026-08-09T06:29:29.956962Z"
   }
 }

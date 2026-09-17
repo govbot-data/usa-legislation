@@ -16,6 +16,70 @@
   ],
   "actions": [
     {
+      "description": "Motion to reconsider laid on the table Agreed to without objection.",
+      "date": "2026-09-16T18:43:20+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-17T13:14:40Z"
+      }
+    },
+    {
+      "description": "On motion to suspend the rules and pass the bill Agreed to by voice vote.",
+      "date": "2026-09-16T18:43:18+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-17T13:14:40Z"
+      }
+    },
+    {
+      "description": "Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.",
+      "date": "2026-09-16T18:43:18+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-17T13:14:40Z"
+      }
+    },
+    {
+      "description": "DEBATE - The House proceeded with forty minutes of debate on H.R. 7365.",
+      "date": "2026-09-16T18:37:18+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-17T13:14:40Z"
+      }
+    },
+    {
+      "description": "Considered under suspension of the rules.",
+      "date": "2026-09-16T18:37:17+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-17T13:14:40Z"
+      }
+    },
+    {
+      "description": "Mr. Comer moved to suspend the rules and pass the bill.",
+      "date": "2026-09-16T18:37:13+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-17T13:14:40Z"
+      }
+    },
+    {
       "description": "Ordered to be Reported by Voice Vote.",
       "date": "2026-07-22T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -216,7 +280,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-09T06:21:09Z",
+    "logs_latest_update": "2026-09-17T13:14:40Z",
     "text_extraction_latest_update": "2026-08-09T06:35:07.459475Z"
   }
 }

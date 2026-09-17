@@ -21,6 +21,26 @@
   ],
   "actions": [
     {
+      "description": "Ordered to be Reported in the Nature of a Substitute by the Yeas and Nays: 23 - 0.",
+      "date": "2026-09-16T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-17T13:14:41Z"
+      }
+    },
+    {
+      "description": "Committee Consideration and Mark-up Session Held",
+      "date": "2026-09-16T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-17T13:14:41Z"
+      }
+    },
+    {
       "description": "Referred to the House Committee on Small Business.",
       "date": "2026-07-15T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -71,6 +91,30 @@
       "organization_id": null
     },
     {
+      "name": "Robert P. Bresnahan",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Robert P. Bresnahan\"}",
+      "organization_id": null
+    },
+    {
+      "name": "John James",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"John James\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Johnny Olszewski",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Johnny Olszewski\"}",
+      "organization_id": null
+    },
+    {
       "name": "Tony Wied",
       "classification": "primary",
       "entity_type": "person",
@@ -113,7 +157,10 @@
     "cosponsor_bioguides": [
       "V000134",
       "E000071",
-      "F000475"
+      "F000475",
+      "B001327",
+      "J000307",
+      "O000176"
     ],
     "sponsor_bioguides": [
       "W000829"
@@ -126,7 +173,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-22T08:35:10Z",
+    "logs_latest_update": "2026-09-17T13:14:41Z",
     "text_extraction_latest_update": "2026-07-22T17:00:48.217476Z"
   }
 }

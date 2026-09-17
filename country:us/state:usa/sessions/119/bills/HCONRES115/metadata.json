@@ -16,6 +16,16 @@
   ],
   "actions": [
     {
+      "description": "Sponsor introductory remarks on measure. (CR H5610)",
+      "date": "2026-09-14T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-17T13:14:41Z"
+      }
+    },
+    {
       "description": "Referred to the House Committee on Foreign Affairs.",
       "date": "2026-09-02T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -66,6 +76,14 @@
       "organization_id": null
     },
     {
+      "name": "William R. Keating",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"William R. Keating\"}",
+      "organization_id": null
+    },
+    {
       "name": "Gregory W. Meeks",
       "classification": "primary",
       "entity_type": "person",
@@ -75,7 +93,23 @@
     }
   ],
   "related_bills": [],
-  "versions": [],
+  "versions": [
+    {
+      "note": "Introduced in House",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hconres115ih/xml/BILLS-119hconres115ih.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hconres115ih/pdf/BILLS-119hconres115ih.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-09-02",
+      "classification": ""
+    }
+  ],
   "documents": [],
   "citations": [],
   "sources": [
@@ -92,7 +126,8 @@
     "cosponsor_bioguides": [
       "S000510",
       "H001047",
-      "T000193"
+      "T000193",
+      "K000375"
     ],
     "sponsor_bioguides": [
       "M001137"
@@ -105,7 +140,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-09-03T10:05:17Z",
+    "logs_latest_update": "2026-09-17T13:14:41Z",
     "text_extraction_latest_update": "2026-09-17T13:04:15.238030Z"
   }
 }

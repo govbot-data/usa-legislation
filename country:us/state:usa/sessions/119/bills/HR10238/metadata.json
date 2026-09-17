@@ -21,6 +21,26 @@
   ],
   "actions": [
     {
+      "description": "Ordered to be Reported in the Nature of a Substitute by the Yeas and Nays: 23 - 0.",
+      "date": "2026-09-16T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-17T13:14:44Z"
+      }
+    },
+    {
+      "description": "Committee Consideration and Mark-up Session Held",
+      "date": "2026-09-16T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-17T13:14:44Z"
+      }
+    },
+    {
       "description": "Referred to the House Committee on Small Business.",
       "date": "2026-09-02T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -60,6 +80,14 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Beth Van Duyne\"}",
+      "organization_id": null
+    },
+    {
+      "name": "George Latimer",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"George Latimer\"}",
       "organization_id": null
     },
     {
@@ -104,7 +132,8 @@
   "extras": {
     "cosponsor_bioguides": [
       "K000404",
-      "V000134"
+      "V000134",
+      "L000606"
     ],
     "sponsor_bioguides": [
       "W000829"
@@ -117,7 +146,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-09-04T10:16:10Z",
+    "logs_latest_update": "2026-09-17T13:14:44Z",
     "text_extraction_latest_update": "2026-09-04T10:18:26.665785Z"
   }
 }

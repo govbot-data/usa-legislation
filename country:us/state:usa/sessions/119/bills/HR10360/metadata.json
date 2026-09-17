@@ -38,6 +38,16 @@
       "_processing": {
         "log_file_created": "2026-09-15T10:58:26Z"
       }
+    },
+    {
+      "description": "Sponsor introductory remarks on measure. (CR H5536)",
+      "date": "2026-09-14T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-17T13:14:42Z"
+      }
     }
   ],
   "sponsorships": [
@@ -162,6 +172,30 @@
       "organization_id": null
     },
     {
+      "name": "Marilyn Strickland",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Marilyn Strickland\"}",
+      "organization_id": null
+    },
+    {
+      "name": "James R. Walkinshaw",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"James R. Walkinshaw\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Eugene Simon Vindman",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Eugene Simon Vindman\"}",
+      "organization_id": null
+    },
+    {
       "name": "Joe Courtney",
       "classification": "primary",
       "entity_type": "person",
@@ -200,7 +234,10 @@
       "F000462",
       "G000598",
       "T000468",
-      "W000830"
+      "W000830",
+      "S001159",
+      "W000831",
+      "V000138"
     ],
     "sponsor_bioguides": [
       "C001069"
@@ -213,7 +250,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-09-15T10:58:26Z",
+    "logs_latest_update": "2026-09-17T13:14:42Z",
     "text_extraction_latest_update": "2026-09-17T13:04:17.031126Z"
   }
 }

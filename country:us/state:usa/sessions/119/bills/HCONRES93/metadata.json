@@ -16,6 +16,16 @@
   ],
   "actions": [
     {
+      "description": "Received in the Senate and referred to the Committee on Foreign Relations.",
+      "date": "2026-09-16T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-17T13:14:40Z"
+      }
+    },
+    {
       "description": "Motion to reconsider laid on the table Agreed to without objection.",
       "date": "2026-09-16T02:32:09+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -26,17 +36,17 @@
       }
     },
     {
-      "description": "On agreeing to the resolution Agreed to by the Yeas and Nays: 220 - 204 (Roll no. 307).",
+      "description": "On agreeing to the resolution Agreed to by the Yeas and Nays: 220 - 204 (Roll no. 307). (text: CR H5609)",
       "date": "2026-09-16T02:32:08+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-09-16T10:40:46Z"
+        "log_file_created": "2026-09-17T13:14:40Z"
       }
     },
     {
-      "description": "Passed/agreed to in House: On agreeing to the resolution Agreed to by the Yeas and Nays: 220 - 204 (Roll no. 307).",
+      "description": "Passed/agreed to in House: On agreeing to the resolution Agreed to by the Yeas and Nays: 220 - 204 (Roll no. 307). (text: CR H5609)",
       "date": "2026-09-16T02:32:08+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
@@ -44,7 +54,7 @@
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-09-16T10:40:46Z"
+        "log_file_created": "2026-09-17T13:14:40Z"
       }
     },
     {
@@ -88,13 +98,13 @@
       }
     },
     {
-      "description": "Considered pursuant to a previous order of the House",
+      "description": "Considered pursuant to a previous order of the House (consideration: CR H5609-5615)",
       "date": "2026-09-15T00:20:48+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-09-15T10:58:28Z"
+        "log_file_created": "2026-09-17T13:14:40Z"
       }
     },
     {
@@ -296,6 +306,21 @@
   ],
   "versions": [
     {
+      "note": "Engrossed in House",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hconres93eh/xml/BILLS-119hconres93eh.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hconres93eh/pdf/BILLS-119hconres93eh.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-09-15",
+      "classification": ""
+    },
+    {
       "note": "Introduced in House",
       "links": [
         {
@@ -351,7 +376,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-09-16T10:40:46Z",
+    "logs_latest_update": "2026-09-17T13:14:40Z",
     "text_extraction_latest_update": "2026-09-16T10:42:27.766907Z"
   }
 }
