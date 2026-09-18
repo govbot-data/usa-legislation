@@ -11,11 +11,11 @@
   "other_titles": [
     {
       "note": "",
-      "title": "To require the Securities and Exchange Commission to create forms for non-variable registered annuities and life insurance products, and for other purposes."
+      "title": "Consumer-Led Enhancement of Annuity and Insurance Registration Forms Act"
     },
     {
       "note": "",
-      "title": "Consumer-Led Enhancement of Annuity and Insurance Registration Forms Act"
+      "title": "To require the Securities and Exchange Commission to create forms for non-variable registered annuities and life insurance products, and for other purposes."
     }
   ],
   "other_identifiers": [
@@ -24,6 +24,26 @@
     }
   ],
   "actions": [
+    {
+      "description": "Ordered to be Reported (Amended) by the Yeas and Nays: 42 - 7.",
+      "date": "2026-09-16T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-18T13:28:31Z"
+      }
+    },
+    {
+      "description": "Committee Consideration and Mark-up Session Held",
+      "date": "2026-09-16T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-18T13:28:31Z"
+      }
+    },
     {
       "description": "Referred to the House Committee on Financial Services.",
       "date": "2026-09-02T04:00:00+00:00",
@@ -56,6 +76,14 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Brittany Pettersen\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Scott Fitzgerald",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Scott Fitzgerald\"}",
       "organization_id": null
     },
     {
@@ -99,7 +127,8 @@
   ],
   "extras": {
     "cosponsor_bioguides": [
-      "P000620"
+      "P000620",
+      "F000471"
     ],
     "sponsor_bioguides": [
       "N000193"
@@ -112,7 +141,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-09-04T10:16:11Z",
+    "logs_latest_update": "2026-09-18T13:28:31Z",
     "text_extraction_latest_update": "2026-09-04T10:18:40.270339Z"
   }
 }

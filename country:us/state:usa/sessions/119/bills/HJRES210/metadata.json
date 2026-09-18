@@ -16,6 +16,16 @@
   ],
   "actions": [
     {
+      "description": "Received in the Senate.",
+      "date": "2026-09-16T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-18T13:28:41Z"
+      }
+    },
+    {
       "description": "Motion to reconsider laid on the table Agreed to without objection.",
       "date": "2026-09-16T02:22:08+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -26,13 +36,13 @@
       }
     },
     {
-      "description": "On passage Passed by the Yeas and Nays: 216 - 211 (Roll no. 306).",
+      "description": "On passage Passed by the Yeas and Nays: 216 - 211 (Roll no. 306). (text: CR H5680)",
       "date": "2026-09-16T02:22:06+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-09-16T10:40:47Z"
+        "log_file_created": "2026-09-18T13:28:41Z"
       }
     },
     {
@@ -48,13 +58,13 @@
       }
     },
     {
-      "description": "Considered as unfinished business.",
+      "description": "Considered as unfinished business. (consideration: CR H5825-5826)",
       "date": "2026-09-16T02:15:24+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-09-16T10:40:47Z"
+        "log_file_created": "2026-09-18T13:28:41Z"
       }
     },
     {
@@ -98,13 +108,13 @@
       }
     },
     {
-      "description": "Considered under the provisions of rule H. Res. 1530.",
+      "description": "Considered under the provisions of rule H. Res. 1530. (consideration: CR H5680-5682)",
       "date": "2026-09-16T00:01:55+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-09-16T10:40:47Z"
+        "log_file_created": "2026-09-18T13:28:41Z"
       }
     },
     {
@@ -222,6 +232,21 @@
   ],
   "versions": [
     {
+      "note": "Engrossed in House",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hjres210eh/xml/BILLS-119hjres210eh.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hjres210eh/pdf/BILLS-119hjres210eh.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-09-15",
+      "classification": ""
+    },
+    {
       "note": "Introduced in House",
       "links": [
         {
@@ -270,7 +295,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-09-16T10:40:47Z",
+    "logs_latest_update": "2026-09-18T13:28:41Z",
     "text_extraction_latest_update": "2026-09-16T10:42:27.761643Z"
   }
 }

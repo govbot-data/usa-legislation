@@ -11,11 +11,7 @@
   "other_titles": [
     {
       "note": "",
-      "title": "SEED Act of 2025"
-    },
-    {
-      "note": "",
-      "title": "Supporting Early-childhood Educators\u2019 Deductions Act of 2025"
+      "title": "Supporting Early-childhood Educators\u2019 Deductions Act"
     },
     {
       "note": "",
@@ -23,7 +19,11 @@
     },
     {
       "note": "",
-      "title": "Supporting Early-childhood Educators\u2019 Deductions Act"
+      "title": "SEED Act of 2025"
+    },
+    {
+      "note": "",
+      "title": "Supporting Early-childhood Educators\u2019 Deductions Act of 2025"
     },
     {
       "note": "",
@@ -40,6 +40,18 @@
     }
   ],
   "actions": [
+    {
+      "description": "Presented to President.",
+      "date": "2026-09-17T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-18T13:28:28Z"
+      }
+    },
     {
       "description": "Motion to reconsider laid on the table Agreed to without objection.",
       "date": "2026-09-16T22:28:23+00:00",
@@ -581,6 +593,29 @@
   ],
   "versions": [
     {
+      "note": "Enrolled Bill",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr5334enr/uslm/BILLS-119hr5334enr.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr5334enr/uslm/BILLS-119hr5334enr.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr5334enr/xml/BILLS-119hr5334enr.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr5334enr/pdf/BILLS-119hr5334enr.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Engrossed Amendment Senate",
       "links": [
         {
@@ -948,7 +983,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-09-17T13:14:41Z",
+    "logs_latest_update": "2026-09-18T13:28:37Z",
     "text_extraction_latest_update": "2026-09-17T13:17:32.372236Z"
   }
 }

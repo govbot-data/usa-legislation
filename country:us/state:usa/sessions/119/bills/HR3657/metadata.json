@@ -11,11 +11,11 @@
   "other_titles": [
     {
       "note": "",
-      "title": "Hydropower Relicensing Transparency Act"
+      "title": "To amend the Federal Power Act to require the Federal Energy Regulatory Commission to annually submit to Congress a report on the status of ongoing hydropower relicensing applications."
     },
     {
       "note": "",
-      "title": "To amend the Federal Power Act to require the Federal Energy Regulatory Commission to annually submit to Congress a report on the status of ongoing hydropower relicensing applications."
+      "title": "Hydropower Relicensing Transparency Act"
     }
   ],
   "other_identifiers": [
@@ -24,6 +24,60 @@
     }
   ],
   "actions": [
+    {
+      "description": "Presented to President.",
+      "date": "2026-09-17T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-18T13:28:31Z"
+      }
+    },
+    {
+      "description": "Message on Senate action sent to the House.",
+      "date": "2026-09-16T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-18T13:28:31Z"
+      }
+    },
+    {
+      "description": "Passed Senate without amendment by Unanimous Consent.",
+      "date": "2026-09-16T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-18T13:28:31Z"
+      }
+    },
+    {
+      "description": "Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.",
+      "date": "2026-09-16T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-18T13:28:31Z"
+      }
+    },
+    {
+      "description": "Senate Committee on Energy and Natural Resources discharged by Unanimous Consent.",
+      "date": "2026-09-16T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-18T13:28:31Z"
+      }
+    },
     {
       "description": "Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.",
       "date": "2026-06-10T04:00:00+00:00",
@@ -67,7 +121,7 @@
       }
     },
     {
-      "description": "Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.",
+      "description": "Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3221-3222)",
       "date": "2025-07-14T20:19:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
@@ -75,7 +129,7 @@
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-22T08:35:12Z"
+        "log_file_created": "2026-09-18T13:28:31Z"
       }
     },
     {
@@ -240,6 +294,29 @@
   "related_bills": [],
   "versions": [
     {
+      "note": "Enrolled Bill",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr3657enr/uslm/BILLS-119hr3657enr.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr3657enr/uslm/BILLS-119hr3657enr.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr3657enr/xml/BILLS-119hr3657enr.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr3657enr/pdf/BILLS-119hr3657enr.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Referred in Senate",
       "links": [
         {
@@ -302,6 +379,17 @@
   ],
   "documents": [
     {
+      "note": "CBO: H.R. 3657, Hydropower Licensing Transparency Act",
+      "links": [
+        {
+          "url": "https://www.cbo.gov/publication/62642",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "H. Rept. 119-193",
       "links": [
         {
@@ -341,7 +429,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-22T08:35:12Z",
+    "logs_latest_update": "2026-09-18T13:28:42Z",
     "text_extraction_latest_update": "2026-07-22T09:12:31.247649Z"
   }
 }

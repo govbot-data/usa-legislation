@@ -21,6 +21,16 @@
   ],
   "actions": [
     {
+      "description": "Received in the Senate and Read twice and referred to the Committee on Finance.",
+      "date": "2026-09-16T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-18T13:28:33Z"
+      }
+    },
+    {
       "description": "Motion to reconsider laid on the table Agreed to without objection.",
       "date": "2026-09-16T02:15:15+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -31,7 +41,7 @@
       }
     },
     {
-      "description": "On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 408 - 17 (Roll no. 305).",
+      "description": "On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 408 - 17 (Roll no. 305). (text: CR H5687-5688)",
       "date": "2026-09-16T02:15:14+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
@@ -39,7 +49,7 @@
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-09-16T10:40:48Z"
+        "log_file_created": "2026-09-18T13:28:33Z"
       }
     },
     {
@@ -55,13 +65,13 @@
       }
     },
     {
-      "description": "Considered as unfinished business.",
+      "description": "Considered as unfinished business. (consideration: CR H5824-5825)",
       "date": "2026-09-16T02:11:35+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-09-16T10:40:48Z"
+        "log_file_created": "2026-09-18T13:28:33Z"
       }
     },
     {
@@ -85,13 +95,13 @@
       }
     },
     {
-      "description": "Considered under suspension of the rules.",
+      "description": "Considered under suspension of the rules. (consideration: CR H5687-5690)",
       "date": "2026-09-16T01:00:49+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-09-16T10:40:48Z"
+        "log_file_created": "2026-09-18T13:28:33Z"
       }
     },
     {
@@ -184,6 +194,21 @@
   ],
   "versions": [
     {
+      "note": "Engrossed in House",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr9500eh/xml/BILLS-119hr9500eh.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr9500eh/pdf/BILLS-119hr9500eh.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-09-15",
+      "classification": ""
+    },
+    {
       "note": "Introduced in House",
       "links": [
         {
@@ -239,7 +264,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-09-16T10:40:48Z",
+    "logs_latest_update": "2026-09-18T13:28:34Z",
     "text_extraction_latest_update": "2026-09-16T10:42:51.526771Z"
   }
 }

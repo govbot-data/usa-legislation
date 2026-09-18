@@ -21,6 +21,26 @@
   ],
   "actions": [
     {
+      "description": "Ordered to be Reported (Amended) by the Yeas and Nays: 28 - 21.",
+      "date": "2026-09-16T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-18T13:28:29Z"
+      }
+    },
+    {
+      "description": "Committee Consideration and Mark-up Session Held",
+      "date": "2026-09-16T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-18T13:28:29Z"
+      }
+    },
+    {
       "description": "Referred to the Committee on Financial Services, and in addition to the Committees on the Judiciary, Small Business, and Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
       "date": "2026-08-31T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -279,6 +299,14 @@
       "organization_id": null
     },
     {
+      "name": "Ken Calvert",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Ken Calvert\"}",
+      "organization_id": null
+    },
+    {
       "name": "Andy Barr",
       "classification": "primary",
       "entity_type": "person",
@@ -287,7 +315,28 @@
       "organization_id": null
     }
   ],
-  "related_bills": [],
+  "related_bills": [
+    {
+      "identifier": "HR 4460",
+      "legislative_session": "119",
+      "relation_type": "companion"
+    },
+    {
+      "identifier": "HR 7588",
+      "legislative_session": "119",
+      "relation_type": "companion"
+    },
+    {
+      "identifier": "HR 9330",
+      "legislative_session": "119",
+      "relation_type": "companion"
+    },
+    {
+      "identifier": "HR 4735",
+      "legislative_session": "119",
+      "relation_type": "companion"
+    }
+  ],
   "versions": [
     {
       "note": "Introduced in House",
@@ -347,7 +396,8 @@
       "H001099",
       "M001236",
       "N000190",
-      "O000175"
+      "O000175",
+      "C000059"
     ],
     "sponsor_bioguides": [
       "B001282"
@@ -360,7 +410,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-09-02T10:11:45Z",
+    "logs_latest_update": "2026-09-18T13:28:29Z",
     "text_extraction_latest_update": "2026-09-02T10:14:13.817976Z"
   }
 }

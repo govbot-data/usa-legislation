@@ -21,6 +21,16 @@
   ],
   "actions": [
     {
+      "description": "Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.",
+      "date": "2026-09-16T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-18T13:28:30Z"
+      }
+    },
+    {
       "description": "Motion to reconsider laid on the table Agreed to without objection.",
       "date": "2026-09-15T22:38:28+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -31,7 +41,7 @@
       }
     },
     {
-      "description": "On motion to suspend the rules and pass the bill Agreed to by voice vote.",
+      "description": "On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5663-5664)",
       "date": "2026-09-15T22:38:14+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
@@ -39,7 +49,7 @@
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-09-16T10:40:46Z"
+        "log_file_created": "2026-09-18T13:28:30Z"
       }
     },
     {
@@ -65,13 +75,13 @@
       }
     },
     {
-      "description": "Considered under suspension of the rules.",
+      "description": "Considered under suspension of the rules. (consideration: CR H5663-5665)",
       "date": "2026-09-15T22:30:41+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-09-16T10:40:46Z"
+        "log_file_created": "2026-09-18T13:28:30Z"
       }
     },
     {
@@ -240,6 +250,21 @@
   "related_bills": [],
   "versions": [
     {
+      "note": "Engrossed in House",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr9332eh/xml/BILLS-119hr9332eh.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr9332eh/pdf/BILLS-119hr9332eh.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-09-15",
+      "classification": ""
+    },
+    {
       "note": "Reported in House",
       "links": [
         {
@@ -314,7 +339,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-09-16T10:40:46Z",
+    "logs_latest_update": "2026-09-18T13:28:45Z",
     "text_extraction_latest_update": "2026-09-16T10:42:25.740044Z"
   }
 }

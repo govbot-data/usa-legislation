@@ -25,6 +25,16 @@
   ],
   "actions": [
     {
+      "description": "Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.",
+      "date": "2026-09-16T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-18T13:28:26Z"
+      }
+    },
+    {
       "description": "The title of the measure was amended. Agreed to without objection.",
       "date": "2026-09-16T15:45:10+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -342,7 +352,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-09-17T13:14:41Z",
+    "logs_latest_update": "2026-09-18T13:28:34Z",
     "text_extraction_latest_update": "2026-09-17T13:16:56.295064Z"
   }
 }

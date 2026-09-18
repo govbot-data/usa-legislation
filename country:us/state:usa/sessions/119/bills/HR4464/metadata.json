@@ -21,6 +21,26 @@
   ],
   "actions": [
     {
+      "description": "Ordered to be Reported by the Yeas and Nays: 29 - 0.",
+      "date": "2026-09-16T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-18T13:28:25Z"
+      }
+    },
+    {
+      "description": "Committee Consideration and Mark-up Session Held",
+      "date": "2026-09-16T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-18T13:28:25Z"
+      }
+    },
+    {
       "description": "Referred to the House Committee on the Budget.",
       "date": "2025-07-16T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -199,6 +219,14 @@
       "organization_id": null
     },
     {
+      "name": "Mike Carey",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Mike Carey\"}",
+      "organization_id": null
+    },
+    {
       "name": "Jay Obernolte",
       "classification": "primary",
       "entity_type": "person",
@@ -263,7 +291,8 @@
       "V000138",
       "T000491",
       "C001136",
-      "O000177"
+      "O000177",
+      "C001126"
     ],
     "sponsor_bioguides": [
       "O000019"
@@ -276,7 +305,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-22T08:34:56Z",
+    "logs_latest_update": "2026-09-18T13:28:35Z",
     "text_extraction_latest_update": "2026-07-22T08:51:16.087390Z"
   }
 }
