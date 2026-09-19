@@ -21,6 +21,26 @@
   ],
   "actions": [
     {
+      "description": "Ordered to be Reported by the Yeas and Nays: 37 - 0.",
+      "date": "2026-09-16T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-19T10:48:59Z"
+      }
+    },
+    {
+      "description": "Committee Consideration and Mark-up Session Held",
+      "date": "2026-09-16T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-19T10:48:59Z"
+      }
+    },
+    {
       "description": "Forwarded by Subcommittee to Full Committee by Voice Vote.",
       "date": "2026-09-01T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -109,6 +129,14 @@
       "organization_id": null
     },
     {
+      "name": "Eugene Simon Vindman",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Eugene Simon Vindman\"}",
+      "organization_id": null
+    },
+    {
       "name": "Robert Menendez",
       "classification": "primary",
       "entity_type": "person",
@@ -152,7 +180,8 @@
       "P000048",
       "M001227",
       "L000601",
-      "C001125"
+      "C001125",
+      "V000138"
     ],
     "sponsor_bioguides": [
       "M001226"
@@ -165,7 +194,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-09-02T10:11:41Z",
+    "logs_latest_update": "2026-09-19T10:48:59Z",
     "text_extraction_latest_update": "2026-09-02T10:13:49.290686Z"
   }
 }

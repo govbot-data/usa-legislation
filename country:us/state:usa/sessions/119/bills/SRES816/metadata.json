@@ -16,6 +16,38 @@
   ],
   "actions": [
     {
+      "description": "Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.",
+      "date": "2026-09-17T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-19T10:48:53Z"
+      }
+    },
+    {
+      "description": "Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.",
+      "date": "2026-09-17T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-19T10:48:53Z"
+      }
+    },
+    {
+      "description": "Senate Committee on Foreign Relations discharged by Unanimous Consent.",
+      "date": "2026-09-17T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-19T10:48:53Z"
+      }
+    },
+    {
       "description": "Referred to the Committee on Foreign Relations. (text: CR S4271-4272)",
       "date": "2026-07-23T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -135,7 +167,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-09T06:21:10Z",
+    "logs_latest_update": "2026-09-19T10:48:53Z",
     "text_extraction_latest_update": "2026-08-09T06:25:08.493364Z"
   }
 }

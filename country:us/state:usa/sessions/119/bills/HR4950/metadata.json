@@ -11,11 +11,11 @@
   "other_titles": [
     {
       "note": "",
-      "title": "To direct the Federal Communications Commission to incorporate into the National Broadband Map of the Commission a layer that presents data on the location of agricultural areas, and for other purposes."
+      "title": "Data Broadband Reporting and Integration for Deployment in Geographically Essential Areas Act"
     },
     {
       "note": "",
-      "title": "Data Broadband Reporting and Integration for Deployment in Geographically Essential Areas Act"
+      "title": "To direct the Federal Communications Commission to incorporate into the National Broadband Map of the Commission a layer that presents data on the location of agricultural areas, and for other purposes."
     }
   ],
   "other_identifiers": [
@@ -24,6 +24,26 @@
     }
   ],
   "actions": [
+    {
+      "description": "Ordered to be Reported by the Yeas and Nays: 35 - 0.",
+      "date": "2026-09-16T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-19T10:48:59Z"
+      }
+    },
+    {
+      "description": "Committee Consideration and Mark-up Session Held",
+      "date": "2026-09-16T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-19T10:48:59Z"
+      }
+    },
     {
       "description": "Forwarded by Subcommittee to Full Committee by Voice Vote.",
       "date": "2026-09-01T04:00:00+00:00",
@@ -193,6 +213,14 @@
       "organization_id": null
     },
     {
+      "name": "Jennifer L. McClellan",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jennifer L. McClellan\"}",
+      "organization_id": null
+    },
+    {
       "name": "Erin Houchin",
       "classification": "primary",
       "entity_type": "person",
@@ -246,7 +274,8 @@
       "L000601",
       "R000612",
       "J000302",
-      "G000568"
+      "G000568",
+      "M001227"
     ],
     "sponsor_bioguides": [
       "H001093"
@@ -259,7 +288,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-09-02T10:11:40Z",
+    "logs_latest_update": "2026-09-19T10:48:59Z",
     "text_extraction_latest_update": "2026-09-02T10:14:24.311468Z"
   }
 }

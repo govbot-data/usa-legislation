@@ -21,6 +21,30 @@
   ],
   "actions": [
     {
+      "description": "Became Public Law No: 119-110.",
+      "date": "2026-09-16T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "became-law"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-19T10:48:52Z"
+      }
+    },
+    {
+      "description": "Signed by President.",
+      "date": "2026-09-16T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-19T10:48:52Z"
+      }
+    },
+    {
       "description": "Presented to President.",
       "date": "2026-09-14T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -237,7 +261,13 @@
       "organization_id": null
     }
   ],
-  "related_bills": [],
+  "related_bills": [
+    {
+      "identifier": "S 5062",
+      "legislative_session": "118",
+      "relation_type": "companion"
+    }
+  ],
   "versions": [
     {
       "note": "Enrolled Bill",
@@ -294,7 +324,16 @@
     }
   ],
   "documents": [],
-  "citations": [],
+  "citations": [
+    {
+      "publication": "US Public Law",
+      "citation": "119-110",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.congress.gov/119/plaws/publ110/PLAW-119publ110.pdf"
+    }
+  ],
   "sources": [
     {
       "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s307.xml",
@@ -322,7 +361,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-09-15T10:58:29Z",
+    "logs_latest_update": "2026-09-19T10:48:52Z",
     "text_extraction_latest_update": "2026-09-15T11:00:39.843856Z"
   }
 }
