@@ -51,6 +51,16 @@
       }
     },
     {
+      "description": "Referred to the Subcommittee on Emergency Management and Technology.",
+      "date": "2025-10-01T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-20T11:22:33Z"
+      }
+    },
+    {
       "description": "Referred to the Subcommittee on Economic Development, Public Buildings, and Emergency Management.",
       "date": "2025-10-01T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -463,6 +473,22 @@
       "organization_id": null
     },
     {
+      "name": "Tom Cole",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Tom Cole\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Nellie Pou",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Nellie Pou\"}",
+      "organization_id": null
+    },
+    {
       "name": "Grace Meng",
       "classification": "primary",
       "entity_type": "person",
@@ -555,7 +581,9 @@
       "K000397",
       "A000381",
       "L000600",
-      "O000173"
+      "O000173",
+      "C001053",
+      "P000621"
     ],
     "sponsor_bioguides": [
       "M001188"
@@ -568,7 +596,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-09-16T10:40:46Z",
+    "logs_latest_update": "2026-09-20T11:22:33Z",
     "text_extraction_latest_update": "2026-09-16T10:42:25.795186Z"
   }
 }
