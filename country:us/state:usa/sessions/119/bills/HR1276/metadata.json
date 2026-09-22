@@ -16,6 +16,18 @@
   ],
   "actions": [
     {
+      "description": "Became Public Law No: 119-105.",
+      "date": "2026-09-11T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "became-law"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-22T10:39:32Z"
+      }
+    },
+    {
       "description": "Signed by President.",
       "date": "2026-09-11T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"executive\"}",
@@ -360,6 +372,21 @@
       ],
       "date": "2025-02-13",
       "classification": ""
+    },
+    {
+      "note": "Public Law",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ105/uslm/PLAW-119publ105.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ105/uslm/PLAW-119publ105.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-09-12",
+      "classification": ""
     }
   ],
   "documents": [
@@ -397,7 +424,16 @@
       "classification": ""
     }
   ],
-  "citations": [],
+  "citations": [
+    {
+      "publication": "US Public Law",
+      "citation": "119-105",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.congress.gov/119/plaws/publ105/PLAW-119publ105.pdf"
+    }
+  ],
   "sources": [
     {
       "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr1276.xml",
@@ -421,7 +457,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-09-12T12:22:59Z",
+    "logs_latest_update": "2026-09-22T10:39:32Z",
     "text_extraction_latest_update": "2026-09-12T12:24:46.810333Z"
   }
 }

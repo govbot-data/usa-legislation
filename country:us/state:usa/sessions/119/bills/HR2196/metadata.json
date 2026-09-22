@@ -21,6 +21,18 @@
   ],
   "actions": [
     {
+      "description": "Became Public Law No: 119-107.",
+      "date": "2026-09-11T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "became-law"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-22T10:39:29Z"
+      }
+    },
+    {
       "description": "Signed by President.",
       "date": "2026-09-11T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"executive\"}",
@@ -313,7 +325,13 @@
       "organization_id": null
     }
   ],
-  "related_bills": [],
+  "related_bills": [
+    {
+      "identifier": "S 2546",
+      "legislative_session": "119",
+      "relation_type": "companion"
+    }
+  ],
   "versions": [
     {
       "note": "Enrolled Bill",
@@ -397,6 +415,21 @@
       ],
       "date": "2025-03-18",
       "classification": ""
+    },
+    {
+      "note": "Public Law",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ107/uslm/PLAW-119publ107.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ107/uslm/PLAW-119publ107.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-09-12",
+      "classification": ""
     }
   ],
   "documents": [
@@ -412,7 +445,16 @@
       "classification": ""
     }
   ],
-  "citations": [],
+  "citations": [
+    {
+      "publication": "US Public Law",
+      "citation": "119-107",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.congress.gov/119/plaws/publ107/PLAW-119publ107.pdf"
+    }
+  ],
   "sources": [
     {
       "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr2196.xml",
@@ -443,7 +485,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-09-12T12:23:02Z",
+    "logs_latest_update": "2026-09-22T10:39:29Z",
     "text_extraction_latest_update": "2026-09-12T12:24:30.478271Z"
   }
 }

@@ -11,18 +11,6 @@
   "other_titles": [
     {
       "note": "",
-      "title": "Supporting Early-childhood Educators\u2019 Deductions Act"
-    },
-    {
-      "note": "",
-      "title": "SEED Act"
-    },
-    {
-      "note": "",
-      "title": "SEED Act of 2025"
-    },
-    {
-      "note": "",
       "title": "Supporting Early-childhood Educators\u2019 Deductions Act of 2025"
     },
     {
@@ -32,6 +20,18 @@
     {
       "note": "",
       "title": "An act to impose sanctions and other measures with respect to the Russian Federation, as championed by the late Senator Lindsey O. Graham, and for other purposes."
+    },
+    {
+      "note": "",
+      "title": "Supporting Early-childhood Educators\u2019 Deductions Act"
+    },
+    {
+      "note": "",
+      "title": "SEED Act"
+    },
+    {
+      "note": "",
+      "title": "SEED Act of 2025"
     }
   ],
   "other_identifiers": [
@@ -40,6 +40,30 @@
     }
   ],
   "actions": [
+    {
+      "description": "Became Public Law No: 119-111.",
+      "date": "2026-09-18T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "became-law"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-22T10:39:30Z"
+      }
+    },
+    {
+      "description": "Signed by President.",
+      "date": "2026-09-18T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-22T10:39:30Z"
+      }
+    },
     {
       "description": "Presented to President.",
       "date": "2026-09-17T04:00:00+00:00",
@@ -935,7 +959,16 @@
       "classification": ""
     }
   ],
-  "citations": [],
+  "citations": [
+    {
+      "publication": "US Public Law",
+      "citation": "119-111",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.congress.gov/119/plaws/publ111/PLAW-119publ111.pdf"
+    }
+  ],
   "sources": [
     {
       "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr5334.xml",
@@ -983,7 +1016,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-09-18T13:28:37Z",
+    "logs_latest_update": "2026-09-22T10:39:30Z",
     "text_extraction_latest_update": "2026-09-18T13:31:03.625735Z"
   }
 }

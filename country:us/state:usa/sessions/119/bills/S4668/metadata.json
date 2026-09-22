@@ -21,63 +21,73 @@
   ],
   "actions": [
     {
-      "description": "Cloture motion on the measure presented in Senate.",
+      "description": "Cloture motion on the measure presented in Senate. (CR S4789)",
       "date": "2026-09-17T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-09-19T10:48:54Z"
+        "log_file_created": "2026-09-22T10:39:27Z"
       }
     },
     {
-      "description": "Cloture motion on amendment SA 6776 presented in Senate.",
+      "description": "Cloture motion on amendment SA 6776 presented in Senate. (CR S4789)",
       "date": "2026-09-17T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-09-19T10:48:54Z"
+        "log_file_created": "2026-09-22T10:39:27Z"
       }
     },
     {
-      "description": "Motion by Senator Thune to recommit to Senate Committee on Commerce, Science, and Transportation with instructions to report back forthwith with the following amendment (SA 6781) made in Senate.",
+      "description": "Motion by Senator Thune to recommit to Senate Committee on Commerce, Science, and Transportation with instructions to report back forthwith with the following amendment (SA 6781) made in Senate. (CR S4789)",
       "date": "2026-09-17T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-09-19T10:48:54Z"
+        "log_file_created": "2026-09-22T10:39:27Z"
       }
     },
     {
-      "description": "Measure laid before Senate by motion.",
+      "description": "Measure laid before Senate by motion. (consideration: CR S4777-4790)",
       "date": "2026-09-17T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-09-19T10:48:54Z"
+        "log_file_created": "2026-09-22T10:39:27Z"
       }
     },
     {
-      "description": "Motion to proceed to consideration of measure agreed to in Senate by Yea-Nay Vote. 77 - 22. Record Vote Number: 236.",
+      "description": "Motion to proceed to consideration of measure agreed to in Senate by Yea-Nay Vote. 77 - 22. Record Vote Number: 236. (CR S4773-4774)",
       "date": "2026-09-17T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-09-19T10:48:54Z"
+        "log_file_created": "2026-09-22T10:39:27Z"
+      }
+    },
+    {
+      "description": "Motion to proceed to measure considered in Senate. (CR S4773-4774)",
+      "date": "2026-09-17T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-22T10:39:27Z"
       }
     },
     {
       "description": "Motion to proceed to measure considered in Senate.",
-      "date": "2026-09-17T04:00:00+00:00",
+      "date": "2026-09-16T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-09-19T10:48:54Z"
+        "log_file_created": "2026-09-22T10:39:27Z"
       }
     },
     {
@@ -727,7 +737,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-09-19T10:48:54Z",
+    "logs_latest_update": "2026-09-22T10:39:27Z",
     "text_extraction_latest_update": "2026-09-19T10:50:58.250230Z"
   }
 }

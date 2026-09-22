@@ -11,11 +11,11 @@
   "other_titles": [
     {
       "note": "",
-      "title": "Federal Disaster Tax Relief Act of 2025"
+      "title": "To amend the Internal Revenue Code of 1986 to codify and extend the rules for personal casualty losses arising from major disasters and the rules for the exclusion from gross income of compensation for losses or damages resulting from certain wildfires."
     },
     {
       "note": "",
-      "title": "To amend the Internal Revenue Code of 1986 to codify and extend the rules for personal casualty losses arising from major disasters and the rules for the exclusion from gross income of compensation for losses or damages resulting from certain wildfires."
+      "title": "Federal Disaster Tax Relief Act of 2025"
     }
   ],
   "other_identifiers": [
@@ -24,6 +24,18 @@
     }
   ],
   "actions": [
+    {
+      "description": "Became Public Law No: 119-108.",
+      "date": "2026-09-11T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "became-law"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-22T10:39:26Z"
+      }
+    },
     {
       "description": "Signed by President.",
       "date": "2026-09-11T04:00:00+00:00",
@@ -353,6 +365,11 @@
   ],
   "related_bills": [
     {
+      "identifier": "S 3372",
+      "legislative_session": "119",
+      "relation_type": "companion"
+    },
+    {
       "identifier": "HR 5225",
       "legislative_session": "119",
       "relation_type": "companion"
@@ -364,11 +381,6 @@
     },
     {
       "identifier": "S 2744",
-      "legislative_session": "119",
-      "relation_type": "companion"
-    },
-    {
-      "identifier": "S 3372",
       "legislative_session": "119",
       "relation_type": "companion"
     }
@@ -482,7 +494,16 @@
       "classification": ""
     }
   ],
-  "citations": [],
+  "citations": [
+    {
+      "publication": "US Public Law",
+      "citation": "119-108",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.congress.gov/119/plaws/publ108/PLAW-119publ108.pdf"
+    }
+  ],
   "sources": [
     {
       "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr5366.xml",
@@ -521,7 +542,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-09-12T12:23:01Z",
+    "logs_latest_update": "2026-09-22T10:39:26Z",
     "text_extraction_latest_update": "2026-09-12T12:24:57.519517Z"
   }
 }
