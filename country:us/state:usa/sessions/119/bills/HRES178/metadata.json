@@ -33,6 +33,16 @@
       }
     },
     {
+      "description": "Submitted in House",
+      "date": "2025-03-03T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-23T10:44:41Z"
+      }
+    },
+    {
       "description": "Sponsor introductory remarks on measure. (CR H892)",
       "date": "2025-02-27T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"legislature\"}",
@@ -96,7 +106,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-22T08:35:16Z",
+    "logs_latest_update": "2026-09-23T10:44:41Z",
     "text_extraction_latest_update": "2026-07-22T12:19:17.786890Z"
   }
 }
