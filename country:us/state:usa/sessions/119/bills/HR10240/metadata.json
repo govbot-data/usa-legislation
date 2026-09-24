@@ -21,6 +21,16 @@
   ],
   "actions": [
     {
+      "description": "Referred to the Subcommittee on Health.",
+      "date": "2026-09-10T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-24T11:14:06Z"
+      }
+    },
+    {
       "description": "Referred to the Committee on Energy and Commerce, and in addition to the Committees on Ways and Means, Armed Services, Veterans' Affairs, Oversight and Government Reform, and Education and Workforce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
       "date": "2026-09-03T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -79,6 +89,14 @@
       "organization_id": null
     },
     {
+      "name": "Seth Moulton",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Seth Moulton\"}",
+      "organization_id": null
+    },
+    {
       "name": "Jennifer L. McClellan",
       "classification": "primary",
       "entity_type": "person",
@@ -122,7 +140,8 @@
       "M001163",
       "T000482",
       "S000510",
-      "B001300"
+      "B001300",
+      "M001196"
     ],
     "sponsor_bioguides": [
       "M001227"
@@ -135,7 +154,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-09-05T11:42:15Z",
+    "logs_latest_update": "2026-09-24T11:14:06Z",
     "text_extraction_latest_update": "2026-09-05T11:45:39.031339Z"
   }
 }

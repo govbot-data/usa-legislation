@@ -21,6 +21,18 @@
   ],
   "actions": [
     {
+      "description": "Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 679.",
+      "date": "2026-09-22T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-24T11:14:10Z"
+      }
+    },
+    {
       "description": "Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.",
       "date": "2026-09-17T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -44,13 +56,13 @@
       }
     },
     {
-      "description": "On passage Passed by the Yeas and Nays: 352 - 72 (Roll no. 309).",
+      "description": "On passage Passed by the Yeas and Nays: 352 - 72 (Roll no. 309). (text of amendment in the nature of a substitute: CR H5941)",
       "date": "2026-09-16T22:37:27+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-09-17T13:14:42Z"
+        "log_file_created": "2026-09-24T11:14:10Z"
       }
     },
     {
@@ -66,13 +78,13 @@
       }
     },
     {
-      "description": "Considered as unfinished business.",
+      "description": "Considered as unfinished business. (consideration: CR H5956-5957)",
       "date": "2026-09-16T22:28:42+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-09-17T13:14:42Z"
+        "log_file_created": "2026-09-24T11:14:10Z"
       }
     },
     {
@@ -116,13 +128,13 @@
       }
     },
     {
-      "description": "Considered under the provisions of rule H. Res. 1530.",
+      "description": "Considered under the provisions of rule H. Res. 1530. (consideration: CR H5941-5947)",
       "date": "2026-09-16T19:45:44+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-09-17T13:14:42Z"
+        "log_file_created": "2026-09-24T11:14:10Z"
       }
     },
     {
@@ -211,6 +223,21 @@
   ],
   "versions": [
     {
+      "note": "Placed on Calendar Senate",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr9576pcs/xml/BILLS-119hr9576pcs.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr9576pcs/pdf/BILLS-119hr9576pcs.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-09-22",
+      "classification": ""
+    },
+    {
       "note": "Engrossed in House",
       "links": [
         {
@@ -283,7 +310,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-09-19T10:48:51Z",
+    "logs_latest_update": "2026-09-24T11:14:10Z",
     "text_extraction_latest_update": "2026-09-19T10:50:56.133313Z"
   }
 }

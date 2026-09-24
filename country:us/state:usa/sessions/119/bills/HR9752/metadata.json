@@ -21,6 +21,16 @@
   ],
   "actions": [
     {
+      "description": "Referred to the Subcommittee on Health.",
+      "date": "2026-07-23T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-24T11:14:07Z"
+      }
+    },
+    {
       "description": "Referred to the House Committee on Veterans' Affairs.",
       "date": "2026-07-16T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -127,7 +137,13 @@
       "organization_id": null
     }
   ],
-  "related_bills": [],
+  "related_bills": [
+    {
+      "identifier": "S 5027",
+      "legislative_session": "119",
+      "relation_type": "companion"
+    }
+  ],
   "versions": [
     {
       "note": "Introduced in House",
@@ -180,7 +196,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-22T08:34:58Z",
+    "logs_latest_update": "2026-09-24T11:14:07Z",
     "text_extraction_latest_update": "2026-07-22T08:38:27.878502Z"
   }
 }

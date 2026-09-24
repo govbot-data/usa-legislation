@@ -21,6 +21,28 @@
   ],
   "actions": [
     {
+      "description": "Passed Senate without amendment by Unanimous Consent. (consideration: CR S4882-4883)",
+      "date": "2026-09-22T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-24T11:14:07Z"
+      }
+    },
+    {
+      "description": "Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.",
+      "date": "2026-09-22T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-24T11:14:07Z"
+      }
+    },
+    {
       "description": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 491.",
       "date": "2026-07-23T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -169,7 +191,13 @@
       "organization_id": null
     }
   ],
-  "related_bills": [],
+  "related_bills": [
+    {
+      "identifier": "HR 8946",
+      "legislative_session": "118",
+      "relation_type": "companion"
+    }
+  ],
   "versions": [
     {
       "note": "Reported to Senate",
@@ -257,7 +285,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-09T06:21:12Z",
+    "logs_latest_update": "2026-09-24T11:14:07Z",
     "text_extraction_latest_update": "2026-08-09T06:36:10.829337Z"
   }
 }

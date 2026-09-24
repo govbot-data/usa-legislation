@@ -16,6 +16,16 @@
   ],
   "actions": [
     {
+      "description": "Referred to the Subcommittee on Economic Opportunity.",
+      "date": "2026-09-07T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-24T11:14:08Z"
+      }
+    },
+    {
       "description": "Referred to the House Committee on Veterans' Affairs.",
       "date": "2026-08-27T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -61,7 +71,23 @@
     }
   ],
   "related_bills": [],
-  "versions": [],
+  "versions": [
+    {
+      "note": "Introduced in House",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr10172ih/xml/BILLS-119hr10172ih.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr10172ih/pdf/BILLS-119hr10172ih.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-08-27",
+      "classification": ""
+    }
+  ],
   "documents": [],
   "citations": [],
   "sources": [
@@ -87,7 +113,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-28T17:42:57Z",
+    "logs_latest_update": "2026-09-24T11:14:08Z",
     "text_extraction_latest_update": "2026-09-23T15:59:26.312334Z"
   }
 }

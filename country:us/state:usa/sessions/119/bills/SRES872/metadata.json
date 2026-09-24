@@ -1,0 +1,104 @@
+{
+  "legislative_session": "119",
+  "identifier": "SRES 872",
+  "title": "A resolution celebrating the 65th anniversary of the establishment of the Peace Corps, and commending its volunteers and contributions to global peace, friendship, and development.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "resolution"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-us-119-sres872"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred to the Committee on Foreign Relations. (text: CR S4862)",
+      "date": "2026-09-22T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-24T11:14:09Z"
+      }
+    },
+    {
+      "description": "Submitted in Senate",
+      "date": "2026-09-22T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-24T11:14:09Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Thomas Roland Tillis",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Thomas Roland Tillis\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Cory Booker",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Cory Booker\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced in Senate",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119sres872is/xml/BILLS-119sres872is.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119sres872is/pdf/BILLS-119sres872is.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-09-22",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/sres/BILLSTATUS-119sres872.xml",
+      "note": ""
+    },
+    {
+      "url": "https://congress.gov/bill/119th-congress/senate-resolution/872",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "cosponsor_bioguides": [
+      "T000476"
+    ],
+    "sponsor_bioguides": [
+      "B001288"
+    ]
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/government",
+    "name": "United States",
+    "classification": "country",
+    "division_id": "ocd-division/country:us"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-09-24T11:14:09Z"
+  }
+}

@@ -21,6 +21,16 @@
   ],
   "actions": [
     {
+      "description": "Referred to the Subcommittee on Economic Opportunity.",
+      "date": "2026-09-10T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-24T11:14:09Z"
+      }
+    },
+    {
       "description": "Referred to the Committee on Veterans' Affairs, and in addition to the Committee on Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
       "date": "2026-09-03T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -63,7 +73,13 @@
       "organization_id": null
     }
   ],
-  "related_bills": [],
+  "related_bills": [
+    {
+      "identifier": "S 3993",
+      "legislative_session": "119",
+      "relation_type": "companion"
+    }
+  ],
   "versions": [
     {
       "note": "Introduced in House",
@@ -108,7 +124,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-09-05T11:42:25Z",
+    "logs_latest_update": "2026-09-24T11:14:09Z",
     "text_extraction_latest_update": "2026-09-05T11:44:46.060272Z"
   }
 }

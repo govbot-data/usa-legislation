@@ -1,20 +1,35 @@
 {
   "legislative_session": "119",
   "identifier": "HR 9946",
-  "title": "To require the coverage of testing for certain sexually transmitted infections without the imposition of cost sharing, and for other purposes.",
+  "title": "Equity in STI Testing Act",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
   ],
   "subject": [],
   "abstracts": [],
-  "other_titles": [],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "To require the coverage of testing for certain sexually transmitted infections without the imposition of cost-sharing, and for other purposes."
+    }
+  ],
   "other_identifiers": [
     {
       "identifier": "ocd-bill-us-119-hr9946"
     }
   ],
   "actions": [
+    {
+      "description": "Referred to the Subcommittee on Health.",
+      "date": "2026-07-30T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-24T11:14:11Z"
+      }
+    },
     {
       "description": "Referred to the Committee on Energy and Commerce, and in addition to the Committees on Ways and Means, Veterans' Affairs, Armed Services, and Natural Resources, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
       "date": "2026-07-23T04:00:00+00:00",
@@ -139,7 +154,23 @@
     }
   ],
   "related_bills": [],
-  "versions": [],
+  "versions": [
+    {
+      "note": "Introduced in House",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr9946ih/xml/BILLS-119hr9946ih.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr9946ih/pdf/BILLS-119hr9946ih.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-07-23",
+      "classification": ""
+    }
+  ],
   "documents": [],
   "citations": [],
   "sources": [
@@ -177,7 +208,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-09T06:21:06Z",
+    "logs_latest_update": "2026-09-24T11:14:11Z",
     "text_extraction_latest_update": "2026-09-23T15:59:27.315142Z"
   }
 }

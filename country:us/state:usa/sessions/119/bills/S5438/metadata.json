@@ -1,20 +1,37 @@
 {
   "legislative_session": "119",
   "identifier": "S 5438",
-  "title": "A bill to ratify and approve all authorizations, permits, verifications, extensions, biological opinions, incidental take statements, and any other approvals or orders issued pursuant to Federal law necessary for the establishment and administration of the Coastal Plain oil and gas leasing program, and for other purposes.",
+  "title": "Alaska\u2019s Right to Produce Act 2.0",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
   ],
   "subject": [],
   "abstracts": [],
-  "other_titles": [],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "A bill to ratify and approve all authorizations, permits, verifications, extensions, biological opinions, incidental take statements, and any other approvals or orders issued pursuant to Federal law necessary for the establishment and administration of the Coastal Plain oil and gas leasing program, and for other purposes."
+    }
+  ],
   "other_identifiers": [
     {
       "identifier": "ocd-bill-us-119-s5438"
     }
   ],
   "actions": [
+    {
+      "description": "Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 678.",
+      "date": "2026-09-22T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-24T11:14:11Z"
+      }
+    },
     {
       "description": "Introduced in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.",
       "date": "2026-09-17T04:00:00+00:00",
@@ -49,7 +66,23 @@
     }
   ],
   "related_bills": [],
-  "versions": [],
+  "versions": [
+    {
+      "note": "Placed on Calendar Senate",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119s5438pcs/xml/BILLS-119s5438pcs.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119s5438pcs/pdf/BILLS-119s5438pcs.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-09-22",
+      "classification": ""
+    }
+  ],
   "documents": [],
   "citations": [],
   "sources": [
@@ -75,7 +108,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-09-19T10:48:51Z",
+    "logs_latest_update": "2026-09-24T11:14:11Z",
     "text_extraction_latest_update": "2026-09-23T15:59:26.153075Z"
   }
 }

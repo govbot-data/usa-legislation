@@ -16,6 +16,16 @@
   ],
   "actions": [
     {
+      "description": "Referred to the Subcommittee on Health.",
+      "date": "2026-07-29T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-24T11:14:05Z"
+      }
+    },
+    {
       "description": "Referred to the House Committee on Veterans' Affairs.",
       "date": "2026-07-22T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -93,7 +103,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-09T06:21:11Z",
+    "logs_latest_update": "2026-09-24T11:14:05Z",
     "text_extraction_latest_update": "2026-08-09T06:40:08.287609Z"
   }
 }

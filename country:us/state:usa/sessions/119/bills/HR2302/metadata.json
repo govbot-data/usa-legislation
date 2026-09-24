@@ -21,6 +21,26 @@
   ],
   "actions": [
     {
+      "description": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 675.",
+      "date": "2026-09-22T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-24T11:14:06Z"
+      }
+    },
+    {
+      "description": "Committee on Indian Affairs. Reported by Senator Murkowski without amendment. With written report No. 119-150.",
+      "date": "2026-09-22T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-24T11:14:06Z"
+      }
+    },
+    {
       "description": "Committee on Indian Affairs. Ordered to be reported without amendment favorably.",
       "date": "2026-05-20T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -218,6 +238,21 @@
   ],
   "versions": [
     {
+      "note": "Reported to Senate",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr2302rs/xml/BILLS-119hr2302rs.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr2302rs/pdf/BILLS-119hr2302rs.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-09-22",
+      "classification": ""
+    },
+    {
       "note": "Referred in Senate",
       "links": [
         {
@@ -280,6 +315,17 @@
   ],
   "documents": [
     {
+      "note": "CBO: H.R. 2302, Shingle Springs Band of Miwok Indians Land Transfer Act of 2025",
+      "links": [
+        {
+          "url": "https://www.cbo.gov/publication/62696",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "H. Rept. 119-286",
       "links": [
         {
@@ -315,7 +361,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-22T08:35:08Z",
+    "logs_latest_update": "2026-09-24T11:14:06Z",
     "text_extraction_latest_update": "2026-07-22T17:01:32.778937Z"
   }
 }
