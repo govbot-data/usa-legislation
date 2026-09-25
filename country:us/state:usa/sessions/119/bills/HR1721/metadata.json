@@ -21,6 +21,38 @@
   ],
   "actions": [
     {
+      "description": "Passed Senate without amendment by Unanimous Consent. (consideration: CR S4892)",
+      "date": "2026-09-23T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-25T11:01:22Z"
+      }
+    },
+    {
+      "description": "Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.",
+      "date": "2026-09-23T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-25T11:01:22Z"
+      }
+    },
+    {
+      "description": "Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent.",
+      "date": "2026-09-23T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-25T11:01:22Z"
+      }
+    },
+    {
       "description": "Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.",
       "date": "2025-04-29T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -305,7 +337,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-22T08:34:55Z",
+    "logs_latest_update": "2026-09-25T11:01:22Z",
     "text_extraction_latest_update": "2026-07-22T11:13:33.832578Z"
   }
 }

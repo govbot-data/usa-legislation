@@ -21,6 +21,16 @@
   ],
   "actions": [
     {
+      "description": "Committee on Indian Affairs. Ordered to be reported with an amendment favorably.",
+      "date": "2026-09-23T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-25T11:01:25Z"
+      }
+    },
+    {
       "description": "Committee on Indian Affairs. Hearings held.",
       "date": "2026-09-16T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -103,6 +113,22 @@
       "organization_id": null
     },
     {
+      "name": "Catherine Cortez Masto",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Catherine Cortez Masto\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Tina Smith",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Tina Smith\"}",
+      "organization_id": null
+    },
+    {
       "name": "Lisa Murkowski",
       "classification": "primary",
       "entity_type": "person",
@@ -148,7 +174,9 @@
       "L000570",
       "S001198",
       "H001042",
-      "C000880"
+      "C000880",
+      "C001113",
+      "S001203"
     ],
     "sponsor_bioguides": [
       "M001153"
@@ -161,7 +189,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-09-17T13:14:40Z",
+    "logs_latest_update": "2026-09-25T11:01:25Z",
     "text_extraction_latest_update": "2026-09-17T13:17:44.369490Z"
   }
 }

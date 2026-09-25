@@ -16,6 +16,16 @@
   ],
   "actions": [
     {
+      "description": "Committee on Indian Affairs. Hearings held.",
+      "date": "2026-09-23T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-25T11:01:23Z"
+      }
+    },
+    {
       "description": "Read twice and referred to the Committee on Indian Affairs. (Sponsor introductory remarks on measure: CR S1011)",
       "date": "2026-03-11T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -107,7 +117,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-22T08:35:06Z",
+    "logs_latest_update": "2026-09-25T11:01:23Z",
     "text_extraction_latest_update": "2026-07-22T14:33:55.552467Z"
   }
 }
