@@ -1,13 +1,11 @@
 {
   "action": {
-    "description": "Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent. (consideration: CR S4882)",
-    "occurred_at": "2026-09-22T04:00:00+00:00",
+    "description": "Message on Senate action sent to the House.",
+    "occurred_at": "2026-09-24T04:00:00+00:00",
     "jurisdiction_id": "~{\"classification\": \"upper\"}",
     "session_id": "119",
     "entity_type": "bill",
-    "classifications": [
-      "passage"
-    ],
+    "classifications": [],
     "related_entities": [],
     "sources": [
       {
