@@ -126,18 +126,6 @@
       "_processing": {
         "log_file_created": "2026-07-22T08:35:06Z"
       }
-    },
-    {
-      "description": "Introduced in the House",
-      "date": "2025-02-10T05:00:00+00:00",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [
-        "introduction"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-07-22T08:35:06Z"
-      }
     }
   ],
   "sponsorships": [
@@ -226,7 +214,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-22T08:35:06Z",
+    "logs_latest_update": "2026-09-30T13:39:38Z",
     "text_extraction_latest_update": "2026-07-22T15:21:42.610697Z"
   }
 }

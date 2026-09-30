@@ -21,6 +21,38 @@
   ],
   "actions": [
     {
+      "description": "Passed Senate without amendment by Unanimous Consent.",
+      "date": "2026-09-28T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-30T13:39:00Z"
+      }
+    },
+    {
+      "description": "Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.",
+      "date": "2026-09-28T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-30T13:39:00Z"
+      }
+    },
+    {
+      "description": "Senate Committee on Banking, Housing, and Urban Affairs discharged by Unanimous Consent. (consideration: CR S5120)",
+      "date": "2026-09-28T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-30T13:39:00Z"
+      }
+    },
+    {
       "description": "Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.",
       "date": "2026-09-15T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -156,6 +188,21 @@
   ],
   "versions": [
     {
+      "note": "Referred in Senate",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr10167rfs/xml/BILLS-119hr10167rfs.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr10167rfs/pdf/BILLS-119hr10167rfs.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-09-15",
+      "classification": ""
+    },
+    {
       "note": "Engrossed in House",
       "links": [
         {
@@ -213,7 +260,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-09-17T13:14:43Z",
+    "logs_latest_update": "2026-09-30T13:39:00Z",
     "text_extraction_latest_update": "2026-09-17T13:17:19.083679Z"
   }
 }

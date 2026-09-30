@@ -21,6 +21,18 @@
   ],
   "actions": [
     {
+      "description": "Presented to President.",
+      "date": "2026-09-29T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-30T13:39:17Z"
+      }
+    },
+    {
       "description": "Message on Senate action sent to the House.",
       "date": "2026-09-18T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -31,13 +43,13 @@
       }
     },
     {
-      "description": "Passed Senate without amendment by Unanimous Consent.",
+      "description": "Passed Senate without amendment by Unanimous Consent. (consideration: CR S4790)",
       "date": "2026-09-17T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-09-19T10:48:52Z"
+        "log_file_created": "2026-09-30T13:39:17Z"
       }
     },
     {
@@ -228,6 +240,29 @@
   ],
   "versions": [
     {
+      "note": "Enrolled Bill",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr5345enr/uslm/BILLS-119hr5345enr.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr5345enr/uslm/BILLS-119hr5345enr.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr5345enr/xml/BILLS-119hr5345enr.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr5345enr/pdf/BILLS-119hr5345enr.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Referred in Senate",
       "links": [
         {
@@ -327,7 +362,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-09-20T11:22:29Z",
+    "logs_latest_update": "2026-09-30T13:39:41Z",
     "text_extraction_latest_update": "2026-09-20T11:24:30.404689Z"
   }
 }

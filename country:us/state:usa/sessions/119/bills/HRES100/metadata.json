@@ -26,6 +26,16 @@
       "_processing": {
         "log_file_created": "2026-07-22T08:35:10Z"
       }
+    },
+    {
+      "description": "Submitted in House",
+      "date": "2025-02-04T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-30T13:39:06Z"
+      }
     }
   ],
   "sponsorships": [
@@ -262,6 +272,22 @@
       "organization_id": null
     },
     {
+      "name": "Madeleine Dean",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Madeleine Dean\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Rick Larsen",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Rick Larsen\"}",
+      "organization_id": null
+    },
+    {
       "name": "Bill Foster",
       "classification": "primary",
       "entity_type": "person",
@@ -336,7 +362,9 @@
       "M001238",
       "C001069",
       "L000593",
-      "L000397"
+      "L000397",
+      "D000631",
+      "L000560"
     ],
     "sponsor_bioguides": [
       "F000454"
@@ -349,7 +377,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-22T08:35:10Z",
+    "logs_latest_update": "2026-09-30T13:39:06Z",
     "text_extraction_latest_update": "2026-07-22T13:21:08.521601Z"
   }
 }

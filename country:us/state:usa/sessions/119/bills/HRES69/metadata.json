@@ -26,6 +26,16 @@
       "_processing": {
         "log_file_created": "2026-07-22T08:34:58Z"
       }
+    },
+    {
+      "description": "Submitted in House",
+      "date": "2025-01-24T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-30T13:39:18Z"
+      }
     }
   ],
   "sponsorships": [
@@ -302,6 +312,14 @@
       "organization_id": null
     },
     {
+      "name": "Johnny Olszewski",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Johnny Olszewski\"}",
+      "organization_id": null
+    },
+    {
       "name": "Shri Thanedar",
       "classification": "primary",
       "entity_type": "person",
@@ -375,7 +393,8 @@
       "P000608",
       "K000389",
       "D000530",
-      "J000310"
+      "J000310",
+      "O000176"
     ],
     "sponsor_bioguides": [
       "T000488"
@@ -388,7 +407,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-22T08:34:58Z",
+    "logs_latest_update": "2026-09-30T13:39:18Z",
     "text_extraction_latest_update": "2026-07-22T14:52:05.584378Z"
   }
 }
