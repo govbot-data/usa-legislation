@@ -21,6 +21,38 @@
   ],
   "actions": [
     {
+      "description": "Passed Senate without amendment by Unanimous Consent. (consideration: CR S5186)",
+      "date": "2026-09-29T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-01T15:40:59Z"
+      }
+    },
+    {
+      "description": "Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.",
+      "date": "2026-09-29T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-01T15:40:59Z"
+      }
+    },
+    {
+      "description": "Senate Committee on Armed Services discharged by Unanimous Consent.",
+      "date": "2026-09-29T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-01T15:40:59Z"
+      }
+    },
+    {
       "description": "Received in the Senate and Read twice and referred to the Committee on Armed Services.",
       "date": "2026-09-15T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -236,6 +268,21 @@
   "related_bills": [],
   "versions": [
     {
+      "note": "Referred in Senate",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr10159rfs/xml/BILLS-119hr10159rfs.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr10159rfs/pdf/BILLS-119hr10159rfs.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-09-15",
+      "classification": ""
+    },
+    {
       "note": "Engrossed in House",
       "links": [
         {
@@ -305,7 +352,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-09-17T13:14:41Z",
+    "logs_latest_update": "2026-10-01T15:40:59Z",
     "text_extraction_latest_update": "2026-09-17T13:16:30.881764Z"
   }
 }

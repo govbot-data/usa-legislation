@@ -21,6 +21,38 @@
   ],
   "actions": [
     {
+      "description": "Passed Senate without amendment by Unanimous Consent. (consideration: CR S5184)",
+      "date": "2026-09-29T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-01T15:41:19Z"
+      }
+    },
+    {
+      "description": "Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.",
+      "date": "2026-09-29T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-01T15:41:19Z"
+      }
+    },
+    {
+      "description": "Senate Committee on Finance discharged by Unanimous Consent.",
+      "date": "2026-09-29T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-01T15:41:19Z"
+      }
+    },
+    {
       "description": "Received in the Senate and Read twice and referred to the Committee on Finance.",
       "date": "2025-12-02T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -357,7 +389,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-22T08:35:08Z",
+    "logs_latest_update": "2026-10-01T15:41:19Z",
     "text_extraction_latest_update": "2026-07-22T10:34:10.023542Z"
   }
 }

@@ -15,11 +15,11 @@
     },
     {
       "note": "",
-      "title": "To extend and authorize annual appropriations for the United States Commission on International Religious Freedom through December 31, 2028."
+      "title": "United States Commission on International Religious Freedom Reauthorization Act of 2025"
     },
     {
       "note": "",
-      "title": "United States Commission on International Religious Freedom Reauthorization Act of 2025"
+      "title": "To extend and authorize annual appropriations for the United States Commission on International Religious Freedom through December 31, 2028."
     }
   ],
   "other_identifiers": [
@@ -28,6 +28,38 @@
     }
   ],
   "actions": [
+    {
+      "description": "Passed Senate without amendment by Unanimous Consent. (consideration: CR S5186)",
+      "date": "2026-09-29T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-01T15:40:45Z"
+      }
+    },
+    {
+      "description": "Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.",
+      "date": "2026-09-29T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-01T15:40:45Z"
+      }
+    },
+    {
+      "description": "Senate Committee on Foreign Relations discharged by Unanimous Consent.",
+      "date": "2026-09-29T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-01T15:40:45Z"
+      }
+    },
     {
       "description": "Received in the Senate and Read twice and referred to the Committee on Foreign Relations.",
       "date": "2026-06-09T04:00:00+00:00",
@@ -358,7 +390,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-22T08:35:13Z",
+    "logs_latest_update": "2026-10-01T15:40:45Z",
     "text_extraction_latest_update": "2026-07-23T07:11:23.254973Z"
   }
 }

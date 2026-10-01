@@ -21,6 +21,38 @@
   ],
   "actions": [
     {
+      "description": "Passed Senate without amendment by Unanimous Consent. (consideration: CR S5185)",
+      "date": "2026-09-29T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-01T15:40:43Z"
+      }
+    },
+    {
+      "description": "Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.",
+      "date": "2026-09-29T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-01T15:40:43Z"
+      }
+    },
+    {
+      "description": "Senate Committee on Banking, Housing, and Urban Affairs discharged by Unanimous Consent.",
+      "date": "2026-09-29T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-01T15:40:43Z"
+      }
+    },
+    {
       "description": "Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.",
       "date": "2025-06-24T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -321,7 +353,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-22T08:34:53Z",
+    "logs_latest_update": "2026-10-01T15:40:43Z",
     "text_extraction_latest_update": "2026-07-22T14:39:19.739649Z"
   }
 }

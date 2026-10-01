@@ -21,18 +21,6 @@
   ],
   "actions": [
     {
-      "description": "Presented to President.",
-      "date": "2026-09-29T04:00:00+00:00",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [
-        "executive-receipt"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-09-30T13:39:17Z"
-      }
-    },
-    {
       "description": "Message on Senate action sent to the House.",
       "date": "2026-09-18T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
