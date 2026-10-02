@@ -25,35 +25,13 @@
   ],
   "actions": [
     {
-      "description": "Passed Senate without amendment by Unanimous Consent. (consideration: CR S5140)",
-      "date": "2026-09-29T04:00:00+00:00",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-10-01T15:40:37Z"
-      }
-    },
-    {
-      "description": "Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.",
-      "date": "2026-09-29T04:00:00+00:00",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "passage"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-10-01T15:40:37Z"
-      }
-    },
-    {
-      "description": "Received in the Senate, read twice.",
+      "description": "Received in the Senate.",
       "date": "2026-03-04T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-10-01T15:40:37Z"
+        "log_file_created": "2026-10-02T12:50:35Z"
       }
     },
     {
@@ -355,7 +333,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-10-01T15:40:37Z",
+    "logs_latest_update": "2026-10-02T12:50:35Z",
     "text_extraction_latest_update": "2026-10-01T15:44:23.502823Z"
   }
 }

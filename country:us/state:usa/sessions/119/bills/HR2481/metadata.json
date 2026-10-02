@@ -21,6 +21,16 @@
   ],
   "actions": [
     {
+      "description": "Message on Senate action sent to the House.",
+      "date": "2026-09-24T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-02T12:50:36Z"
+      }
+    },
+    {
       "description": "Passed Senate without amendment by Unanimous Consent. (consideration: CR S4902)",
       "date": "2026-09-23T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -31,7 +41,7 @@
       }
     },
     {
-      "description": "Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.",
+      "description": "Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent. (consideration: CR S4902)",
       "date": "2026-09-23T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [
@@ -39,7 +49,7 @@
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-10-01T15:42:14Z"
+        "log_file_created": "2026-10-02T12:50:36Z"
       }
     },
     {
@@ -276,6 +286,29 @@
   "related_bills": [],
   "versions": [
     {
+      "note": "Enrolled Bill",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr2481enr/uslm/BILLS-119hr2481enr.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr2481enr/uslm/BILLS-119hr2481enr.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr2481enr/xml/BILLS-119hr2481enr.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr2481enr/pdf/BILLS-119hr2481enr.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Placed on Calendar Senate",
       "links": [
         {
@@ -394,7 +427,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-10-01T15:42:14Z",
+    "logs_latest_update": "2026-10-02T12:50:36Z",
     "text_extraction_latest_update": "2026-10-01T15:44:21.558427Z"
   }
 }

@@ -11,15 +11,15 @@
   "other_titles": [
     {
       "note": "",
+      "title": "To redesignate the Chiricahua National Monument in the State of Arizona as Chiricahua National Park, and for other purposes"
+    },
+    {
+      "note": "",
       "title": "To redesignate the Chiricahua National Monument in the State of Arizona as Chiricahua National Park, and for other purposes."
     },
     {
       "note": "",
       "title": "To establish the Chiricahua National Park in the State of Arizona as a unit of the National Park System, and for other purposes."
-    },
-    {
-      "note": "",
-      "title": "To redesignate the Chiricahua National Monument in the State of Arizona as Chiricahua National Park, and for other purposes"
     }
   ],
   "other_identifiers": [
@@ -28,6 +28,38 @@
     }
   ],
   "actions": [
+    {
+      "description": "Passed Senate without amendment by Unanimous Consent.",
+      "date": "2026-09-30T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-02T12:50:47Z"
+      }
+    },
+    {
+      "description": "Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.",
+      "date": "2026-09-30T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-02T12:50:47Z"
+      }
+    },
+    {
+      "description": "Senate Committee on Energy and Natural Resources discharged by Unanimous Consent.",
+      "date": "2026-09-30T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-02T12:50:47Z"
+      }
+    },
     {
       "description": "Committee on Energy and Natural Resources. Ordered to be reported with an amendment in the nature of a substitute favorably.",
       "date": "2026-07-29T04:00:00+00:00",
@@ -358,7 +390,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-09T06:21:08Z",
+    "logs_latest_update": "2026-10-02T12:50:47Z",
     "text_extraction_latest_update": "2026-08-09T06:47:52.476425Z"
   }
 }

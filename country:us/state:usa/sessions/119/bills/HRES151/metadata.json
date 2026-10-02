@@ -36,6 +36,16 @@
       "_processing": {
         "log_file_created": "2026-07-22T08:35:15Z"
       }
+    },
+    {
+      "description": "Submitted in House",
+      "date": "2025-02-21T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-02T12:51:34Z"
+      }
     }
   ],
   "sponsorships": [
@@ -287,7 +297,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-09-30T13:39:33Z",
+    "logs_latest_update": "2026-10-02T12:51:34Z",
     "text_extraction_latest_update": "2026-09-30T13:41:31.924652Z"
   }
 }

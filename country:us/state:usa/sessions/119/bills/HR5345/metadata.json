@@ -21,6 +21,18 @@
   ],
   "actions": [
     {
+      "description": "Presented to President.",
+      "date": "2026-09-29T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-02T12:50:43Z"
+      }
+    },
+    {
       "description": "Message on Senate action sent to the House.",
       "date": "2026-09-18T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -350,7 +362,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-09-30T13:39:41Z",
+    "logs_latest_update": "2026-10-02T12:50:43Z",
     "text_extraction_latest_update": "2026-09-30T13:41:44.640169Z"
   }
 }

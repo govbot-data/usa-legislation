@@ -21,6 +21,28 @@
   ],
   "actions": [
     {
+      "description": "Passed Senate without amendment by Voice Vote. (consideration: CR S5120)",
+      "date": "2026-09-28T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-02T12:50:38Z"
+      }
+    },
+    {
+      "description": "Passed/agreed to in Senate: Passed Senate without amendment by Voice Vote. (consideration: CR S5120)",
+      "date": "2026-09-28T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-02T12:51:42Z"
+      }
+    },
+    {
       "description": "Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 466.",
       "date": "2026-07-23T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -1253,7 +1275,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-09-30T13:39:34Z",
+    "logs_latest_update": "2026-10-02T12:51:42Z",
     "text_extraction_latest_update": "2026-09-30T13:41:45.764439Z"
   }
 }

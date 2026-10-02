@@ -1,7 +1,7 @@
 {
   "legislative_session": "119",
   "identifier": "HR 5349",
-  "title": "Tax Court Improvement Act",
+  "title": "TAS Act",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -12,6 +12,18 @@
     {
       "note": "",
       "title": "To amend the Internal Revenue Code of 1986 to improve services provided to taxpayers by the Internal Revenue Service by providing greater judicial review."
+    },
+    {
+      "note": "",
+      "title": "Taxpayer Assistance and Service Act"
+    },
+    {
+      "note": "",
+      "title": "To improve services provided to taxpayers by the Internal Revenue Service."
+    },
+    {
+      "note": "",
+      "title": "Tax Court Improvement Act"
     }
   ],
   "other_identifiers": [
@@ -20,6 +32,48 @@
     }
   ],
   "actions": [
+    {
+      "description": "Passed Senate with an amendment and an amendment to the Title by Unanimous Consent.",
+      "date": "2026-09-30T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-02T12:50:35Z"
+      }
+    },
+    {
+      "description": "Passed/agreed to in Senate: Passed Senate with an amendment and an amendment to the Title by Unanimous Consent.",
+      "date": "2026-09-30T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-02T12:50:35Z"
+      }
+    },
+    {
+      "description": "Measure laid before Senate by unanimous consent.",
+      "date": "2026-09-30T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-02T12:50:35Z"
+      }
+    },
+    {
+      "description": "Senate Committee on Finance discharged by Unanimous Consent.",
+      "date": "2026-09-30T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-02T12:50:35Z"
+      }
+    },
     {
       "description": "Received in the Senate and Read twice and referred to the Committee on Finance.",
       "date": "2025-12-02T05:00:00+00:00",
@@ -180,6 +234,21 @@
   "related_bills": [],
   "versions": [
     {
+      "note": "Engrossed Amendment Senate",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr5349eas/xml/BILLS-119hr5349eas.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr5349eas/pdf/BILLS-119hr5349eas.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-09-30",
+      "classification": ""
+    },
+    {
       "note": "Referred in Senate",
       "links": [
         {
@@ -242,6 +311,28 @@
   ],
   "documents": [
     {
+      "note": "SAMDT 6848",
+      "links": [
+        {
+          "url": "https://www.congress.gov/amendment/119th-congress/senate-amendment/6848",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "SAMDT 6847",
+      "links": [
+        {
+          "url": "https://www.congress.gov/amendment/119th-congress/senate-amendment/6847",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "CBO: H.R. 5349, Tax Court Improvement Act",
       "links": [
         {
@@ -290,7 +381,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-22T08:35:10Z",
+    "logs_latest_update": "2026-10-02T12:50:35Z",
     "text_extraction_latest_update": "2026-07-22T09:15:28.641265Z"
   }
 }

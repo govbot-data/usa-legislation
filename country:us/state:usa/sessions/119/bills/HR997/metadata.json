@@ -11,11 +11,11 @@
   "other_titles": [
     {
       "note": "",
-      "title": "To amend the Internal Revenue Code of 1986 to conform to the intent of the Internal Revenue Service Restructuring and Reform Act of 1998, as set forth in the joint explanatory statement of the committee of conference accompanying Conference Report 105\u2013599, that the National Taxpayer Advocate be able to hire and consult counsel as appropriate."
+      "title": "To amend the Internal Revenue Code of 1986 to conform to the intent of the Internal Revenue Service Restructuring and Reform Act of 1998, as set forth in the joint explanatory statement of the committee of conference accompanying Conference Report 105-599, that the National Taxpayer Advocate be able to hire and consult counsel as appropriate."
     },
     {
       "note": "",
-      "title": "To amend the Internal Revenue Code of 1986 to conform to the intent of the Internal Revenue Service Restructuring and Reform Act of 1998, as set forth in the joint explanatory statement of the committee of conference accompanying Conference Report 105-599, that the National Taxpayer Advocate be able to hire and consult counsel as appropriate."
+      "title": "To amend the Internal Revenue Code of 1986 to conform to the intent of the Internal Revenue Service Restructuring and Reform Act of 1998, as set forth in the joint explanatory statement of the committee of conference accompanying Conference Report 105\u2013599, that the National Taxpayer Advocate be able to hire and consult counsel as appropriate."
     }
   ],
   "other_identifiers": [
@@ -24,6 +24,38 @@
     }
   ],
   "actions": [
+    {
+      "description": "Passed Senate without amendment by Unanimous Consent. (consideration: CR S5123)",
+      "date": "2026-09-28T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-02T12:50:35Z"
+      }
+    },
+    {
+      "description": "Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent. (consideration: CR S5123)",
+      "date": "2026-09-28T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-02T12:51:26Z"
+      }
+    },
+    {
+      "description": "Senate Committee on Finance discharged by Unanimous Consent.",
+      "date": "2026-09-28T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-02T12:50:35Z"
+      }
+    },
     {
       "description": "Received in the Senate and Read twice and referred to the Committee on Finance.",
       "date": "2025-04-01T04:00:00+00:00",
@@ -320,7 +352,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-09-30T13:39:27Z",
+    "logs_latest_update": "2026-10-02T12:51:26Z",
     "text_extraction_latest_update": "2026-09-30T13:41:31.751409Z"
   }
 }

@@ -21,6 +21,26 @@
   ],
   "actions": [
     {
+      "description": "Cloture motion on the motion to proceed to the measure presented in Senate.",
+      "date": "2026-09-30T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-02T12:51:01Z"
+      }
+    },
+    {
+      "description": "Motion to proceed to consideration of measure made in Senate.",
+      "date": "2026-09-30T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-02T12:51:01Z"
+      }
+    },
+    {
       "description": "Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 453.",
       "date": "2026-07-14T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -330,7 +350,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-22T08:35:00Z",
+    "logs_latest_update": "2026-10-02T12:51:01Z",
     "text_extraction_latest_update": "2026-07-22T19:12:34.535360Z"
   }
 }

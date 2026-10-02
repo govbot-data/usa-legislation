@@ -11,11 +11,11 @@
   "other_titles": [
     {
       "note": "",
-      "title": "Bankruptcy Threshold Adjustment Act of 2026"
+      "title": "To amend title 11, United States Code, to modify certain bankruptcy eligibility requirements, and for other purposes."
     },
     {
       "note": "",
-      "title": "To amend title 11, United States Code, to modify certain bankruptcy eligibility requirements, and for other purposes."
+      "title": "Bankruptcy Threshold Adjustment Act of 2026"
     }
   ],
   "other_identifiers": [
@@ -25,13 +25,35 @@
   ],
   "actions": [
     {
-      "description": "Received in the Senate.",
+      "description": "Passed Senate without amendment by Unanimous Consent. (consideration: CR S5123)",
+      "date": "2026-09-28T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-02T12:50:42Z"
+      }
+    },
+    {
+      "description": "Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent. (consideration: CR S5123)",
+      "date": "2026-09-28T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-02T12:51:19Z"
+      }
+    },
+    {
+      "description": "Received in the Senate, read twice.",
       "date": "2026-09-17T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-10-01T15:40:37Z"
+        "log_file_created": "2026-10-02T12:50:42Z"
       }
     },
     {
@@ -319,7 +341,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-10-01T15:40:37Z",
+    "logs_latest_update": "2026-10-02T12:51:19Z",
     "text_extraction_latest_update": "2026-10-01T15:44:22.421542Z"
   }
 }
