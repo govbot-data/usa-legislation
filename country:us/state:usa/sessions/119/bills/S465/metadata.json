@@ -25,6 +25,16 @@
   ],
   "actions": [
     {
+      "description": "Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.",
+      "date": "2026-09-30T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-03T05:02:20Z"
+      }
+    },
+    {
       "description": "Committee on Energy and Natural Resources Subcommittee on Energy. Hearings held. With printed Hearing: S.Hrg. 119-366.",
       "date": "2026-04-15T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -83,6 +93,14 @@
       "organization_id": null
     },
     {
+      "name": "David H. McCormick",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"David H. McCormick\"}",
+      "organization_id": null
+    },
+    {
       "name": "John Hoeven",
       "classification": "primary",
       "entity_type": "person",
@@ -131,7 +149,8 @@
     "cosponsor_bioguides": [
       "Y000064",
       "M001198",
-      "M001242"
+      "M001242",
+      "M001243"
     ],
     "sponsor_bioguides": [
       "H001061"
@@ -144,7 +163,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-22T08:35:16Z",
+    "logs_latest_update": "2026-10-03T05:02:20Z",
     "text_extraction_latest_update": "2026-07-22T15:33:21.506315Z"
   }
 }

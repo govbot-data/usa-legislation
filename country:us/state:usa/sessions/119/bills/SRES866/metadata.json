@@ -16,13 +16,45 @@
   ],
   "actions": [
     {
-      "description": "Referred to the Committee on Health, Education, Labor, and Pensions.",
+      "description": "Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S5299)",
+      "date": "2026-09-30T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-03T05:02:12Z"
+      }
+    },
+    {
+      "description": "Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.",
+      "date": "2026-09-30T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-03T05:02:12Z"
+      }
+    },
+    {
+      "description": "Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent.",
+      "date": "2026-09-30T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-03T05:02:12Z"
+      }
+    },
+    {
+      "description": "Referred to the Committee on Health, Education, Labor, and Pensions. (text: CR S4802)",
       "date": "2026-09-17T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-09-19T10:48:57Z"
+        "log_file_created": "2026-10-03T05:02:12Z"
       }
     },
     {
@@ -54,8 +86,30 @@
       "organization_id": null
     }
   ],
-  "related_bills": [],
-  "versions": [],
+  "related_bills": [
+    {
+      "identifier": "SRES 476",
+      "legislative_session": "119",
+      "relation_type": "companion"
+    }
+  ],
+  "versions": [
+    {
+      "note": "Introduced in Senate",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119sres866is/xml/BILLS-119sres866is.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119sres866is/pdf/BILLS-119sres866is.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-09-17",
+      "classification": ""
+    }
+  ],
   "documents": [],
   "citations": [],
   "sources": [
@@ -83,7 +137,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-09-19T10:48:57Z",
+    "logs_latest_update": "2026-10-03T05:02:12Z",
     "text_extraction_latest_update": "2026-10-02T17:20:23.254088Z"
   }
 }

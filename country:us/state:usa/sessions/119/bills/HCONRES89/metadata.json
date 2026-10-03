@@ -16,6 +16,46 @@
   ],
   "actions": [
     {
+      "description": "Failed of passage in Senate by Yea-Nay Vote. 49 - 50. Record Vote Number: 244.",
+      "date": "2026-09-24T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-03T05:02:13Z"
+      }
+    },
+    {
+      "description": "Failed of passage/not agreed to in Senate: Failed of passage in Senate by Yea-Nay Vote. 49 - 50. Record Vote Number: 244.",
+      "date": "2026-09-24T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-03T05:02:13Z"
+      }
+    },
+    {
+      "description": "Measure laid before Senate by unanimous consent. (consideration: CR S4962-4969)",
+      "date": "2026-09-24T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-03T05:02:13Z"
+      }
+    },
+    {
+      "description": "Senate Committee on Foreign Relations discharged, under the order of 8/8/26.",
+      "date": "2026-09-24T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-03T05:02:13Z"
+      }
+    },
+    {
       "description": "Received in the Senate and referred to the Committee on Foreign Relations.",
       "date": "2026-07-23T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -325,6 +365,11 @@
       "relation_type": "companion"
     },
     {
+      "identifier": "HCONRES 93",
+      "legislative_session": "119",
+      "relation_type": "companion"
+    },
+    {
       "identifier": "HCONRES 99",
       "legislative_session": "119",
       "relation_type": "companion"
@@ -454,7 +499,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-09T06:21:11Z",
+    "logs_latest_update": "2026-10-03T05:02:13Z",
     "text_extraction_latest_update": "2026-08-09T06:28:00.071101Z"
   }
 }

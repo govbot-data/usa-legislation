@@ -1,7 +1,7 @@
 {
   "legislative_session": "119",
   "identifier": "S 2437",
-  "title": "Snow Water Supply Forecasting Program Reauthorization Act of 2025",
+  "title": "Snow Water Supply Forecasting Program Reauthorization Act of 2026",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -12,6 +12,10 @@
     {
       "note": "",
       "title": "A bill to amend the Snow Water Supply Forecasting Program Authorization Act to reauthorize the Snow Water Supply Forecasting Program, and for other purposes."
+    },
+    {
+      "note": "",
+      "title": "Snow Water Supply Forecasting Program Reauthorization Act of 2025"
     }
   ],
   "other_identifiers": [
@@ -20,6 +24,28 @@
     }
   ],
   "actions": [
+    {
+      "description": "Passed Senate with an amendment by Unanimous Consent. (consideration: CR S5296-5297; text: CR S5296)",
+      "date": "2026-09-30T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-03T05:02:14Z"
+      }
+    },
+    {
+      "description": "Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.",
+      "date": "2026-09-30T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-03T05:02:14Z"
+      }
+    },
     {
       "description": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 637.",
       "date": "2026-09-17T04:00:00+00:00",
@@ -101,8 +127,44 @@
       "organization_id": null
     }
   ],
-  "related_bills": [],
+  "related_bills": [
+    {
+      "identifier": "HR 3857",
+      "legislative_session": "119",
+      "relation_type": "companion"
+    }
+  ],
   "versions": [
+    {
+      "note": "Engrossed in Senate",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119s2437es/xml/BILLS-119s2437es.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119s2437es/pdf/BILLS-119s2437es.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-09-30",
+      "classification": ""
+    },
+    {
+      "note": "Reported to Senate",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119s2437rs/xml/BILLS-119s2437rs.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119s2437rs/pdf/BILLS-119s2437rs.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-09-17",
+      "classification": ""
+    },
     {
       "note": "Introduced in Senate",
       "links": [
@@ -119,7 +181,19 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "CBO: S. 2437, Snow Water Supply Forecasting Program Reauthorization Act  of 2026",
+      "links": [
+        {
+          "url": "https://www.cbo.gov/publication/62784",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -146,7 +220,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-09-19T10:48:51Z",
+    "logs_latest_update": "2026-10-03T05:02:14Z",
     "text_extraction_latest_update": "2026-09-19T10:51:27.879771Z"
   }
 }

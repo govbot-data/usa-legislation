@@ -21,6 +21,16 @@
   ],
   "actions": [
     {
+      "description": "Cloture on the motion to proceed to the measure not invoked in Senate by Yea-Nay Vote. 53 - 47. Record Vote Number: 253.",
+      "date": "2026-09-30T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-03T05:02:12Z"
+      }
+    },
+    {
       "description": "Motion to proceed to consideration of measure withdrawn in Senate.",
       "date": "2026-09-28T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -1260,7 +1270,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-10-02T12:51:33Z",
+    "logs_latest_update": "2026-10-03T05:02:12Z",
     "text_extraction_latest_update": "2026-10-02T12:53:50.871262Z"
   }
 }

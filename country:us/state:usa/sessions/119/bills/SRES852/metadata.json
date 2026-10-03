@@ -16,13 +16,33 @@
   ],
   "actions": [
     {
-      "description": "Referred to the Committee on Foreign Relations.",
+      "description": "Motion to discharge Senate Committee on Foreign Relations rejected by Yea-Nay Vote. 47 - 51. Record Vote Number: 252. (consideration: CR S5158-5159)",
+      "date": "2026-09-29T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-03T05:02:13Z"
+      }
+    },
+    {
+      "description": "Motion to discharge Senate Committee on Foreign Relations made. (Pursuant to the Foreign Assistance Act of 1961).",
+      "date": "2026-09-29T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-03T05:02:13Z"
+      }
+    },
+    {
+      "description": "Referred to the Committee on Foreign Relations. (text: CR S4675-4677)",
       "date": "2026-09-14T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-09-16T10:40:46Z"
+        "log_file_created": "2026-10-03T05:02:13Z"
       }
     },
     {
@@ -206,6 +226,38 @@
       "organization_id": null
     },
     {
+      "name": "Tammy Duckworth",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Tammy Duckworth\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Andy Kim",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Andy Kim\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Tammy Baldwin",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Tammy Baldwin\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Raphael Warnock",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Raphael Warnock\"}",
+      "organization_id": null
+    },
+    {
       "name": "Chris Van Hollen",
       "classification": "primary",
       "entity_type": "person",
@@ -215,7 +267,23 @@
     }
   ],
   "related_bills": [],
-  "versions": [],
+  "versions": [
+    {
+      "note": "Introduced in Senate",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119sres852is/xml/BILLS-119sres852is.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119sres852is/pdf/BILLS-119sres852is.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-09-14",
+      "classification": ""
+    }
+  ],
   "documents": [],
   "citations": [],
   "sources": [
@@ -250,7 +318,11 @@
       "S001181",
       "M001111",
       "R000122",
-      "W000802"
+      "W000802",
+      "D000622",
+      "K000394",
+      "B001230",
+      "W000790"
     ],
     "sponsor_bioguides": [
       "V000128"
@@ -263,7 +335,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-09-16T10:40:46Z",
+    "logs_latest_update": "2026-10-03T05:02:13Z",
     "text_extraction_latest_update": "2026-10-02T17:20:22.008950Z"
   }
 }

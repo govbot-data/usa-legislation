@@ -16,6 +16,16 @@
   ],
   "actions": [
     {
+      "description": "Message on Senate action sent to the House.",
+      "date": "2026-09-24T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-03T05:02:17Z"
+      }
+    },
+    {
       "description": "Held at the desk.",
       "date": "2026-09-24T18:38:42+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -48,7 +58,7 @@
       }
     },
     {
-      "description": "Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.",
+      "description": "Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent. (consideration: CR S4901-4902; text: CR S4902)",
       "date": "2026-09-23T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [
@@ -56,7 +66,7 @@
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-09-25T11:01:23Z"
+        "log_file_created": "2026-10-03T05:02:17Z"
       }
     },
     {
@@ -233,7 +243,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-09-25T11:01:23Z",
+    "logs_latest_update": "2026-10-03T05:02:17Z",
     "text_extraction_latest_update": "2026-09-25T11:03:58.127389Z"
   }
 }

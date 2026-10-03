@@ -11,6 +11,10 @@
   "other_titles": [
     {
       "note": "",
+      "title": "HBCU Sports Media and Connectivity Program"
+    },
+    {
+      "note": "",
       "title": "A bill to protect the name, image, and likeness rights of, and provide protections for, student athletes and to promote fair competition among intercollegiate athletics, and for other purposes."
     }
   ],
@@ -20,6 +24,68 @@
     }
   ],
   "actions": [
+    {
+      "description": "Passed Senate with an amendment by Yea-Nay Vote. 77 - 22. Record Vote Number: 250. (text: CR S5044-5063)",
+      "date": "2026-09-28T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-03T05:02:16Z"
+      }
+    },
+    {
+      "description": "Passed/agreed to in Senate: Passed Senate with an amendment by Yea-Nay Vote. 77 - 22. Record Vote Number: 250. (text: CR S5044-5063)",
+      "date": "2026-09-28T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-03T05:02:16Z"
+      }
+    },
+    {
+      "description": "Considered by Senate. (consideration: CR S5021-5064)",
+      "date": "2026-09-28T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-03T05:02:16Z"
+      }
+    },
+    {
+      "description": "The committee substitute tabled by Voice Vote.",
+      "date": "2026-09-24T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-03T05:02:16Z"
+      }
+    },
+    {
+      "description": "Cloture on the measure, as amended, invoked in Senate by Yea-Nay Vote. 74 - 25. Record Vote Number: 243.",
+      "date": "2026-09-24T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-03T05:02:16Z"
+      }
+    },
+    {
+      "description": "Considered by Senate. (consideration: CR S4959-4962)",
+      "date": "2026-09-24T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-03T05:02:16Z"
+      }
+    },
     {
       "description": "Considered by Senate. (consideration: CR S4885)",
       "date": "2026-09-23T04:00:00+00:00",
@@ -38,6 +104,16 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-09-25T11:01:21Z"
+      }
+    },
+    {
+      "description": "Motion by Senator Thune to recommit to Senate Committee on Commerce, Science, and Transportation with instructions to report back forthwith with the following amendment (SA 6781) fell when cloture was invoked on amendment SA 6776 in Senate.",
+      "date": "2026-09-22T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-03T05:02:16Z"
       }
     },
     {
@@ -284,6 +360,21 @@
   ],
   "versions": [
     {
+      "note": "Engrossed in Senate",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119s4668es/xml/BILLS-119s4668es.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119s4668es/pdf/BILLS-119s4668es.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-09-28",
+      "classification": ""
+    },
+    {
       "note": "Reported to Senate",
       "links": [
         {
@@ -315,6 +406,50 @@
     }
   ],
   "documents": [
+    {
+      "note": "SAMDT 6836",
+      "links": [
+        {
+          "url": "https://www.congress.gov/amendment/119th-congress/senate-amendment/6836",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "SAMDT 6835",
+      "links": [
+        {
+          "url": "https://www.congress.gov/amendment/119th-congress/senate-amendment/6835",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "SAMDT 6831",
+      "links": [
+        {
+          "url": "https://www.congress.gov/amendment/119th-congress/senate-amendment/6831",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "SAMDT 6830",
+      "links": [
+        {
+          "url": "https://www.congress.gov/amendment/119th-congress/senate-amendment/6830",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
     {
       "note": "SAMDT 6829",
       "links": [
@@ -1131,7 +1266,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-09-25T11:01:21Z",
+    "logs_latest_update": "2026-10-03T05:02:16Z",
     "text_extraction_latest_update": "2026-09-25T11:03:29.766811Z"
   }
 }

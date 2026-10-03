@@ -21,6 +21,38 @@
   ],
   "actions": [
     {
+      "description": "Passed Senate without amendment by Unanimous Consent. (consideration: CR S5238-5239)",
+      "date": "2026-09-30T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-03T05:02:17Z"
+      }
+    },
+    {
+      "description": "Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.",
+      "date": "2026-09-30T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-03T05:02:17Z"
+      }
+    },
+    {
+      "description": "Senate Committee on Finance discharged by Unanimous Consent.",
+      "date": "2026-09-30T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-03T05:02:17Z"
+      }
+    },
+    {
       "description": "Received in the Senate and Read twice and referred to the Committee on Finance.",
       "date": "2026-09-16T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -205,9 +237,29 @@
       "identifier": "HR 1",
       "legislative_session": "119",
       "relation_type": "companion"
+    },
+    {
+      "identifier": "S 5441",
+      "legislative_session": "119",
+      "relation_type": "companion"
     }
   ],
   "versions": [
+    {
+      "note": "Referred in Senate",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr9496rfs/xml/BILLS-119hr9496rfs.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr9496rfs/pdf/BILLS-119hr9496rfs.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-09-16",
+      "classification": ""
+    },
     {
       "note": "Engrossed in House",
       "links": [
@@ -265,6 +317,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "H. Rept. 119-797",
+      "links": [
+        {
+          "url": "https://www.congress.gov/119/crpt/hrpt797/CRPT-119hrpt797.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "citations": [],
@@ -294,7 +357,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-09-18T13:28:44Z",
+    "logs_latest_update": "2026-10-03T05:02:17Z",
     "text_extraction_latest_update": "2026-09-18T13:31:28.868497Z"
   }
 }

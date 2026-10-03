@@ -25,6 +25,28 @@
   ],
   "actions": [
     {
+      "description": "Passed Senate with an amendment by Unanimous Consent. (consideration: CR S5295-5296; text: CR S5295-5296)",
+      "date": "2026-09-30T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-03T05:02:10Z"
+      }
+    },
+    {
+      "description": "Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.",
+      "date": "2026-09-30T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-03T05:02:10Z"
+      }
+    },
+    {
       "description": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 621.",
       "date": "2026-09-16T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -114,6 +136,36 @@
   "related_bills": [],
   "versions": [
     {
+      "note": "Engrossed in Senate",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119s5249es/xml/BILLS-119s5249es.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119s5249es/pdf/BILLS-119s5249es.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-09-30",
+      "classification": ""
+    },
+    {
+      "note": "Reported to Senate",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119s5249rs/xml/BILLS-119s5249rs.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119s5249rs/pdf/BILLS-119s5249rs.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-09-16",
+      "classification": ""
+    },
+    {
       "note": "Introduced in Senate",
       "links": [
         {
@@ -158,7 +210,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-09-17T13:14:42Z",
+    "logs_latest_update": "2026-10-03T05:02:10Z",
     "text_extraction_latest_update": "2026-09-17T13:17:54.469319Z"
   }
 }

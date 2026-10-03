@@ -16,6 +16,16 @@
   ],
   "actions": [
     {
+      "description": "Sponsor introductory remarks on measure. (CR E1001)",
+      "date": "2026-10-01T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-03T05:02:19Z"
+      }
+    },
+    {
       "description": "Referred to the Committee on Transportation and Infrastructure, and in addition to the Committee on Natural Resources, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
       "date": "2026-09-15T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -50,8 +60,30 @@
       "organization_id": null
     }
   ],
-  "related_bills": [],
-  "versions": [],
+  "related_bills": [
+    {
+      "identifier": "HR 9497",
+      "legislative_session": "119",
+      "relation_type": "companion"
+    }
+  ],
+  "versions": [
+    {
+      "note": "Introduced in House",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr10387ih/xml/BILLS-119hr10387ih.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr10387ih/pdf/BILLS-119hr10387ih.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-09-15",
+      "classification": ""
+    }
+  ],
   "documents": [],
   "citations": [],
   "sources": [
@@ -77,7 +109,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-09-17T13:14:42Z",
+    "logs_latest_update": "2026-10-03T05:02:19Z",
     "text_extraction_latest_update": "2026-10-02T17:20:23.017569Z"
   }
 }

@@ -21,6 +21,28 @@
   ],
   "actions": [
     {
+      "description": "Passed Senate with an amendment by Unanimous Consent. (consideration: CR S5120-5121; text: CR S5120-5121)",
+      "date": "2026-09-28T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-03T05:02:13Z"
+      }
+    },
+    {
+      "description": "Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent. (consideration: CR S5120-5121; text: CR S5120-5121)",
+      "date": "2026-09-28T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-03T05:02:13Z"
+      }
+    },
+    {
       "description": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 506.",
       "date": "2026-07-27T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -155,6 +177,14 @@
       "organization_id": null
     },
     {
+      "name": "James Lankford",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"James Lankford\"}",
+      "organization_id": null
+    },
+    {
       "name": "Ted Cruz",
       "classification": "primary",
       "entity_type": "person",
@@ -171,6 +201,21 @@
     }
   ],
   "versions": [
+    {
+      "note": "Engrossed in Senate",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119s4009es/xml/BILLS-119s4009es.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119s4009es/pdf/BILLS-119s4009es.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-09-28",
+      "classification": ""
+    },
     {
       "note": "Reported to Senate",
       "links": [
@@ -237,7 +282,8 @@
       "C001113",
       "M001198",
       "M001243",
-      "W000790"
+      "W000790",
+      "L000575"
     ],
     "sponsor_bioguides": [
       "C001098"
@@ -250,7 +296,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-09T06:21:12Z",
+    "logs_latest_update": "2026-10-03T05:02:13Z",
     "text_extraction_latest_update": "2026-08-09T06:26:50.721502Z"
   }
 }

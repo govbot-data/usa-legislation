@@ -21,6 +21,16 @@
   ],
   "actions": [
     {
+      "description": "Committee on Energy and Natural Resources. Ordered to be reported with an amendment in the nature of a substitute favorably.",
+      "date": "2026-09-30T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-03T05:02:19Z"
+      }
+    },
+    {
       "description": "Committee on Energy and Natural Resources Subcommittee on National Parks. Hearings held.",
       "date": "2026-07-21T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -183,6 +193,54 @@
       "organization_id": null
     },
     {
+      "name": "Bill Cassidy",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Bill Cassidy\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Angela Alsobrooks",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Angela Alsobrooks\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Chris Van Hollen",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Chris Van Hollen\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Thomas Roland Tillis",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Thomas Roland Tillis\"}",
+      "organization_id": null
+    },
+    {
+      "name": "John Kennedy",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"John Kennedy\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Richard J. Durbin",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Richard J. Durbin\"}",
+      "organization_id": null
+    },
+    {
       "name": "David H. McCormick",
       "classification": "primary",
       "entity_type": "person",
@@ -244,7 +302,13 @@
       "W000779",
       "R000122",
       "K000394",
-      "S001232"
+      "S001232",
+      "C001075",
+      "A000382",
+      "V000128",
+      "T000476",
+      "K000393",
+      "D000563"
     ],
     "sponsor_bioguides": [
       "M001243"
@@ -257,7 +321,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-09T06:21:13Z",
+    "logs_latest_update": "2026-10-03T05:02:19Z",
     "text_extraction_latest_update": "2026-08-09T06:44:16.416744Z"
   }
 }

@@ -21,6 +21,16 @@
   ],
   "actions": [
     {
+      "description": "Message on Senate action sent to the House.",
+      "date": "2026-09-24T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-03T05:02:12Z"
+      }
+    },
+    {
       "description": "Held at the desk.",
       "date": "2026-09-24T18:38:32+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -53,7 +63,7 @@
       }
     },
     {
-      "description": "Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.",
+      "description": "Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent. (consideration: CR S4898-4901; text: CR S4898-4901)",
       "date": "2026-09-23T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [
@@ -61,7 +71,7 @@
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-09-25T11:01:23Z"
+        "log_file_created": "2026-10-03T05:02:12Z"
       }
     },
     {
@@ -141,6 +151,16 @@
     {
       "identifier": "HR 2785",
       "legislative_session": "119",
+      "relation_type": "companion"
+    },
+    {
+      "identifier": "HR 8262",
+      "legislative_session": "118",
+      "relation_type": "companion"
+    },
+    {
+      "identifier": "S 4271",
+      "legislative_session": "118",
       "relation_type": "companion"
     }
   ],
@@ -228,7 +248,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-09-25T11:01:23Z",
+    "logs_latest_update": "2026-10-03T05:02:12Z",
     "text_extraction_latest_update": "2026-09-25T11:03:17.635205Z"
   }
 }

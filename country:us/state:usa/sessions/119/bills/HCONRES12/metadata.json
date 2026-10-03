@@ -26,6 +26,16 @@
       "_processing": {
         "log_file_created": "2026-07-22T08:35:18Z"
       }
+    },
+    {
+      "description": "Submitted in House",
+      "date": "2025-02-13T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-03T05:02:13Z"
+      }
     }
   ],
   "sponsorships": [
@@ -1886,6 +1896,14 @@
       "organization_id": null
     },
     {
+      "name": "Clay Fuller",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Clay Fuller\"}",
+      "organization_id": null
+    },
+    {
       "name": "Steve Womack",
       "classification": "primary",
       "entity_type": "person",
@@ -2163,7 +2181,8 @@
       "B001313",
       "F000469",
       "G000607",
-      "F000478"
+      "F000478",
+      "F000485"
     ],
     "sponsor_bioguides": [
       "W000809"
@@ -2176,7 +2195,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-22T08:35:18Z",
+    "logs_latest_update": "2026-10-03T05:02:13Z",
     "text_extraction_latest_update": "2026-07-22T14:42:37.453996Z"
   }
 }

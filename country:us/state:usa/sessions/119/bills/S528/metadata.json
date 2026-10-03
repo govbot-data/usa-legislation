@@ -1,7 +1,7 @@
 {
   "legislative_session": "119",
   "identifier": "S 528",
-  "title": "GLRI Act of 2025",
+  "title": "GLRI Act of 2026",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -11,11 +11,19 @@
   "other_titles": [
     {
       "note": "",
-      "title": "A bill to reauthorize the Great Lakes Restoration Initiative, and for other purposes."
+      "title": "Great Lakes Restoration Initiative Act of 2025"
     },
     {
       "note": "",
-      "title": "Great Lakes Restoration Initiative Act of 2025"
+      "title": "Great Lakes Restoration Initiative Act of 2026"
+    },
+    {
+      "note": "",
+      "title": "GLRI Act of 2025"
+    },
+    {
+      "note": "",
+      "title": "A bill to reauthorize the Great Lakes Restoration Initiative, and for other purposes."
     }
   ],
   "other_identifiers": [
@@ -24,6 +32,48 @@
     }
   ],
   "actions": [
+    {
+      "description": "Passed Senate with an amendment by Unanimous Consent. (text: CR S5184)",
+      "date": "2026-09-29T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-03T05:02:11Z"
+      }
+    },
+    {
+      "description": "Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent. (text: CR S5184)",
+      "date": "2026-09-29T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-03T05:02:11Z"
+      }
+    },
+    {
+      "description": "Measure laid before Senate by unanimous consent. (consideration: CR S5184)",
+      "date": "2026-09-29T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-03T05:02:11Z"
+      }
+    },
+    {
+      "description": "Senate Committee on Environment and Public Works discharged by Unanimous Consent.",
+      "date": "2026-09-29T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-03T05:02:11Z"
+      }
+    },
     {
       "description": "Committee on Environment and Public Works. Hearings held.",
       "date": "2026-04-15T04:00:00+00:00",
@@ -172,6 +222,21 @@
   ],
   "versions": [
     {
+      "note": "Engrossed in Senate",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119s528es/xml/BILLS-119s528es.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119s528es/pdf/BILLS-119s528es.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-09-29",
+      "classification": ""
+    },
+    {
       "note": "Introduced in Senate",
       "links": [
         {
@@ -187,7 +252,19 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "SAMDT 6843",
+      "links": [
+        {
+          "url": "https://www.congress.gov/amendment/119th-congress/senate-amendment/6843",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -225,7 +302,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-22T08:35:03Z",
+    "logs_latest_update": "2026-10-03T05:02:11Z",
     "text_extraction_latest_update": "2026-07-22T17:04:38.967251Z"
   }
 }

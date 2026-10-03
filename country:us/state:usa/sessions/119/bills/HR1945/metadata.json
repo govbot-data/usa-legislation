@@ -11,11 +11,11 @@
   "other_titles": [
     {
       "note": "",
-      "title": "To designate the America\u2019s National Churchill Museum National Historic Landmark, and for other purposes."
+      "title": "To designate the America's National Churchill Museum National Historic Landmark, and for other purposes."
     },
     {
       "note": "",
-      "title": "To designate the America's National Churchill Museum National Historic Landmark, and for other purposes."
+      "title": "To designate the America\u2019s National Churchill Museum National Historic Landmark, and for other purposes."
     }
   ],
   "other_identifiers": [
@@ -25,13 +25,35 @@
   ],
   "actions": [
     {
-      "description": "Received in the Senate.",
+      "description": "Passed Senate without amendment by Unanimous Consent. (consideration: CR S5140)",
+      "date": "2026-09-29T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-03T05:02:16Z"
+      }
+    },
+    {
+      "description": "Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent. (consideration: CR S5140)",
+      "date": "2026-09-29T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-03T05:02:16Z"
+      }
+    },
+    {
+      "description": "Received in the Senate, read twice.",
       "date": "2026-03-04T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-10-02T12:50:35Z"
+        "log_file_created": "2026-10-03T05:02:16Z"
       }
     },
     {
@@ -236,6 +258,21 @@
   ],
   "versions": [
     {
+      "note": "Received in Senate",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr1945rds/xml/BILLS-119hr1945rds.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr1945rds/pdf/BILLS-119hr1945rds.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-03-04",
+      "classification": ""
+    },
+    {
       "note": "Engrossed in House",
       "links": [
         {
@@ -333,7 +370,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-10-02T12:50:35Z",
+    "logs_latest_update": "2026-10-03T05:02:16Z",
     "text_extraction_latest_update": "2026-10-02T12:54:06.583383Z"
   }
 }

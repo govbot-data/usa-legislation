@@ -21,22 +21,30 @@
   ],
   "actions": [
     {
-      "description": "Read twice and referred to the Committee on Energy and Natural Resources.",
-      "date": "2025-12-04T05:00:00+00:00",
+      "description": "Committee on Energy and Natural Resources. Ordered to be reported with an amendment favorably.",
+      "date": "2026-09-30T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-22T08:35:03Z"
+        "log_file_created": "2026-10-03T05:02:13Z"
       }
     },
     {
-      "description": "No action text provided by the source",
+      "description": "Committee on Energy and Natural Resources Subcommittee on National Parks. Hearings held.",
+      "date": "2026-07-21T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-03T05:02:13Z"
+      }
+    },
+    {
+      "description": "Read twice and referred to the Committee on Energy and Natural Resources.",
       "date": "2025-12-04T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "introduction"
-      ],
+      "classification": [],
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-07-22T08:35:03Z"
@@ -124,7 +132,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-22T08:35:03Z",
+    "logs_latest_update": "2026-10-03T05:02:13Z",
     "text_extraction_latest_update": "2026-07-22T13:51:56.711589Z"
   }
 }

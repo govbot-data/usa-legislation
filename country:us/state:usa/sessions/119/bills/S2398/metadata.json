@@ -21,6 +21,42 @@
   ],
   "actions": [
     {
+      "description": "Became Public Law No: 119-118.",
+      "date": "2026-09-30T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "became-law"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-03T05:02:13Z"
+      }
+    },
+    {
+      "description": "Signed by President.",
+      "date": "2026-09-30T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-03T05:02:13Z"
+      }
+    },
+    {
+      "description": "Presented to President.",
+      "date": "2026-09-29T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-03T05:02:13Z"
+      }
+    },
+    {
       "description": "Motion to reconsider laid on the table Agreed to without objection.",
       "date": "2026-09-15T23:13:55+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -31,7 +67,7 @@
       }
     },
     {
-      "description": "On motion to suspend the rules and pass the bill Agreed to by voice vote.",
+      "description": "On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5670)",
       "date": "2026-09-15T23:13:51+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
@@ -39,11 +75,11 @@
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-09-16T10:40:48Z"
+        "log_file_created": "2026-10-03T05:02:13Z"
       }
     },
     {
-      "description": "Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.",
+      "description": "Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5670)",
       "date": "2026-09-15T23:13:51+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
@@ -51,7 +87,7 @@
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-09-16T10:40:48Z"
+        "log_file_created": "2026-10-03T05:02:13Z"
       }
     },
     {
@@ -65,13 +101,13 @@
       }
     },
     {
-      "description": "Considered under suspension of the rules.",
+      "description": "Considered under suspension of the rules. (consideration: CR H5670-5671)",
       "date": "2026-09-15T23:06:22+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-09-16T10:40:48Z"
+        "log_file_created": "2026-10-03T05:02:13Z"
       }
     },
     {
@@ -399,6 +435,29 @@
   ],
   "versions": [
     {
+      "note": "Enrolled Bill",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119s2398enr/uslm/BILLS-119s2398enr.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119s2398enr/uslm/BILLS-119s2398enr.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119s2398enr/xml/BILLS-119s2398enr.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119s2398enr/pdf/BILLS-119s2398enr.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Engrossed in Senate",
       "links": [
         {
@@ -457,7 +516,16 @@
       "classification": ""
     }
   ],
-  "citations": [],
+  "citations": [
+    {
+      "publication": "US Public Law",
+      "citation": "119-118",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.congress.gov/119/plaws/publ118/PLAW-119publ118.pdf"
+    }
+  ],
   "sources": [
     {
       "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s2398.xml",
@@ -505,7 +573,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-09-16T10:40:48Z",
+    "logs_latest_update": "2026-10-03T05:02:13Z",
     "text_extraction_latest_update": "2026-09-16T10:42:29.767860Z"
   }
 }

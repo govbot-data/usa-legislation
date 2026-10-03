@@ -1,7 +1,7 @@
 {
   "legislative_session": "119",
   "identifier": "S 3257",
-  "title": "Mental Health in Aviation Act of 2025",
+  "title": "John A. Hauser Mental Health in Aviation Act",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -12,6 +12,10 @@
     {
       "note": "",
       "title": "A bill to require the Administrator of the Federal Aviation Administration to revise regulations for certain individuals carrying out aviation activities who disclose a mental health diagnosis or condition, and for other purposes."
+    },
+    {
+      "note": "",
+      "title": "Mental Health in Aviation Act of 2025"
     }
   ],
   "other_identifiers": [
@@ -20,6 +24,80 @@
     }
   ],
   "actions": [
+    {
+      "description": "Held at the desk.",
+      "date": "2026-10-01T15:33:02+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-03T05:02:19Z"
+      }
+    },
+    {
+      "description": "Received in the House.",
+      "date": "2026-10-01T15:32:32+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-03T05:02:19Z"
+      }
+    },
+    {
+      "description": "Message on Senate action sent to the House.",
+      "date": "2026-09-28T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-03T05:02:19Z"
+      }
+    },
+    {
+      "description": "Passed Senate with an amendment by Unanimous Consent. (text of amendment in the nature of a substitute: CR S5018-5019)",
+      "date": "2026-09-24T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-03T05:02:19Z"
+      }
+    },
+    {
+      "description": "Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent. (text of amendment in the nature of a substitute: CR S5018-5019)",
+      "date": "2026-09-24T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-03T05:02:19Z"
+      }
+    },
+    {
+      "description": "Measure laid before Senate by unanimous consent. (consideration: CR S5017-5019)",
+      "date": "2026-09-24T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-03T05:02:19Z"
+      }
+    },
+    {
+      "description": "The committee substitute withdrawn by Unanimous Consent.",
+      "date": "2026-09-24T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-03T05:02:19Z"
+      }
+    },
     {
       "description": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 558.",
       "date": "2026-09-14T04:00:00+00:00",
@@ -307,6 +385,38 @@
       "organization_id": null
     },
     {
+      "name": "Adam B. Schiff",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Adam B. Schiff\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Cory Booker",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Cory Booker\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Mark Kelly",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Mark Kelly\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Michael Bennet",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Michael Bennet\"}",
+      "organization_id": null
+    },
+    {
       "name": "John Hoeven",
       "classification": "primary",
       "entity_type": "person",
@@ -317,6 +427,36 @@
   ],
   "related_bills": [],
   "versions": [
+    {
+      "note": "Engrossed in Senate",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119s3257es/xml/BILLS-119s3257es.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119s3257es/pdf/BILLS-119s3257es.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-09-24",
+      "classification": ""
+    },
+    {
+      "note": "Reported to Senate",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119s3257rs/xml/BILLS-119s3257rs.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119s3257rs/pdf/BILLS-119s3257rs.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-09-14",
+      "classification": ""
+    },
     {
       "note": "Introduced in Senate",
       "links": [
@@ -335,11 +475,33 @@
   ],
   "documents": [
     {
+      "note": "SAMDT 6834",
+      "links": [
+        {
+          "url": "https://www.congress.gov/amendment/119th-congress/senate-amendment/6834",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "CBO: S. 3257, Mental Health in Aviation Act of 2026",
       "links": [
         {
           "url": "https://www.cbo.gov/publication/62475",
           "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "S. Rept. 119-139",
+      "links": [
+        {
+          "url": "https://www.congress.gov/119/crpt/srpt139/CRPT-119srpt139.pdf",
+          "media_type": "application/pdf"
         }
       ],
       "date": "",
@@ -387,7 +549,11 @@
       "D000618",
       "W000779",
       "C001075",
-      "S001208"
+      "S001208",
+      "S001150",
+      "B001288",
+      "K000377",
+      "B001267"
     ],
     "sponsor_bioguides": [
       "H001061"
@@ -400,7 +566,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-09-16T10:40:47Z",
+    "logs_latest_update": "2026-10-03T05:02:19Z",
     "text_extraction_latest_update": "2026-09-16T10:42:29.872393Z"
   }
 }

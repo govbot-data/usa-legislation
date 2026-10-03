@@ -16,6 +16,38 @@
   ],
   "actions": [
     {
+      "description": "Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S5186)",
+      "date": "2026-09-29T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-03T05:02:11Z"
+      }
+    },
+    {
+      "description": "Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S5186)",
+      "date": "2026-09-29T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-03T05:02:11Z"
+      }
+    },
+    {
+      "description": "Senate Committee on the Judiciary discharged by Unanimous Consent.",
+      "date": "2026-09-29T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-03T05:02:11Z"
+      }
+    },
+    {
       "description": "Referred to the Committee on the Judiciary. (text: CR S1673-1674)",
       "date": "2026-03-26T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -38,6 +70,14 @@
   ],
   "sponsorships": [
     {
+      "name": "Ruben Gallego",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Ruben Gallego\"}",
+      "organization_id": null
+    },
+    {
       "name": "Mark Kelly",
       "classification": "primary",
       "entity_type": "person",
@@ -48,6 +88,21 @@
   ],
   "related_bills": [],
   "versions": [
+    {
+      "note": "Agreed to Senate",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119sres662ats/xml/BILLS-119sres662ats.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119sres662ats/pdf/BILLS-119sres662ats.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-09-29",
+      "classification": ""
+    },
     {
       "note": "Introduced in Senate",
       "links": [
@@ -77,7 +132,9 @@
     }
   ],
   "extras": {
-    "cosponsor_bioguides": [],
+    "cosponsor_bioguides": [
+      "G000574"
+    ],
     "sponsor_bioguides": [
       "K000377"
     ]
@@ -89,7 +146,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-22T08:35:01Z",
+    "logs_latest_update": "2026-10-03T05:02:11Z",
     "text_extraction_latest_update": "2026-07-22T14:59:09.934699Z"
   }
 }

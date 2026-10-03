@@ -21,6 +21,18 @@
   ],
   "actions": [
     {
+      "description": "Presented to President.",
+      "date": "2026-09-29T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-03T05:02:16Z"
+      }
+    },
+    {
       "description": "Motion to reconsider laid on the table Agreed to without objection.",
       "date": "2026-09-16T18:35:14+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -31,7 +43,7 @@
       }
     },
     {
-      "description": "On motion to suspend the rules and pass the bill Agreed to by voice vote.",
+      "description": "On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5930-5931)",
       "date": "2026-09-16T18:35:07+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
@@ -39,11 +51,11 @@
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-09-17T13:14:42Z"
+        "log_file_created": "2026-10-03T05:02:16Z"
       }
     },
     {
-      "description": "Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.",
+      "description": "Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5930-5931)",
       "date": "2026-09-16T18:35:07+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
@@ -51,7 +63,7 @@
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-09-17T13:14:42Z"
+        "log_file_created": "2026-10-03T05:02:16Z"
       }
     },
     {
@@ -65,13 +77,13 @@
       }
     },
     {
-      "description": "Considered under suspension of the rules.",
+      "description": "Considered under suspension of the rules. (consideration: CR H5930-5931)",
       "date": "2026-09-16T18:30:15+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-09-17T13:14:42Z"
+        "log_file_created": "2026-10-03T05:02:16Z"
       }
     },
     {
@@ -252,6 +264,29 @@
   ],
   "versions": [
     {
+      "note": "Enrolled Bill",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119s766enr/uslm/BILLS-119s766enr.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119s766enr/uslm/BILLS-119s766enr.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119s766enr/xml/BILLS-119s766enr.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119s766enr/pdf/BILLS-119s766enr.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Engrossed in Senate",
       "links": [
         {
@@ -339,7 +374,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-09-17T13:14:42Z",
+    "logs_latest_update": "2026-10-03T05:02:16Z",
     "text_extraction_latest_update": "2026-09-17T13:17:16.534442Z"
   }
 }

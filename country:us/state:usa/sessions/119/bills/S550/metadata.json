@@ -16,6 +16,30 @@
   ],
   "actions": [
     {
+      "description": "Became Public Law No: 119-114.",
+      "date": "2026-09-25T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "became-law"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-03T05:02:11Z"
+      }
+    },
+    {
+      "description": "Signed by President.",
+      "date": "2026-09-25T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-03T05:02:11Z"
+      }
+    },
+    {
       "description": "Presented to President.",
       "date": "2026-09-22T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -221,6 +245,16 @@
       "identifier": "HR 2827",
       "legislative_session": "119",
       "relation_type": "companion"
+    },
+    {
+      "identifier": "S 2796",
+      "legislative_session": "118",
+      "relation_type": "companion"
+    },
+    {
+      "identifier": "HR 5831",
+      "legislative_session": "118",
+      "relation_type": "companion"
     }
   ],
   "versions": [
@@ -291,6 +325,21 @@
       ],
       "date": "2025-02-12",
       "classification": ""
+    },
+    {
+      "note": "Public Law",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ114/uslm/PLAW-119publ114.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ114/uslm/PLAW-119publ114.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-09-26",
+      "classification": ""
     }
   ],
   "documents": [
@@ -317,7 +366,16 @@
       "classification": ""
     }
   ],
-  "citations": [],
+  "citations": [
+    {
+      "publication": "US Public Law",
+      "citation": "119-114",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.congress.gov/119/plaws/publ114/PLAW-119publ114.pdf"
+    }
+  ],
   "sources": [
     {
       "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s550.xml",
@@ -343,7 +401,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-09-23T10:44:36Z",
+    "logs_latest_update": "2026-10-03T05:02:11Z",
     "text_extraction_latest_update": "2026-09-23T10:46:40.044045Z"
   }
 }

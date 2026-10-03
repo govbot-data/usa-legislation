@@ -16,6 +16,30 @@
   ],
   "actions": [
     {
+      "description": "Became Public Law No: 119-115.",
+      "date": "2026-09-25T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "became-law"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-03T05:02:14Z"
+      }
+    },
+    {
+      "description": "Signed by President.",
+      "date": "2026-09-25T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-03T05:02:14Z"
+      }
+    },
+    {
       "description": "Presented to President.",
       "date": "2026-09-22T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -196,7 +220,13 @@
       "organization_id": null
     }
   ],
-  "related_bills": [],
+  "related_bills": [
+    {
+      "identifier": "HR 1352",
+      "legislative_session": "119",
+      "relation_type": "companion"
+    }
+  ],
   "versions": [
     {
       "note": "Enrolled Bill",
@@ -253,7 +283,16 @@
     }
   ],
   "documents": [],
-  "citations": [],
+  "citations": [
+    {
+      "publication": "US Public Law",
+      "citation": "119-115",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.congress.gov/119/plaws/publ115/PLAW-119publ115.pdf"
+    }
+  ],
   "sources": [
     {
       "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s603.xml",
@@ -279,7 +318,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-09-23T10:44:36Z",
+    "logs_latest_update": "2026-10-03T05:02:14Z",
     "text_extraction_latest_update": "2026-09-23T10:46:43.629415Z"
   }
 }
