@@ -21,6 +21,18 @@
   ],
   "actions": [
     {
+      "description": "Presented to President.",
+      "date": "2026-10-05T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-06T13:29:26Z"
+      }
+    },
+    {
       "description": "Message on Senate action sent to the House.",
       "date": "2026-09-28T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -83,7 +95,7 @@
       }
     },
     {
-      "description": "Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.",
+      "description": "Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5557-5558)",
       "date": "2026-09-14T19:31:25+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
@@ -91,7 +103,7 @@
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-09-15T10:58:26Z"
+        "log_file_created": "2026-10-06T13:29:26Z"
       }
     },
     {
@@ -402,7 +414,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-10-03T05:02:12Z",
+    "logs_latest_update": "2026-10-06T13:29:26Z",
     "text_extraction_latest_update": "2026-10-03T05:09:21.837203Z"
   }
 }

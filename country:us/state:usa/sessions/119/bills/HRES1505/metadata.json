@@ -1,7 +1,7 @@
 {
   "legislative_session": "119",
   "identifier": "HRES 1505",
-  "title": "Resolution recommending that the House of Representatives find Hector Roos in contempt of Congress for refusal to comply with subpoenas duly issued by the Committee on Ethics.",
+  "title": "Recommending that the House of Representatives find Hector Roos in contempt of Congress for refusal to comply with subpoenas duly issued by the Committee on Ethics.",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "resolution"
@@ -26,7 +26,7 @@
       }
     },
     {
-      "description": "On motion to suspend the rules and agree to the resolution Agreed to by voice vote.",
+      "description": "On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H5394)",
       "date": "2026-09-01T19:26:39+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
@@ -34,11 +34,11 @@
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-09-02T10:11:43Z"
+        "log_file_created": "2026-10-06T13:29:18Z"
       }
     },
     {
-      "description": "Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.",
+      "description": "Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H5394)",
       "date": "2026-09-01T19:26:39+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
@@ -46,7 +46,7 @@
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-09-02T10:11:43Z"
+        "log_file_created": "2026-10-06T13:29:18Z"
       }
     },
     {
@@ -60,13 +60,13 @@
       }
     },
     {
-      "description": "Considered under suspension of the rules.",
+      "description": "Considered under suspension of the rules. (consideration: CR H5394-5395)",
       "date": "2026-09-01T19:22:58+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-09-02T10:11:43Z"
+        "log_file_created": "2026-10-06T13:29:18Z"
       }
     },
     {
@@ -77,6 +77,26 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-09-02T10:11:43Z"
+      }
+    },
+    {
+      "description": "The committee favorably reported H.Rept. 119-694.",
+      "date": "2026-06-10T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-06T13:29:18Z"
+      }
+    },
+    {
+      "description": "The committee report referred to in this resolution is H.Rept. 119-694.",
+      "date": "2026-06-10T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-06T13:29:18Z"
       }
     }
   ],
@@ -91,7 +111,23 @@
     }
   ],
   "related_bills": [],
-  "versions": [],
+  "versions": [
+    {
+      "note": "Engrossed in House",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hres1505eh/xml/BILLS-119hres1505eh.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hres1505eh/pdf/BILLS-119hres1505eh.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-09-01",
+      "classification": ""
+    }
+  ],
   "documents": [],
   "citations": [],
   "sources": [
@@ -117,7 +153,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-09-02T10:11:43Z",
+    "logs_latest_update": "2026-10-06T13:29:18Z",
     "text_extraction_latest_update": "2026-10-05T16:49:14.647143Z"
   }
 }

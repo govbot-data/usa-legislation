@@ -21,6 +21,18 @@
   ],
   "actions": [
     {
+      "description": "Presented to President.",
+      "date": "2026-10-05T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-06T13:29:18Z"
+      }
+    },
+    {
       "description": "Motion to reconsider laid on the table Agreed to without objection.",
       "date": "2026-09-16T23:05:18+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -31,7 +43,7 @@
       }
     },
     {
-      "description": "On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 401 - 14 (Roll no. 314).",
+      "description": "On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 401 - 14 (Roll no. 314). (text: CR H5905)",
       "date": "2026-09-16T23:05:16+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
@@ -39,11 +51,11 @@
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-09-17T13:14:41Z"
+        "log_file_created": "2026-10-06T13:29:18Z"
       }
     },
     {
-      "description": "Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 401 - 14 (Roll no. 314).",
+      "description": "Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 401 - 14 (Roll no. 314). (text: CR H5905)",
       "date": "2026-09-16T23:05:16+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
@@ -51,17 +63,17 @@
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-09-17T13:14:41Z"
+        "log_file_created": "2026-10-06T13:29:18Z"
       }
     },
     {
-      "description": "Considered as unfinished business.",
+      "description": "Considered as unfinished business. (consideration: CR H5960)",
       "date": "2026-09-16T22:59:01+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-09-17T13:14:41Z"
+        "log_file_created": "2026-10-06T13:29:18Z"
       }
     },
     {
@@ -85,13 +97,13 @@
       }
     },
     {
-      "description": "Considered under suspension of the rules.",
+      "description": "Considered under suspension of the rules. (consideration: CR H5905-5906)",
       "date": "2026-09-16T16:23:40+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-09-17T13:14:41Z"
+        "log_file_created": "2026-10-06T13:29:18Z"
       }
     },
     {
@@ -238,6 +250,29 @@
   ],
   "versions": [
     {
+      "note": "Enrolled Bill",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119s2403enr/uslm/BILLS-119s2403enr.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119s2403enr/uslm/BILLS-119s2403enr.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119s2403enr/xml/BILLS-119s2403enr.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119s2403enr/pdf/BILLS-119s2403enr.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Engrossed in Senate",
       "links": [
         {
@@ -310,7 +345,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-09-17T13:14:41Z",
+    "logs_latest_update": "2026-10-06T13:29:18Z",
     "text_extraction_latest_update": "2026-09-17T13:18:08.739099Z"
   }
 }

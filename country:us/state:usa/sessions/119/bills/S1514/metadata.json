@@ -21,6 +21,38 @@
   ],
   "actions": [
     {
+      "description": "Held at the desk.",
+      "date": "2026-10-05T20:50:30+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-06T13:29:18Z"
+      }
+    },
+    {
+      "description": "Received in the House.",
+      "date": "2026-10-05T20:31:58+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-06T13:29:18Z"
+      }
+    },
+    {
+      "description": "Message on Senate action sent to the House.",
+      "date": "2026-10-05T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-06T13:29:18Z"
+      }
+    },
+    {
       "description": "Passed Senate with amendments by Unanimous Consent. (consideration: CR S5297; text: CR S5297)",
       "date": "2026-09-30T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -188,6 +220,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "S. Rept. 119-148",
+      "links": [
+        {
+          "url": "https://www.congress.gov/119/crpt/srpt148/CRPT-119srpt148.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "citations": [],
@@ -216,7 +259,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-10-03T05:02:10Z",
+    "logs_latest_update": "2026-10-06T13:29:18Z",
     "text_extraction_latest_update": "2026-10-03T05:07:50.240956Z"
   }
 }

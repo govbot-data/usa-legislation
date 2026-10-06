@@ -21,6 +21,38 @@
   ],
   "actions": [
     {
+      "description": "Held at the desk.",
+      "date": "2026-10-05T20:53:20+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-06T13:29:19Z"
+      }
+    },
+    {
+      "description": "Received in the House.",
+      "date": "2026-10-05T20:32:09+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-06T13:29:19Z"
+      }
+    },
+    {
+      "description": "Message on Senate action sent to the House.",
+      "date": "2026-10-05T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-06T13:29:19Z"
+      }
+    },
+    {
       "description": "Passed Senate with an amendment by Voice Vote. (consideration: CR S5207; text: CR S5207)",
       "date": "2026-09-30T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -220,7 +252,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-10-03T05:02:10Z",
+    "logs_latest_update": "2026-10-06T13:29:19Z",
     "text_extraction_latest_update": "2026-10-03T05:04:52.264704Z"
   }
 }

@@ -26,17 +26,17 @@
       }
     },
     {
-      "description": "On agreeing to the resolution Agreed to without objection.",
+      "description": "On agreeing to the resolution Agreed to without objection. (text: CR H5931)",
       "date": "2026-09-16T18:36:40+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-09-17T13:14:46Z"
+        "log_file_created": "2026-10-06T13:29:17Z"
       }
     },
     {
-      "description": "Passed/agreed to in House: On agreeing to the resolution Agreed to without objection.",
+      "description": "Passed/agreed to in House: On agreeing to the resolution Agreed to without objection. (text: CR H5931)",
       "date": "2026-09-16T18:36:40+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
@@ -44,7 +44,7 @@
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-09-17T13:14:46Z"
+        "log_file_created": "2026-10-06T13:29:17Z"
       }
     },
     {
@@ -58,13 +58,33 @@
       }
     },
     {
-      "description": "Considered by unanimous consent.",
+      "description": "Considered by unanimous consent. (consideration: CR H5931)",
       "date": "2026-09-16T18:35:45+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-09-17T13:14:46Z"
+        "log_file_created": "2026-10-06T13:29:17Z"
+      }
+    },
+    {
+      "description": "The committee favorably reported H.Rept. 119-831 by the yeas and nays 41-0.",
+      "date": "2026-09-15T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-06T13:29:17Z"
+      }
+    },
+    {
+      "description": "The committee report referred to in this resolution is H.Rept. 119-831.",
+      "date": "2026-09-15T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-06T13:29:17Z"
       }
     }
   ],
@@ -79,7 +99,23 @@
     }
   ],
   "related_bills": [],
-  "versions": [],
+  "versions": [
+    {
+      "note": "Engrossed in House",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hres1543eh/xml/BILLS-119hres1543eh.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hres1543eh/pdf/BILLS-119hres1543eh.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-09-16",
+      "classification": ""
+    }
+  ],
   "documents": [],
   "citations": [],
   "sources": [
@@ -105,7 +141,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-09-17T13:14:46Z",
+    "logs_latest_update": "2026-10-06T13:29:17Z",
     "text_extraction_latest_update": "2026-10-05T16:49:12.807502Z"
   }
 }
