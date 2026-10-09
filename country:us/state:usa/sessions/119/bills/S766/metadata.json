@@ -21,6 +21,30 @@
   ],
   "actions": [
     {
+      "description": "Became Public Law No: 119-120.",
+      "date": "2026-10-07T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "became-law"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-09T12:46:02Z"
+      }
+    },
+    {
+      "description": "Signed by President.",
+      "date": "2026-10-07T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-09T12:46:02Z"
+      }
+    },
+    {
       "description": "Presented to President.",
       "date": "2026-09-29T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -374,7 +398,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-10-03T05:02:16Z",
+    "logs_latest_update": "2026-10-09T12:46:02Z",
     "text_extraction_latest_update": "2026-10-03T05:08:16.502888Z"
   }
 }
