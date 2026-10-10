@@ -1,7 +1,7 @@
 {
   "legislative_session": "119",
   "identifier": "HR 4615",
-  "title": "Small Business Payment for Performance Act of 2025",
+  "title": "Small Business Payment for Performance Act of 2026",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -12,6 +12,10 @@
     {
       "note": "",
       "title": "To amend the Small Business Act to provide interim partial payment to small business contractors that request an equitable adjustment due to a change in the terms of a construction contract, and for other purposes."
+    },
+    {
+      "note": "",
+      "title": "Small Business Payment for Performance Act of 2025"
     }
   ],
   "other_identifiers": [
@@ -20,6 +24,26 @@
     }
   ],
   "actions": [
+    {
+      "description": "Placed on the Union Calendar, Calendar No. 746.",
+      "date": "2026-10-09T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-10T11:31:44Z"
+      }
+    },
+    {
+      "description": "Reported (Amended) by the Committee on Small Business. H. Rept. 119-849.",
+      "date": "2026-10-09T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-10T11:31:44Z"
+      }
+    },
     {
       "description": "Ordered to be Reported in the Nature of a Substitute by the Yeas and Nays: 23 - 0.",
       "date": "2026-09-16T04:00:00+00:00",
@@ -198,6 +222,21 @@
   "related_bills": [],
   "versions": [
     {
+      "note": "Reported in House",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr4615rh/xml/BILLS-119hr4615rh.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr4615rh/pdf/BILLS-119hr4615rh.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-10-09",
+      "classification": ""
+    },
+    {
       "note": "Introduced in House",
       "links": [
         {
@@ -254,7 +293,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-09-17T13:14:43Z",
+    "logs_latest_update": "2026-10-10T11:31:44Z",
     "text_extraction_latest_update": "2026-09-17T13:17:46.575684Z"
   }
 }

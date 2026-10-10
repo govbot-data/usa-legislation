@@ -21,6 +21,26 @@
   ],
   "actions": [
     {
+      "description": "Placed on the Union Calendar, Calendar No. 747.",
+      "date": "2026-10-09T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-10T11:31:44Z"
+      }
+    },
+    {
+      "description": "Reported by the Committee on Small Business. H. Rept. 119-850.",
+      "date": "2026-10-09T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-10T11:31:44Z"
+      }
+    },
+    {
       "description": "Ordered to be Reported by the Yeas and Nays: 23 - 0.",
       "date": "2026-09-16T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -94,6 +114,21 @@
   "related_bills": [],
   "versions": [
     {
+      "note": "Reported in House",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr10352rh/xml/BILLS-119hr10352rh.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr10352rh/pdf/BILLS-119hr10352rh.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-10-09",
+      "classification": ""
+    },
+    {
       "note": "Introduced in House",
       "links": [
         {
@@ -137,7 +172,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-09-17T13:14:40Z",
+    "logs_latest_update": "2026-10-10T11:31:44Z",
     "text_extraction_latest_update": "2026-09-17T13:18:06.402176Z"
   }
 }

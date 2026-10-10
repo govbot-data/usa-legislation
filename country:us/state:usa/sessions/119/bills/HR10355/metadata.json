@@ -21,6 +21,26 @@
   ],
   "actions": [
     {
+      "description": "Placed on the Union Calendar, Calendar No. 743.",
+      "date": "2026-10-09T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-10T11:31:43Z"
+      }
+    },
+    {
+      "description": "Reported by the Committee on Small Business. H. Rept. 119-846.",
+      "date": "2026-10-09T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-10T11:31:43Z"
+      }
+    },
+    {
       "description": "Ordered to be Reported by the Yeas and Nays: 23 - 0.",
       "date": "2026-09-16T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -75,6 +95,14 @@
       "organization_id": null
     },
     {
+      "name": "Gilbert Ray Cisneros",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Gilbert Ray Cisneros\"}",
+      "organization_id": null
+    },
+    {
       "name": "Analilia Mejia",
       "classification": "primary",
       "entity_type": "person",
@@ -85,6 +113,21 @@
   ],
   "related_bills": [],
   "versions": [
+    {
+      "note": "Reported in House",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr10355rh/xml/BILLS-119hr10355rh.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr10355rh/pdf/BILLS-119hr10355rh.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-10-09",
+      "classification": ""
+    },
     {
       "note": "Introduced in House",
       "links": [
@@ -115,7 +158,8 @@
   ],
   "extras": {
     "cosponsor_bioguides": [
-      "K000404"
+      "K000404",
+      "C001123"
     ],
     "sponsor_bioguides": [
       "M001246"
@@ -128,7 +172,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-09-18T13:28:34Z",
+    "logs_latest_update": "2026-10-10T11:31:43Z",
     "text_extraction_latest_update": "2026-09-18T13:30:29.717568Z"
   }
 }
