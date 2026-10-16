@@ -21,6 +21,16 @@
   ],
   "actions": [
     {
+      "description": "Message on Senate action sent to the House.",
+      "date": "2026-10-14T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-16T10:38:46Z"
+      }
+    },
+    {
       "description": "Passed Senate without amendment by Unanimous Consent. (consideration: CR S5185)",
       "date": "2026-09-29T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -250,6 +260,29 @@
   ],
   "versions": [
     {
+      "note": "Enrolled Bill",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr1190enr/uslm/BILLS-119hr1190enr.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr1190enr/uslm/BILLS-119hr1190enr.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr1190enr/xml/BILLS-119hr1190enr.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr1190enr/pdf/BILLS-119hr1190enr.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Referred in Senate",
       "links": [
         {
@@ -353,7 +386,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-10-03T05:02:17Z",
+    "logs_latest_update": "2026-10-16T10:38:46Z",
     "text_extraction_latest_update": "2026-10-03T05:07:52.545127Z"
   }
 }

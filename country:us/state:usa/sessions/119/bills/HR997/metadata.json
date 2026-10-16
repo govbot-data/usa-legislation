@@ -25,6 +25,16 @@
   ],
   "actions": [
     {
+      "description": "Message on Senate action sent to the House.",
+      "date": "2026-10-14T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-16T10:38:51Z"
+      }
+    },
+    {
       "description": "Passed Senate without amendment by Unanimous Consent. (consideration: CR S5123)",
       "date": "2026-09-28T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -238,9 +248,37 @@
       "identifier": "S 1704",
       "legislative_session": "119",
       "relation_type": "companion"
+    },
+    {
+      "identifier": "HR 2755",
+      "legislative_session": "118",
+      "relation_type": "companion"
     }
   ],
   "versions": [
+    {
+      "note": "Enrolled Bill",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr997enr/uslm/BILLS-119hr997enr.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr997enr/uslm/BILLS-119hr997enr.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr997enr/xml/BILLS-119hr997enr.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr997enr/pdf/BILLS-119hr997enr.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
     {
       "note": "Referred in Senate",
       "links": [
@@ -352,7 +390,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-10-02T12:51:26Z",
+    "logs_latest_update": "2026-10-16T10:38:51Z",
     "text_extraction_latest_update": "2026-10-02T12:53:47.123664Z"
   }
 }

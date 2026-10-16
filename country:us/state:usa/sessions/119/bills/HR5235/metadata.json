@@ -11,11 +11,11 @@
   "other_titles": [
     {
       "note": "",
-      "title": "To amend title 41, United States Code, to prohibit minimum educational requirements for proposed contractor personnel in certain contract solicitations, and for other purposes."
+      "title": "Skills-Based Federal Contracting Act"
     },
     {
       "note": "",
-      "title": "Skills-Based Federal Contracting Act"
+      "title": "To amend title 41, United States Code, to prohibit minimum educational requirements for proposed contractor personnel in certain contract solicitations, and for other purposes."
     }
   ],
   "other_identifiers": [
@@ -25,13 +25,23 @@
   ],
   "actions": [
     {
-      "description": "Passed Senate without amendment by Unanimous Consent.",
+      "description": "Message on Senate action sent to the House.",
+      "date": "2026-10-14T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-16T10:38:48Z"
+      }
+    },
+    {
+      "description": "Passed Senate without amendment by Unanimous Consent. (consideration: CR S5295)",
       "date": "2026-09-30T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-10-02T12:50:39Z"
+        "log_file_created": "2026-10-16T10:38:48Z"
       }
     },
     {
@@ -226,9 +236,37 @@
       "identifier": "S 79",
       "legislative_session": "119",
       "relation_type": "companion"
+    },
+    {
+      "identifier": "S 4631",
+      "legislative_session": "118",
+      "relation_type": "companion"
     }
   ],
   "versions": [
+    {
+      "note": "Enrolled Bill",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr5235enr/uslm/BILLS-119hr5235enr.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr5235enr/uslm/BILLS-119hr5235enr.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr5235enr/xml/BILLS-119hr5235enr.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr5235enr/pdf/BILLS-119hr5235enr.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
     {
       "note": "Reported to Senate",
       "links": [
@@ -334,7 +372,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-10-02T12:50:39Z",
+    "logs_latest_update": "2026-10-16T10:38:48Z",
     "text_extraction_latest_update": "2026-10-02T12:54:03.276033Z"
   }
 }

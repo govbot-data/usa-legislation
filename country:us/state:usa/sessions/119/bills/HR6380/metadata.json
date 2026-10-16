@@ -11,7 +11,7 @@
   "other_titles": [
     {
       "note": "",
-      "title": "To redesignate the Chiricahua National Monument in the State of Arizona as Chiricahua National Park, and for other purposes"
+      "title": "To establish the Chiricahua National Park in the State of Arizona as a unit of the National Park System, and for other purposes."
     },
     {
       "note": "",
@@ -19,7 +19,7 @@
     },
     {
       "note": "",
-      "title": "To establish the Chiricahua National Park in the State of Arizona as a unit of the National Park System, and for other purposes."
+      "title": "To redesignate the Chiricahua National Monument in the State of Arizona as Chiricahua National Park, and for other purposes"
     }
   ],
   "other_identifiers": [
@@ -29,13 +29,35 @@
   ],
   "actions": [
     {
-      "description": "Passed Senate without amendment by Unanimous Consent.",
+      "description": "Presented to President.",
+      "date": "2026-10-15T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-16T10:38:49Z"
+      }
+    },
+    {
+      "description": "Message on Senate action sent to the House.",
+      "date": "2026-10-14T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-16T10:38:49Z"
+      }
+    },
+    {
+      "description": "Passed Senate without amendment by Unanimous Consent. (consideration: CR S5226)",
       "date": "2026-09-30T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-10-02T12:50:47Z"
+        "log_file_created": "2026-10-16T10:38:49Z"
       }
     },
     {
@@ -272,9 +294,47 @@
       "identifier": "S 3715",
       "legislative_session": "119",
       "relation_type": "companion"
+    },
+    {
+      "identifier": "S 1320",
+      "legislative_session": "117",
+      "relation_type": "companion"
+    },
+    {
+      "identifier": "S 736",
+      "legislative_session": "118",
+      "relation_type": "companion"
+    },
+    {
+      "identifier": "HR 1479",
+      "legislative_session": "118",
+      "relation_type": "companion"
     }
   ],
   "versions": [
+    {
+      "note": "Enrolled Bill",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr6380enr/uslm/BILLS-119hr6380enr.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr6380enr/uslm/BILLS-119hr6380enr.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr6380enr/xml/BILLS-119hr6380enr.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr6380enr/pdf/BILLS-119hr6380enr.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
     {
       "note": "Referred in Senate",
       "links": [
@@ -390,7 +450,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-10-02T12:50:47Z",
+    "logs_latest_update": "2026-10-16T10:38:49Z",
     "text_extraction_latest_update": "2026-10-02T12:54:04.120616Z"
   }
 }

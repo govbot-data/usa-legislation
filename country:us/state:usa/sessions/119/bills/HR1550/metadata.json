@@ -21,6 +21,16 @@
   ],
   "actions": [
     {
+      "description": "Message on Senate action sent to the House.",
+      "date": "2026-10-14T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-16T10:38:48Z"
+      }
+    },
+    {
       "description": "Passed Senate without amendment by Unanimous Consent. (consideration: CR S5140-5144)",
       "date": "2026-09-29T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -194,9 +204,37 @@
       "identifier": "S 5590",
       "legislative_session": "118",
       "relation_type": "companion"
+    },
+    {
+      "identifier": "HR 8931",
+      "legislative_session": "118",
+      "relation_type": "companion"
     }
   ],
   "versions": [
+    {
+      "note": "Enrolled Bill",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr1550enr/uslm/BILLS-119hr1550enr.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr1550enr/uslm/BILLS-119hr1550enr.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr1550enr/xml/BILLS-119hr1550enr.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr1550enr/pdf/BILLS-119hr1550enr.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
     {
       "note": "Reported to Senate",
       "links": [
@@ -297,7 +335,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-10-03T05:02:10Z",
+    "logs_latest_update": "2026-10-16T10:38:48Z",
     "text_extraction_latest_update": "2026-10-03T05:08:02.352825Z"
   }
 }

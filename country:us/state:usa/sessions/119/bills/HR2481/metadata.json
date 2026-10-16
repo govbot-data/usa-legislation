@@ -21,6 +21,18 @@
   ],
   "actions": [
     {
+      "description": "Presented to President.",
+      "date": "2026-10-14T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-16T10:38:46Z"
+      }
+    },
+    {
       "description": "Message on Senate action sent to the House.",
       "date": "2026-09-24T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -283,7 +295,13 @@
       "organization_id": null
     }
   ],
-  "related_bills": [],
+  "related_bills": [
+    {
+      "identifier": "S 841",
+      "legislative_session": "119",
+      "relation_type": "companion"
+    }
+  ],
   "versions": [
     {
       "note": "Enrolled Bill",
@@ -427,7 +445,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-10-02T12:50:36Z",
+    "logs_latest_update": "2026-10-16T10:38:46Z",
     "text_extraction_latest_update": "2026-10-02T12:53:58.903019Z"
   }
 }
