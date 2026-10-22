@@ -16,6 +16,30 @@
   ],
   "actions": [
     {
+      "description": "Became Public Law No: 119-126.",
+      "date": "2026-10-20T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "became-law"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-22T10:50:16Z"
+      }
+    },
+    {
+      "description": "Signed by President.",
+      "date": "2026-10-20T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-22T10:50:16Z"
+      }
+    },
+    {
       "description": "Presented to President.",
       "date": "2026-10-15T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -208,6 +232,21 @@
       "identifier": "S 700",
       "legislative_session": "119",
       "relation_type": "companion"
+    },
+    {
+      "identifier": "S 2893",
+      "legislative_session": "117",
+      "relation_type": "companion"
+    },
+    {
+      "identifier": "HR 5409",
+      "legislative_session": "117",
+      "relation_type": "companion"
+    },
+    {
+      "identifier": "S 1015",
+      "legislative_session": "118",
+      "relation_type": "companion"
     }
   ],
   "versions": [
@@ -308,7 +347,16 @@
       "classification": ""
     }
   ],
-  "citations": [],
+  "citations": [
+    {
+      "publication": "US Public Law",
+      "citation": "119-126",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.congress.gov/119/plaws/publ126/PLAW-119publ126.pdf"
+    }
+  ],
   "sources": [
     {
       "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr837.xml",
@@ -332,7 +380,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-10-16T10:38:47Z",
+    "logs_latest_update": "2026-10-22T10:50:16Z",
     "text_extraction_latest_update": "2026-10-16T10:40:58.446444Z"
   }
 }

@@ -21,6 +21,30 @@
   ],
   "actions": [
     {
+      "description": "Became Public Law No: 119-129.",
+      "date": "2026-10-20T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "became-law"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-22T10:50:08Z"
+      }
+    },
+    {
+      "description": "Signed by President.",
+      "date": "2026-10-20T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-22T10:50:08Z"
+      }
+    },
+    {
       "description": "Presented to President.",
       "date": "2026-10-14T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -411,7 +435,16 @@
       "classification": ""
     }
   ],
-  "citations": [],
+  "citations": [
+    {
+      "publication": "US Public Law",
+      "citation": "119-129",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.congress.gov/119/plaws/publ129/PLAW-119publ129.pdf"
+    }
+  ],
   "sources": [
     {
       "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr2481.xml",
@@ -445,7 +478,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-10-16T10:38:46Z",
+    "logs_latest_update": "2026-10-22T10:50:08Z",
     "text_extraction_latest_update": "2026-10-16T10:41:07.333123Z"
   }
 }
