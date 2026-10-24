@@ -21,6 +21,18 @@
   ],
   "actions": [
     {
+      "description": "Signed by President.",
+      "date": "2026-10-22T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-24T12:46:44Z"
+      }
+    },
+    {
       "description": "Presented to President.",
       "date": "2026-10-14T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -95,13 +107,13 @@
       }
     },
     {
-      "description": "Committee on Energy and Natural Resources Subcommittee on Public Lands, Forests, and Mining. Hearings held.",
+      "description": "Committee on Energy and Natural Resources Subcommittee on Public Lands, Forests, and Mining. Hearings held. With printed Hearing: S.Hrg. 119-305.",
       "date": "2026-02-12T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-22T08:35:07Z"
+        "log_file_created": "2026-10-24T12:46:44Z"
       }
     },
     {
@@ -330,7 +342,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-10-16T10:38:45Z",
+    "logs_latest_update": "2026-10-24T12:46:44Z",
     "text_extraction_latest_update": "2026-10-16T10:40:55.954115Z"
   }
 }
