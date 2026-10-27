@@ -1,20 +1,35 @@
 {
   "legislative_session": "119",
   "identifier": "HR 10590",
-  "title": "To establish a pilot program under which the Secretary of Veterans Affairs makes direct housing loans to veterans in rural areas for the construction of new homes.",
+  "title": "Veteran Owner-Builders Rights Act",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
   ],
   "subject": [],
   "abstracts": [],
-  "other_titles": [],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "To establish a pilot program under which the Secretary of Veterans Affairs makes direct housing loans to veterans in rural areas for the construction of new homes."
+    }
+  ],
   "other_identifiers": [
     {
       "identifier": "ocd-bill-us-119-hr10590"
     }
   ],
   "actions": [
+    {
+      "description": "Referred to the Subcommittee on Economic Opportunity.",
+      "date": "2026-10-14T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-27T11:21:04Z"
+      }
+    },
     {
       "description": "Referred to the House Committee on Veterans' Affairs.",
       "date": "2026-09-24T04:00:00+00:00",
@@ -59,7 +74,23 @@
     }
   ],
   "related_bills": [],
-  "versions": [],
+  "versions": [
+    {
+      "note": "Introduced in House",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr10590ih/xml/BILLS-119hr10590ih.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr10590ih/pdf/BILLS-119hr10590ih.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-09-24",
+      "classification": ""
+    }
+  ],
   "documents": [],
   "citations": [],
   "sources": [
@@ -87,7 +118,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-09-25T11:01:23Z",
+    "logs_latest_update": "2026-10-27T11:21:04Z",
     "text_extraction_latest_update": "2026-10-26T18:08:44.474011Z"
   }
 }

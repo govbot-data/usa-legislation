@@ -1,20 +1,39 @@
 {
   "legislative_session": "119",
   "identifier": "HR 10419",
-  "title": "To direct the Secretary of Veterans Affairs to establish a pilot program to improve access to and awareness of community-based dental services for veterans residing in rural areas, and for other purposes.",
+  "title": "SMILE for Veterans Act",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
   ],
   "subject": [],
   "abstracts": [],
-  "other_titles": [],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Supporting Mobile and Integrated Local Examinations for Veterans Act"
+    },
+    {
+      "note": "",
+      "title": "To direct the Secretary of Veterans Affairs to establish a pilot program to improve access to and awareness of community-based dental services for veterans residing in rural areas, and for other purposes."
+    }
+  ],
   "other_identifiers": [
     {
       "identifier": "ocd-bill-us-119-hr10419"
     }
   ],
   "actions": [
+    {
+      "description": "Referred to the Subcommittee on Health.",
+      "date": "2026-09-29T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-27T11:21:11Z"
+      }
+    },
     {
       "description": "Referred to the House Committee on Veterans' Affairs.",
       "date": "2026-09-16T04:00:00+00:00",
@@ -91,7 +110,23 @@
     }
   ],
   "related_bills": [],
-  "versions": [],
+  "versions": [
+    {
+      "note": "Introduced in House",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr10419ih/xml/BILLS-119hr10419ih.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr10419ih/pdf/BILLS-119hr10419ih.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-09-16",
+      "classification": ""
+    }
+  ],
   "documents": [],
   "citations": [],
   "sources": [
@@ -123,7 +158,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-09-17T13:14:42Z",
+    "logs_latest_update": "2026-10-27T11:21:11Z",
     "text_extraction_latest_update": "2026-10-26T18:08:42.051354Z"
   }
 }

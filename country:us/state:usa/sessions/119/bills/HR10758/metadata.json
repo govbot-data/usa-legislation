@@ -1,20 +1,35 @@
 {
   "legislative_session": "119",
   "identifier": "HR 10758",
-  "title": "To require the Secretary of Veterans Affairs to establish a program under which the Secretary shall award grants to certain State entities to expand access to structured outdoor recreation programs for veterans that enhance veteran wellness, and for other purposes.",
+  "title": "Veterans Outdoor Rehabilitation Act",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
   ],
   "subject": [],
   "abstracts": [],
-  "other_titles": [],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "To require the Secretary of Veterans Affairs to establish a program under which the Secretary shall award grants to certain State entities to expand access to structured outdoor recreation programs for veterans that enhance veteran wellness, and for other purposes."
+    }
+  ],
   "other_identifiers": [
     {
       "identifier": "ocd-bill-us-119-hr10758"
     }
   ],
   "actions": [
+    {
+      "description": "Referred to the Subcommittee on Health.",
+      "date": "2026-10-20T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-27T11:21:07Z"
+      }
+    },
     {
       "description": "Referred to the House Committee on Veterans' Affairs.",
       "date": "2026-10-06T04:00:00+00:00",
@@ -58,8 +73,30 @@
       "organization_id": null
     }
   ],
-  "related_bills": [],
-  "versions": [],
+  "related_bills": [
+    {
+      "identifier": "S 4197",
+      "legislative_session": "119",
+      "relation_type": "companion"
+    }
+  ],
+  "versions": [
+    {
+      "note": "Introduced in House",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr10758ih/xml/BILLS-119hr10758ih.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr10758ih/pdf/BILLS-119hr10758ih.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-10-06",
+      "classification": ""
+    }
+  ],
   "documents": [],
   "citations": [],
   "sources": [
@@ -87,7 +124,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-10-07T12:28:22Z",
+    "logs_latest_update": "2026-10-27T11:21:07Z",
     "text_extraction_latest_update": "2026-10-26T18:08:42.016680Z"
   }
 }

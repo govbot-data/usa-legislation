@@ -1,20 +1,35 @@
 {
   "legislative_session": "119",
   "identifier": "HR 10604",
-  "title": "To require the Secretary of the Army to place in Arlington National Cemetery a monument honoring the crew members of Zeus 95 who were killed in action on March 12, 2026, in support of Operation Epic Fury, and for other purposes.",
+  "title": "Zeus 95 Memorial Act",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
   ],
   "subject": [],
   "abstracts": [],
-  "other_titles": [],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "To require the Secretary of the Army to place in Arlington National Cemetery a monument honoring the crew members of Zeus 95 who were killed in action on March 12, 2026, in support of Operation Epic Fury, and for other purposes."
+    }
+  ],
   "other_identifiers": [
     {
       "identifier": "ocd-bill-us-119-hr10604"
     }
   ],
   "actions": [
+    {
+      "description": "Referred to the Subcommittee on Economic Opportunity.",
+      "date": "2026-10-14T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-27T11:21:11Z"
+      }
+    },
     {
       "description": "Referred to the Committee on Veterans' Affairs, and in addition to the Committee on Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
       "date": "2026-09-24T04:00:00+00:00",
@@ -82,6 +97,14 @@
       "organization_id": null
     },
     {
+      "name": "Pramila Jayapal",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Pramila Jayapal\"}",
+      "organization_id": null
+    },
+    {
       "name": "Kim Schrier",
       "classification": "primary",
       "entity_type": "person",
@@ -90,8 +113,30 @@
       "organization_id": null
     }
   ],
-  "related_bills": [],
-  "versions": [],
+  "related_bills": [
+    {
+      "identifier": "S 5494",
+      "legislative_session": "119",
+      "relation_type": "companion"
+    }
+  ],
+  "versions": [
+    {
+      "note": "Introduced in House",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr10604ih/xml/BILLS-119hr10604ih.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr10604ih/pdf/BILLS-119hr10604ih.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-09-24",
+      "classification": ""
+    }
+  ],
   "documents": [],
   "citations": [],
   "sources": [
@@ -110,7 +155,8 @@
       "B001281",
       "D000617",
       "S001159",
-      "B001322"
+      "B001322",
+      "J000298"
     ],
     "sponsor_bioguides": [
       "S001216"
@@ -123,7 +169,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-09-25T11:01:25Z",
+    "logs_latest_update": "2026-10-27T11:21:11Z",
     "text_extraction_latest_update": "2026-10-26T18:08:43.777557Z"
   }
 }

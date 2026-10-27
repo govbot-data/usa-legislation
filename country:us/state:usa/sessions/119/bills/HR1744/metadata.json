@@ -11,15 +11,15 @@
   "other_titles": [
     {
       "note": "",
+      "title": "United States Commission on International Religious Freedom Reauthorization Act of 2025"
+    },
+    {
+      "note": "",
       "title": "To extend and authorize annual appropriations for the United States Commission on International Religious Freedom through fiscal year 2026."
     },
     {
       "note": "",
       "title": "To extend and authorize annual appropriations for the United States Commission on International Religious Freedom through December 31, 2028."
-    },
-    {
-      "note": "",
-      "title": "United States Commission on International Religious Freedom Reauthorization Act of 2025"
     }
   ],
   "other_identifiers": [
@@ -28,6 +28,18 @@
     }
   ],
   "actions": [
+    {
+      "description": "Presented to President.",
+      "date": "2026-10-26T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-27T11:21:06Z"
+      }
+    },
     {
       "description": "Message on Senate action sent to the House.",
       "date": "2026-10-14T04:00:00+00:00",
@@ -423,7 +435,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-10-16T10:38:54Z",
+    "logs_latest_update": "2026-10-27T11:21:06Z",
     "text_extraction_latest_update": "2026-10-16T10:41:55.493950Z"
   }
 }

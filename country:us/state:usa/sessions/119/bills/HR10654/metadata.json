@@ -1,20 +1,39 @@
 {
   "legislative_session": "119",
   "identifier": "HR 10654",
-  "title": "To ensure that a member separated from an Armed Force, solely on the basis that the member has pseudofolliculitis barbae, receives an honorable discharge and veterans benefits.",
+  "title": "PFB Act",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
   ],
   "subject": [],
   "abstracts": [],
-  "other_titles": [],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "To ensure that a member separated from an Armed Force, solely on the basis that the member has pseudofolliculitis barbae, receives an honorable discharge and veterans benefits."
+    },
+    {
+      "note": "",
+      "title": "Protecting our Forces\u2019 Benefits Act"
+    }
+  ],
   "other_identifiers": [
     {
       "identifier": "ocd-bill-us-119-hr10654"
     }
   ],
   "actions": [
+    {
+      "description": "Referred to the Subcommittee on Disability Assistance and Memorial Affairs.",
+      "date": "2026-10-14T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-27T11:21:10Z"
+      }
+    },
     {
       "description": "Referred to the Committee on Armed Services, and in addition to the Committee on Veterans' Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
       "date": "2026-10-01T04:00:00+00:00",
@@ -106,6 +125,30 @@
       "organization_id": null
     },
     {
+      "name": "Yassamin Ansari",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Yassamin Ansari\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Nydia M. Vel\u00e1zquez",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Nydia M. Vel\\u00e1zquez\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Andr\u00e9 Carson",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Andr\\u00e9 Carson\"}",
+      "organization_id": null
+    },
+    {
       "name": "Herbert C. Conaway",
       "classification": "primary",
       "entity_type": "person",
@@ -115,7 +158,23 @@
     }
   ],
   "related_bills": [],
-  "versions": [],
+  "versions": [
+    {
+      "note": "Introduced in House",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr10654ih/xml/BILLS-119hr10654ih.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr10654ih/pdf/BILLS-119hr10654ih.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-10-01",
+      "classification": ""
+    }
+  ],
   "documents": [],
   "citations": [],
   "sources": [
@@ -137,7 +196,10 @@
       "N000147",
       "S001159",
       "V000131",
-      "W000808"
+      "W000808",
+      "A000381",
+      "V000081",
+      "C001072"
     ],
     "sponsor_bioguides": [
       "C001136"
@@ -150,7 +212,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-10-03T05:02:15Z",
+    "logs_latest_update": "2026-10-27T11:21:10Z",
     "text_extraction_latest_update": "2026-10-26T18:08:42.661818Z"
   }
 }
